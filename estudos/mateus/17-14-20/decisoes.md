@@ -16,4 +16,5 @@ Alterar uma decisão exige revisar tradução, comentário e conclusões depende
 - D07: Dt32.5,20 é alusão provável de grau Moderado. Não identifica automaticamente todos os destinatários nem anuncia exclusão étnica.
 - D08: Tipologia específica do retorno de Moisés/Êx32 permanece Baixa; não a incorporar como conclusão.
 - D09: Reino e consumação são integração contextual de grau Moderado para esta cena, não termos expressos em17.14–20.
+- D10: a formulação textual comentada varia na história: registrar presença de21 e leitura de20 antes de comparar conclusões. Recepção antiga não decide originalidade por contagem.
 

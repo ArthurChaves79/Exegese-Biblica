@@ -20,7 +20,7 @@ BDAG e NA28 fundamentam decisões linguísticas e textuais. France relaciona a f
 
 ## Limites
 
-Este documento é síntese retrospectiva, não transcrição integral das respostas anteriores. EXE-08C elaborado em arquivo próprio, com ressalva sobre tradução recomposta. EXE-09 elaborado; EXE-10 em diante continuam pendentes. Themelios deve ser considerado na pesquisa pertinente. Lange foi transportado; Luz foi transportado com bibliografia e tradução. EXE-08B está preservado em versão editorial consolidada no arquivo próprio.
+Este documento é síntese retrospectiva, não transcrição integral das respostas anteriores. EXE-08C elaborado em arquivo próprio, com ressalva sobre tradução recomposta. EXE-09 elaborado; EXE-10 elaborado como levantamento seletivo; EXE-10B em diante continuam pendentes. Themelios deve ser considerado na pesquisa pertinente. Lange foi transportado; Luz foi transportado com bibliografia e tradução. EXE-08B está preservado em versão editorial consolidada no arquivo próprio.
 
 ## Comentário verso a verso
 
@@ -29,4 +29,9 @@ Este documento é síntese retrospectiva, não transcrição integral das respos
 ## Contexto canônico
 
 [EXE-09](EXE-09-contexto-canonico.md): alusão a Dt32, relações alianciais, Reino e missão; CTL-01 aplicado e limites registrados. Sem auditoria VAL independente.
+
+
+## História da interpretação
+
+[EXE-10](EXE-10-historia-interpretacao.md): Orígenes, Crisóstomo, Catena aurea, Calvino e Henry consultados diretamente em recortes digitais; comparação com excertos modernos. Cobertura seletiva. Complemento de Bavinck no Logos é útil, sem bloquear10B.
 
