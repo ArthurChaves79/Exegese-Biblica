@@ -18,3 +18,6 @@
 | P14 | Contribuição teológico-bíblica específica? | Elaborada12 | Socorro misericordioso e formação dependente;articulação canônica com limites |
 | P15 | Como articular temas no cânon? | Integrado12B | Comparações e graus registrados;nenhuma tipologia imposta |
 
+
+| P16 | Qual contribuição sistemática é sustentada? | Elaborada13 | Autoridade misericordiosa, confiança e missão; integração canônica distinta de afirmação explícita; dons hoje não resolvidos pela cena |
+

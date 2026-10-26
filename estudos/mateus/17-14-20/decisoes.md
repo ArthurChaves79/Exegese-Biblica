@@ -31,3 +31,7 @@ Alterar uma decisão exige revisar tradução, comentário e conclusões depende
 - D22: At3.12–16 é relação canônica de dependência dos enviados,sem provar automatismo no fracasso anterior. Grau Moderado da integração.
 - D23: raízes Gn15,Êx3/34,Sl103,Is35 eMt8 organizam temas;sem alegação de citação local. Comparação Geazi/2Rs4 não é tipo demonstrado.
 
+
+- D24: EXE-13 distingue níveis1–4; a veracidade de doutrina canônica não torna sua presença local explícita. Autoridade concedida não dispensa confiança; relações com Igreja, dons e consumação conservam graus anteriores.
+- D25: Westminster5.3;14.2–3;21.3–4 é comparação descritiva seletiva, sem decidir variantes ou tornar πίστις20 termo técnico. A cena não resolve o debate inteiro sobre cessação/continuação de dons.
+

@@ -1,8 +1,8 @@
 {
   "passagem": "Mt 17.14–20",
   "data": "2026-10-26",
-  "etapa_atual": "EXE-12B elaborado: integração temática e mapa canônico com CTL-01",
-  "proxima": "EXE-13",
+  "etapa_atual": "EXE-13 elaborado: contribuição doutrinária, hierarquia de afirmações e limites",
+  "proxima": "EXE-13B",
   "reservado": "Mt 17.1–13",
   "pendencias": [
     "Recuperar respostas históricas integrais quando disponíveis",
@@ -26,7 +26,8 @@
     "Crisóstomo, Homilia57 §§3–4",
     "Catena aurea17 lectiones4–5",
     "Calvino, Harmonia Mt17.19–21",
-    "Matthew Henry, Mt17.14–21"
+    "Matthew Henry, Mt17.14–21",
+    "Confissão de Westminster, OPC: 5.3;14.2–3;21.3–4 (comparação seletiva)"
   ],
   "limites_fontes": "Usuário informou ter fornecido todo material Logos disponível; Bavinck não consultado, sem bloquear avanço.",
   "problema_central": "A incapacidade dos discípulos de socorrer o menino, apesar da autoridade recebida, revela uma deficiência de fé que Jesus corrige mediante sua intervenção e instrução.",
