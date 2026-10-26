@@ -23,7 +23,7 @@ Markdown/TXT/JSON são a fonte de verdade. SQLite é somente índice reconstruí
 
 ## Estado inicial
 
-Versão 0.1, 26/10/2026. Migração retrospectiva do material disponível nesta conversa. Etapas anteriores ao EXE-08B estão consolidadas como sínteses, não como transcrição integral das respostas históricas. Não se declara recuperação integral de conversas não disponíveis. EXE-08C está elaborado com ressalva documental sobre tradução; EXE-09 elaborado; EXE-10 elaborado em levantamento seletivo; EXE-10B elaborado; EXE-11 elaborado; EXE-12 e etapas seguintes continuam pendentes; Mt 17.1–13 permanece reservado.
+Versão 0.1, 26/10/2026. Migração retrospectiva do material disponível nesta conversa. Etapas anteriores ao EXE-08B estão consolidadas como sínteses, não como transcrição integral das respostas históricas. Não se declara recuperação integral de conversas não disponíveis. EXE-08C está elaborado com ressalva documental sobre tradução; EXE-09 elaborado; EXE-10 elaborado em levantamento seletivo; EXE-10B elaborado; EXE-11 elaborado; EXE-12 elaborado; EXE-12B e etapas seguintes continuam pendentes; Mt 17.1–13 permanece reservado.
 
 ## Preservação
 
@@ -32,6 +32,7 @@ Git mantém versões; `verificar` detecta alteração em relação ao manifesto;
 ## Direitos
 
 O projeto não concede licença sobre obras de terceiros. Trechos de fontes têm titularidade e referência próprias. A visibilidade do repositório deve ser considerada ao acrescentar material do Logos; uma coleção de pesquisa com transcrições extensas é mais adequada a repositório privado. A ferramenta não muda a visibilidade do GitHub.
+
 
 
 

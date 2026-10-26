@@ -26,4 +26,6 @@ Alterar uma decisão exige revisar tradução, comentário e conclusões depende
 - D17: perseverança é ensino bíblico, mas crescimento não é significado necessário da mostarda nesta frase.
 - D18: EXE-11 fixa problema e ideia exegética no estado.json; não reduzir sofrimento a pretexto. Eixo explicativo20,clímax da ação18,sem quiasmo alegado.
 - D19: confiança Alta do núcleo não eleva preferências Moderadas sobre destinatários,mostarda e alcance detalhado da promessa.
+- D20: EXE-12 herda literalmente problema do11;contribuição específica une socorro e formação discipular,sem reduzir cura a pretexto.
+- D21: misericórdia e autoridade locais têm grau Alto;integração desta cena com Reino,Igreja e consumação permanece Moderada;sem promoção automática de grau.
 

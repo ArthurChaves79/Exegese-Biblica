@@ -15,4 +15,5 @@
 | P11 | Mostarda indica crescimento/perseverança? | Avaliada10B: perseverança canônica; crescimento não necessário ao sentido | Não transferir automaticamente13.31–32 |
 | P12 | Zc4.7 é fonte do dito sobre monte? | Paralelo temático pertinente; alusão não demonstrada | Distinguir imagem e dependência |
 | P13 | Que sentido integrar ao EXE-12? | Sintetizado no EXE-11 | Problema e ideia fixados;cura18 e instrução20 preservadas |
+| P14 | Contribuição teológico-bíblica específica? | Elaborada12 | Socorro misericordioso e formação dependente;articulação canônica com limites |
 
