@@ -8,4 +8,7 @@
 | P04 | Nada impossível garante qualquer resultado? | Avaliação canônica pendente | contexto da missão; não esvaziar amplitude |
 | P05 | Fé e oração em Mateus e Marcos? | Pendente | distinguir textos; v21 é variante |
 | P06 | Doença e ação demoníaca? | Afirmação local estabelecida | narrativa afirma ambas; generalização não autorizada |
-| P07 | Relação com Dt32? | EXE-09 pendente | testar correspondências e peso da evidência |
+| P07 | Relação com Dt32? | Respondida parcialmente em EXE-09 | Alusão provável, Moderado; não importar todo o cântico |
+| P08 | Presença/Emanuel em17.17? | Ressonância possível, Moderado | Retirada definitiva não demonstrada; distinguir os graus |
+| P09 | Pronome sujeito explícito em17.19? | Esclarecido | ἡμεῖς saliente em contraste com Jesus; não inferir estado psicológico |
+

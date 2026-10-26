@@ -9,3 +9,11 @@
 | D05 | Possível exclusão dos discípulos da geração | Coletivo provavelmente os inclui | sequência16–20; Moderado | interpretação17 |
 
 Alterar uma decisão exige revisar tradução, comentário e conclusões dependentes. Registros não devem ser apagados.
+
+## Complementos de26/10/2026
+
+- D06: ἡμεῖς explícito destaca o sujeito19; contraste contextual com eficácia de Jesus. Confirma08C; não implica orgulho ou rivalidade.
+- D07: Dt32.5,20 é alusão provável de grau Moderado. Não identifica automaticamente todos os destinatários nem anuncia exclusão étnica.
+- D08: Tipologia específica do retorno de Moisés/Êx32 permanece Baixa; não a incorporar como conclusão.
+- D09: Reino e consumação são integração contextual de grau Moderado para esta cena, não termos expressos em17.14–20.
+
