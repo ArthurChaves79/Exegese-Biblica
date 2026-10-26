@@ -1,0 +1,23 @@
+# Mateus 17.14–20 — registro de continuidade
+
+Migração retrospectiva parcial em 26/10/2026. Não equivale ao encerramento EXE-15A.
+
+## Resultados preservados
+
+- EXE-01: delimitação 14–20, v21 em nota; duas cenas 14–18 e 19–20. A pergunta retoma o fracasso do v16.
+- EXE-01B: autoridade concedida em Mt10.1,8 esclarece o fracasso; localização após transfiguração e antes do anúncio da paixão.
+- EXE-02: adotar πάσχει no v15, ὀλιγοπιστίαν no v20; omitir v21 do texto principal. Inclusão de v21 é antiga. Superscritos do aparato podem ter sido perdidos na transcrição.
+- EXE-03: tradução de trabalho deve conservar “fé como um grão”, sem inserir quantidade, vontade de Deus ou desejos humanos na frase. λέγει: “ele lhes diz”.
+- EXE-04: genitivo absoluto com sujeito plural implícito no v14; causa com διά no v20; αὐτό no v19 retoma demônio. Referente da repreensão no v18 provavelmente demônio, com ambiguidade pronominal.
+- EXE-05: não puderam16 → por que não pudemos19 → nada impossível20. Clímax da ação18 e da explicação20. Não forçar quiasmo.
+- EXE-06: BDAG: pequenez/pobreza de fé; confiança deficiente é paráfrase contextual. Não impor oposição técnica quantidade/qualidade. Pequenez da mostarda é provável; crescimento e sabor não são desenvolvidos aqui. σεληνιάζομαι designa crises epilépticas; não é sinônimo lexical de possessão.
+- EXE-08: diversidade de explicações antigas da doença; não identificar monte com certeza nem inventar situação social do pai. Josefo e literatura médica iluminam o contexto, sem revelar o método dos discípulos.
+- EXE-08B: Jesus cura o menino e explica a incapacidade dos discípulos pela pouca fé. A promessa é ampla e contextualizada pela missão. Geração é coletivo que provavelmente inclui os discípulos. Não generalizar este diagnóstico a toda ausência de cura.
+
+## Fontes e avaliações
+
+BDAG e NA28 fundamentam decisões linguísticas e textuais. France relaciona a fé a Deus e admite ausência prática de fé naquela ocasião; essa última formulação é inferência. Carson relaciona autoridade e missão; automatismo mágico dos discípulos é hipótese. Luz destaca o diálogo final e a força concreta do milagre; reconstrução da comunidade e suposta aversão de Mateus a exorcismos não foram estabelecidas. Lange oferece recepção histórica; abatimento pela paixão, melancolia e procedimento do grupo não são dados narrados em Mateus.
+
+## Limites
+
+Este documento é síntese retrospectiva, não transcrição integral das respostas anteriores. EXE-08C em diante continuam pendentes. Themelios deve ser considerado na pesquisa pertinente. Lange foi transportado; Luz foi transportado com bibliografia e tradução. EXE-08B está preservado em versão editorial consolidada no arquivo próprio.
