@@ -12,4 +12,6 @@
 | P08 | Presença/Emanuel em17.17? | Ressonância possível, Moderado | Retirada definitiva não demonstrada; distinguir os graus |
 | P09 | Pronome sujeito explícito em17.19? | Esclarecido | ἡμεῖς saliente em contraste com Jesus; não inferir estado psicológico |
 | P10 | Fé especial/comum, oração e alcance da promessa? | Debate histórico mapeado no EXE-10; avaliação pendente10B | Não resolver pela autoridade ou votação de intérpretes |
+| P11 | Mostarda indica crescimento/perseverança? | Alternativa de Hendriksen registrada; avaliar10B | Não transferir automaticamente13.31–32 |
+| P12 | Zc4.7 é fonte do dito sobre monte? | Paralelo temático pertinente; alusão não demonstrada | Distinguir imagem e dependência |
 

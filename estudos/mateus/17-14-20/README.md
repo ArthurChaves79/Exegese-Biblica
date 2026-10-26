@@ -35,3 +35,8 @@ Este documento é síntese retrospectiva, não transcrição integral das respos
 
 [EXE-10](EXE-10-historia-interpretacao.md): Orígenes, Crisóstomo, Catena aurea, Calvino e Henry consultados diretamente em recortes digitais; comparação com excertos modernos. Cobertura seletiva. Complemento de Bavinck no Logos é útil, sem bloquear10B.
 
+
+## Novas fontes recebidas
+
+[Suplemento Hendriksen e Westcott/Hort](suplemento-hendriksen-westcott-hort.md): contribuição reformada, perseverança, comparação com Zc4.7 e recepção textual21; leituras anteriores mantidas.
+

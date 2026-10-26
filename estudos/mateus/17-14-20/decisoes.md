@@ -17,4 +17,6 @@ Alterar uma decisão exige revisar tradução, comentário e conclusões depende
 - D08: Tipologia específica do retorno de Moisés/Êx32 permanece Baixa; não a incorporar como conclusão.
 - D09: Reino e consumação são integração contextual de grau Moderado para esta cena, não termos expressos em17.14–20.
 - D10: a formulação textual comentada varia na história: registrar presença de21 e leitura de20 antes de comparar conclusões. Recepção antiga não decide originalidade por contagem.
+- D11: crescimento/perseverança em Hendriksen é alternativa a testar; não altera a tradução por enquanto.
+- D12: distinguir decisão textual sobre21 da reconstrução detalhada de harmonização proposta por Westcott/Hort.
 

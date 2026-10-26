@@ -1,7 +1,7 @@
 {
   "passagem": "Mt 17.14–20",
   "data": "2026-10-26",
-  "etapa_atual": "EXE-10 elaborado: história seletiva da interpretação e fontes primárias consultadas",
+  "etapa_atual": "EXE-10 elaborado e suplementado por Hendriksen e Westcott/Hort",
   "proxima": "EXE-10B",
   "reservado": "Mt 17.1–13",
   "pendencias": [
@@ -17,7 +17,9 @@
     "France",
     "Carson",
     "Luz",
-    "Lange"
+    "Lange",
+    "Hendriksen",
+    "Westcott e Hort"
   ],
   "git_status": "Publicação autorizada e operacional; bloqueio 403 resolvido em 26/10/2026",
   "fontes_consultadas_web": [
