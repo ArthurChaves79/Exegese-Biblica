@@ -19,4 +19,9 @@ Alterar uma decisão exige revisar tradução, comentário e conclusões depende
 - D10: a formulação textual comentada varia na história: registrar presença de21 e leitura de20 antes de comparar conclusões. Recepção antiga não decide originalidade por contagem.
 - D11: crescimento/perseverança em Hendriksen é alternativa a testar; não altera a tradução por enquanto.
 - D12: distinguir decisão textual sobre21 da reconstrução detalhada de harmonização proposta por Westcott/Hort.
+- D13: manter causa específica de17.20; rejeitar universalização de toda não cura como pouca fé (Hb11;2Co12).
+- D14: promessa concreta no contexto da missão, sem arbitrariedade e sem esvaziamento interior; vontade divina é explicação canônica, não acréscimo à tradução.
+- D15: 1Co12 permite integração carismática, sem impor sentido técnico exclusivo a πίστις em17.20.
+- D16: oração e fé se relacionam; não afirmar relato de uma tentativa seguida de desistência. Jejum legítimo não equivale a mecanismo automático.
+- D17: perseverança é ensino bíblico, mas crescimento não é significado necessário da mostarda nesta frase.
 
