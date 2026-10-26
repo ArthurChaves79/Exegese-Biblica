@@ -28,4 +28,6 @@ Alterar uma decisão exige revisar tradução, comentário e conclusões depende
 - D19: confiança Alta do núcleo não eleva preferências Moderadas sobre destinatários,mostarda e alcance detalhado da promessa.
 - D20: EXE-12 herda literalmente problema do11;contribuição específica une socorro e formação discipular,sem reduzir cura a pretexto.
 - D21: misericórdia e autoridade locais têm grau Alto;integração desta cena com Reino,Igreja e consumação permanece Moderada;sem promoção automática de grau.
+- D22: At3.12–16 é relação canônica de dependência dos enviados,sem provar automatismo no fracasso anterior. Grau Moderado da integração.
+- D23: raízes Gn15,Êx3/34,Sl103,Is35 eMt8 organizam temas;sem alegação de citação local. Comparação Geazi/2Rs4 não é tipo demonstrado.
 

@@ -20,7 +20,7 @@ BDAG e NA28 fundamentam decisões linguísticas e textuais. France relaciona a f
 
 ## Limites
 
-Este documento é síntese retrospectiva, não transcrição integral das respostas anteriores. EXE-08C elaborado em arquivo próprio, com ressalva sobre tradução recomposta. EXE-09 elaborado; EXE-10 elaborado como levantamento seletivo; EXE-10B elaborado; EXE-11 elaborado; EXE-12 elaborado; EXE-12B em diante continuam pendentes. Themelios deve ser considerado na pesquisa pertinente. Lange foi transportado; Luz foi transportado com bibliografia e tradução. EXE-08B está preservado em versão editorial consolidada no arquivo próprio.
+Este documento é síntese retrospectiva, não transcrição integral das respostas anteriores. EXE-08C elaborado em arquivo próprio, com ressalva sobre tradução recomposta. EXE-09 elaborado; EXE-10 elaborado como levantamento seletivo; EXE-10B elaborado; EXE-11 elaborado; EXE-12 elaborado; EXE-12B elaborado; EXE-13 em diante continuam pendentes. Themelios deve ser considerado na pesquisa pertinente. Lange foi transportado; Luz foi transportado com bibliografia e tradução. EXE-08B está preservado em versão editorial consolidada no arquivo próprio.
 
 ## Comentário verso a verso
 
@@ -54,4 +54,9 @@ Este documento é síntese retrospectiva, não transcrição integral das respos
 ## Teologia bíblica
 
 [EXE-12](EXE-12-teologia-biblica.md): problema e ideia herdados do11,misericórdia e autoridade locais,missão e formação discipular;integrações eclesial e escatológica com CTL-01. Sem nova sistemática ou aplicação.
+
+
+## Integração canônica temática
+
+[EXE-12B](EXE-12B-integracao-canonica.md): raízes e desenvolvimento dos temas,mapa conceitual,At3 e limites de relações alusivas/tipológicas. CTL-01 aplicado.
 
