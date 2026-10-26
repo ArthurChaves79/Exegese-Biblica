@@ -20,7 +20,7 @@ BDAG e NA28 fundamentam decisões linguísticas e textuais. France relaciona a f
 
 ## Limites
 
-Este documento é síntese retrospectiva, não transcrição integral das respostas anteriores. EXE-08C elaborado em arquivo próprio, com ressalva sobre tradução recomposta. EXE-09 elaborado; EXE-10 elaborado como levantamento seletivo; EXE-10B elaborado; EXE-11 elaborado; EXE-12 elaborado; EXE-12B elaborado; EXE-13 elaborado; EXE-13B em diante continuam pendentes. Themelios deve ser considerado na pesquisa pertinente. Lange foi transportado; Luz foi transportado com bibliografia e tradução. EXE-08B está preservado em versão editorial consolidada no arquivo próprio.
+Este documento é síntese retrospectiva, não transcrição integral das respostas anteriores. EXE-08C elaborado em arquivo próprio, com ressalva sobre tradução recomposta. EXE-09 elaborado; EXE-10 elaborado como levantamento seletivo; EXE-10B elaborado; EXE-11 elaborado; EXE-12 elaborado; EXE-12B elaborado; EXE-13 elaborado; EXE-13B elaborado; EXE-14 em diante continuam pendentes. Themelios deve ser considerado na pesquisa pertinente. Lange foi transportado; Luz foi transportado com bibliografia e tradução. EXE-08B está preservado em versão editorial consolidada no arquivo próprio.
 
 ## Comentário verso a verso
 
@@ -65,3 +65,7 @@ Este documento é síntese retrospectiva, não transcrição integral das respos
 
 [EXE-13](EXE-13-teologia-sistematica.md): loci, distinção entre afirmação e inferência, comparação seletiva com Westminster, controvérsias e limites. Preserva o núcleo e os graus de EXE-11–12B.
 
+
+## Antropologia, ética e sabedoria
+
+[EXE-13B](EXE-13B-antropologia-etica-sabedoria.md): visão de realidade, sofrimento e responsabilidade, distinção causal, princípios de aconselhamento e relações sociais. Aplicações individuais permanecem para EXE-14.

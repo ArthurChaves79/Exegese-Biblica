@@ -34,4 +34,6 @@ Alterar uma decisão exige revisar tradução, comentário e conclusões depende
 
 - D24: EXE-13 distingue níveis1–4; a veracidade de doutrina canônica não torna sua presença local explícita. Autoridade concedida não dispensa confiança; relações com Igreja, dons e consumação conservam graus anteriores.
 - D25: Westminster5.3;14.2–3;21.3–4 é comparação descritiva seletiva, sem decidir variantes ou tornar πίστις20 termo técnico. A cena não resolve o debate inteiro sobre cessação/continuação de dons.
-
+- D26: EXE-13B preserva distinção entre sofrimento do menino e deficiência dos discípulos; o diagnóstico de17.20 não é causa automática da aflição ou regra universal para não cura.
+- D27: o texto não revela orgulho, idolatria de resultados ou abandono da oração; não atribuir esses motivos aos discípulos. A autoridade interpretativa de Jesus não confere ao conselheiro conhecimento imediato dos corações.
+- D28: EXE-13B apresenta princípios e visão de realidade; aplicações individuais ficam para14. Analogias com trabalho e demais instituições são secundárias, sem transferência da comissão apostólica ou promessa a produtividade.

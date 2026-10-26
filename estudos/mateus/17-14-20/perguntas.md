@@ -17,7 +17,5 @@
 | P13 | Que sentido integrar ao EXE-12? | Sintetizado no EXE-11 | Problema e ideia fixados;cura18 e instrução20 preservadas |
 | P14 | Contribuição teológico-bíblica específica? | Elaborada12 | Socorro misericordioso e formação dependente;articulação canônica com limites |
 | P15 | Como articular temas no cânon? | Integrado12B | Comparações e graus registrados;nenhuma tipologia imposta |
-
-
 | P16 | Qual contribuição sistemática é sustentada? | Elaborada13 | Autoridade misericordiosa, confiança e missão; integração canônica distinta de afirmação explícita; dons hoje não resolvidos pela cena |
-
+| P17 | Como distinguir sofrimento, culpa e responsabilidade? | Elaborada13B | Aflição do menino distinta da pouca fé dos discípulos; causa expressa não universalizada; motivações não narradas permanecem desconhecidas |
