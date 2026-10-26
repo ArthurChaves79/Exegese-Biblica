@@ -23,7 +23,7 @@ Markdown/TXT/JSON são a fonte de verdade. SQLite é somente índice reconstruí
 
 ## Estado inicial
 
-Versão 0.1, 26/10/2026. Migração retrospectiva do material disponível nesta conversa. Etapas anteriores ao EXE-08B estão consolidadas como sínteses, não como transcrição integral das respostas históricas. Não se declara recuperação integral de conversas não disponíveis. EXE-08C e etapas seguintes continuam pendentes; Mt 17.1–13 permanece reservado.
+Versão 0.1, 26/10/2026. Migração retrospectiva do material disponível nesta conversa. Etapas anteriores ao EXE-08B estão consolidadas como sínteses, não como transcrição integral das respostas históricas. Não se declara recuperação integral de conversas não disponíveis. EXE-08C está elaborado com ressalva documental sobre tradução; EXE-09 e etapas seguintes continuam pendentes; Mt 17.1–13 permanece reservado.
 
 ## Preservação
 
