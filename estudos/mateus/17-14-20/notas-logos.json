@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "project_id": "MT1714-21",
-  "notes_version": "0.4.0",
-  "date": "2026-10-26",
+  "notes_version": "0.5.0",
+  "date": "2026-10-27",
   "identity_policy": "IDs locais persistentes do projeto, não IDs nativos do Logos nem entradas definitivas de curadoria. Não renumerar/reutilizar; revisar versão mantendo ID; retirar com histórico.",
   "logos_status": "Preparação somente; nenhuma operação no aplicativo Logos foi realizada.",
   "notes": [
@@ -21,7 +21,7 @@
       ],
       "master": {
         "path": "estudos/mateus/17-14-20/documento-mestre.md",
-        "version": "0.4.0",
+        "version": "0.5.0",
         "anchor": "mt1714-21-m-001"
       },
       "sources": [
@@ -47,7 +47,7 @@
       ],
       "master": {
         "path": "estudos/mateus/17-14-20/documento-mestre.md",
-        "version": "0.4.0",
+        "version": "0.5.0",
         "anchor": "mt1714-21-m-002"
       },
       "sources": [
@@ -70,7 +70,7 @@
       ],
       "master": {
         "path": "estudos/mateus/17-14-20/documento-mestre.md",
-        "version": "0.4.0",
+        "version": "0.5.0",
         "anchor": "mt1714-21-m-003"
       },
       "sources": [
@@ -82,12 +82,12 @@
     },
     {
       "id": "MT1714-21-N004",
-      "version": "0.1.0",
+      "version": "0.2.0",
       "title": "Geração e linguagem de censura",
       "reference": "Mateus 17.17",
       "status": "preparada_nao_transferida_ao_Logos",
       "confidence": "Moderado para destinatários e alusão",
-      "body": "A censura provavelmente alcança um coletivo que inclui os discípulos, sem se limitar seguramente a eles. A proximidade16 favorece sua participação; geração favorece alcance mais amplo. A extensão exata permanece aberta. Dt32.5,20 oferece alusão provável, não importação de todo o cântico. A relação com Emanuel é possível; retirada definitiva de Deus e rejeição étnica não estão demonstradas. A ordem para trazer o menino mostra censura e socorro no mesmo movimento.",
+      "body": "A censura provavelmente alcança um coletivo que inclui os discípulos, sem se limitar seguramente a eles. A proximidade16 favorece sua participação; geração favorece alcance mais amplo. A extensão exata permanece aberta. Dt32.5,20 oferece alusão provável, não importação de todo o cântico. A relação com Emanuel é hipótese de baixa confiança: a expressão de presença não demonstra eco deliberado; retirada definitiva de Deus e rejeição étnica não estão demonstradas. A ordem para trazer o menino mostra censura e socorro no mesmo movimento.",
       "tags": [
         "mt1714-21",
         "destinatarios",
@@ -95,12 +95,13 @@
       ],
       "master": {
         "path": "estudos/mateus/17-14-20/documento-mestre.md",
-        "version": "0.4.0",
+        "version": "0.5.0",
         "anchor": "mt1714-21-m-004"
       },
       "sources": [
         "estudos/mateus/17-14-20/EXE-08C-verso-a-verso.md",
-        "estudos/mateus/17-14-20/EXE-09-contexto-canonico.md"
+        "estudos/mateus/17-14-20/EXE-09-contexto-canonico.md",
+        "estudos/mateus/17-14-20/revisao-metodo.md"
       ],
       "source_baseline_commit": "a944c05176cb3a470fb837aef4357a23983b2ddd"
     },
@@ -119,7 +120,7 @@
       ],
       "master": {
         "path": "estudos/mateus/17-14-20/documento-mestre.md",
-        "version": "0.4.0",
+        "version": "0.5.0",
         "anchor": "mt1714-21-m-005"
       },
       "sources": [
@@ -143,7 +144,7 @@
       ],
       "master": {
         "path": "estudos/mateus/17-14-20/documento-mestre.md",
-        "version": "0.4.0",
+        "version": "0.5.0",
         "anchor": "mt1714-21-m-006"
       },
       "sources": [
@@ -167,7 +168,7 @@
       ],
       "master": {
         "path": "estudos/mateus/17-14-20/documento-mestre.md",
-        "version": "0.4.0",
+        "version": "0.5.0",
         "anchor": "mt1714-21-m-007"
       },
       "sources": [
@@ -191,7 +192,7 @@
       ],
       "master": {
         "path": "estudos/mateus/17-14-20/documento-mestre.md",
-        "version": "0.4.0",
+        "version": "0.5.0",
         "anchor": "mt1714-21-m-007"
       },
       "sources": [
@@ -216,7 +217,7 @@
       ],
       "master": {
         "path": "estudos/mateus/17-14-20/documento-mestre.md",
-        "version": "0.4.0",
+        "version": "0.5.0",
         "anchor": "mt1714-21-m-007"
       },
       "sources": [
@@ -241,7 +242,7 @@
       ],
       "master": {
         "path": "estudos/mateus/17-14-20/documento-mestre.md",
-        "version": "0.4.0",
+        "version": "0.5.0",
         "anchor": "mt1714-21-m-008"
       },
       "sources": [
@@ -267,7 +268,7 @@
       ],
       "master": {
         "path": "estudos/mateus/17-14-20/documento-mestre.md",
-        "version": "0.4.0",
+        "version": "0.5.0",
         "anchor": "mt1714-21-m-010"
       },
       "sources": [
@@ -292,7 +293,7 @@
       ],
       "master": {
         "path": "estudos/mateus/17-14-20/documento-mestre.md",
-        "version": "0.4.0",
+        "version": "0.5.0",
         "anchor": "mt1714-21-m-011"
       },
       "sources": [
@@ -316,7 +317,7 @@
       ],
       "master": {
         "path": "estudos/mateus/17-14-20/documento-mestre.md",
-        "version": "0.4.0",
+        "version": "0.5.0",
         "anchor": "mt1714-21-m-012"
       },
       "sources": [
@@ -339,7 +340,7 @@
       ],
       "master": {
         "path": "estudos/mateus/17-14-20/documento-mestre.md",
-        "version": "0.4.0",
+        "version": "0.5.0",
         "anchor": "mt1714-21-m-014"
       },
       "sources": [
@@ -349,5 +350,6 @@
       "source_baseline_commit": "341fb5dc534e8aacf98fc5e7a32658452f025cf8"
     }
   ],
-  "recovery_update": "03 recuperado; sem transferência ao Logos"
+  "recovery_update": "03 recuperado; sem transferência ao Logos",
+  "method_review": "revisao-metodo.md; revisão interna, não independente"
 }

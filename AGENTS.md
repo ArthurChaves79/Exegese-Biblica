@@ -1,19 +1,11 @@
-# Protocolo de continuidade
+# Continuidade operacional
 
-1. Ler README, estado.json, perguntas.md e decisoes.md do estudo antes de continuar.
-2. Examinar o módulo do método correspondente; não inventar módulos ausentes.
-3. Novos trechos do Logos: preservar o texto recebido em fontes/logos, registrar referência, passagem, cobertura e SHA-256. Não corrigir silenciosamente OCR, siglas ou superscritos. Anotar em análise separada.
-4. Distinguir fonte, observação, inferência, hipótese, conclusão, aplicação. Referenciar fonte e localização para cada conclusão central. Alto/Moderado/Baixo são graus de confiança interpretativa, não autoridade bíblica.
-5. Material importado de uma conversa resumida deve ser marcado como síntese retrospectiva. Nunca declarar transcrição integral sem possuir o texto integral.
-6. A cada etapa concluída ou fonte recebida, atualizar arquivos, perguntas e decisões; executar testes quando houver alteração no programa, revisar diferenças, selar e verificar; registrar em commit e confirmar o envio. Não dizer “salvo no GitHub” antes de verificar o retorno remoto.
-7. Não modificar documentos originais do método. Revisões ficam em novos arquivos, com relação à versão anterior.
-8. Não apagar conclusões superadas: manter motivo, evidência, resultado atual e dependências afetadas.
-9. Não misturar EXE-08B/08C com aplicação, sistemática ou fechamento EXE-15A. Consolidar parcialmente para preservar é diferente de concluir a pesquisa.
-10. Não expor segredos, dados pastorais ou credenciais. Textos de terceiros conservam direitos; não atribuir licença geral ao acervo. Não publicar material reservado sem autorização.
-11. Não presumir sincronização automática do ChatGPT ou Logos. Se faltar acesso, informar que a gravação remota está pendente.
-12. Para Git: preservar alterações concorrentes. Não usar force push nem sobrescrever trabalho remoto sem leitura e comparação.
-13. Para Mt17, começar por estudos/mateus/17-14-20/documento-mestre.md e CONTINUIDADE.md. O mestre é a base cumulativa da exposição e dos produtos derivados; os relatórios completos permanecem como evidência e histórico.
-14. A cada nova etapa ou revisão, atualizar o mestre, sua versão/histórico, notas Logos afetadas, perguntas, decisões, estado e manifesto no mesmo conjunto publicado. Preservar IDs locais de notas e âncoras; não renumerar/reutilizar; registrar retiradas. Ler notas como derivação, nunca como evidência independente.
-15. Distinguir tradução histórica03 não recuperada da recomposição posterior08C. Arquivos do método são instruções, não relatórios executados. Notas Logos preparadas não significam inserção/sincronização no aplicativo. Conferir procedência e estado antes de afirmar recuperação, transferência ou fechamento.
-
-16. Atualização: EXE-03 recuperado em estudos/mateus/17-14-20/EXE-03-recuperado.txt; consultar conferência e mestre0.1.1. A ausência histórica foi superada quanto ao acesso documental;08C continua recomposição posterior. Não repetir a lacuna como estado atual nem afirmar reconferência externa das versões sem executá-la.
+1. O corpo normativo principal é [metodo/METODO.md](metodo/METODO.md). Ler suas regras comuns e análises pertinentes. Originais, backups e propostas são fontes históricas, não orientações vigentes concorrentes.
+2. Antes de continuar um estudo, ler README, CONTINUIDADE.md, estado.json, perguntas.md e decisoes.md; consultar documentos.json e o manuscrito acadêmico identificado. Para Mateus, começar por estudos/mateus/17-14-20/manuscrito-academico.md e pela revisão de adequação. documento-mestre.md conserva o dossiê e suas âncoras.
+3. Aplicar as regras de evidência, fontes, redação progressiva e revisão nas seções 2–6 do método. Não presumir execução por existir um roteiro. Identificar revisão interna, auditoria independente e conferência automática separadamente.
+4. Para novos trechos do Logos, preservar bytes, referência, cobertura e procedência conforme seção 4 e docs/OPERACAO.md; não corrigir silenciosamente OCR ou aparato. Não chamar síntese retrospectiva de transcrição integral.
+5. Manter manuscrito livre de metadados e procedimentos internos. Registrar acompanhamento, histórico, dependências e limites documentais no acervo. Atualizar notas afetadas, preservando IDs e âncoras. Notas não são evidência independente; preparação não é transferência ao Logos.
+6. Mudanças relevantes exigem conferir dependentes no cadastro e revisar seu conteúdo antes de marcar conclusão. Não apagar conclusões anteriores; preservar evidência e motivo em histórico. EXE-03 de Mateus foi recuperado; a recomposição08C permanece posterior. EXE-07 e VAL foram recuperados como roteiros, sem certificação retroativa.
+7. Antes de publicar: executar testes pertinentes ao programa, auditar documentos, rever diferenças, selar e verificar a integridade. Preservar mudanças remotas concorrentes; não usar force push. Confirmar publicação somente depois de ler e conferir o destino remoto.
+8. Não modificar bytes dos originais, transcrições ou backups históricos. Novas regras alteram o corpo vigente e recebem registro separado, sem anexos normativos sucessivos. LEIA-PRIMEIRO, FONTES-01 e POSTURA-01 permanecem ausentes e não bloqueiam a continuidade sob o método aprovado.
+9. Preservar privacidade e direitos de terceiros; não expor credenciais. Não presumir sincronização automática do chat, GitHub ou Logos. Não comunicar com terceiros sem autorização.

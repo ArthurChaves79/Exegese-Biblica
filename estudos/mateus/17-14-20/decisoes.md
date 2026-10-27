@@ -52,3 +52,8 @@ Alterar uma decisão exige revisar tradução, comentário e conclusões depende
 - D37: EXE-15A fecha documentalmente o escopo disponível,sem converter questões Moderadas em certeza ou controles ausentes em executados. Mestre0.3.0 integra dossiê;relatórios preservados;15B permanece produto pendente. P18 atualizado após recuperação03,com histórico mantido.
 
 - D38: EXE-15B modalidade exposição,estrutura contextual/textual/teológica adaptada do modelo1Co efetivamente consultado em recortes. Produto1.0.0 deriva do mestre0.3.0;registro editorial atualiza mestre0.4.0 sem nova conclusão. SemDOCX/PDF,homologação institucional ou validação independente.
+
+
+## Adoção de27/10/2026
+
+Método consolidado aprovado. Manuscrito acadêmico separado do dossiê; originais e relatórios preservados. Revisão interna: eco deliberado deEmanuel é Baixo, conexões alianciais específicas não são afirmações locais; integrações temáticas qualificadas permanecem. Tradução e núcleo não alterados. Ver revisao-metodo.md e ficha-manuscrito.json. Não se afirma auditoria independente ou transferência das14 notas.

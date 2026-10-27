@@ -1,12 +1,28 @@
 # Operação e recuperação
 
-## Modelo
+## Organização vigente
 
-- metodo/originais: 22 anexos preservados sem alteração de bytes.
-- fontes/logos: transcrições e metadados; cada registro indica cobertura.
-- estudos: produção própria, decisões, dúvidas e situação de cada etapa.
-- .cache: SQLite reconstruível, fora do Git.
-- manifesto-sha256.json: inventário de integridade revisado a cada lote.
+- metodo/METODO.md: único corpo normativo aprovado.
+- metodo/originais e metodo/propostas: fontes históricas preservadas.
+- fontes/logos: transcrições intactas, metadados e cobertura.
+- estudos: manuscrito cumulativo, relatórios completos, decisões e derivados em funções distintas.
+- documentos.json: função, estado e dependências identificadas; não certifica execução.
+- historico: registros anteriores à adoção.
+- .cache: SQLite reconstruível, fora do Git; manifesto-sha256.json: integridade revisada por lote.
+
+## Revisar e consultar
+
+```bash
+python exegese.py documentos
+python exegese.py buscar "mostarda" --tipo manuscrito
+python exegese.py buscar "mostarda" --historico
+python exegese.py revisar MT1714-21-MANUSCRITO
+python exegese.py auditar
+```
+
+`revisar` lista impacto transitivo potencial pelo cadastro; não edita nem marca aprovação. Ao cadastrar um novo documento, declarar suas fontes de dependência e função. Se o argumento mudou, registrar decisão anterior, nova, evidências, confiança e alcance; revisar manualmente os dependentes pertinentes. Atualizar o cadastro quando surgir relação nova. O mapa por arquivo pode apontar documentos que não precisam de mudança: explicar a conferência no registro de revisão.
+
+`auditar` confere cadastro, existência, ciclos, links locais dos documentos atuais cadastrados, IDs/âncoras/fontes das notas e alguns marcadores internos proibidos no manuscrito. Não verifica links externos, autenticidade de edições, correção do grego, completude do cadastro ou qualidade exegética. A conferência humana do texto acadêmico continua necessária.
 
 ## Acrescentar uma fonte
 
@@ -23,6 +39,7 @@ Importação preserva bytes, exige identificação e recusa ID já existente. Um
 
 ```bash
 python -m unittest discover -s tests -v
+python exegese.py auditar
 python exegese.py selar
 python exegese.py verificar
 git diff --stat
@@ -54,4 +71,4 @@ O programa não agenda nem envia backups sozinho. GitHub, clone local e cópia e
 
 Busca lexical, com suporte a acentos e caracteres gregos, sem equivalência automática entre tradução e lema. Não há RAG, interface gráfica, importação direta da base do Logos nem ingestão automática do chat. Esses recursos só devem ser acrescentados sobre uma base documental verificada.
 
-As referências LEIA-PRIMEIRO, VAL-06, FONTES-01, POSTURA-01, CTL-02 e EXE-16 aparecem em módulos fornecidos, mas seus arquivos não vieram neste lote. Não presumir seu conteúdo. EXE-07 também não foi fornecido.
+LEIA-PRIMEIRO, FONTES-01 e POSTURA-01 não foram localizados. A autorização de27/10/2026 permite seguir com o corpo consolidado; seus critérios novos são registrados como novos, nunca recuperados. EXE-07,VAL01–06 eCTL02/03 foram encontrados no backup e reavaliados. EXE-16 está retirado; não é pendência operacional.

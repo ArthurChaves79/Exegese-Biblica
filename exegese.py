@@ -60,6 +60,88 @@ def verify(root):
                 errors.append('FONTE INCONSISTENTE: ' + str(p.relative_to(root)))
     return errors
 
+def catalog(root):
+    path = root / 'documentos.json'
+    return json.loads(path.read_text(encoding='utf-8'))['documentos'] if path.exists() else []
+
+def classification(root, name):
+    for item in catalog(root):
+        if item['path'] == name:
+            return item['tipo'], item['estado']
+    if name.startswith(('historico/', 'metodo/originais/', 'metodo/propostas/')):
+        return 'historico', 'historico'
+    if name.startswith('fontes/'):
+        return 'fonte', 'preservado'
+    return 'acervo', 'atual'
+
+def dependents(root, changed):
+    records = catalog(root)
+    by_id = {d['id']: d for d in records}
+    starts = {d['id'] for d in records if changed in (d['id'], d['path'])}
+    if not starts:
+        raise ValueError('Documento não cadastrado; cadastre seu vínculo antes de rastrear revisão.')
+    affected = set(starts)
+    while True:
+        found = {d['id'] for d in records if set(d.get('depende_de', [])) & affected}
+        if found <= affected:
+            break
+        affected |= found
+    return [by_id[i] for i in sorted(affected - starts)]
+
+def audit(root):
+    records = catalog(root)
+    if not records:
+        return ['Cadastro documentos.json ausente ou vazio.']
+    errors = []
+    ids = [d['id'] for d in records]; paths = [d['path'] for d in records]
+    if len(ids) != len(set(ids)) or len(paths) != len(set(paths)):
+        errors.append('Cadastro com IDs ou caminhos duplicados.')
+    by_id = {d['id']: d for d in records}
+    for d in records:
+        path = root / d['path']
+        if not path.is_file():
+            errors.append('Documento ausente: ' + d['path']); continue
+        for dep in d.get('depende_de', []):
+            if dep not in by_id:
+                errors.append('Dependência desconhecida: ' + dep)
+        if d['tipo'] == 'manuscrito':
+            text = path.read_text(encoding='utf-8')
+            if re.search(r'EXE[-‐–]?\d|VAL[-‐–]?\d|CTL[-‐–]?\d|\bcommit\b|\bversão\s*\d|módulo\s*\d', text, re.I):
+                errors.append('Metadados internos no manuscrito: ' + d['path'])
+        if path.suffix == '.md' and d['estado'] == 'atual':
+            for link in re.findall(r'\]\(([^)]+)\)', path.read_text(encoding='utf-8')):
+                if '://' in link or link.startswith('#'):
+                    continue
+                target = (path.parent / link.split('#')[0]).resolve()
+                if not target.exists():
+                    errors.append('Vínculo ausente em ' + d['path'] + ': ' + link)
+    # Dependency cycles would make propagation ambiguous.
+    def visit(identifier, active, done):
+        if identifier in active:
+            errors.append('Ciclo de dependências: ' + identifier); return
+        if identifier in done or identifier not in by_id:
+            return
+        active.add(identifier)
+        for dep in by_id[identifier].get('depende_de', []):
+            visit(dep, active, done)
+        active.remove(identifier); done.add(identifier)
+    done = set()
+    for identifier in by_id:
+        visit(identifier, set(), done)
+    for p in (root / 'estudos').rglob('notas-logos.json'):
+        notes = json.loads(p.read_text(encoding='utf-8'))['notes']
+        note_ids = [n['id'] for n in notes]
+        if len(note_ids) != len(set(note_ids)):
+            errors.append('IDs de notas duplicados: ' + str(p))
+        for note in notes:
+            master = root / note['master']['path']
+            if not master.exists() or ('id="' + note['master']['anchor'] + '"') not in master.read_text(encoding='utf-8'):
+                errors.append('Âncora de nota ausente: ' + note['id'])
+            for source in note.get('sources', []):
+                if not (root / source).is_file():
+                    errors.append('Fonte de nota ausente: ' + source)
+    return errors
+
 def index(root):
     cache = root / '.cache'
     cache.mkdir(exist_ok=True)
@@ -73,7 +155,7 @@ def index(root):
                            (p.relative_to(root).as_posix(), p.read_text(encoding='utf-8')))
     db.close()
 
-def search(root, query):
+def search(root, query, kind=None, historical=False):
     # Reconstruir evita resultados de documentos apagados ou versões antigas.
     index(root)
     terms = re.findall(r'\w+', query, re.UNICODE)
@@ -81,7 +163,13 @@ def search(root, query):
         return []
     expression = ' AND '.join('"' + term + '"' for term in terms)
     with sqlite3.connect(root / '.cache' / 'consulta.sqlite3') as db:
-        return db.execute("SELECT caminho, snippet(documentos, 1, '[', ']', ' … ', 36) FROM documentos WHERE documentos MATCH ? ORDER BY rank LIMIT 30", (expression,)).fetchall()
+        rows = db.execute("SELECT caminho, snippet(documentos, 1, '[', ']', ' … ', 36) FROM documentos WHERE documentos MATCH ? ORDER BY rank", (expression,)).fetchall()
+        selected = []
+        for name, snippet in rows:
+            item_kind, state = classification(root, name)
+            if (historical or state != 'historico') and (kind is None or item_kind == kind):
+                selected.append((name, snippet))
+        return selected[:30]
 
 def ingest(root, source, identifier, reference, passage, coverage='trecho fornecido pelo usuário'):
     if not re.fullmatch(r'[a-z0-9][a-z0-9-]{0,100}', identifier):
@@ -160,9 +248,12 @@ def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--raiz', type=Path, default=ROOT)
     sub = parser.add_subparsers(dest='command', required=True)
-    for cmd in ('verificar', 'selar', 'indexar', 'status'):
+    for cmd in ('verificar', 'selar', 'indexar', 'status', 'auditar', 'documentos'):
         sub.add_parser(cmd)
     p = sub.add_parser('buscar'); p.add_argument('consulta')
+    p.add_argument('--tipo', choices=['metodo', 'manuscrito', 'acervo', 'fonte', 'derivado', 'historico'])
+    p.add_argument('--historico', action='store_true')
+    p = sub.add_parser('revisar'); p.add_argument('documento')
     p = sub.add_parser('importar'); p.add_argument('arquivo', type=Path)
     p.add_argument('--id', required=True); p.add_argument('--referencia', required=True)
     p.add_argument('--passagem', required=True)
@@ -180,7 +271,7 @@ def main():
         elif args.command == 'indexar':
             index(root); print('Índice reconstruído.')
         elif args.command == 'buscar':
-            for name, snippet in search(root, args.consulta):
+            for name, snippet in search(root, args.consulta, args.tipo, args.historico):
                 print(name + '\n' + snippet + '\n')
         elif args.command == 'importar':
             print(ingest(root, args.arquivo, args.id, args.referencia, args.passagem))
@@ -189,6 +280,17 @@ def main():
             backup(root, args.destino); print('Backup criado e verificado: ' + str(args.destino))
         elif args.command == 'restaurar':
             restore(args.arquivo, args.destino); print('Backup restaurado em pasta nova.')
+        elif args.command == 'auditar':
+            errors = audit(root)
+            print('\n'.join(errors) if errors else 'Organização e vínculos conferidos; mérito exegético não avaliado.')
+            return 1 if errors else 0
+        elif args.command == 'documentos':
+            for item in catalog(root):
+                print(item['id'] + ' | ' + item['tipo'] + ' | ' + item['estado'] + ' | ' + item['path'])
+        elif args.command == 'revisar':
+            for item in dependents(root, args.documento):
+                print(item['id'] + ' | ' + item['path'])
+            print('Lista de impacto potencial; revisão de conteúdo precisa ser registrada pelo pesquisador.')
         elif args.command == 'status':
             print((root / 'estudos/mateus/17-14-20/estado.json').read_text(encoding='utf-8'))
         return 0

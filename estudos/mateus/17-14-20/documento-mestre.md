@@ -1,10 +1,10 @@
 # Mateus 17.14–21 — Documento exegético mestre
 
-**Identificador do projeto:** MT1714-21-MESTRE. **Versão:** 0.4.0, 26/10/2026. **Natureza:** consolidação intermediária cumulativa, com exposição argumentativa e trilha de evidências. **Texto principal adotado:**17.14–20; **17.21:** tradição textual examinada em nota. A designação14–21 amplia a cobertura documental sem alterar a decisão textual D03 ou renomear o diretório histórico.
+**Identificador do projeto:** MT1714-21-MESTRE. **Versão:** 0.5.0, 27/10/2026. **Natureza:** consolidação intermediária cumulativa, com exposição argumentativa e trilha de evidências. **Texto principal adotado:**17.14–20; **17.21:** tradição textual examinada em nota. A designação14–21 amplia a cobertura documental sem alterar a decisão textual D03 ou renomear o diretório histórico.
 
-**Base de integração:** relatórios e fontes disponíveis até EXE-13. A EXE-13B, já publicada antes desta solicitação, permanece preservada e identificada como desenvolvimento posterior à sistemática. O mestre incorpora agora a consolidação EXE-15A no escopo documentado, sem equivaler a artigo final15B ou validação independente. Mt17.1–13 continua reservado.
+**Base de integração:** relatórios e fontes até15B, com revisão interna de adequação em27/10/2026. Este arquivo conserva exposição de pesquisa, metadados e âncoras; o manuscrito acadêmico é a redação principal. Histórico anterior preservado em snapshots eGit. Não equivale a revisão independente. Mt17.1–13 permanece reservado.
 
-Este documento passa a ser a exposição comum da pesquisa. Os relatórios completos conservam análises, alternativas e registros históricos; não serão substituídos por esta redação. Novas etapas deverão ampliar ou revisar o mestre e suas notas derivadas, com versões e dependências identificadas. [Auditoria documental](auditoria-lacunas-iniciais.md) · [Notas para o Logos](notas-logos.md) · [Registro estruturado das notas](notas-logos.json) · [Continuidade](CONTINUIDADE.md).
+Este documento conserva o dossiê de pesquisa e suas âncoras. A redação acadêmica cumulativa principal é o [manuscrito acadêmico](manuscrito-academico.md); o estado atual das conexões está na [revisão interna](revisao-metodo.md). Os relatórios completos conservam análises, alternativas e registros históricos; não serão substituídos por esta redação. Novas etapas deverão ampliar ou revisar o mestre e suas notas derivadas, com versões e dependências identificadas. [Auditoria documental](auditoria-lacunas-iniciais.md) · [Notas para o Logos](notas-logos.md) · [Registro estruturado das notas](notas-logos.json) · [Continuidade](CONTINUIDADE.md).
 
 <a id="mt1714-21-m-001"></a>
 ## 1. Situação documental e tradução de trabalho
@@ -79,7 +79,7 @@ A resposta introduz uma queixa em linguagem bíblica: geração incrédula e per
 
 A extensão da censura é discutida. A proximidade do fracasso16 favorece a inclusão dos discípulos. O coletivo geração, porém, torna inadequada uma restrição segura aos nove. Luz privilegia o horizonte da multidão e do juízo sobre Israel; France e Carson reconhecem a centralidade do fracasso discipular. A solução preferida é uma censura coletiva da qual os discípulos participam. Ela mantém as duas evidências sem identificar cada pessoa atingida. Seu grau permanece Moderado, não se tornando certeza porque é a opção adotada.
 
-As perguntas “até quando?” expressam a gravidade e o peso da incredulidade diante da presença de Jesus. A relação deμεθ’ὑμῶν com o tema Emanuel é possível no conjunto do livro; não prova, neste versículo, retirada definitiva de Deus. A hipótese de um retorno de Moisés ao cenário do bezerro de ouro também permanece insuficiente como tipologia específica. Não se transforma correspondência temática em programa intertextual obrigatório.
+As perguntas “até quando?” expressam a gravidade e o peso da incredulidade diante da presença de Jesus. A relação deμεθ’ὑμῶν com o tema Emanuel é hipótese de baixa confiança: uma fórmula geral não demonstra eco deliberado. Não prova, neste versículo, retirada definitiva de Deus. A hipótese de um retorno de Moisés ao cenário do bezerro de ouro também permanece insuficiente como tipologia específica. Não se transforma correspondência temática em programa intertextual obrigatório.
 
 A ordem final, trazer o menino a Jesus, conduz à intervenção. A censura e a misericórdia não são episódios concorrentes. Jesus expõe a deficiência e assume o socorro. A frase não atribui ao menino culpa pessoal causadora da aflição. Tampouco fornece estados interiores detalhados dos discípulos: abatimento pela paixão, melancolia ou rivalidade são reconstruções de intérpretes, não acontecimentos narrados. [Base:08B/08C17;09;10B;D05,D07–09; Luz,p405–410; Carson,p390–392.]
 
@@ -192,7 +192,7 @@ Referências secundárias fornecidas: Arndt etal., BDAG,2000, verbetesὀλιγ�
 
 Este mestre sintetiza fontes anteriormente examinadas; não afirma nova consulta bibliográfica. Nenhuma hipótese Baixa passou à ideia exegética. A revisão de decisão exigirá atualizar o mestre, as notas afetadas, as perguntas, o registro de decisões e os produtos derivados; os relatórios e versões históricos permanecerão disponíveis.
 
-**Fechamento desta versão:** EXE-15A consolidada no escopo disponível; pesquisa reabrível por evidência; EXE-14 geral elaborada; produto15B pendente; tradução03 recuperada e recomposição08C historicamente distinguida; relatórios completos preservados. As notas possuem IDs locais estáveis, sem pretensão de IDs nativos do Logos ou entradas definitivas de curadoria global.
+**Fechamento desta versão:** EXE-15A consolidada no escopo disponível; pesquisa reabrível por evidência; EXE-14 geral elaborada; produto15B anterior preservado e manuscrito cumulativo atual disponível; tradução03 recuperada e recomposição08C historicamente distinguida; relatórios completos preservados. As notas possuem IDs locais estáveis, sem pretensão de IDs nativos do Logos ou entradas definitivas de curadoria global.
 
 <a id="mt1714-21-m-014"></a>
 ## 14. Horizonte hermenêutico e aplicação — EXE-14
@@ -216,7 +216,7 @@ O [relatório14 completo](EXE-14-horizonte-aplicacao.md) registra cada aplicaç�
 <a id="mt1714-21-m-015"></a>
 ## 15. Consolidação EXE-15A e estado de fechamento
 
-A pesquisa foi consolidada com cobertura e lacunas discriminadas no [dossiê15A](EXE-15A-dossie-consolidado.md). Este mestre permanece a exposição comum e os relatórios completos permanecem como análise e histórico. A consolidação confirma o núcleo do08B/11, sem nova decisão textual ou mudança de confiança. O03 recuperado é a base tradutória;08C continua recomposição posterior preservada.
+A pesquisa foi consolidada com cobertura e lacunas discriminadas no [dossiê15A](EXE-15A-dossie-consolidado.md). Este mestre permanece como dossiê de pesquisa; o manuscrito acadêmico é a redação comum. Os relatórios completos permanecem como análise e histórico. A consolidação confirma o núcleo do08B/11, sem nova decisão textual; a revisão interna atual qualifica conexões específicas, conforme revisao-metodo.md. O03 recuperado é a base tradutória;08C continua recomposição posterior preservada.
 
 Há dois níveis de pendência. Questões interpretativas já investigadas — alcance de geração, aspecto da mostarda, referência pronominal18 e extensão positiva detalhada da promessa — permanecem qualificadas e não impedem uma exposição responsável. Lacunas de documentação — outros relatórios históricos integrais, links/edições exatas das versões declaradas no03, controles e auditorias ausentes — impedem somente as certificações e decisões que deles dependem. Não se afirma que a ausência de documento prove ausência de trabalho histórico.
 

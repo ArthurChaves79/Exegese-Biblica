@@ -1,0 +1,80 @@
+{
+  "passagem": "Mt 17.14–21 (texto principal 14–20; v21 em nota)",
+  "data": "2026-10-26",
+  "etapa_atual": "EXE-15B exposição final1.0.0 publicada como produto editorial; mestre0.4.0",
+  "proxima": "Uso ou revisão do produto conforme solicitação;nenhum módulo16/CTL-02 executado",
+  "reservado": "Mt 17.1–13",
+  "pendencias": [
+    "Recuperar respostas históricas integrais quando disponíveis",
+    "EXE-08B preservado em versão editorial consolidada, não transcrição literal",
+    "Auditorias VAL01–05/06 não disponibilizadas; não presumir validação",
+    "Novas etapas devem atualizar o mestre, notas e dependências na mesma publicação",
+    "Relatório03 recuperado; conferir fontes externas/edições declaradas e completude técnica apenas quando pertinente, sem alegar reconferência nesta operação",
+    "FONTES-01 e POSTURA-01 citados pelo módulo14 não disponibilizados; não afirmar execução",
+    "LEIA-PRIMEIRO e VAL-06 citados15A não disponibilizados; não certificar execução"
+  ],
+  "fontes_arquivadas": [
+    "NA28",
+    "BDAG",
+    "France",
+    "Carson",
+    "Luz",
+    "Lange",
+    "Hendriksen",
+    "Westcott e Hort"
+  ],
+  "git_status": "Publicação autorizada e operacional; bloqueio 403 resolvido em 26/10/2026",
+  "fontes_consultadas_web": [
+    "Orígenes, Comentário XIII.4–7",
+    "Crisóstomo, Homilia57 §§3–4",
+    "Catena aurea17 lectiones4–5",
+    "Calvino, Harmonia Mt17.19–21",
+    "Matthew Henry, Mt17.14–21",
+    "Confissão de Westminster, OPC: 5.3;14.2–3;21.3–4 (comparação seletiva)"
+  ],
+  "limites_fontes": "Usuário informou ter fornecido todo material Logos disponível; Bavinck não consultado, sem bloquear avanço.",
+  "problema_central": "A incapacidade dos discípulos de socorrer o menino, apesar da autoridade recebida, revela uma deficiência de fé que Jesus corrige mediante sua intervenção e instrução.",
+  "ideia_exegetica": "Ao libertar e curar o menino que os discípulos não puderam socorrer, Jesus manifesta sua autoridade, atribui o fracasso deles à pouca fé e os instrui acerca das possibilidades extraordinárias da fé mediante a imagem da mostarda e do monte.",
+  "documento_mestre": {
+    "id": "MT1714-21-MESTRE",
+    "path": "estudos/mateus/17-14-20/documento-mestre.md",
+    "version": "0.4.0",
+    "natureza": "dossie_cumulativo_consolidado_com_pendencias",
+    "base_ate": "EXE-15B,registro editorial sem nova exegese",
+    "aplicacao": "EXE-14 geral elaborada; sem comunicação personalizada ou caso real"
+  },
+  "traducao": {
+    "historico_EXE03": "recuperado por reenvio do pesquisador; origem registrada",
+    "arquivo": "estudos/mateus/17-14-20/EXE-03-recuperado.txt",
+    "conferencia": "estudos/mateus/17-14-20/EXE-03-recuperado-conferencia.md",
+    "atual": "tradução de trabalho da seção6 recuperada;08C posterior preservado",
+    "limite": "links/edições e consultas externas declaradas não reconferidos; sem auditoria exaustiva"
+  },
+  "notas_logos": {
+    "path": "estudos/mateus/17-14-20/notas-logos.md",
+    "structured_path": "estudos/mateus/17-14-20/notas-logos.json",
+    "quantidade": 14,
+    "ids": "MT1714-21-N001 a MT1714-21-N014",
+    "status": "preparadas e versionadas; não transferidas ao aplicativo",
+    "origem": "documento mestre; relatórios completos preservados"
+  },
+  "conferencia_NA28": {
+    "relatorio": "estudos/mateus/17-14-20/conferencia-na28-reenvio.md",
+    "fonte": "fontes/logos/na28-mt17-reenvio.txt",
+    "resultado": "Grego03 coincide com principal; arquivo anterior sem diferença substantiva; sinais ausentes não restaurados"
+  },
+  "fechamento": {
+    "documental": "concluído no escopo disponível",
+    "validacao_integral_metodo": false,
+    "revisao_independente": false,
+    "produto_15B": "final editorial no escopo declarado;Markdown",
+    "relatorio": "estudos/mateus/17-14-20/EXE-15A-dossie-consolidado.md"
+  },
+  "produto_final": {
+    "path": "estudos/mateus/17-14-20/EXE-15B-exposicao-final.md",
+    "version": "1.0.0",
+    "controle": "estudos/mateus/17-14-20/EXE-15B-controle-editorial.md",
+    "base": "mestre0.3.0/15A0.1.0",
+    "modelo": "1Co6.1–11 do pesquisador;estrutura consultada em recortes,sem reprodução gráfica"
+  }
+}

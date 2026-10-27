@@ -1,0 +1,477 @@
+{
+  "schema_version": 1,
+  "regra": "Dependência indica base de conteúdo, não sequência de execução. Mudança exige conferência, não reescrita automática. Relatórios anteriores à adoção são históricos consultáveis; manuscrito é a redação atual. Cadastro inicial por arquivo, sem pretensão de representar cada proposição.",
+  "documentos": [
+    {
+      "id": "METODO",
+      "path": "metodo/METODO.md",
+      "tipo": "metodo",
+      "estado": "atual",
+      "depende_de": []
+    },
+    {
+      "id": "ENTRADA",
+      "path": "README.md",
+      "tipo": "acervo",
+      "estado": "atual",
+      "depende_de": [
+        "METODO"
+      ]
+    },
+    {
+      "id": "OPERACAO",
+      "path": "docs/OPERACAO.md",
+      "tipo": "acervo",
+      "estado": "atual",
+      "depende_de": [
+        "METODO"
+      ]
+    },
+    {
+      "id": "PROTOCOLO",
+      "path": "AGENTS.md",
+      "tipo": "acervo",
+      "estado": "atual",
+      "depende_de": [
+        "METODO"
+      ]
+    },
+    {
+      "id": "FONTE-bdag-verbetes-mt17",
+      "path": "fontes/logos/bdag-verbetes-mt17.txt",
+      "tipo": "fonte",
+      "estado": "preservado",
+      "depende_de": []
+    },
+    {
+      "id": "FONTE-carson-mt17",
+      "path": "fontes/logos/carson-mt17.txt",
+      "tipo": "fonte",
+      "estado": "preservado",
+      "depende_de": []
+    },
+    {
+      "id": "FONTE-france-mt17",
+      "path": "fontes/logos/france-mt17.txt",
+      "tipo": "fonte",
+      "estado": "preservado",
+      "depende_de": []
+    },
+    {
+      "id": "FONTE-hendriksen-mt17",
+      "path": "fontes/logos/hendriksen-mt17.txt",
+      "tipo": "fonte",
+      "estado": "preservado",
+      "depende_de": []
+    },
+    {
+      "id": "FONTE-lange-mt17",
+      "path": "fontes/logos/lange-mt17.txt",
+      "tipo": "fonte",
+      "estado": "preservado",
+      "depende_de": []
+    },
+    {
+      "id": "FONTE-luz-mt17",
+      "path": "fontes/logos/luz-mt17.txt",
+      "tipo": "fonte",
+      "estado": "preservado",
+      "depende_de": []
+    },
+    {
+      "id": "FONTE-na28-mt17-reenvio",
+      "path": "fontes/logos/na28-mt17-reenvio.txt",
+      "tipo": "fonte",
+      "estado": "preservado",
+      "depende_de": []
+    },
+    {
+      "id": "FONTE-na28-mt17",
+      "path": "fontes/logos/na28-mt17.txt",
+      "tipo": "fonte",
+      "estado": "preservado",
+      "depende_de": []
+    },
+    {
+      "id": "FONTE-westcott-hort-mt17-21",
+      "path": "fontes/logos/westcott-hort-mt17-21.txt",
+      "tipo": "fonte",
+      "estado": "preservado",
+      "depende_de": []
+    },
+    {
+      "id": "REL-EXE-03-recuperado-conferencia",
+      "path": "estudos/mateus/17-14-20/EXE-03-recuperado-conferencia.md",
+      "tipo": "historico",
+      "estado": "historico",
+      "depende_de": [
+        "FONTE-bdag-verbetes-mt17",
+        "FONTE-carson-mt17",
+        "FONTE-france-mt17",
+        "FONTE-hendriksen-mt17",
+        "FONTE-lange-mt17",
+        "FONTE-luz-mt17",
+        "FONTE-na28-mt17-reenvio",
+        "FONTE-na28-mt17",
+        "FONTE-westcott-hort-mt17-21"
+      ]
+    },
+    {
+      "id": "REL-EXE-08B-comentario",
+      "path": "estudos/mateus/17-14-20/EXE-08B-comentario.md",
+      "tipo": "historico",
+      "estado": "historico",
+      "depende_de": [
+        "FONTE-bdag-verbetes-mt17",
+        "FONTE-carson-mt17",
+        "FONTE-france-mt17",
+        "FONTE-hendriksen-mt17",
+        "FONTE-lange-mt17",
+        "FONTE-luz-mt17",
+        "FONTE-na28-mt17-reenvio",
+        "FONTE-na28-mt17",
+        "FONTE-westcott-hort-mt17-21"
+      ]
+    },
+    {
+      "id": "REL-EXE-08C-verso-a-verso",
+      "path": "estudos/mateus/17-14-20/EXE-08C-verso-a-verso.md",
+      "tipo": "historico",
+      "estado": "historico",
+      "depende_de": [
+        "FONTE-bdag-verbetes-mt17",
+        "FONTE-carson-mt17",
+        "FONTE-france-mt17",
+        "FONTE-hendriksen-mt17",
+        "FONTE-lange-mt17",
+        "FONTE-luz-mt17",
+        "FONTE-na28-mt17-reenvio",
+        "FONTE-na28-mt17",
+        "FONTE-westcott-hort-mt17-21"
+      ]
+    },
+    {
+      "id": "REL-EXE-09-contexto-canonico",
+      "path": "estudos/mateus/17-14-20/EXE-09-contexto-canonico.md",
+      "tipo": "historico",
+      "estado": "historico",
+      "depende_de": [
+        "FONTE-bdag-verbetes-mt17",
+        "FONTE-carson-mt17",
+        "FONTE-france-mt17",
+        "FONTE-hendriksen-mt17",
+        "FONTE-lange-mt17",
+        "FONTE-luz-mt17",
+        "FONTE-na28-mt17-reenvio",
+        "FONTE-na28-mt17",
+        "FONTE-westcott-hort-mt17-21"
+      ]
+    },
+    {
+      "id": "REL-EXE-10-historia-interpretacao",
+      "path": "estudos/mateus/17-14-20/EXE-10-historia-interpretacao.md",
+      "tipo": "historico",
+      "estado": "historico",
+      "depende_de": [
+        "FONTE-bdag-verbetes-mt17",
+        "FONTE-carson-mt17",
+        "FONTE-france-mt17",
+        "FONTE-hendriksen-mt17",
+        "FONTE-lange-mt17",
+        "FONTE-luz-mt17",
+        "FONTE-na28-mt17-reenvio",
+        "FONTE-na28-mt17",
+        "FONTE-westcott-hort-mt17-21"
+      ]
+    },
+    {
+      "id": "REL-EXE-10B-avaliacao-canonica",
+      "path": "estudos/mateus/17-14-20/EXE-10B-avaliacao-canonica.md",
+      "tipo": "historico",
+      "estado": "historico",
+      "depende_de": [
+        "FONTE-bdag-verbetes-mt17",
+        "FONTE-carson-mt17",
+        "FONTE-france-mt17",
+        "FONTE-hendriksen-mt17",
+        "FONTE-lange-mt17",
+        "FONTE-luz-mt17",
+        "FONTE-na28-mt17-reenvio",
+        "FONTE-na28-mt17",
+        "FONTE-westcott-hort-mt17-21"
+      ]
+    },
+    {
+      "id": "REL-EXE-11-sintese-sentido",
+      "path": "estudos/mateus/17-14-20/EXE-11-sintese-sentido.md",
+      "tipo": "historico",
+      "estado": "historico",
+      "depende_de": [
+        "FONTE-bdag-verbetes-mt17",
+        "FONTE-carson-mt17",
+        "FONTE-france-mt17",
+        "FONTE-hendriksen-mt17",
+        "FONTE-lange-mt17",
+        "FONTE-luz-mt17",
+        "FONTE-na28-mt17-reenvio",
+        "FONTE-na28-mt17",
+        "FONTE-westcott-hort-mt17-21"
+      ]
+    },
+    {
+      "id": "REL-EXE-12-teologia-biblica",
+      "path": "estudos/mateus/17-14-20/EXE-12-teologia-biblica.md",
+      "tipo": "historico",
+      "estado": "historico",
+      "depende_de": [
+        "FONTE-bdag-verbetes-mt17",
+        "FONTE-carson-mt17",
+        "FONTE-france-mt17",
+        "FONTE-hendriksen-mt17",
+        "FONTE-lange-mt17",
+        "FONTE-luz-mt17",
+        "FONTE-na28-mt17-reenvio",
+        "FONTE-na28-mt17",
+        "FONTE-westcott-hort-mt17-21"
+      ]
+    },
+    {
+      "id": "REL-EXE-12B-integracao-canonica",
+      "path": "estudos/mateus/17-14-20/EXE-12B-integracao-canonica.md",
+      "tipo": "historico",
+      "estado": "historico",
+      "depende_de": [
+        "FONTE-bdag-verbetes-mt17",
+        "FONTE-carson-mt17",
+        "FONTE-france-mt17",
+        "FONTE-hendriksen-mt17",
+        "FONTE-lange-mt17",
+        "FONTE-luz-mt17",
+        "FONTE-na28-mt17-reenvio",
+        "FONTE-na28-mt17",
+        "FONTE-westcott-hort-mt17-21"
+      ]
+    },
+    {
+      "id": "REL-EXE-13-teologia-sistematica",
+      "path": "estudos/mateus/17-14-20/EXE-13-teologia-sistematica.md",
+      "tipo": "historico",
+      "estado": "historico",
+      "depende_de": [
+        "FONTE-bdag-verbetes-mt17",
+        "FONTE-carson-mt17",
+        "FONTE-france-mt17",
+        "FONTE-hendriksen-mt17",
+        "FONTE-lange-mt17",
+        "FONTE-luz-mt17",
+        "FONTE-na28-mt17-reenvio",
+        "FONTE-na28-mt17",
+        "FONTE-westcott-hort-mt17-21"
+      ]
+    },
+    {
+      "id": "REL-EXE-13B-antropologia-etica-sabedoria",
+      "path": "estudos/mateus/17-14-20/EXE-13B-antropologia-etica-sabedoria.md",
+      "tipo": "historico",
+      "estado": "historico",
+      "depende_de": [
+        "FONTE-bdag-verbetes-mt17",
+        "FONTE-carson-mt17",
+        "FONTE-france-mt17",
+        "FONTE-hendriksen-mt17",
+        "FONTE-lange-mt17",
+        "FONTE-luz-mt17",
+        "FONTE-na28-mt17-reenvio",
+        "FONTE-na28-mt17",
+        "FONTE-westcott-hort-mt17-21"
+      ]
+    },
+    {
+      "id": "REL-EXE-14-horizonte-aplicacao",
+      "path": "estudos/mateus/17-14-20/EXE-14-horizonte-aplicacao.md",
+      "tipo": "historico",
+      "estado": "historico",
+      "depende_de": [
+        "FONTE-bdag-verbetes-mt17",
+        "FONTE-carson-mt17",
+        "FONTE-france-mt17",
+        "FONTE-hendriksen-mt17",
+        "FONTE-lange-mt17",
+        "FONTE-luz-mt17",
+        "FONTE-na28-mt17-reenvio",
+        "FONTE-na28-mt17",
+        "FONTE-westcott-hort-mt17-21"
+      ]
+    },
+    {
+      "id": "REL-EXE-15A-dossie-consolidado",
+      "path": "estudos/mateus/17-14-20/EXE-15A-dossie-consolidado.md",
+      "tipo": "historico",
+      "estado": "historico",
+      "depende_de": [
+        "FONTE-bdag-verbetes-mt17",
+        "FONTE-carson-mt17",
+        "FONTE-france-mt17",
+        "FONTE-hendriksen-mt17",
+        "FONTE-lange-mt17",
+        "FONTE-luz-mt17",
+        "FONTE-na28-mt17-reenvio",
+        "FONTE-na28-mt17",
+        "FONTE-westcott-hort-mt17-21"
+      ]
+    },
+    {
+      "id": "REL-EXE-15B-controle-editorial",
+      "path": "estudos/mateus/17-14-20/EXE-15B-controle-editorial.md",
+      "tipo": "historico",
+      "estado": "historico",
+      "depende_de": [
+        "FONTE-bdag-verbetes-mt17",
+        "FONTE-carson-mt17",
+        "FONTE-france-mt17",
+        "FONTE-hendriksen-mt17",
+        "FONTE-lange-mt17",
+        "FONTE-luz-mt17",
+        "FONTE-na28-mt17-reenvio",
+        "FONTE-na28-mt17",
+        "FONTE-westcott-hort-mt17-21"
+      ]
+    },
+    {
+      "id": "REL-EXE-15B-exposicao-final",
+      "path": "estudos/mateus/17-14-20/EXE-15B-exposicao-final.md",
+      "tipo": "historico",
+      "estado": "historico",
+      "depende_de": [
+        "FONTE-bdag-verbetes-mt17",
+        "FONTE-carson-mt17",
+        "FONTE-france-mt17",
+        "FONTE-hendriksen-mt17",
+        "FONTE-lange-mt17",
+        "FONTE-luz-mt17",
+        "FONTE-na28-mt17-reenvio",
+        "FONTE-na28-mt17",
+        "FONTE-westcott-hort-mt17-21"
+      ]
+    },
+    {
+      "id": "TRADUCAO03",
+      "path": "estudos/mateus/17-14-20/EXE-03-recuperado.txt",
+      "tipo": "fonte",
+      "estado": "preservado",
+      "depende_de": []
+    },
+    {
+      "id": "DOSSIE",
+      "path": "estudos/mateus/17-14-20/documento-mestre.md",
+      "tipo": "acervo",
+      "estado": "atual",
+      "depende_de": [
+        "FONTE-bdag-verbetes-mt17",
+        "FONTE-carson-mt17",
+        "FONTE-france-mt17",
+        "FONTE-hendriksen-mt17",
+        "FONTE-lange-mt17",
+        "FONTE-luz-mt17",
+        "FONTE-na28-mt17-reenvio",
+        "FONTE-na28-mt17",
+        "FONTE-westcott-hort-mt17-21",
+        "TRADUCAO03"
+      ]
+    },
+    {
+      "id": "REVISAO",
+      "path": "estudos/mateus/17-14-20/revisao-metodo.md",
+      "tipo": "acervo",
+      "estado": "atual",
+      "depende_de": [
+        "METODO",
+        "DOSSIE",
+        "REL-EXE-03-recuperado-conferencia",
+        "REL-EXE-08B-comentario",
+        "REL-EXE-08C-verso-a-verso",
+        "REL-EXE-09-contexto-canonico",
+        "REL-EXE-10-historia-interpretacao",
+        "REL-EXE-10B-avaliacao-canonica",
+        "REL-EXE-11-sintese-sentido",
+        "REL-EXE-12-teologia-biblica",
+        "REL-EXE-12B-integracao-canonica",
+        "REL-EXE-13-teologia-sistematica",
+        "REL-EXE-13B-antropologia-etica-sabedoria",
+        "REL-EXE-14-horizonte-aplicacao",
+        "REL-EXE-15A-dossie-consolidado",
+        "REL-EXE-15B-controle-editorial",
+        "REL-EXE-15B-exposicao-final"
+      ]
+    },
+    {
+      "id": "MT1714-21-MANUSCRITO",
+      "path": "estudos/mateus/17-14-20/manuscrito-academico.md",
+      "tipo": "manuscrito",
+      "estado": "atual",
+      "depende_de": [
+        "REVISAO",
+        "DOSSIE",
+        "TRADUCAO03"
+      ]
+    },
+    {
+      "id": "FICHA",
+      "path": "estudos/mateus/17-14-20/ficha-manuscrito.json",
+      "tipo": "acervo",
+      "estado": "atual",
+      "depende_de": [
+        "MT1714-21-MANUSCRITO"
+      ]
+    },
+    {
+      "id": "NOTAS-JSON",
+      "path": "estudos/mateus/17-14-20/notas-logos.json",
+      "tipo": "derivado",
+      "estado": "atual",
+      "depende_de": [
+        "MT1714-21-MANUSCRITO",
+        "DOSSIE",
+        "REVISAO"
+      ]
+    },
+    {
+      "id": "NOTAS-MD",
+      "path": "estudos/mateus/17-14-20/notas-logos.md",
+      "tipo": "derivado",
+      "estado": "atual",
+      "depende_de": [
+        "NOTAS-JSON"
+      ]
+    },
+    {
+      "id": "ESTADO",
+      "path": "estudos/mateus/17-14-20/estado.json",
+      "tipo": "acervo",
+      "estado": "atual",
+      "depende_de": [
+        "FICHA",
+        "NOTAS-JSON",
+        "REVISAO"
+      ]
+    },
+    {
+      "id": "CONTINUIDADE",
+      "path": "estudos/mateus/17-14-20/CONTINUIDADE.md",
+      "tipo": "acervo",
+      "estado": "atual",
+      "depende_de": [
+        "ESTADO"
+      ]
+    },
+    {
+      "id": "INDICE-ESTUDO",
+      "path": "estudos/mateus/17-14-20/README.md",
+      "tipo": "acervo",
+      "estado": "atual",
+      "depende_de": [
+        "CONTINUIDADE"
+      ]
+    }
+  ]
+}

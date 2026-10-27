@@ -1,0 +1,13 @@
+{
+  "id": "MT1714-21-MANUSCRITO",
+  "version": "1.1.0",
+  "data": "2026-10-27",
+  "path": "estudos/mateus/17-14-20/manuscrito-academico.md",
+  "base_editorial": "EXE-15B-exposicao-final.md 1.0.0",
+  "base_pesquisa": "documento-mestre.md 0.4.0 e relatórios completos",
+  "alteracao": "Separação de procedimentos e metadados; revisão interna sem mudança das decisões textuais ou da tradução",
+  "regra": "manuscrito é redação cumulativa principal; dossiê mantém evidência e âncoras; notas mantêm IDs",
+  "revisao_independente": false,
+  "metodo": "metodo/METODO.md",
+  "notas": "MT1714-21-N001 a MT1714-21-N014; conteúdo conferido, sem mudança interpretativa ou transferência ao Logos"
+}

@@ -1,17 +1,15 @@
 {
   "passagem": "Mt 17.14–21 (texto principal 14–20; v21 em nota)",
-  "data": "2026-10-26",
-  "etapa_atual": "EXE-15B exposição final1.0.0 publicada como produto editorial; mestre0.4.0",
-  "proxima": "Uso ou revisão do produto conforme solicitação;nenhum módulo16/CTL-02 executado",
+  "data": "2026-10-27",
+  "etapa_atual": "Método consolidado adotado; manuscrito cumulativo separado; revisão interna de adequação executada",
+  "proxima": "Investigar questão pertinente e atualizar manuscrito e derivados conforme dependências",
   "reservado": "Mt 17.1–13",
   "pendencias": [
-    "Recuperar respostas históricas integrais quando disponíveis",
-    "EXE-08B preservado em versão editorial consolidada, não transcrição literal",
-    "Auditorias VAL01–05/06 não disponibilizadas; não presumir validação",
-    "Novas etapas devem atualizar o mestre, notas e dependências na mesma publicação",
-    "Relatório03 recuperado; conferir fontes externas/edições declaradas e completude técnica apenas quando pertinente, sem alegar reconferência nesta operação",
-    "FONTES-01 e POSTURA-01 citados pelo módulo14 não disponibilizados; não afirmar execução",
-    "LEIA-PRIMEIRO e VAL-06 citados15A não disponibilizados; não certificar execução"
+    "Revisão independente não realizada; revisão atual é interna e delimitada",
+    "Sobrescritos perdidos do aparato não reconstruídos",
+    "Consultas externas/edições de versões declaradas no EXE03 não reconferidas",
+    "Respostas históricas integrais de outras etapas iniciais não recuperadas",
+    "Precisão de geração,mostarda,referência18 e alcance positivo da promessa permanecem qualificados"
   ],
   "fontes_arquivadas": [
     "NA28",
@@ -38,8 +36,8 @@
   "documento_mestre": {
     "id": "MT1714-21-MESTRE",
     "path": "estudos/mateus/17-14-20/documento-mestre.md",
-    "version": "0.4.0",
-    "natureza": "dossie_cumulativo_consolidado_com_pendencias",
+    "version": "0.5.0",
+    "natureza": "dossie_de_pesquisa_preservado_com_ancoras",
     "base_ate": "EXE-15B,registro editorial sem nova exegese",
     "aplicacao": "EXE-14 geral elaborada; sem comunicação personalizada ou caso real"
   },
@@ -56,7 +54,7 @@
     "quantidade": 14,
     "ids": "MT1714-21-N001 a MT1714-21-N014",
     "status": "preparadas e versionadas; não transferidas ao aplicativo",
-    "origem": "documento mestre; relatórios completos preservados"
+    "origem": "dossiê e manuscrito, com dependências externas e revisão interna"
   },
   "conferencia_NA28": {
     "relatorio": "estudos/mateus/17-14-20/conferencia-na28-reenvio.md",
@@ -67,7 +65,7 @@
     "documental": "concluído no escopo disponível",
     "validacao_integral_metodo": false,
     "revisao_independente": false,
-    "produto_15B": "final editorial no escopo declarado;Markdown",
+    "produto_15B": "produto anterior preservado; manuscrito atual cumulativo e revisável",
     "relatorio": "estudos/mateus/17-14-20/EXE-15A-dossie-consolidado.md"
   },
   "produto_final": {
@@ -75,6 +73,10 @@
     "version": "1.0.0",
     "controle": "estudos/mateus/17-14-20/EXE-15B-controle-editorial.md",
     "base": "mestre0.3.0/15A0.1.0",
-    "modelo": "1Co6.1–11 do pesquisador;estrutura consultada em recortes,sem reprodução gráfica"
-  }
+    "modelo": "1Co6.1–11 do pesquisador;estrutura consultada em recortes,sem reprodução gráfica",
+    "estado": "produto histórico anterior; redação vigente em manuscrito-academico.md"
+  },
+  "metodo": "metodo/METODO.md",
+  "manuscrito": "estudos/mateus/17-14-20/manuscrito-academico.md",
+  "revisao_interna": "estudos/mateus/17-14-20/revisao-metodo.md"
 }

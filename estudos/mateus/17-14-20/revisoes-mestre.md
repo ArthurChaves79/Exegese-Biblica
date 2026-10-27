@@ -15,3 +15,8 @@ A identificação do commit que publica cada versão é recuperável no históri
 |0.3.0|26/10/2026|0.2.0|Consolidação15A,cobertura e condições de retomada;atualização do estado atual|Mestre,notas,perguntas,decisões,continuidade;sem nova exegese|
 
 |0.4.0|26/10/2026|0.3.0|EXE-15B exposição1.0.0 e controle editorial;modelo consultado e paráfrase rastreada|Mestre,estado,continuidade,notas,perguntas,decisões;sem nova exegese|
+
+
+## 0.5.0 —27/10/2026
+
+Adoção do método aprovado; dossiê distinguido do manuscrito cumulativo. Revisão interna delimita conexões;N004 qualifica hipótese deEmanuel como Baixa. Âncoras e IDs preservados. Registros preexistentes permanecem no histórico.

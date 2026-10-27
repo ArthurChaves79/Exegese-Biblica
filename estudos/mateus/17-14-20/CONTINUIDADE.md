@@ -1,28 +1,20 @@
-> **Estado atual0.4.0:** EXE-15B exposição final1.0.0 e controle editorial disponíveis. Modelo1Co6.1–11 efetivamente consultado em recortes. Não recriar15B como pendente;nenhumDOCX/PDF ou comunicação16 executados. A cronologia abaixo descreve a base anterior0.3.0.
+# Continuidade atual
 
-# Continuidade atual — mestre0.3.0
-
-EXE-15A consolidada no escopo documental disponível. Próximo módulo:EXE-15B, redação do produto de gênero próprio. Começar pelo [mestre](documento-mestre.md) e [dossiê15A](EXE-15A-dossie-consolidado.md), depois perguntas,decisões e fontes pertinentes.
+Método consolidado aprovado e adotado em 27/10/2026. Iniciar pelo [manuscrito acadêmico](manuscrito-academico.md), [revisão interna](revisao-metodo.md), estado, perguntas e decisões. Consultar as fontes e os relatórios da questão pertinente antes de alterar conclusões.
 
 ## Estado real
 
-- Tradução03 recuperada e conferida com o principal NA28 reenviado;08C preservado como recomposição posterior.
-- Relatórios08B–14 disponíveis nos escopos declarados;etapas iniciais parcialmente retrospectivas;07 não documentado.
-- EXE-14 geral elaborada;nenhum sermão ou diagnóstico de caso real executado.
--14 notas Logos preparadas com IDs estáveis;nenhuma transferência ao aplicativo.
-- Fechamento documental15A não equivale a validação integral ou revisão independente.
-- Auditorias VAL e controles LEIA-PRIMEIRO,FONTES-01,POSTURA-01 ausentes;CTL-01 disponível e graus preservados.
+- Manuscrito cumulativo separado dos metadados; exposição anterior e dossiê com âncoras preservados.
+- Tradução03 recuperada, grego principal conferido com NA28;08C permanece posterior. Não se afirma nova conferência externa das versões consultadas pelo relatório recuperado.
+- Estrutura e testes decisivos VAL01–06 reexaminados internamente no escopo disponível. Isso não é certificação integral nem revisão independente.
+- EXE09B não exige matriz artificial; trajetórias11B/C são seletivas. Não foram produzidos tratados novos para preencher roteiros.
+-14 notas Logos preparadas; sem transferência. IDs preservados.
+- Mt17.1–13 reservado. LEIA-PRIMEIRO,FONTES-01,POSTURA-01 não localizados; seguir regras vigentes sem inventar conteúdo histórico.
 
-## Pendências delimitadas
+## Próximo trabalho
 
-Destinatários precisos de geração,aspecto da mostarda,referência18 e alcance detalhado da promessa permanecem qualificados. Relatórios históricos integrais de outras etapas iniciais e links/edições originais das versões03 não foram recuperados. Questão aberta não é bloqueio geral: suspender somente a certificação ou decisão dependente do dado ausente.
+Prosseguir conforme a pergunta de pesquisa escolhida, sem reiniciar a redação do zero. Reavaliar graus se surgir evidência relevante. A precisão dos destinatários da censura, aspecto da mostarda e alcance positivo da promessa continuam qualificados. Auditoria independente, identificação exata de sobrescritos perdidos e verificação externa das consultas de versões03 permanecem limites reais, não bloqueio de toda investigação.
 
-## Próxima entrega
+## Atualização
 
-Usar o mestre como fonte comum do15B. Ler o módulo e consultar o modelo real antes de alegar adequação a ele. O modelo de exegese mencionado pelo pesquisador não foi examinado nesta consolidação; não reconstruí-lo por memória. Não substituir dossiê por artigo nem apagar relatórios. Mt17.1–13 permanece reservado.
-
-## Regra de atualização
-
-Nova etapa/revisão: preservar relatório completo;atualizar mestre,versão,histórico,notas afetadas,perguntas,decisões,estado e manifesto. Manter IDs e âncoras;conferir vínculos,integridade e retorno remoto. Não usar derivados como evidência independente. Distinguir preparado,salvo no GitHub e transferido ao Logos.
-
-A cronologia completa permanece no históricoGit,revisoes-mestre.md e relatórios de recuperação/conferência. A revisão desta página substitui estados antigos de pendência03/14 sem eliminar seus registros históricos.
+Consultar dependências com `python exegese.py revisar CAMINHO`. Revisar fontes → análise → manuscrito → derivados afetados, registrando decisões e alterações. Atualizar estado e manifesto; executar auditoria e testes pertinentes; publicar e conferir o retorno remoto. O comando apenas lista dependentes, não comprova que foram revisados. História anterior em revisoes-mestre.md, Git e historico/pre-adocao-2026-10-27.
