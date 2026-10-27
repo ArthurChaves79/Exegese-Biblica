@@ -43,4 +43,17 @@ class MetodoTest(unittest.TestCase):
         (d/'notas-logos.json').write_text(json.dumps({'notes':[dict(id='N001',master=dict(path='a.md',anchor='perdida'),sources=[])]}))
         self.assertTrue(any('Âncora de nota ausente' in e for e in app.audit(self.root)))
 
+    def test_acervo_parcial_recuperavel_com_aviso_e_revisao(self):
+        (self.root/'relatorio.md').write_text('Emanuel')
+        (self.root/'revisao.md').write_text('Eco deliberado não demonstrado')
+        d=self.doc('R','relatorio.md'); d.update(estado='parcialmente_superado',revisao_vigente='revisao.md',alcance_superacao='Eco deliberado')
+        self.cadastro([d,self.doc('V','revisao.md')])
+        found=app.search(self.root,'Emanuel',kind='acervo')
+        self.assertEqual(found[0][0],'relatorio.md')
+        self.assertIn('PARCIALMENTE SUPERADO',found[0][1])
+        self.assertIn('revisao.md',found[0][1])
+        self.assertEqual(app.audit(self.root),[])
+        (self.root/'revisao.md').unlink()
+        self.assertTrue(any('Superação parcial' in e for e in app.audit(self.root)))
+
 if __name__=='__main__':unittest.main()

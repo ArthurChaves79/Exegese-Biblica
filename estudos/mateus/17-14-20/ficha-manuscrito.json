@@ -1,13 +1,21 @@
 {
   "id": "MT1714-21-MANUSCRITO",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "data": "2026-10-27",
   "path": "estudos/mateus/17-14-20/manuscrito-academico.md",
   "base_editorial": "EXE-15B-exposicao-final.md 1.0.0",
   "base_pesquisa": "documento-mestre.md 0.4.0 e relatórios completos",
-  "alteracao": "Separação de procedimentos e metadados; revisão interna sem mudança das decisões textuais ou da tradução",
+  "alteracao": "Ficha reconciliada com a revisão interna: eco deliberado de Emanuel rebaixado e conexões alianciais específicas delimitadas; tradução e decisões textuais preservadas. Sem reescrita argumentativa neste lote.",
   "regra": "manuscrito é redação cumulativa principal; dossiê mantém evidência e âncoras; notas mantêm IDs",
   "revisao_independente": false,
   "metodo": "metodo/METODO.md",
-  "notas": "MT1714-21-N001 a MT1714-21-N014; conteúdo conferido, sem mudança interpretativa ou transferência ao Logos"
+  "notas": "N004 ajustada quanto ao eco de Emanuel; 14 IDs preservados; nenhuma transferência ao Logos.",
+  "estado_editorial": "redacao_preliminar_pendente_de_desenvolvimento_argumentativo",
+  "pendencias_editoriais": [
+    "Desenvolver explicações por unidades, com evidências e alternativas",
+    "Substituir rótulos administrativos de confiança por justificativas acadêmicas",
+    "Revisar espaçamento e referências",
+    "Transferir a aplicação contemporânea para material derivado, preservando-a no acervo",
+    "Conferir bibliografia, formatação e entrega Word após desenvolvimento"
+  ]
 }

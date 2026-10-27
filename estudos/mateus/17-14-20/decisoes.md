@@ -57,3 +57,9 @@ Alterar uma decisão exige revisar tradução, comentário e conclusões depende
 ## Adoção de27/10/2026
 
 Método consolidado aprovado. Manuscrito acadêmico separado do dossiê; originais e relatórios preservados. Revisão interna: eco deliberado deEmanuel é Baixo, conexões alianciais específicas não são afirmações locais; integrações temáticas qualificadas permanecem. Tradução e núcleo não alterados. Ver revisao-metodo.md e ficha-manuscrito.json. Não se afirma auditoria independente ou transferência das14 notas.
+
+## Correções da consolidação em 27/10/2026
+
+- D39: relatórios usados como fundamento permanecem recuperáveis como acervo. EXE-09, EXE-12 e EXE-12B contêm conclusões parcialmente superadas, com aviso e remissão à revisão vigente; preservar seus bytes.
+- D40: P08, P19, P23 e P24 atualizadas para refletir a revisão de Emanuel, as funções documentais e a insuficiência editorial ainda pendente. Ficha corrigida: houve alteração interpretativa e ajuste da N004 na adoção anterior; não houve nova alteração exegética neste lote.
+- D41: consolidar prioridade das perguntas, contexto contínuo e avaliação de evidência convergente no corpo do método. Manuscrito permanece preliminar; aplicação contemporânea será preservada em derivado quando da revisão editorial.

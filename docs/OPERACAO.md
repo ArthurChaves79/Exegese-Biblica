@@ -24,6 +24,8 @@ python exegese.py auditar
 
 `auditar` confere cadastro, existência, ciclos, links locais dos documentos atuais cadastrados, IDs/âncoras/fontes das notas e alguns marcadores internos proibidos no manuscrito. Não verifica links externos, autenticidade de edições, correção do grego, completude do cadastro ou qualidade exegética. A conferência humana do texto acadêmico continua necessária.
 
+A busca comum inclui relatórios preservados e parcialmente superados; estes exibem aviso e caminho da revisão vigente. `--historico` acrescenta versões integralmente históricas. Função documental e situação interpretativa são distintas. A revisão vinculada informa o alcance da superação; não implica revalidar automaticamente o restante. Perguntas e decisões estão cadastradas e devem acompanhar a revisão de suas bases.
+
 ## Acrescentar uma fonte
 
 Salvar o texto recebido como UTF-8 e executar:

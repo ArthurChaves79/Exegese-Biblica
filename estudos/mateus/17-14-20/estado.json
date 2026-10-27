@@ -2,14 +2,15 @@
   "passagem": "Mt 17.14–21 (texto principal 14–20; v21 em nota)",
   "data": "2026-10-27",
   "etapa_atual": "Método consolidado adotado; manuscrito cumulativo separado; revisão interna de adequação executada",
-  "proxima": "Investigar questão pertinente e atualizar manuscrito e derivados conforme dependências",
+  "proxima": "Conferir encerramento documental da Prioridade 1 e seguir implantação gradual; desenvolvimento argumentativo do manuscrito ainda pendente",
   "reservado": "Mt 17.1–13",
   "pendencias": [
     "Revisão independente não realizada; revisão atual é interna e delimitada",
     "Sobrescritos perdidos do aparato não reconstruídos",
     "Consultas externas/edições de versões declaradas no EXE03 não reconferidas",
     "Respostas históricas integrais de outras etapas iniciais não recuperadas",
-    "Precisão de geração,mostarda,referência18 e alcance positivo da promessa permanecem qualificados"
+    "Precisão de geração,mostarda,referência18 e alcance positivo da promessa permanecem qualificados",
+    "Desenvolvimento argumentativo, revisão editorial e transferência da aplicação para derivado conforme ficha-manuscrito.json"
   ],
   "fontes_arquivadas": [
     "NA28",
@@ -65,7 +66,7 @@
     "documental": "concluído no escopo disponível",
     "validacao_integral_metodo": false,
     "revisao_independente": false,
-    "produto_15B": "produto anterior preservado; manuscrito atual cumulativo e revisável",
+    "produto_15B": "manuscrito preliminar; separação documental concluída, desenvolvimento argumentativo e entrega acadêmica pendentes",
     "relatorio": "estudos/mateus/17-14-20/EXE-15A-dossie-consolidado.md"
   },
   "produto_final": {

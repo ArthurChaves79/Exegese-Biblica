@@ -104,6 +104,10 @@ def audit(root):
         for dep in d.get('depende_de', []):
             if dep not in by_id:
                 errors.append('Dependência desconhecida: ' + dep)
+        if d['estado'] == 'parcialmente_superado':
+            revision = d.get('revisao_vigente')
+            if not revision or not (root / revision).is_file() or not d.get('alcance_superacao'):
+                errors.append('Superação parcial sem revisão ou alcance: ' + d['path'])
         if d['tipo'] == 'manuscrito':
             text = path.read_text(encoding='utf-8')
             if re.search(r'EXE[-‐–]?\d|VAL[-‐–]?\d|CTL[-‐–]?\d|\bcommit\b|\bversão\s*\d|módulo\s*\d', text, re.I):
@@ -168,6 +172,10 @@ def search(root, query, kind=None, historical=False):
         for name, snippet in rows:
             item_kind, state = classification(root, name)
             if (historical or state != 'historico') and (kind is None or item_kind == kind):
+                if state == 'parcialmente_superado':
+                    record = next(d for d in catalog(root) if d['path'] == name)
+                    snippet = ('[ACERVO PARCIALMENTE SUPERADO; conferir ' +
+                               record.get('revisao_vigente', 'revisão vigente') + '] ' + snippet)
                 selected.append((name, snippet))
         return selected[:30]
 

@@ -102,8 +102,8 @@
     {
       "id": "REL-EXE-03-recuperado-conferencia",
       "path": "estudos/mateus/17-14-20/EXE-03-recuperado-conferencia.md",
-      "tipo": "historico",
-      "estado": "historico",
+      "tipo": "acervo",
+      "estado": "preservado",
       "depende_de": [
         "FONTE-bdag-verbetes-mt17",
         "FONTE-carson-mt17",
@@ -119,8 +119,8 @@
     {
       "id": "REL-EXE-08B-comentario",
       "path": "estudos/mateus/17-14-20/EXE-08B-comentario.md",
-      "tipo": "historico",
-      "estado": "historico",
+      "tipo": "acervo",
+      "estado": "preservado",
       "depende_de": [
         "FONTE-bdag-verbetes-mt17",
         "FONTE-carson-mt17",
@@ -136,8 +136,8 @@
     {
       "id": "REL-EXE-08C-verso-a-verso",
       "path": "estudos/mateus/17-14-20/EXE-08C-verso-a-verso.md",
-      "tipo": "historico",
-      "estado": "historico",
+      "tipo": "acervo",
+      "estado": "preservado",
       "depende_de": [
         "FONTE-bdag-verbetes-mt17",
         "FONTE-carson-mt17",
@@ -153,8 +153,8 @@
     {
       "id": "REL-EXE-09-contexto-canonico",
       "path": "estudos/mateus/17-14-20/EXE-09-contexto-canonico.md",
-      "tipo": "historico",
-      "estado": "historico",
+      "tipo": "acervo",
+      "estado": "parcialmente_superado",
       "depende_de": [
         "FONTE-bdag-verbetes-mt17",
         "FONTE-carson-mt17",
@@ -165,13 +165,15 @@
         "FONTE-na28-mt17-reenvio",
         "FONTE-na28-mt17",
         "FONTE-westcott-hort-mt17-21"
-      ]
+      ],
+      "revisao_vigente": "estudos/mateus/17-14-20/revisao-metodo.md",
+      "alcance_superacao": "Eco deliberado de Emanuel e conexões alianciais específicas: conferir revisão vigente; demais argumentos preservados, sem aprovação automática."
     },
     {
       "id": "REL-EXE-10-historia-interpretacao",
       "path": "estudos/mateus/17-14-20/EXE-10-historia-interpretacao.md",
-      "tipo": "historico",
-      "estado": "historico",
+      "tipo": "acervo",
+      "estado": "preservado",
       "depende_de": [
         "FONTE-bdag-verbetes-mt17",
         "FONTE-carson-mt17",
@@ -187,8 +189,8 @@
     {
       "id": "REL-EXE-10B-avaliacao-canonica",
       "path": "estudos/mateus/17-14-20/EXE-10B-avaliacao-canonica.md",
-      "tipo": "historico",
-      "estado": "historico",
+      "tipo": "acervo",
+      "estado": "preservado",
       "depende_de": [
         "FONTE-bdag-verbetes-mt17",
         "FONTE-carson-mt17",
@@ -204,8 +206,8 @@
     {
       "id": "REL-EXE-11-sintese-sentido",
       "path": "estudos/mateus/17-14-20/EXE-11-sintese-sentido.md",
-      "tipo": "historico",
-      "estado": "historico",
+      "tipo": "acervo",
+      "estado": "preservado",
       "depende_de": [
         "FONTE-bdag-verbetes-mt17",
         "FONTE-carson-mt17",
@@ -221,8 +223,8 @@
     {
       "id": "REL-EXE-12-teologia-biblica",
       "path": "estudos/mateus/17-14-20/EXE-12-teologia-biblica.md",
-      "tipo": "historico",
-      "estado": "historico",
+      "tipo": "acervo",
+      "estado": "parcialmente_superado",
       "depende_de": [
         "FONTE-bdag-verbetes-mt17",
         "FONTE-carson-mt17",
@@ -233,13 +235,15 @@
         "FONTE-na28-mt17-reenvio",
         "FONTE-na28-mt17",
         "FONTE-westcott-hort-mt17-21"
-      ]
+      ],
+      "revisao_vigente": "estudos/mateus/17-14-20/revisao-metodo.md",
+      "alcance_superacao": "Eco deliberado de Emanuel e conexões alianciais específicas: conferir revisão vigente; demais argumentos preservados, sem aprovação automática."
     },
     {
       "id": "REL-EXE-12B-integracao-canonica",
       "path": "estudos/mateus/17-14-20/EXE-12B-integracao-canonica.md",
-      "tipo": "historico",
-      "estado": "historico",
+      "tipo": "acervo",
+      "estado": "parcialmente_superado",
       "depende_de": [
         "FONTE-bdag-verbetes-mt17",
         "FONTE-carson-mt17",
@@ -250,13 +254,15 @@
         "FONTE-na28-mt17-reenvio",
         "FONTE-na28-mt17",
         "FONTE-westcott-hort-mt17-21"
-      ]
+      ],
+      "revisao_vigente": "estudos/mateus/17-14-20/revisao-metodo.md",
+      "alcance_superacao": "Eco deliberado de Emanuel e conexões alianciais específicas: conferir revisão vigente; demais argumentos preservados, sem aprovação automática."
     },
     {
       "id": "REL-EXE-13-teologia-sistematica",
       "path": "estudos/mateus/17-14-20/EXE-13-teologia-sistematica.md",
-      "tipo": "historico",
-      "estado": "historico",
+      "tipo": "acervo",
+      "estado": "preservado",
       "depende_de": [
         "FONTE-bdag-verbetes-mt17",
         "FONTE-carson-mt17",
@@ -272,8 +278,8 @@
     {
       "id": "REL-EXE-13B-antropologia-etica-sabedoria",
       "path": "estudos/mateus/17-14-20/EXE-13B-antropologia-etica-sabedoria.md",
-      "tipo": "historico",
-      "estado": "historico",
+      "tipo": "acervo",
+      "estado": "preservado",
       "depende_de": [
         "FONTE-bdag-verbetes-mt17",
         "FONTE-carson-mt17",
@@ -289,8 +295,8 @@
     {
       "id": "REL-EXE-14-horizonte-aplicacao",
       "path": "estudos/mateus/17-14-20/EXE-14-horizonte-aplicacao.md",
-      "tipo": "historico",
-      "estado": "historico",
+      "tipo": "acervo",
+      "estado": "preservado",
       "depende_de": [
         "FONTE-bdag-verbetes-mt17",
         "FONTE-carson-mt17",
@@ -306,8 +312,8 @@
     {
       "id": "REL-EXE-15A-dossie-consolidado",
       "path": "estudos/mateus/17-14-20/EXE-15A-dossie-consolidado.md",
-      "tipo": "historico",
-      "estado": "historico",
+      "tipo": "acervo",
+      "estado": "preservado",
       "depende_de": [
         "FONTE-bdag-verbetes-mt17",
         "FONTE-carson-mt17",
@@ -452,7 +458,9 @@
       "depende_de": [
         "FICHA",
         "NOTAS-JSON",
-        "REVISAO"
+        "REVISAO",
+        "PERGUNTAS",
+        "DECISOES"
       ]
     },
     {
@@ -471,6 +479,24 @@
       "estado": "atual",
       "depende_de": [
         "CONTINUIDADE"
+      ]
+    },
+    {
+      "id": "PERGUNTAS",
+      "path": "estudos/mateus/17-14-20/perguntas.md",
+      "tipo": "acervo",
+      "estado": "atual",
+      "depende_de": [
+        "REVISAO"
+      ]
+    },
+    {
+      "id": "DECISOES",
+      "path": "estudos/mateus/17-14-20/decisoes.md",
+      "tipo": "acervo",
+      "estado": "atual",
+      "depende_de": [
+        "REVISAO"
       ]
     }
   ]

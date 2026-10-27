@@ -11,6 +11,8 @@ Método consolidado aprovado e adotado em 27/10/2026. Iniciar pelo [manuscrito a
 -14 notas Logos preparadas; sem transferência. IDs preservados.
 - Mt17.1–13 reservado. LEIA-PRIMEIRO,FONTES-01,POSTURA-01 não localizados; seguir regras vigentes sem inventar conteúdo histórico.
 
+O manuscrito existente é preliminar: a separação de metadados não demonstra ainda a profundidade explicativa aprovada. Consultar as pendências da ficha. Relatórios parcialmente superados continuam recuperáveis, com aviso e revisão vinculada; não usar conclusões antigas como vigentes.
+
 ## Próximo trabalho
 
 Prosseguir conforme a pergunta de pesquisa escolhida, sem reiniciar a redação do zero. Reavaliar graus se surgir evidência relevante. A precisão dos destinatários da censura, aspecto da mostarda e alcance positivo da promessa continuam qualificados. Auditoria independente, identificação exata de sobrescritos perdidos e verificação externa das consultas de versões03 permanecem limites reais, não bloqueio de toda investigação.
