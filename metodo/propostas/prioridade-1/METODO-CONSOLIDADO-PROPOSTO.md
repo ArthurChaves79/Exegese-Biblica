@@ -1,0 +1,147 @@
+# Método exegético — corpo consolidado proposto
+
+**Estado: proposta para revisão; não vigente.** Data:27/10/2026. Fonte normativa desta revisão: diretrizes expressas pelo pesquisador na solicitação da Prioridade1. Fontes documentais:22 originais disponíveis e protocolo operacional no repositório. Não se apresenta este texto como recuperação de documentos ausentes. O histórico e o diagnóstico ficam em arquivos separados. Sua aprovação não modifica automaticamente estudos anteriores.
+
+## 1. Finalidade e princípio de interpretação
+
+Investigar a passagem em profundidade linguística,literária,histórica,canônica e teológica e desenvolver uma interpretação argumentada,proporcional às evidências e aberta à revisão. A intenção comunicativa deve ser examinada no gênero e nos contextos da passagem,sem impor que toda unidade corrija erro ou possua um único versículo governante. Narrativa,promessa,lamento,adoração,advertência e outras funções podem coexistir.
+
+A leitura reconhece pressupostos e compromissos teológicos,mas os submete à evidência textual. Síntese dogmática,afinidade confessional,experiência pastoral e utilidade de uma aplicação não decidem variantes,referentes ou sentidos lexicais. Considerar alternativas defensáveis e contraevidências. Uma pergunta pode permanecer aberta;isso não transforma toda interpretação em indecidível.
+
+## 2. Funções documentais distintas
+
+| Objeto | Conteúdo próprio | Relação |
+|---|---|---|
+|Acervo de pesquisa|Fontes,relatórios completos,observações,hipóteses,alternativas,decisões,perguntas,auditorias,dependências e histórico|Fundamenta e permite revisar os outros objetos |
+|Manuscrito acadêmico cumulativo|Exposição desenvolvida do texto,argumentos,evidências,alternativas,referências e limites interpretativos pertinentes|Cresce progressivamente a partir da investigação;é a redação acadêmica principal |
+|Materiais derivados|Notas de consulta,estudo de grupo,aula,sermão,resumo,artigo de finalidade específica ou outros produtos solicitados|Derivam das conclusões pertinentes;mantêm vínculo externo com sua base |
+
+Um arquivo pode ter sido chamado mestre em pesquisa anterior;classificá-lo pela função e conteúdo,sem renomear ou apagar automaticamente. Dossiê de controle e manuscrito acadêmico não são o mesmo objeto. O programa de consulta e o Git servem à preservação;seus resultados não comprovam qualidade exegética.
+
+**Regra principal de redação:** o manuscrito acadêmico não menciona módulos,códigos de controles,versões,commits,histórico de execução,operações de ferramentas ou procedimentos internos. Essas informações ficam em ficha de acompanhamento no acervo. Pode e deve explicar métodos acadêmicos pertinentes,edições consultadas,opções de tradução,evidências e limitações substantivas sem narrar a execução interna.
+
+A redação acompanha a investigação desde suas primeiras conclusões pertinentes. A cada avanço,integrar uma explicação desenvolvida: dado textual→alternativas→avaliação→conclusão→alcance. Tabelas e esquemas auxiliam a prosa,não a substituem. Redação progressiva não autoriza antecipar conclusões ainda não investigadas. Se faltar base,delimitar a afirmação e manter a questão no acervo.
+
+## 3. Evidência,alcance e confiança — regra principal comum
+
+Separar fonte,observação,inferência,hipótese,conclusão e aplicação. Afirmação explícita,pressuposto contextual,inferência e compatibilidade são categorias de relação com o texto;não são automaticamente graus de certeza. Algo pode ser doutrinariamente verdadeiro em outro texto sem estar presente nesta passagem.
+
+Adotar Alto,Moderado e Baixo,sempre com motivo e limite,para confiança interpretativa. Registros antigos em Médio ou Muito Alto são conservados como históricos;qualquer equivalência depende de reavaliação,não conversão automática. O manuscrito expressa a qualificação em linguagem acadêmica,sem precisar reproduzir tabelas administrativas de graus.
+
+Para conexões amplas,registrar os elos e seus graus;a conclusão não excede o elo mais fraco. Vários indícios frágeis não se tornam argumento forte apenas por quantidade. Identificar se há evidência individual suficiente para o grau,distinguindo presença positiva de compatibilidade. Comparar leitura coerente sem a conexão proposta;se igualmente natural,não atribuir grau Alto à intenção intertextual. Uma relação temática pode ser válida sem ser alusão deliberada.
+
+Exame documental,revisão interpretativa interna,auditoria independente e fechamento editorial são resultados diferentes. Declarar somente o que foi efetivamente feito. Documento ausente não prova inexistência histórica,mas impede atribuir-lhe conteúdo ou certificar sua execução.
+
+## 4. Fontes e citação — regra principal comum
+
+Preservar texto recebido,referência,edição/localizador,cobertura,procedência e limitações. Não corrigir silenciosamente aparato,OCR,grego ou sobrescritos;registrar correção justificada em análise separada. Hash verifica integridade de arquivo,não autenticidade de edição ou fidelidade à mensagem original.
+
+Declarar consulta de obra integral,excerto,tradução,resumo,citação mediada ou página digital. Não inventar testemunhas,variantes,citações,páginas,consenso ou consultas. Falta de acesso limita a conclusão dependente;procurar fontes disponíveis antes de solicitar trecho específico. Bibliografia inclui apenas o que foi utilizado,com referência e localizador suficientes;sem cotas artificiais de referências. Atribuir interpretações tomadas de terceiros inclusive em paráfrase.
+
+Avaliar testemunhos e argumentos por qualidade e pertinência,sem decidir por prestígio confessional ou votação de comentários. Respeitar direitos de terceiros,privacidade e limites de publicação. Normas adicionais não localizadas não são presumidas:ver pendências da proposta.
+
+## 5. Percurso da investigação
+
+Os identificadores a seguir organizam o acervo;não são títulos obrigatórios do manuscrito. A ordem descreve dependências e permite retornos justificados. Uma etapa não é declarada executada pela presença de seu roteiro. O registro de cada etapa informa base efetiva,resultado,questões abertas,confiança,limites e partes afetadas do manuscrito. As regras comuns das seções1–4 não devem ser recopiadas em cada roteiro.
+
+### EXE-01 — Delimitação
+
+Investigar mudanças de participantes,cenário,tempo,gênero,tema e argumento;fórmulas,partículas,coesão,inclusões e paralelismos;relações anterior/posterior e função no livro. Confrontar delimitações alternativas efetivamente consultadas. Divisões editoriais são dados comparativos,não prova decisiva. Entregar delimitação justificada em prosa,alternativas e confiança;redigir a seção contextual correspondente.
+
+### EXE-01B — Localização na macroestrutura
+
+Explicar onde a unidade participa do argumento e da organização do livro. Identificar a estrutura proposta e suas alternativas quando disponíveis;avaliar contexto remoto e próximo sem pressupor que cada livro possui o mesmo tipo de progressão. A presente explicitação é proposta editorial baseada na pergunta do original breve,não recuperação de roteiro mais extenso.
+
+### EXE-02 — Crítica textual
+
+Usar edição e aparato efetivamente acessíveis e adequados ao corpus. Identificar leitura principal,variantes relevantes,testemunhas e dados externos verificáveis;avaliar antiguidade,distribuição e qualidade sem contagem mecânica. Distinguir probabilidade transcricional,intrínseca,estilo e contexto. Leituras difíceis/curtas não têm prioridade automática. Explicar impacto gramatical,semântico,exegético e teológico,preferência e limite. Conservar evidência integral no acervo e integrar ao manuscrito as decisões que afetam seu argumento.
+
+### EXE-03 — Tradução de trabalho
+
+Apresentar texto adotado,tradução literal inicial,segmentação de unidades e funções,dificuldades e alternativas,verbos principais e efeitos tradutórios,elementos não reproduzidos e comparação de versões realmente consultadas. Identificar lema,morfologia,aspecto,modo,voz e função conforme pertinência. Não preencher categorias de oração ausentes nem deduzir duração real apenas do tempo verbal. Produzir tradução de trabalho com notas,distinta de paráfrase e aplicação. Ela é revisável:uma alteração posterior exige justificativa e propagação,sem reatribuir reconstrução nova a registro histórico perdido.
+
+### EXE-04 — Sintaxe
+
+Analisar orações principais e subordinadas,coordenação,sujeitos,complementos,verbos,participiais,infinitivos,pronomes,referentes,conectivos e ambiguidades. Explicar marcador,opções e impacto sobre o sentido;usar blocos ou diagramas quando úteis. Distinguir categoria formal de função contextual e considerar alternativas. Reutilizar a identificação morfológica anterior,aprofundando-a ou corrigindo-a com registro,sem repetir inventários como fim em si mesmos.
+
+### EXE-05 — Discurso
+
+Identificar unidades,coesão lexical/referencial/conectiva,tema/reema,ênfases e relações de explicação,fundamentação,contraste,condição,propósito e resultado. Explicar progressão e função comunicativa segundo o gênero;em narrativa,examinar situação,conflitos,desenvolvimento,resolução e desfecho sem impor premissas de tratado. Quiasmo,ordem marcada e ênfase exigem evidência contextual. Não confundir aplicação interna ao discurso com aplicação contemporânea.
+
+### EXE-06 — Léxico
+
+Selecionar palavras,expressões,colocações e fórmulas por relevância. Identificar forma,lema,morfologia,domínio e alternativas de sentido;examinar contexto imediato,livro,autor e corpora históricos pertinentes. Comparações precisam considerar gênero,sintaxe e situação. Não usar etimologia como sentido contextual nem transferir totalidade semântica. Avaliar se um sentido técnico é exigido e justificar descarte de alternativas. Redigir o efeito exegético,sem acumular definições irrelevantes.
+
+### EXE-07 — Lacuna de origem
+
+O roteiro próprio não está disponível no conjunto localizado. Não reconstruí-lo como documento existente nem presumir centro quiástico. A investigação literária necessária continua documentada nas análises de delimitação,macroestrutura e discurso;isto não certifica execução do módulo ausente. Sua incorporação depende de recuperação e confronto com este corpo proposto.
+
+### EXE-08 — Contexto histórico-cultural
+
+Examinar dados políticos,sociais,religiosos,culturais,geográficos e históricos pertinentes,distinguindo fonte primária,reconstrução secundária e inferência sobre a passagem. Situar autor,destinatários e circunstâncias apenas conforme evidência disponível;avaliar alternativas e limites. Não converter pano de fundo em causa obrigatória,psicologia dos personagens ou detalhes narrativos. Desenvolver contexto que esclarece o sentido;documentar exclusões por falta de base.
+
+### EXE-08B — Comentário por unidades
+
+Integrar texto,sintaxe,discurso,léxico,estrutura e história em explicação contínua por unidades:conteúdo,função,relações,evidência,alternativas,decisão e alcance. Variantes entram onde afetam a interpretação. Explicitar progressão,temas emergentes e questões futuras sem antecipar sínteses dogmáticas ou aplicação atual. Essa integração aprofunda a redação que já acompanha a pesquisa,não inaugura apenas aqui o manuscrito.
+
+### EXE-08C — Conferência verso a verso
+
+Conferir cobertura de frases e relações do comentário,ligando cada versículo às unidades anteriores. Verificar grego,tradução,referentes,função e contribuição sem fragmentar o argumento ou duplicar todo o comentário. Partir da tradução identificada;se revisão necessária,voltar à análise e registrar o motivo. Não há proibição absoluta de revisão nem obrigação de produzir um segundo manuscrito paralelo. O acervo registra a conferência;explicações novas fundamentadas entram na redação acadêmica pertinente.
+
+### EXE-09 — Contexto canônico e história da redenção
+
+Situar o estágio redentivo;avaliar citações,referências explícitas,alusões,ecos,temas,alianças e tipologia por correspondência histórica e desenvolvimento demonstrável. Examinar contexto das fontes,função local,continuidade/descontinuidade e relação com Cristo e consumação quando sustentadas. Aplicar a regra de evidência da seção3;sem preencher todos os temas por obrigação. Auditorias anteriores são entradas somente se disponíveis;não presumir execução de controles ausentes.
+
+### EXE-10 — História da interpretação
+
+Organizar a investigação por questões relevantes e intérpretes efetivamente acessíveis:patrística,medieval,reformadora,pós-Reforma e moderna/contemporânea,conforme pertinência e cobertura real. Registrar interpretação,fundamentos,pressupostos,contribuições e limites. Distinguir consulta direta,compilação e atribuição mediada;testemunhos dependentes não são votos independentes. Identificar mudanças do texto interpretado e recepção quando documentada. Ausência de consulta não é ausência histórica de opinião.
+
+### EXE-10B — Avaliação das controvérsias
+
+Representar alternativas defensáveis;avaliar evidência favorável/contrária no contexto imediato,livro,cânon e síntese da revelação. Nenhum nível posterior anula arbitrariamente o anterior. Distinguir analogia escriturística de harmonização e compatibilidade de evidência positiva. Perguntar que dado confirmaria ou enfraqueceria a proposta e se existe. Concluir proporcionalmente,com tensões preservadas;remeter novas evidências às análises dependentes.
+
+### EXE-11 — Síntese do sentido
+
+Integrar apenas resultados pertinentes para responder o que a passagem comunica,como e com qual finalidade. Identificar assunto,funções,necessidades,afirmações e conflitos quando presentes. Uma frase sintética pode ajudar,mas não se exige erro corretivo único ou que o tema aparente seja mero pretexto. Distinguir momentos de ação,ênfase,explicação e estrutura;somente propor centro governante se demonstrável. A síntese registra explícito,pressuposto,inferência e compatibilidade,alternativas e ambiguidades. É a base identificada para desenvolvimento teológico,revisável por evidência.
+
+### EXE-12 — Teologia bíblica
+
+Partir da síntese identificada,sem redescobri-la segundo tema preferido nem congelá-la contra evidência nova. Explicar contribuição ao livro e à progressão redentiva:antecedentes,novidade,continuidade,desenvolvimento,cumprimento e consumação quando pertinentes. Distinguir relação direta com Cristo de tipologia,profecia ou articulação temática. Preservar a particularidade da passagem e a regra da seção3. Alteração do sentido retorna à investigação e revisa a síntese antes de uso.
+
+### EXE-12B — Integração temática
+
+Aprofundar os temas efetivamente sustentados:raízes significativas,textos-chave,progressão e relações conceituais. Não alegar primeira ocorrência absoluta sem investigação suficiente nem exigir cobertura artificial de cada corpus. Diferenciar rede temática,intenção intertextual e relações causais. Referir análises já feitas sem repeti-las;explicitar o ganho desta integração e seus graus.
+
+### EXE-13 — Contribuição sistemática
+
+Selecionar loci pertinentes,diferenciando afirmação local,pressuposto,inferência forte/possível e especulação. Explicar confirmação,nuance e limite diante do ensino global. Comparar credos,confissões e formulações históricas somente quando consultados e pertinentes,sem torná-los prova da leitura local. Avaliar controvérsias com evidência e hierarquia clara;evitar um tratado obrigatório de todos os loci.
+
+### EXE-13B — Antropologia,ética e sabedoria
+
+Reconstruir a visão de Deus,mundo,pessoa,conhecimento e vida sustentada pelo texto. Distinguir causa,manifestação e consequência;sofrimento,pecado,responsabilidade,limites e circunstâncias. Examinar coração,desejos,afetos,vontade,relações,queda e redenção sem inventar motivos. Identificar normas,virtudes,princípios e relações sociais pertinentes. É ponte para aplicação,não diagnóstico de pessoa atual ou catálogo obrigatório de todas as esferas.
+
+### EXE-14 — Aplicação
+
+Relacionar situação/função original,sentido,teologia,ponte justificada e resposta atual. Registrar continuidade/descontinuidade de destinatários,funções,estágio redentivo e práticas. Distinguir mandamento,implicação e conselho prudencial;não elevar alternativa aberta a obrigação. Desenvolver somente áreas pertinentes. No aconselhamento,ouvir e não inferir motivo secreto ou culpa do sofrimento por analogia. Fundamentar a resposta na ação de Deus e obra de Cristo sem alegoria ou mérito humano. Estudo,oração e dependência do Espírito não são operações verificáveis de ferramenta ou garantias de acerto. Aplicação entra em seção própria do manuscrito se pertinente à finalidade,ou no derivado solicitado;sem remissão a módulo retirado.
+
+### EXE-15A — Consolidação do acervo
+
+Reunir cobertura real,decisões,ideia/funções,conclusões,alternativas,fontes,questões,aplicações investigadas e dependências. Vincular relatórios completos. Distinguir questão aberta após investigação de falta de dado essencial;esta bloqueia só o dependente. Não preencher lacunas por fluência. Consolidar não elimina fontes nem interrompe revisabilidade. Metadados e histórico ficam aqui,no acervo,fora do manuscrito.
+
+### EXE-15B — Revisão e entrega acadêmica
+
+Revisar o manuscrito que já cresceu durante a pesquisa,em vez de inaugurar a redação acadêmica ao fim. Adequar gênero,público,extensão,técnica e referências. Modalidades:exposição,artigo,relatório de pesquisa ou estudo delimitado de questão. Artigo pode incluir resumo/tese quando apropriado;exposição segue movimento textual sem exigir novidade. Relatório operacional pertence ao acervo e não deve ser confundido com manuscrito acadêmico sem procedimentos internos. Parâfrase é opcional,rotulada e rastreável,sem novo argumento. Conferir alternativas,fontes,coerência,confiança e limites;questão nova retorna à pesquisa antes de integrar a entrega. A ficha operacional acompanha em arquivo separado. Aula,sermão e notas são derivados com base identificada e aplicação pertinente,sem etapa adicional obrigatória.
+
+## 6. Revisão e propagação — regra principal comum
+
+Uma interpretação pode ser revisada em qualquer momento com razão e evidência. Registrar no acervo a decisão anterior,nova decisão,motivo,fontes,grau e documentos afetados. Revisar tradução,comentário,síntese,teologia,aplicação,manuscrito e derivados conforme dependência real. Um ajuste tipográfico não obriga reconstruir toda a cadeia;mudança de sentido exige rastrear seus efeitos.
+
+Manter identificadores locais estáveis e vínculos externos dos derivados;retirar ou corrigir material superado sem apagar o histórico. Metadados de versão e rastreabilidade ficam fora do manuscrito acadêmico. A regra comum de evidência está na seção3;a de fontes na4;a de separação documental na2. Não criar apêndices sucessivos de instruções conflitantes:revisar o corpo principal e registrar mudança em histórico separado.
+
+## 7. Organização,execução e aceitação
+
+Originais e fontes permanecem íntegros. O índice do acervo distingue vigente,proposto e histórico por status e procedência,não pelo nome do arquivo. A aprovação desta proposta e o confronto com documentos faltantes precedem substituição da orientação vigente. A adoção posterior deverá atualizar os roteiros operacionais e remissões em um conjunto coerente;nenhuma referência a uma etapa retirada permanecerá como dependência ativa.
+
+Antes de encerrar uma etapa,verificar relação com evidência,alternativas,conclusões e manuscrito. Antes de entregar produto,conferir integridade,referências e propagação. Confirmar publicação apenas após verificação do destino. Preservação digital não significa sincronização com outros aplicativos ou perda zero.
+
+Aceitação desta revisão:regras com lugar principal definido;remissões coerentes;profundidade preservada;manuscrito sem procedimentos internos;histórico separado;originais e estudos intactos;pendências explícitas. Isso mede coerência documental,não validação da qualidade exegética. Esta proposta não reescreve Mateus,desenvolve novos programas ou implanta prioridades futuras.

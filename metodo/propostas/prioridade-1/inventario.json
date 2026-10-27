@@ -1,0 +1,217 @@
+{
+  "data": "2026-10-27",
+  "base_commit": "3db5b5b6abfd39b38f7bcf999f63925a59fd03d6",
+  "originais": [
+    {
+      "anexo": "01-01-EXE-15A-Consolidac-a-o-da-Pesquisa-Exege-tica.md",
+      "repositorio": "metodo/originais/01-01-EXE-15A-Consolidac-a-o-da-Pesquisa-Exege-tica.md",
+      "sha256": "1f0c8cdec19370304eb115bade0e8e491843c26e04edc9bbc8056dc4eed21ed0",
+      "coincide_com_manifesto_remoto": true,
+      "revisao_declarada": "**Revisão:** 05 — 11 de outubro de 2026. **Natureza:** consolidação rastreável, não redação persuasiva nem nova exegese.",
+      "status": "original preservado;fonte de instrução disponível,não prova de execução",
+      "referencias_EXE16": [
+        9
+      ]
+    },
+    {
+      "anexo": "02-EXE-01-Delimitac-a-o-da-Peri-cope.md",
+      "repositorio": "metodo/originais/02-EXE-01-Delimitac-a-o-da-Peri-cope.md",
+      "sha256": "9402081a942a0fb6ae4e50fa3d16703f29602bef4186fa901befa234648307ee",
+      "coincide_com_manifesto_remoto": true,
+      "revisao_declarada": "sem revisão explícita identificada",
+      "status": "original preservado;fonte de instrução disponível,não prova de execução",
+      "referencias_EXE16": []
+    },
+    {
+      "anexo": "03-EXE-03-Traduc-a-o-Exege-tica-de-Trabalho.md",
+      "repositorio": "metodo/originais/03-EXE-03-Traduc-a-o-Exege-tica-de-Trabalho.md",
+      "sha256": "183829666910418a3b0b790d74118a65c145c12bef187ea4a6b8aca499b7c56f",
+      "coincide_com_manifesto_remoto": true,
+      "revisao_declarada": "sem revisão explícita identificada",
+      "status": "original preservado;fonte de instrução disponível,não prova de execução",
+      "referencias_EXE16": []
+    },
+    {
+      "anexo": "04-EXE-02-Cri-tica-Textual.md",
+      "repositorio": "metodo/originais/04-EXE-02-Cri-tica-Textual.md",
+      "sha256": "50ca1a0882f647bcb456b1b0b5d8f13796abc309534ab3f157fef2b7946a8c58",
+      "coincide_com_manifesto_remoto": true,
+      "revisao_declarada": "sem revisão explícita identificada",
+      "status": "original preservado;fonte de instrução disponível,não prova de execução",
+      "referencias_EXE16": []
+    },
+    {
+      "anexo": "05-EXE-10-Histo-ria-da-Interpretac-a-o-Wirkungsgeschichte-.md",
+      "repositorio": "metodo/originais/05-EXE-10-Histo-ria-da-Interpretac-a-o-Wirkungsgeschichte-.md",
+      "sha256": "33c359236c32ff07e259efb0f0131781c0db9af40a31d7a565385f6fff0dbbc4",
+      "coincide_com_manifesto_remoto": true,
+      "revisao_declarada": "sem revisão explícita identificada",
+      "status": "original preservado;fonte de instrução disponível,não prova de execução",
+      "referencias_EXE16": []
+    },
+    {
+      "anexo": "06-EXE-13-Teologia-Sistema-tica-da-Peri-cope.md",
+      "repositorio": "metodo/originais/06-EXE-13-Teologia-Sistema-tica-da-Peri-cope.md",
+      "sha256": "39998f7ddad9a625f94729ff2c4a1962d63f986c9bfe300e475fab95123ffb56",
+      "coincide_com_manifesto_remoto": true,
+      "revisao_declarada": "sem revisão explícita identificada",
+      "status": "original preservado;fonte de instrução disponível,não prova de execução",
+      "referencias_EXE16": []
+    },
+    {
+      "anexo": "07-EXE-12B-Integrac-a-o-Cano-nica-Tema-tica.md",
+      "repositorio": "metodo/originais/07-EXE-12B-Integrac-a-o-Cano-nica-Tema-tica.md",
+      "sha256": "d10c050013c0bd2f7d2e936eec2d2c9844e24640eb19f8343a7205c42815dc6c",
+      "coincide_com_manifesto_remoto": true,
+      "revisao_declarada": "sem revisão explícita identificada",
+      "status": "original preservado;fonte de instrução disponível,não prova de execução",
+      "referencias_EXE16": []
+    },
+    {
+      "anexo": "08-EXE-10B-Avaliac-a-o-Cano-nica-das-Questo-es-Controvertidas.md",
+      "repositorio": "metodo/originais/08-EXE-10B-Avaliac-a-o-Cano-nica-das-Questo-es-Controvertidas.md",
+      "sha256": "fd4a5cd39b4898e639e4ef94df2965b11e0010c8c87484ebfff35d76c77794fa",
+      "coincide_com_manifesto_remoto": true,
+      "revisao_declarada": "sem revisão explícita identificada",
+      "status": "original preservado;fonte de instrução disponível,não prova de execução",
+      "referencias_EXE16": []
+    },
+    {
+      "anexo": "09-EXE-04-Ana-lise-Sinta-tica.md",
+      "repositorio": "metodo/originais/09-EXE-04-Ana-lise-Sinta-tica.md",
+      "sha256": "808aadcb80781fb8bcd059f7b709e9726c6ac6095451dbe9c1d5a9701086933d",
+      "coincide_com_manifesto_remoto": true,
+      "revisao_declarada": "sem revisão explícita identificada",
+      "status": "original preservado;fonte de instrução disponível,não prova de execução",
+      "referencias_EXE16": []
+    },
+    {
+      "anexo": "10-EXE-08C-Comenta-rio-Verso-a-Verso.md",
+      "repositorio": "metodo/originais/10-EXE-08C-Comenta-rio-Verso-a-Verso.md",
+      "sha256": "e25319c6f4051303e86d2a566fb1550b68714973be9bcb7daa307568a7ca6ce6",
+      "coincide_com_manifesto_remoto": true,
+      "revisao_declarada": "sem revisão explícita identificada",
+      "status": "original preservado;fonte de instrução disponível,não prova de execução",
+      "referencias_EXE16": []
+    },
+    {
+      "anexo": "11-EXE-13B-Implicac-o-es-Antropolo-gicas-E-ticas-e-Sapienciais.md",
+      "repositorio": "metodo/originais/11-EXE-13B-Implicac-o-es-Antropolo-gicas-E-ticas-e-Sapienciais.md",
+      "sha256": "c1a782cb707726fe2653c9a6bc523635e7b7f580c4e9b89a96ac5cd99540b421",
+      "coincide_com_manifesto_remoto": true,
+      "revisao_declarada": "sem revisão explícita identificada",
+      "status": "original preservado;fonte de instrução disponível,não prova de execução",
+      "referencias_EXE16": []
+    },
+    {
+      "anexo": "12-EXE-08-Contexto-Histo-rico-Cultural.md",
+      "repositorio": "metodo/originais/12-EXE-08-Contexto-Histo-rico-Cultural.md",
+      "sha256": "4d5f637b4f0135f11d2c5761ef967fa8ce27c8c841873a1358bbcd2d457c38df",
+      "coincide_com_manifesto_remoto": true,
+      "revisao_declarada": "sem revisão explícita identificada",
+      "status": "original preservado;fonte de instrução disponível,não prova de execução",
+      "referencias_EXE16": []
+    },
+    {
+      "anexo": "13-EXE-01B-Localizac-a-o-da-Peri-cope-na-Macroestrutura-do-Livro.md",
+      "repositorio": "metodo/originais/13-EXE-01B-Localizac-a-o-da-Peri-cope-na-Macroestrutura-do-Livro.md",
+      "sha256": "60c9b4b477a2df147292b369c1ab85e40d8cdeea851890286e8a61ad3618dec0",
+      "coincide_com_manifesto_remoto": true,
+      "revisao_declarada": "sem revisão explícita identificada",
+      "status": "original preservado;fonte de instrução disponível,não prova de execução",
+      "referencias_EXE16": []
+    },
+    {
+      "anexo": "14-14-EXE-15B-Redac-a-o-do-Artigo-Exege-tico-Final.md",
+      "repositorio": "metodo/originais/14-14-EXE-15B-Redac-a-o-do-Artigo-Exege-tico-Final.md",
+      "sha256": "20b51dfb31cce3f471765f8ca3113b12c809149d058845be44d220ea4bbed332",
+      "coincide_com_manifesto_remoto": true,
+      "revisao_declarada": "**Revisão:** 05 — 11 de outubro de 2026. **Natureza:** módulo editorial, não nova investigação nem auditoria.",
+      "status": "original preservado;fonte de instrução disponível,não prova de execução",
+      "referencias_EXE16": [
+        22,
+        121
+      ]
+    },
+    {
+      "anexo": "15-EXE-09-Contexto-Cano-nico-e-Histo-ria-da-Redenc-a-o.md",
+      "repositorio": "metodo/originais/15-EXE-09-Contexto-Cano-nico-e-Histo-ria-da-Redenc-a-o.md",
+      "sha256": "a1d207dc1bed5865d3033ef3977aee4df70d3e5f7033c9a7191bb38728c75469",
+      "coincide_com_manifesto_remoto": true,
+      "revisao_declarada": "sem revisão explícita identificada",
+      "status": "original preservado;fonte de instrução disponível,não prova de execução",
+      "referencias_EXE16": []
+    },
+    {
+      "anexo": "16-EXE-08B-Comenta-rio-Exege-tico-da-Peri-cope.md",
+      "repositorio": "metodo/originais/16-EXE-08B-Comenta-rio-Exege-tico-da-Peri-cope.md",
+      "sha256": "f88b6f6f57f49075cbc0a0374fea5d371577997b9bf14e968b7d5e128a5b7301",
+      "coincide_com_manifesto_remoto": true,
+      "revisao_declarada": "sem revisão explícita identificada",
+      "status": "original preservado;fonte de instrução disponível,não prova de execução",
+      "referencias_EXE16": []
+    },
+    {
+      "anexo": "17-EXE-05-Ana-lise-Discursiva.md",
+      "repositorio": "metodo/originais/17-EXE-05-Ana-lise-Discursiva.md",
+      "sha256": "5df3939063cd6fa71b619918e5b86ff5afab2ef090973e7efe7167883e1843e1",
+      "coincide_com_manifesto_remoto": true,
+      "revisao_declarada": "sem revisão explícita identificada",
+      "status": "original preservado;fonte de instrução disponível,não prova de execução",
+      "referencias_EXE16": []
+    },
+    {
+      "anexo": "18-CTL-01-Controle-de-Peso-de-Evide-ncia.md",
+      "repositorio": "metodo/originais/18-CTL-01-Controle-de-Peso-de-Evide-ncia.md",
+      "sha256": "4f84b6a7d018f97586665c6badcbdf86b1a5929b885179ecfad10857928eb8d3",
+      "coincide_com_manifesto_remoto": true,
+      "revisao_declarada": "sem revisão explícita identificada",
+      "status": "original preservado;fonte de instrução disponível,não prova de execução",
+      "referencias_EXE16": []
+    },
+    {
+      "anexo": "19-19-EXE-14-Horizonte-Hermene-utico-e-Aplicac-a-o-1-.md",
+      "repositorio": "metodo/originais/19-19-EXE-14-Horizonte-Hermene-utico-e-Aplicac-a-o-1-.md",
+      "sha256": "17a0dd328074319de4e05b2715e736eb0b43a8768e1f68d067826ef3c8d6b4c2",
+      "coincide_com_manifesto_remoto": true,
+      "revisao_declarada": "**Revisão:** 05 — 11 de outubro de 2026.",
+      "status": "original preservado;fonte de instrução disponível,não prova de execução",
+      "referencias_EXE16": [
+        60
+      ]
+    },
+    {
+      "anexo": "20-EXE-11-Si-ntese-Exege-tica-e-Determinac-a-o-do-Sentido-1-.md",
+      "repositorio": "metodo/originais/20-EXE-11-Si-ntese-Exege-tica-e-Determinac-a-o-do-Sentido-1-.md",
+      "sha256": "043902b03576ad4f0f8de5597996f234ae85a645a3929d677277222002840a75",
+      "coincide_com_manifesto_remoto": true,
+      "revisao_declarada": "sem revisão explícita identificada",
+      "status": "original preservado;fonte de instrução disponível,não prova de execução",
+      "referencias_EXE16": []
+    },
+    {
+      "anexo": "21-EXE-12-Teologia-Bi-blica-da-Peri-cope-1-.md",
+      "repositorio": "metodo/originais/21-EXE-12-Teologia-Bi-blica-da-Peri-cope-1-.md",
+      "sha256": "db801cbe71df2a00832ffb72a516a83f947827003a0d5decd13535c450700b90",
+      "coincide_com_manifesto_remoto": true,
+      "revisao_declarada": "sem revisão explícita identificada",
+      "status": "original preservado;fonte de instrução disponível,não prova de execução",
+      "referencias_EXE16": []
+    },
+    {
+      "anexo": "22-EXE-06-Ana-lise-Lexical-1-.md",
+      "repositorio": "metodo/originais/22-EXE-06-Ana-lise-Lexical-1-.md",
+      "sha256": "85f18a2f828a80f66d238bcec19846b0d1e22d07e970ca9ead4f2f1f2253087b",
+      "coincide_com_manifesto_remoto": true,
+      "revisao_declarada": "sem revisão explícita identificada",
+      "status": "original preservado;fonte de instrução disponível,não prova de execução",
+      "referencias_EXE16": []
+    }
+  ],
+  "buscas": {
+    "repositorio": "árvore completa main;somente branch main listada",
+    "biblioteca": "duas rodadas de buscas amplas/nominais sem resultados;ausência não certifica inexistência",
+    "contexto_anterior": "serviço indisponível;proposta integral da outra conversa não recuperada"
+  },
+  "controle": "Hashes de22 anexos coincidem com manifesto remoto;originais não editados"
+}
