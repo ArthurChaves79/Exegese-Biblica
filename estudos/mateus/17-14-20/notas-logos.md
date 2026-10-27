@@ -1,12 +1,12 @@
 # Notas essenciais para o Logos — Mateus17.14–21
 
-Versão0.1.1,26/10/2026. **Estado: preparadas e versionadas; não inseridas no aplicativo.** IDs locais estáveis do projeto, não identificadores nativos do Logos nem entradas globais de curadoria. Caderno sugerido: “Mateus17.14–21 — Pesquisa”. As referências abaixo indicam âncoras bíblicas sugeridas; não representam vínculos já criados no Logos.
+Versão0.1.2,26/10/2026. **Estado: preparadas e versionadas; não inseridas no aplicativo.** IDs locais estáveis do projeto, não identificadores nativos do Logos nem entradas globais de curadoria. Caderno sugerido: “Mateus17.14–21 — Pesquisa”. As referências abaixo indicam âncoras bíblicas sugeridas; não representam vínculos já criados no Logos.
 
 Manter o ID no título ou corpo ao transferir manualmente. Revisar a nota existente pelo ID em futuras versões; não renumerar, reutilizar ou criar duplicata para a mesma nota. Se o Logos gerar um link/ID nativo, registrá-lo como campo adicional, preservando nosso ID. Não se afirma que o JSON seja um formato de importação aceito pelo aplicativo. Sua função é preservar estrutura, consulta e futuras transformações. Fonte editorial: [documento mestre](documento-mestre.md); análises completas permanecem nos relatórios.
 
 ## MT1714-21-N001 — Procedência da tradução de trabalho
 
-**Referência sugerida:** Mateus 17.14–20. **Versão:** 0.1.1. **Confiança/procedência:** Documental.
+**Referência sugerida:** Mateus 17.14–20. **Versão:** 0.1.2. **Confiança/procedência:** Documental.
 
 O EXE-03 foi recuperado e reenviado pelo pesquisador após a consolidação0.1.0. Foram preservados o texto recebido e uma conferência com08C. O mestre0.1.1 usa a tradução de trabalho da seção6 recuperada. A recomposição08C permanece posterior e preservada. A lacuna de acesso ao relatório foi suprida; links e edições exatas das versões declaradas não acompanharam o reenvio e não foram reconferidos nesta operação. Recuperação documental não equivale a auditoria técnica independente.
 
@@ -15,6 +15,8 @@ O EXE-03 foi recuperado e reenviado pelo pesquisador após a consolidação0.1.0
 **Etiquetas:** mt1714-21, procedencia, traducao.
 
 **Atualização:** EXE-03 recuperado; ver [conferência](EXE-03-recuperado-conferencia.md).
+
+**Conferência0.1.2:** grego03 coincide com principal NA28 reenviado após normalização; ver [relatório](conferencia-na28-reenvio.md).
 
 ## MT1714-21-N002 — Unidade e dois momentos decisivos
 

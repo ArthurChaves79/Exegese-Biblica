@@ -44,3 +44,5 @@ Alterar uma decisão exige revisar tradução, comentário e conclusões depende
 - D33: toda nova etapa/revisão deverá atualizar mestre, notas afetadas, perguntas, decisões, continuidade e manifesto no mesmo conjunto; históricos preservados.
 
 - D34: EXE-03 recuperado por reenvio do usuário. A lacuna de acesso foi suprida;08C permanece recomposição posterior. Mestre0.1.1 usa a seção6 do03. Comparação mostra diferenças portuguesas sem mudança textual ou de ideia. Conferências de versões declaradas no relatório não foram repetidas; não inventar links originais.
+
+- D35: reenvio NA28 preservado separadamente; comparação normalizada confirma principal03 e conteúdo anterior. Apenas pontuação bibliográfica difere após normalização. Mestre0.1.2; nenhuma nova decisão textual ou restauração de sobrescritos.

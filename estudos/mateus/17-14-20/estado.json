@@ -1,7 +1,7 @@
 {
   "passagem": "Mt 17.14–21 (texto principal 14–20; v21 em nota)",
   "data": "2026-10-26",
-  "etapa_atual": "Recuperação documental EXE-03 incorporada ao mestre0.1.1; sem avanço de etapa",
+  "etapa_atual": "Conferência documental do reenvio NA28 e EXE-03 incorporada ao mestre0.1.2",
   "proxima": "Retomada pelo documento mestre; EXE-14 permanece não executada. EXE-13B já publicada e preservada.",
   "reservado": "Mt 17.1–13",
   "pendencias": [
@@ -36,7 +36,7 @@
   "documento_mestre": {
     "id": "MT1714-21-MESTRE",
     "path": "estudos/mateus/17-14-20/documento-mestre.md",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "natureza": "consolidacao_intermediaria_cumulativa",
     "base_ate": "EXE-13, com desenvolvimento EXE-13B já disponível e identificado",
     "aplicacao": "EXE-14 não executada"
@@ -55,5 +55,10 @@
     "ids": "MT1714-21-N001 a MT1714-21-N013",
     "status": "preparadas e versionadas; não transferidas ao aplicativo",
     "origem": "documento mestre; relatórios completos preservados"
+  },
+  "conferencia_NA28": {
+    "relatorio": "estudos/mateus/17-14-20/conferencia-na28-reenvio.md",
+    "fonte": "fontes/logos/na28-mt17-reenvio.txt",
+    "resultado": "Grego03 coincide com principal; arquivo anterior sem diferença substantiva; sinais ausentes não restaurados"
   }
 }

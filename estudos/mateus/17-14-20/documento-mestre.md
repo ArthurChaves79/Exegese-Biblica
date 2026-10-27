@@ -1,6 +1,6 @@
 # Mateus 17.14–21 — Documento exegético mestre
 
-**Identificador do projeto:** MT1714-21-MESTRE. **Versão:** 0.1.1, 26/10/2026. **Natureza:** consolidação intermediária cumulativa, com exposição argumentativa e trilha de evidências. **Texto principal adotado:**17.14–20; **17.21:** tradição textual examinada em nota. A designação14–21 amplia a cobertura documental sem alterar a decisão textual D03 ou renomear o diretório histórico.
+**Identificador do projeto:** MT1714-21-MESTRE. **Versão:** 0.1.2, 26/10/2026. **Natureza:** consolidação intermediária cumulativa, com exposição argumentativa e trilha de evidências. **Texto principal adotado:**17.14–20; **17.21:** tradição textual examinada em nota. A designação14–21 amplia a cobertura documental sem alterar a decisão textual D03 ou renomear o diretório histórico.
 
 **Base de integração:** relatórios e fontes disponíveis até EXE-13. A EXE-13B, já publicada antes desta solicitação, permanece preservada e identificada como desenvolvimento posterior à sistemática. Esta consolidação não constitui avanço de etapa nem encerramento EXE-15A, artigo final EXE-15B ou validação independente. Mt17.1–13 continua reservado.
 
@@ -48,6 +48,8 @@ O texto grego, extraído do08C e conferível no excerto NA28 fornecido, está no
 
 <a id="mt1714-21-m-002"></a>
 ## 2. Delimitação, contexto e decisões textuais
+
+**Conferência documental0.1.2:** o pesquisador reenviou o grego e aparato NA28. O grego segmentado do03 recuperado coincide com o principal após normalização de Unicode, espaços e apóstrofos e retirada dos sinais. O arquivo anterior coincide em conteúdo; diferença normalizada restrita à pontuação bibliográfica. Ver [conferência](conferencia-na28-reenvio.md). Não houve nova decisão textual ou restauração de sobrescritos.
 
 A unidade reúne uma cena pública14–18 e uma conversa privada19–20. O relato do fracasso16 é retomado na pergunta19, e a resposta20 interpreta precisamente essa incapacidade. Separar a cura da instrução enfraqueceria a progressão; tratar toda a cura como pretexto apagaria o atendimento do menino. A mudança de assunto a partir17.22 ajuda a reconhecer o encerramento. O21 é incluído no escopo documental porque sua presença em parte da tradição marcou a recepção e algumas traduções.
 
