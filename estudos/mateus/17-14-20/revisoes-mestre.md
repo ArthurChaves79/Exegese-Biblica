@@ -9,3 +9,5 @@ A identificação do commit que publica cada versão é recuperável no históri
 |0.1.1|26/10/2026|0.1.0|EXE-03 recuperado pelo pesquisador; tradução incorporada; auditoria retificada com histórico;IDs de notas preservados|Mestre,N001/N003/N008,estado,continuidade,decisões,perguntas|
 
 |0.1.2|26/10/2026|0.1.1|Reenvio NA28 preservado e conferido com arquivo anterior e grego03; sem mudança de leitura|Mestre,N001,estado,continuidade,manifesto|
+
+|0.2.0|26/10/2026|0.1.2|EXE-14 elaborada e integrada à seção14;notaN014 criada eN012 atualizada|Mestre,notas,continuidade,estado,perguntas,decisões;sem revisão textual|

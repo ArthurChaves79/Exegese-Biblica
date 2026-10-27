@@ -1,3 +1,5 @@
+> **Versão do conjunto0.2.0:**14 notas preparadas;N012 revisada;N014 acrescentada;IDs anteriores preservados.
+
 # Notas essenciais para o Logos — Mateus17.14–21
 
 Versão0.1.2,26/10/2026. **Estado: preparadas e versionadas; não inseridas no aplicativo.** IDs locais estáveis do projeto, não identificadores nativos do Logos nem entradas globais de curadoria. Caderno sugerido: “Mateus17.14–21 — Pesquisa”. As referências abaixo indicam âncoras bíblicas sugeridas; não representam vínculos já criados no Logos.
@@ -124,9 +126,9 @@ At3.12–16 situa a eficácia em Jesus, sem provar o motivo psicológico do frac
 
 ## MT1714-21-N012 — Sofrimento e responsabilidade no aconselhamento
 
-**Referência sugerida:** Mateus 17.15–20. **Versão:** 0.1.0. **Confiança/procedência:** Inferência forte com limites de integração.
+**Referência sugerida:** Mateus 17.15–20. **Versão:** 0.2.0. **Confiança/procedência:** Inferência forte com limites de integração.
 
-O menino necessita de socorro; os discípulos necessitam de correção e ensino. A causa do fracasso deles não é automaticamente a causa da doença. O texto não revela todos os motivos do coração e não chama desejo de alívio corporal de idolatria. A autoridade de Jesus para diagnosticar não concede ao conselheiro acesso imediato a motivos secretos. Misericórdia, responsabilidade e esperança se articulam. Esta é implicação antropológica já documentada13B; aplicações individuais da EXE-14 permanecem pendentes.
+O menino necessita de socorro; os discípulos necessitam de correção e ensino. A causa do fracasso deles não é automaticamente a causa da doença. O texto não revela todos os motivos do coração e não chama desejo de alívio corporal de idolatria. A autoridade de Jesus para diagnosticar não concede ao conselheiro acesso imediato a motivos secretos. Misericórdia, responsabilidade e esperança se articulam. Esta é implicação antropológica já documentada13B; a EXE-14 desenvolve agora aplicações gerais, sem diagnóstico de pessoa real.
 
 **Base:** [Mestre, mt1714-21-m-011](documento-mestre.md#mt1714-21-m-011); [EXE-13B-antropologia-etica-sabedoria.md](EXE-13B-antropologia-etica-sabedoria.md).
 
@@ -145,3 +147,11 @@ Ao libertar e curar o menino que os discípulos não puderam socorrer, Jesus man
 ## Atualização
 
 Uma mudança textual afeta traduções, exposição e notas pertinentes; uma mudança no alcance interpretativo afeta a nota e seu grau, sem alterar silenciosamente a tradução. A relação completa ID→seção→fontes está em [notas-logos.json](notas-logos.json). Estas notas são produto derivado do mestre, nunca evidência independente para confirmar o próprio mestre.
+
+## MT1714-21-N014 — Aplicação: confiança, cuidado e discernimento
+
+**Referência sugerida:** Mateus17.14–21. **Versão:**0.2.0. **Grau:** Alto no núcleo local;Moderado nas pontes específicas;exemplos prudenciais.
+
+A aplicação reúne busca confiante de socorro, cuidado concreto e receptividade à correção. A comissão não produz poder autônomo. A causa20 foi revelada para o fracasso dos discípulos;não é diagnóstico automático da aflição de todo paciente. A extensão à Igreja consideraAt3,1Co12,Tg5,Hb11 e2Co12,sem equiparar todos aos doze. A promessa conserva força extraordinária sem garantir qualquer desejo. Perguntas de exame e situações familiares hipotéticas são recursos prudenciais, não novas ordens universais. Não há norma específica para sucesso profissional ou escolar.
+
+**Base:** [mestre,seção14](documento-mestre.md#mt1714-21-m-014);[relatório14](EXE-14-horizonte-aplicacao.md).

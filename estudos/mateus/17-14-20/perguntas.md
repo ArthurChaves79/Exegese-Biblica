@@ -24,3 +24,5 @@
 | P20 | As notas foram inseridas no Logos? | Não; preparadas |13 IDs locais estáveis, Markdown/JSON versionados; sem operação no aplicativo |
 
 | P21 | O reenvio supera a lacuna03? | Sim quanto ao acesso documental; atualiza P18 | Texto recebido preservado; seção6 incorporada; comparação e limites registrados; outras lacunas não sanadas automaticamente |
+
+| P22 | Como aplicar preservando sentido e limites? | Elaborada14 | Socorro, confiança e cuidado; pontes e graus individualizados; casos hipotéticos prudenciais, sem culpa automática ou promessa de qualquer resultado |

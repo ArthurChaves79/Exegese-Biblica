@@ -46,3 +46,5 @@ Alterar uma decisão exige revisar tradução, comentário e conclusões depende
 - D34: EXE-03 recuperado por reenvio do usuário. A lacuna de acesso foi suprida;08C permanece recomposição posterior. Mestre0.1.1 usa a seção6 do03. Comparação mostra diferenças portuguesas sem mudança textual ou de ideia. Conferências de versões declaradas no relatório não foram repetidas; não inventar links originais.
 
 - D35: reenvio NA28 preservado separadamente; comparação normalizada confirma principal03 e conteúdo anterior. Apenas pontuação bibliográfica difere após normalização. Mestre0.1.2; nenhuma nova decisão textual ou restauração de sobrescritos.
+
+- D36: EXE-14 preserva núcleo Alto e pontes Moderadas, sem elevar preferências a obrigações. Aplicação geral autorizada pelo pedido de continuidade;nenhum caso real ou sermão executado. Mestre0.2.0;notaN014 acrescentada;N012 atualizada sem renumeração.

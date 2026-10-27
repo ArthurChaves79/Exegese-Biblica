@@ -1,6 +1,6 @@
 # Mateus 17.14–21 — Documento exegético mestre
 
-**Identificador do projeto:** MT1714-21-MESTRE. **Versão:** 0.1.2, 26/10/2026. **Natureza:** consolidação intermediária cumulativa, com exposição argumentativa e trilha de evidências. **Texto principal adotado:**17.14–20; **17.21:** tradição textual examinada em nota. A designação14–21 amplia a cobertura documental sem alterar a decisão textual D03 ou renomear o diretório histórico.
+**Identificador do projeto:** MT1714-21-MESTRE. **Versão:** 0.2.0, 26/10/2026. **Natureza:** consolidação intermediária cumulativa, com exposição argumentativa e trilha de evidências. **Texto principal adotado:**17.14–20; **17.21:** tradição textual examinada em nota. A designação14–21 amplia a cobertura documental sem alterar a decisão textual D03 ou renomear o diretório histórico.
 
 **Base de integração:** relatórios e fontes disponíveis até EXE-13. A EXE-13B, já publicada antes desta solicitação, permanece preservada e identificada como desenvolvimento posterior à sistemática. Esta consolidação não constitui avanço de etapa nem encerramento EXE-15A, artigo final EXE-15B ou validação independente. Mt17.1–13 continua reservado.
 
@@ -150,7 +150,7 @@ A síntese sistemática13, por isso, articula autoridade misericordiosa de Jesus
 As raízes temáticasGn15,Êx3/34,Sl103,Is35 e o paralelo2Rs4 estão documentados em12B. Sua acumulação não cria uma tipologia específica obrigatória. O caso de Geazi não prova identidade com os discípulos, e a cura aqui não é ressurreição. A aplicação de CTL-01 exige que a confiança final de cada conexão não supere seu elo mais fraco. [Base:09;10B;12;12B;13.]
 
 <a id="mt1714-21-m-011"></a>
-## 11. Desenvolvimento antropológico já existente e aplicação pendente
+## 11. Desenvolvimento antropológico e passagem à aplicação
 
 A EXE-13B foi publicada no commit a944c05176cb3a470fb837aef4357a23983b2ddd antes da solicitação desta consolidação. Preservá-la evita apagar trabalho e falsificar a sequência. Sua disponibilidade não significa autorização para saltar esta consolidação ou iniciar14 neste ato. O desenvolvimento integra o mestre em seção própria, mantendo a diferença entre análise local e implicação.
 
@@ -158,7 +158,7 @@ O resultado principal distingue sofrimento, culpa e responsabilidade. O menino n
 
 Corporalidade, relações, ação espiritual e responsabilidade aparecem conjuntamente. Uma formulação ontológica revelacional pode organizar essas dimensões sem reduzi-las entre si; tal formulação é integração da pesquisa, não vocabulário filosófico explícito de Mateus ou atribuição nova a autores não consultados. A repercussão eclesial é Moderada, e analogias com trabalho ou outras instituições são secundárias. Não se transfere a promessa a produtividade ou sucesso de qualquer projeto.
 
-A aplicação EXE-14 permanece não executada. Não foram acrescentadas aplicações individuais para completar artificialmente o mestre. Os princípios disponíveis poderão fundamentar sua elaboração posterior, com situação original, ponte e limites definidos. [Base:13B completo preservado;13;10B.]
+A EXE-14 foi elaborada na versão0.2.0 deste mestre, após a recuperação03 e conferência NA28. Seus resultados estão na seção14 e no relatório próprio, com situação original, ponte e limites definidos. As versões0.1.x registravam corretamente a aplicação ainda pendente. [Base:13B completo preservado;13;10B.]
 
 <a id="mt1714-21-m-012"></a>
 ## 12. Sentido integrado, evidências e limites atuais
@@ -186,10 +186,29 @@ Questões abertas: extensão da geração, referente deαὐτῷ18, aspecto pre
 
 ## 13. Relatórios, fontes e dependências preservados
 
-Relatórios completos: [08B](EXE-08B-comentario.md), [08C](EXE-08C-verso-a-verso.md), [09](EXE-09-contexto-canonico.md), [10](EXE-10-historia-interpretacao.md), [suplemento](suplemento-hendriksen-westcott-hort.md), [10B](EXE-10B-avaliacao-canonica.md), [11](EXE-11-sintese-sentido.md), [12](EXE-12-teologia-biblica.md), [12B](EXE-12B-integracao-canonica.md), [13](EXE-13-teologia-sistematica.md), [13B](EXE-13B-antropologia-etica-sabedoria.md). Os relatórios refletem o estado de sua elaboração; referências a próximos módulos neles são históricas. O estado atual é determinado pelo mestre, estado.json e CONTINUIDADE.md.
+Relatórios completos: [08B](EXE-08B-comentario.md), [08C](EXE-08C-verso-a-verso.md), [09](EXE-09-contexto-canonico.md), [10](EXE-10-historia-interpretacao.md), [suplemento](suplemento-hendriksen-westcott-hort.md), [10B](EXE-10B-avaliacao-canonica.md), [11](EXE-11-sintese-sentido.md), [12](EXE-12-teologia-biblica.md), [12B](EXE-12B-integracao-canonica.md), [13](EXE-13-teologia-sistematica.md), [13B](EXE-13B-antropologia-etica-sabedoria.md), [14](EXE-14-horizonte-aplicacao.md). Os relatórios refletem o estado de sua elaboração; referências a próximos módulos neles são históricas. O estado atual é determinado pelo mestre, estado.json e CONTINUIDADE.md.
 
 Referências secundárias fornecidas: Arndt etal., BDAG,2000, verbetesὀλιγοπιστία,ὀλιγόπιστος,ὀλίγος eσεληνιάζομαι; Carson, EBC,1984,v8,p390–392; France, New Bible Commentary,1994,p927; Luz, Matthew,2001,p405–410; Lange/Schaff, edição digital2008,p313–316; Hendriksen, Mateus,2010,v2,p208–212; Westcott/Hort, Appendix,1882,p14; NA28,2012,p54–55. São excertos arquivados, não consulta integral das obras. Textos primários históricos e URLs encontram-se em10; o enquadramento auxiliar de Themelios está em09, sem ser evidência específica de uma conclusão sobre17.
 
 Este mestre sintetiza fontes anteriormente examinadas; não afirma nova consulta bibliográfica. Nenhuma hipótese Baixa passou à ideia exegética. A revisão de decisão exigirá atualizar o mestre, as notas afetadas, as perguntas, o registro de decisões e os produtos derivados; os relatórios e versões históricos permanecerão disponíveis.
 
-**Fechamento desta versão:** consolidação intermediária elaborada; pesquisa aberta; aplicação e produtos finais pendentes; tradução03 recuperada e recomposição08C historicamente distinguida; relatórios completos preservados. As notas possuem IDs locais estáveis, sem pretensão de IDs nativos do Logos ou entradas definitivas de curadoria global.
+**Fechamento desta versão:** consolidação intermediária elaborada; pesquisa aberta; EXE-14 geral elaborada; produtos finais pendentes; tradução03 recuperada e recomposição08C historicamente distinguida; relatórios completos preservados. As notas possuem IDs locais estáveis, sem pretensão de IDs nativos do Logos ou entradas definitivas de curadoria global.
+
+<a id="mt1714-21-m-014"></a>
+## 14. Horizonte hermenêutico e aplicação — EXE-14
+
+A situação original reúne súplica, socorro, pergunta, correção e promessa. A resposta atual deve conservar essa configuração: a confiança no Senhor acompanha cuidado concreto e receptividade ao ensino. O atendimento18 fundamenta reconhecer a misericórdia de Jesus; a causa20 demonstra que comissão recebida não dispensa confiança. A ponte à Igreja se articula comAt3,1Co12 eTg5, já examinados, sem transformar todos os membros em equivalentes funcionais dos doze. A especificidade da extensão conserva grau Moderado.
+
+Pedir socorro real é resposta apropriada. A força extraordinária da promessa impede encerrá-la numa recomendação de aceitar sempre o ordinário; a contextualização canônica impede convertê-la em decreto de satisfação de qualquer desejo. Fé não é intensidade emocional a ser produzida para conquistar misericórdia. Perseverança e vontade divina pertencem à integração já demonstrada, sem serem inseridas na tradução ou apresentadas como sentidos lexicais necessários da mostarda.
+
+No serviço comunitário, examinar confiança e acolher instrução são respostas pertinentes. O texto não demonstra que os discípulos tenham praticado magia, abandonado oração ou buscado prestígio. Perguntas atuais sobre autossuficiência podem servir ao exame pessoal, mas são recursos prudenciais; não provam por analogia que uma pessoa possui os mesmos motivos supostos para os nove.
+
+No aconselhamento, o diagnóstico revelado por Jesus não se transfere como conhecimento imediato dos motivos secretos. Ouvir, distinguir fato e interpretação e verificar evidências precedem atribuições de responsabilidade. O menino recebe socorro e os discípulos recebem explicação de sua falha. A aflição do menino não é atribuída à pouca fé dele. Por isso, atribuir culpa automaticamente a quem continua sofrendo troca os destinatários e excede o texto. A integração comHb11 e2Co12 reforça o limite, sem negar a causa explicitada naquela ocasião.
+
+Como exemplo hipotético, uma família que trate a persistência da aflição do filho como prova de incredulidade pode ser ajudada a identificar a quem Jesus responde20. O exemplo ilustra a aplicação, não fornece evidência exegética nem diagnóstico de família real. A mesma prudência vale ao líder que procura explicar um insucesso: reconhecer responsabilidade e buscar instrução não é concluir previamente uma causa específica sem evidência.
+
+O texto tem pertinência para oração, cuidado familiar, discipulado e discernimento pastoral. Não oferece aplicação específica demonstrada para produtividade, sucesso escolar ou políticas públicas; analogias secundárias não devem virar promessas. A apresentação ao público deve explicar as preferências Moderadas e não impor decisões abertas como deveres. Também não deve exigir emoção intensa, promover um líder como equivalente a Jesus ou usar não cura como ameaça de condenação.
+
+A base cristológica é direta no socorro e ensino de Jesus; a articulação ao Senhor crucificado e ressuscitado é desenvolvimento contextual e canônico. A graça não é conquistada por obras ou intensidade, e a dependência não dispensa a confiança exigida. Oração e exame pessoal são convites ao pesquisador; não se afirma que uma ferramenta verificou oração realizada, mudança interior ou ação interna do Espírito.
+
+O [relatório14 completo](EXE-14-horizonte-aplicacao.md) registra cada aplicação com função original, ponte, resposta, obra de Cristo, grau e limites. O núcleo Alto permanece a ação de Jesus e sua explicação; as pontes eclesiais e procedimentos concretos são qualificados. Nenhuma decisão textual, tradução ou ideia11 mudou. A aplicação geral está elaborada; comunicação personalizada, sermão e aconselhamento de caso real não foram executados. Próximo: EXE-15A, consolidação no escopo e com as pendências efetivamente documentadas.

@@ -1,15 +1,16 @@
 {
   "passagem": "Mt 17.14–21 (texto principal 14–20; v21 em nota)",
   "data": "2026-10-26",
-  "etapa_atual": "Conferência documental do reenvio NA28 e EXE-03 incorporada ao mestre0.1.2",
-  "proxima": "Retomada pelo documento mestre; EXE-14 permanece não executada. EXE-13B já publicada e preservada.",
+  "etapa_atual": "EXE-14 elaborada e incorporada ao mestre0.2.0",
+  "proxima": "EXE-15A — Consolidação da Pesquisa, preservando pendências",
   "reservado": "Mt 17.1–13",
   "pendencias": [
     "Recuperar respostas históricas integrais quando disponíveis",
     "EXE-08B preservado em versão editorial consolidada, não transcrição literal",
     "Auditorias VAL01–05/06 não disponibilizadas; não presumir validação",
     "Novas etapas devem atualizar o mestre, notas e dependências na mesma publicação",
-    "Relatório03 recuperado; conferir fontes externas/edições declaradas e completude técnica apenas quando pertinente, sem alegar reconferência nesta operação"
+    "Relatório03 recuperado; conferir fontes externas/edições declaradas e completude técnica apenas quando pertinente, sem alegar reconferência nesta operação",
+    "FONTES-01 e POSTURA-01 citados pelo módulo14 não disponibilizados; não afirmar execução"
   ],
   "fontes_arquivadas": [
     "NA28",
@@ -36,10 +37,10 @@
   "documento_mestre": {
     "id": "MT1714-21-MESTRE",
     "path": "estudos/mateus/17-14-20/documento-mestre.md",
-    "version": "0.1.2",
+    "version": "0.2.0",
     "natureza": "consolidacao_intermediaria_cumulativa",
-    "base_ate": "EXE-13, com desenvolvimento EXE-13B já disponível e identificado",
-    "aplicacao": "EXE-14 não executada"
+    "base_ate": "EXE-14",
+    "aplicacao": "EXE-14 geral elaborada; sem comunicação personalizada ou caso real"
   },
   "traducao": {
     "historico_EXE03": "recuperado por reenvio do pesquisador; origem registrada",
@@ -51,8 +52,8 @@
   "notas_logos": {
     "path": "estudos/mateus/17-14-20/notas-logos.md",
     "structured_path": "estudos/mateus/17-14-20/notas-logos.json",
-    "quantidade": 13,
-    "ids": "MT1714-21-N001 a MT1714-21-N013",
+    "quantidade": 14,
+    "ids": "MT1714-21-N001 a MT1714-21-N014",
     "status": "preparadas e versionadas; não transferidas ao aplicativo",
     "origem": "documento mestre; relatórios completos preservados"
   },
