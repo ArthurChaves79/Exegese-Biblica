@@ -42,3 +42,5 @@ Alterar uma decisão exige revisar tradução, comentário e conclusões depende
 - D31: tradução histórica03 não recuperada; blocos08C são recomposição posterior documentada. Não certificar tradução literal inicial, segmentação integral, inventário verbal e comparação sistemática de versões ausentes.
 - D32: notas MT1714-21-N001–N013 são IDs locais estáveis, não IDs nativos Logos ou entradas globais definitivas. Preparadas e salvas; nenhuma transferência ao Logos realizada. Derivam do mestre e não o confirmam como evidência independente.
 - D33: toda nova etapa/revisão deverá atualizar mestre, notas afetadas, perguntas, decisões, continuidade e manifesto no mesmo conjunto; históricos preservados.
+
+- D34: EXE-03 recuperado por reenvio do usuário. A lacuna de acesso foi suprida;08C permanece recomposição posterior. Mestre0.1.1 usa a seção6 do03. Comparação mostra diferenças portuguesas sem mudança textual ou de ideia. Conferências de versões declaradas no relatório não foram repetidas; não inventar links originais.

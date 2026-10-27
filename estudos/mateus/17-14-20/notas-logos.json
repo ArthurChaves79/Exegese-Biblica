@@ -1,19 +1,19 @@
 {
   "schema_version": 1,
   "project_id": "MT1714-21",
-  "notes_version": "0.1.0",
+  "notes_version": "0.1.1",
   "date": "2026-10-26",
   "identity_policy": "IDs locais persistentes do projeto, não IDs nativos do Logos nem entradas definitivas de curadoria. Não renumerar/reutilizar; revisar versão mantendo ID; retirar com histórico.",
   "logos_status": "Preparação somente; nenhuma operação no aplicativo Logos foi realizada.",
   "notes": [
     {
       "id": "MT1714-21-N001",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "title": "Procedência da tradução de trabalho",
       "reference": "Mateus 17.14–20",
       "status": "preparada_nao_transferida_ao_Logos",
       "confidence": "Documental",
-      "body": "A tradução histórica integral do EXE-03 não foi recuperada. As formulações disponíveis foram recompostas posteriormente no EXE-08C e assim identificadas naquele relatório. O documento mestre recupera esses blocos disponíveis, sem apresentá-los como transcrição da resposta antiga. O roteiro original03 contém instruções, não a execução. A lacuna impede certificar cumprimento integral daquela etapa; não impede exposição atual fundada no grego e nas decisões preservadas. Qualquer nova execução03 deverá ser datada e distinguida de recuperação histórica.",
+      "body": "O EXE-03 foi recuperado e reenviado pelo pesquisador após a consolidação0.1.0. Foram preservados o texto recebido e uma conferência com08C. O mestre0.1.1 usa a tradução de trabalho da seção6 recuperada. A recomposição08C permanece posterior e preservada. A lacuna de acesso ao relatório foi suprida; links e edições exatas das versões declaradas não acompanharam o reenvio e não foram reconferidos nesta operação. Recuperação documental não equivale a auditoria técnica independente.",
       "tags": [
         "mt1714-21",
         "procedencia",
@@ -21,12 +21,13 @@
       ],
       "master": {
         "path": "estudos/mateus/17-14-20/documento-mestre.md",
-        "version": "0.1.0",
+        "version": "0.1.1",
         "anchor": "mt1714-21-m-001"
       },
       "sources": [
         "estudos/mateus/17-14-20/EXE-08C-verso-a-verso.md",
-        "estudos/mateus/17-14-20/auditoria-lacunas-iniciais.md"
+        "estudos/mateus/17-14-20/auditoria-lacunas-iniciais.md",
+        "estudos/mateus/17-14-20/EXE-03-recuperado-conferencia.md"
       ],
       "source_baseline_commit": "a944c05176cb3a470fb837aef4357a23983b2ddd"
     },
@@ -45,7 +46,7 @@
       ],
       "master": {
         "path": "estudos/mateus/17-14-20/documento-mestre.md",
-        "version": "0.1.0",
+        "version": "0.1.1",
         "anchor": "mt1714-21-m-002"
       },
       "sources": [
@@ -55,12 +56,12 @@
     },
     {
       "id": "MT1714-21-N003",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "title": "Aflição, misericórdia e léxico",
       "reference": "Mateus 17.14–16",
       "status": "preparada_nao_transferida_ao_Logos",
       "confidence": "Alto para pedido e sofrimento; limite lexical",
-      "body": "O pai pede misericórdia para um filho em sofrimento e perigo recorrente. Σεληνιάζεται é descrito no BDAG em relação a crises epilépticas; sua relação histórica com a lua não prova crença causal específica do pai nem o torna sinônimo lexical de possessão. A presença do demônio será afirmada narrativamente18. Adota-se πάσχει, “sofre”, com preferência Moderada. “Tem convulsões” pertence à tradução posterior recomposta08C. Humildade e petição são leituras do gesto; ele não prova cristologia plenamente desenvolvida.",
+      "body": "O pai pede misericórdia para um filho em sofrimento e perigo recorrente. Σεληνιάζεται é descrito no BDAG em relação a crises epilépticas; sua relação histórica com a lua não prova crença causal específica do pai nem o torna sinônimo lexical de possessão. A presença do demônio será afirmada narrativamente18. Adota-se πάσχει, “sofre”, com preferência Moderada. “Tem convulsões” já consta do03 recuperado e coincide com08C. Humildade e petição são leituras do gesto; ele não prova cristologia plenamente desenvolvida.",
       "tags": [
         "mt1714-21",
         "lexico",
@@ -68,12 +69,13 @@
       ],
       "master": {
         "path": "estudos/mateus/17-14-20/documento-mestre.md",
-        "version": "0.1.0",
+        "version": "0.1.1",
         "anchor": "mt1714-21-m-003"
       },
       "sources": [
         "estudos/mateus/17-14-20/EXE-08C-verso-a-verso.md",
-        "fontes/logos/bdag-verbetes-mt17.txt"
+        "fontes/logos/bdag-verbetes-mt17.txt",
+        "estudos/mateus/17-14-20/EXE-03-recuperado-conferencia.md"
       ],
       "source_baseline_commit": "a944c05176cb3a470fb837aef4357a23983b2ddd"
     },
@@ -92,7 +94,7 @@
       ],
       "master": {
         "path": "estudos/mateus/17-14-20/documento-mestre.md",
-        "version": "0.1.0",
+        "version": "0.1.1",
         "anchor": "mt1714-21-m-004"
       },
       "sources": [
@@ -116,7 +118,7 @@
       ],
       "master": {
         "path": "estudos/mateus/17-14-20/documento-mestre.md",
-        "version": "0.1.0",
+        "version": "0.1.1",
         "anchor": "mt1714-21-m-005"
       },
       "sources": [
@@ -140,7 +142,7 @@
       ],
       "master": {
         "path": "estudos/mateus/17-14-20/documento-mestre.md",
-        "version": "0.1.0",
+        "version": "0.1.1",
         "anchor": "mt1714-21-m-006"
       },
       "sources": [
@@ -164,7 +166,7 @@
       ],
       "master": {
         "path": "estudos/mateus/17-14-20/documento-mestre.md",
-        "version": "0.1.0",
+        "version": "0.1.1",
         "anchor": "mt1714-21-m-007"
       },
       "sources": [
@@ -175,7 +177,7 @@
     },
     {
       "id": "MT1714-21-N008",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "title": "Mostarda e monte: aspecto da comparação",
       "reference": "Mateus 17.20",
       "status": "preparada_nao_transferida_ao_Logos",
@@ -188,12 +190,13 @@
       ],
       "master": {
         "path": "estudos/mateus/17-14-20/documento-mestre.md",
-        "version": "0.1.0",
+        "version": "0.1.1",
         "anchor": "mt1714-21-m-007"
       },
       "sources": [
         "estudos/mateus/17-14-20/EXE-10B-avaliacao-canonica.md",
-        "estudos/mateus/17-14-20/EXE-11-sintese-sentido.md"
+        "estudos/mateus/17-14-20/EXE-11-sintese-sentido.md",
+        "estudos/mateus/17-14-20/EXE-03-recuperado-conferencia.md"
       ],
       "source_baseline_commit": "a944c05176cb3a470fb837aef4357a23983b2ddd"
     },
@@ -212,7 +215,7 @@
       ],
       "master": {
         "path": "estudos/mateus/17-14-20/documento-mestre.md",
-        "version": "0.1.0",
+        "version": "0.1.1",
         "anchor": "mt1714-21-m-007"
       },
       "sources": [
@@ -237,7 +240,7 @@
       ],
       "master": {
         "path": "estudos/mateus/17-14-20/documento-mestre.md",
-        "version": "0.1.0",
+        "version": "0.1.1",
         "anchor": "mt1714-21-m-008"
       },
       "sources": [
@@ -263,7 +266,7 @@
       ],
       "master": {
         "path": "estudos/mateus/17-14-20/documento-mestre.md",
-        "version": "0.1.0",
+        "version": "0.1.1",
         "anchor": "mt1714-21-m-010"
       },
       "sources": [
@@ -288,7 +291,7 @@
       ],
       "master": {
         "path": "estudos/mateus/17-14-20/documento-mestre.md",
-        "version": "0.1.0",
+        "version": "0.1.1",
         "anchor": "mt1714-21-m-011"
       },
       "sources": [
@@ -311,7 +314,7 @@
       ],
       "master": {
         "path": "estudos/mateus/17-14-20/documento-mestre.md",
-        "version": "0.1.0",
+        "version": "0.1.1",
         "anchor": "mt1714-21-m-012"
       },
       "sources": [
@@ -319,5 +322,6 @@
       ],
       "source_baseline_commit": "a944c05176cb3a470fb837aef4357a23983b2ddd"
     }
-  ]
+  ],
+  "recovery_update": "03 recuperado; sem transferência ao Logos"
 }

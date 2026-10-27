@@ -15,3 +15,5 @@
 13. Para Mt17, começar por estudos/mateus/17-14-20/documento-mestre.md e CONTINUIDADE.md. O mestre é a base cumulativa da exposição e dos produtos derivados; os relatórios completos permanecem como evidência e histórico.
 14. A cada nova etapa ou revisão, atualizar o mestre, sua versão/histórico, notas Logos afetadas, perguntas, decisões, estado e manifesto no mesmo conjunto publicado. Preservar IDs locais de notas e âncoras; não renumerar/reutilizar; registrar retiradas. Ler notas como derivação, nunca como evidência independente.
 15. Distinguir tradução histórica03 não recuperada da recomposição posterior08C. Arquivos do método são instruções, não relatórios executados. Notas Logos preparadas não significam inserção/sincronização no aplicativo. Conferir procedência e estado antes de afirmar recuperação, transferência ou fechamento.
+
+16. Atualização: EXE-03 recuperado em estudos/mateus/17-14-20/EXE-03-recuperado.txt; consultar conferência e mestre0.1.1. A ausência histórica foi superada quanto ao acesso documental;08C continua recomposição posterior. Não repetir a lacuna como estado atual nem afirmar reconferência externa das versões sem executá-la.

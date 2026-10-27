@@ -2,7 +2,11 @@
 
 Data:26/10/2026. Versão0.1.0. Base consultada: arquivos atuais do repositório em a944c05176cb3a470fb837aef4357a23983b2ddd, manifesto, README, decisões, EXE-08B/08C/11 e instruções originais EXE-03/15A anexadas. Busca local complementar nos registros iniciais. Não é auditoria VAL independente, colação de manuscritos ou recuperação de conversas externas não disponibilizadas.
 
-## 1. Resultado documental
+## Retificação documental — recuperação do EXE-03, versão0.1.1
+
+O diagnóstico abaixo descreve o acervo disponível na versão0.1.0 e permanece como histórico. Após essa versão, o pesquisador reenviou o relatório03: [texto preservado](EXE-03-recuperado.txt) e [conferência](EXE-03-recuperado-conferencia.md). Foram recuperados tradução literal inicial, segmentação, dificuldades, quadro verbal, comparação declarada de versões e tradução de trabalho com notas. Portanto, os estados “não localizado” relativos a03 abaixo foram superados quanto ao acesso documental. Os links/edições exatas das versões e uma verificação técnica exaustiva continuam não documentados nesta recuperação. Não se repetiram consultas externas. Outras lacunas01–08 e auditorias permanecem.
+
+## 1. Resultado documental histórico — versão0.1.0
 
 O arquivo do método EXE-03 é um roteiro de execução. Não contém a tradução produzida para Mateus. O acervo atual não possui relatório histórico integral EXE-03; possui decisões resumidas e uma recomposição posterior explicitamente rotulada no EXE-08C. A presente consolidação recupera essa recomposição como documento disponível, sem promovê-la a resposta histórica original.
 

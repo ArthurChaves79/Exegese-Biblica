@@ -1,3 +1,5 @@
+> **Atualização de procedência — mestre0.1.1:** EXE-03 recuperado pelo pesquisador, preservado em `estudos/mateus/17-14-20/EXE-03-recuperado.txt`. Tradução de trabalho incorporada ao mestre; recomposição08C preservada. Declarações abaixo de ausência do03 descrevem o estado anterior e são superadas por esta recuperação. Ver a conferência no diretório do estudo. Sem nova etapa ou transferência ao Logos.
+
 # Acervo de Exegese Bíblica
 
 Pesquisa de Arthur Chaves. Arquivos abertos e versionados, com consulta local em Python.

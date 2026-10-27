@@ -22,3 +22,5 @@
 | P18 | O EXE-03 histórico integral foi recuperado? | Não; auditoria intermediária | Instruções e decisões disponíveis; tradução08C é recomposição posterior; requisitos ausentes discriminados em auditoria-lacunas-iniciais.md |
 | P19 | Qual documento passa a fundamentar os produtos? | Definido: MT1714-21-MESTRE v0.1.0 | Exposição cumulativa com evidências; relatórios preservados; atualizar mestre e notas a cada etapa |
 | P20 | As notas foram inseridas no Logos? | Não; preparadas |13 IDs locais estáveis, Markdown/JSON versionados; sem operação no aplicativo |
+
+| P21 | O reenvio supera a lacuna03? | Sim quanto ao acesso documental; atualiza P18 | Texto recebido preservado; seção6 incorporada; comparação e limites registrados; outras lacunas não sanadas automaticamente |

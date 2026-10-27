@@ -1,16 +1,15 @@
 {
   "passagem": "Mt 17.14–21 (texto principal 14–20; v21 em nota)",
   "data": "2026-10-26",
-  "etapa_atual": "Consolidação intermediária 0.1.0: documento mestre, auditoria de lacunas e notas Logos preparados",
+  "etapa_atual": "Recuperação documental EXE-03 incorporada ao mestre0.1.1; sem avanço de etapa",
   "proxima": "Retomada pelo documento mestre; EXE-14 permanece não executada. EXE-13B já publicada e preservada.",
   "reservado": "Mt 17.1–13",
   "pendencias": [
     "Recuperar respostas históricas integrais quando disponíveis",
     "EXE-08B preservado em versão editorial consolidada, não transcrição literal",
-    "Conferir traduções recompostas do EXE-08C no EXE-03 histórico quando recuperado",
     "Auditorias VAL01–05/06 não disponibilizadas; não presumir validação",
-    "EXE-03: tradução literal inicial, segmentação integral, inventário verbal completo e comparação sistemática de versões não localizados; não certificar execução integral",
-    "Novas etapas devem atualizar o mestre, notas e dependências na mesma publicação"
+    "Novas etapas devem atualizar o mestre, notas e dependências na mesma publicação",
+    "Relatório03 recuperado; conferir fontes externas/edições declaradas e completude técnica apenas quando pertinente, sem alegar reconferência nesta operação"
   ],
   "fontes_arquivadas": [
     "NA28",
@@ -37,16 +36,17 @@
   "documento_mestre": {
     "id": "MT1714-21-MESTRE",
     "path": "estudos/mateus/17-14-20/documento-mestre.md",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "natureza": "consolidacao_intermediaria_cumulativa",
     "base_ate": "EXE-13, com desenvolvimento EXE-13B já disponível e identificado",
     "aplicacao": "EXE-14 não executada"
   },
   "traducao": {
-    "historico_EXE03": "não recuperado integralmente",
-    "disponivel": "recomposição posterior documentada no EXE-08C; blocos exatos na auditoria",
-    "auditoria": "estudos/mateus/17-14-20/auditoria-lacunas-iniciais.md",
-    "certificacao_integral_EXE03": false
+    "historico_EXE03": "recuperado por reenvio do pesquisador; origem registrada",
+    "arquivo": "estudos/mateus/17-14-20/EXE-03-recuperado.txt",
+    "conferencia": "estudos/mateus/17-14-20/EXE-03-recuperado-conferencia.md",
+    "atual": "tradução de trabalho da seção6 recuperada;08C posterior preservado",
+    "limite": "links/edições e consultas externas declaradas não reconferidos; sem auditoria exaustiva"
   },
   "notas_logos": {
     "path": "estudos/mateus/17-14-20/notas-logos.md",

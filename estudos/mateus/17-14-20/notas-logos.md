@@ -1,18 +1,20 @@
 # Notas essenciais para o Logos — Mateus17.14–21
 
-Versão0.1.0,26/10/2026. **Estado: preparadas e versionadas; não inseridas no aplicativo.** IDs locais estáveis do projeto, não identificadores nativos do Logos nem entradas globais de curadoria. Caderno sugerido: “Mateus17.14–21 — Pesquisa”. As referências abaixo indicam âncoras bíblicas sugeridas; não representam vínculos já criados no Logos.
+Versão0.1.1,26/10/2026. **Estado: preparadas e versionadas; não inseridas no aplicativo.** IDs locais estáveis do projeto, não identificadores nativos do Logos nem entradas globais de curadoria. Caderno sugerido: “Mateus17.14–21 — Pesquisa”. As referências abaixo indicam âncoras bíblicas sugeridas; não representam vínculos já criados no Logos.
 
 Manter o ID no título ou corpo ao transferir manualmente. Revisar a nota existente pelo ID em futuras versões; não renumerar, reutilizar ou criar duplicata para a mesma nota. Se o Logos gerar um link/ID nativo, registrá-lo como campo adicional, preservando nosso ID. Não se afirma que o JSON seja um formato de importação aceito pelo aplicativo. Sua função é preservar estrutura, consulta e futuras transformações. Fonte editorial: [documento mestre](documento-mestre.md); análises completas permanecem nos relatórios.
 
 ## MT1714-21-N001 — Procedência da tradução de trabalho
 
-**Referência sugerida:** Mateus 17.14–20. **Versão:** 0.1.0. **Confiança/procedência:** Documental.
+**Referência sugerida:** Mateus 17.14–20. **Versão:** 0.1.1. **Confiança/procedência:** Documental.
 
-A tradução histórica integral do EXE-03 não foi recuperada. As formulações disponíveis foram recompostas posteriormente no EXE-08C e assim identificadas naquele relatório. O documento mestre recupera esses blocos disponíveis, sem apresentá-los como transcrição da resposta antiga. O roteiro original03 contém instruções, não a execução. A lacuna impede certificar cumprimento integral daquela etapa; não impede exposição atual fundada no grego e nas decisões preservadas. Qualquer nova execução03 deverá ser datada e distinguida de recuperação histórica.
+O EXE-03 foi recuperado e reenviado pelo pesquisador após a consolidação0.1.0. Foram preservados o texto recebido e uma conferência com08C. O mestre0.1.1 usa a tradução de trabalho da seção6 recuperada. A recomposição08C permanece posterior e preservada. A lacuna de acesso ao relatório foi suprida; links e edições exatas das versões declaradas não acompanharam o reenvio e não foram reconferidos nesta operação. Recuperação documental não equivale a auditoria técnica independente.
 
 **Base:** [Mestre, mt1714-21-m-001](documento-mestre.md#mt1714-21-m-001); [EXE-08C-verso-a-verso.md](EXE-08C-verso-a-verso.md); [auditoria-lacunas-iniciais.md](auditoria-lacunas-iniciais.md).
 
 **Etiquetas:** mt1714-21, procedencia, traducao.
+
+**Atualização:** EXE-03 recuperado; ver [conferência](EXE-03-recuperado-conferencia.md).
 
 ## MT1714-21-N002 — Unidade e dois momentos decisivos
 
@@ -26,13 +28,15 @@ A cena pública14–18 e o diálogo privado19–20 pertencem à mesma unidade: a
 
 ## MT1714-21-N003 — Aflição, misericórdia e léxico
 
-**Referência sugerida:** Mateus 17.14–16. **Versão:** 0.1.0. **Confiança/procedência:** Alto para pedido e sofrimento; limite lexical.
+**Referência sugerida:** Mateus 17.14–16. **Versão:** 0.1.1. **Confiança/procedência:** Alto para pedido e sofrimento; limite lexical.
 
-O pai pede misericórdia para um filho em sofrimento e perigo recorrente. Σεληνιάζεται é descrito no BDAG em relação a crises epilépticas; sua relação histórica com a lua não prova crença causal específica do pai nem o torna sinônimo lexical de possessão. A presença do demônio será afirmada narrativamente18. Adota-se πάσχει, “sofre”, com preferência Moderada. “Tem convulsões” pertence à tradução posterior recomposta08C. Humildade e petição são leituras do gesto; ele não prova cristologia plenamente desenvolvida.
+O pai pede misericórdia para um filho em sofrimento e perigo recorrente. Σεληνιάζεται é descrito no BDAG em relação a crises epilépticas; sua relação histórica com a lua não prova crença causal específica do pai nem o torna sinônimo lexical de possessão. A presença do demônio será afirmada narrativamente18. Adota-se πάσχει, “sofre”, com preferência Moderada. “Tem convulsões” já consta do03 recuperado e coincide com08C. Humildade e petição são leituras do gesto; ele não prova cristologia plenamente desenvolvida.
 
 **Base:** [Mestre, mt1714-21-m-003](documento-mestre.md#mt1714-21-m-003); [EXE-08C-verso-a-verso.md](EXE-08C-verso-a-verso.md); [bdag-verbetes-mt17.txt](../../../fontes/logos/bdag-verbetes-mt17.txt).
 
 **Etiquetas:** mt1714-21, lexico, misericordia.
+
+**Atualização:** EXE-03 recuperado; ver [conferência](EXE-03-recuperado-conferencia.md).
 
 ## MT1714-21-N004 — Geração e linguagem de censura
 
@@ -76,13 +80,15 @@ Adota-se ὀλιγοπιστίαν, “pouca fé”, em vez de ἀπιστίαν
 
 ## MT1714-21-N008 — Mostarda e monte: aspecto da comparação
 
-**Referência sugerida:** Mateus 17.20. **Versão:** 0.1.0. **Confiança/procedência:** Moderado para aspecto e imagem.
+**Referência sugerida:** Mateus 17.20. **Versão:** 0.1.1. **Confiança/procedência:** Moderado para aspecto e imagem.
 
 A pequenez diante da grandeza do efeito é o aspecto preferido da mostarda. Crescimento, sabor ou vitalidade não são desenvolvidos nesta frase. A comparação não exige fé do tamanho do monte, mas também não torna a deficiência de fé irrelevante. A distinção entre pequena e pobre pode ajudar contextualmente; não constitui taxonomia lexical demonstrada. Monte significa monte; a imagem favorece o aparentemente impossível. Zc4.7 é paralelo temático, não fonte comprovada. A tradução conserva “fé como um grão”, sem inserir a explicação.
 
 **Base:** [Mestre, mt1714-21-m-007](documento-mestre.md#mt1714-21-m-007); [EXE-10B-avaliacao-canonica.md](EXE-10B-avaliacao-canonica.md); [EXE-11-sintese-sentido.md](EXE-11-sintese-sentido.md).
 
 **Etiquetas:** mt1714-21, mostarda, metafora.
+
+**Atualização:** EXE-03 recuperado; ver [conferência](EXE-03-recuperado-conferencia.md).
 
 ## MT1714-21-N009 — Amplitude concreta e contextual da promessa
 

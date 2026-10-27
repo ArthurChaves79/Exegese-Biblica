@@ -1,6 +1,6 @@
 # Mateus 17.14–21 — Documento exegético mestre
 
-**Identificador do projeto:** MT1714-21-MESTRE. **Versão:** 0.1.0, 26/10/2026. **Natureza:** consolidação intermediária cumulativa, com exposição argumentativa e trilha de evidências. **Texto principal adotado:**17.14–20; **17.21:** tradição textual examinada em nota. A designação14–21 amplia a cobertura documental sem alterar a decisão textual D03 ou renomear o diretório histórico.
+**Identificador do projeto:** MT1714-21-MESTRE. **Versão:** 0.1.1, 26/10/2026. **Natureza:** consolidação intermediária cumulativa, com exposição argumentativa e trilha de evidências. **Texto principal adotado:**17.14–20; **17.21:** tradição textual examinada em nota. A designação14–21 amplia a cobertura documental sem alterar a decisão textual D03 ou renomear o diretório histórico.
 
 **Base de integração:** relatórios e fontes disponíveis até EXE-13. A EXE-13B, já publicada antes desta solicitação, permanece preservada e identificada como desenvolvimento posterior à sistemática. Esta consolidação não constitui avanço de etapa nem encerramento EXE-15A, artigo final EXE-15B ou validação independente. Mt17.1–13 continua reservado.
 
@@ -11,15 +11,38 @@ Este documento passa a ser a exposição comum da pesquisa. Os relatórios compl
 
 O estudo possui materiais de natureza diferente. O grego e o aparato NA28, bem como os excertos do Logos, foram fornecidos pelo pesquisador e arquivados em [fontes/logos](../../../fontes/logos/). Os arquivos em [metodo/originais](../../../metodo/originais/) são instruções metodológicas. Sua existência não demonstra que cada requisito tenha sido executado. As etapas iniciais estão documentadas retrospectivamente no [registro do estudo](README.md), nas [decisões](decisoes.md) e nos comentários [EXE-08B](EXE-08B-comentario.md) e [EXE-08C](EXE-08C-verso-a-verso.md).
 
-A redação histórica integral do EXE-03 não foi localizada nos documentos disponíveis. A tradução abaixo foi recuperada literalmente do EXE-08C disponível: seu conteúdo é uma **recomposição posterior**, expressamente identificada naquele relatório. Recuperar esse documento não equivale a recuperar a tradução histórica original. Não apresentamos aqui uma nova tradução literal, nem declaramos executadas retroativamente a comparação de versões e a segmentação integral exigidas pelo módulo03.
+O EXE-03 foi recuperado e reenviado pelo pesquisador após a consolidação0.1.0. O [texto recebido](EXE-03-recuperado.txt) foi preservado, com [procedência e conferência](EXE-03-recuperado-conferencia.md). Data e links da resposta original não acompanharam a recuperação. A lacuna documental de acesso ao relatório03 está suprida; isso não equivale a auditoria independente ou nova verificação das versões que o relatório declara ter consultado.
 
-**Tradução de trabalho recomposta no EXE-08C, preservada sem nova decisão:**
+A versão0.1.0 utilizava a recomposição posterior do08C, corretamente identificada à época. Ela permanece no histórico e no08C. A base tradutória atual passa a ser a tradução de trabalho da seção6 do03 recuperado, reproduzida a seguir sem harmonização silenciosa:
 
-**14** E, quando chegaram à multidão, aproximou-se dele um homem, ajoelhando-se diante dele. **15** E dizendo: “Senhor, tem misericórdia do meu filho, porque ele tem convulsões e sofre intensamente; pois muitas vezes cai no fogo e muitas vezes na água”. **16** Eu o trouxe aos teus discípulos, e eles não puderam curá-lo. **17** Jesus, porém, respondeu: “Ó geração incrédula e pervertida! Até quando estarei convosco? Até quando vos suportarei? Trazei-o aqui a mim”. **18** Jesus o repreendeu, e o demônio saiu dele; e o menino ficou curado desde aquela hora. **19** Então os discípulos, aproximando-se de Jesus em particular, disseram: “Por que nós não pudemos expulsá-lo?”. **20** Ele lhes diz: “Por causa da vossa pouca fé. Pois em verdade vos digo: se tiverdes fé como um grão de mostarda, direis a este monte: Passa daqui para lá, e ele passará; e nada vos será impossível”.
+14 E, quando chegaram à multidão, um homem aproximou-se dele, ajoelhando-se diante dele 15 e dizendo:
 
-A junção dos sete blocos acima altera somente pontuação de ligação, maiúscula inicial do15 e disposição editorial. As formulações verbais são as do08C; a reprodução exata de cada bloco, o texto grego e a procedência estão na auditoria. A frase16 pertence ainda à fala do pai, iniciada15. Esta apresentação não se intitula tradução final histórica do EXE-03.
+— Senhor, tem misericórdia de meu filho, porque ele tem convulsões¹ e sofre intensamente; pois muitas vezes cai no fogo e muitas vezes na água. 16 E eu o trouxe aos teus discípulos, e eles não puderam curá-lo.
 
-“Tem convulsões” é a opção recomposta para σεληνιάζεται; o BDAG descreve crises epilépticas. A formulação portuguesa pode ser refinada em revisão futura identificada, sem atribuí-la à resposta antiga. No18, “o repreendeu” conserva o referente pronominal discutido. No20, “ele lhes diz” acompanha λέγει; “fé como um grão” evita introduzir no texto a explicação de seu tamanho; o alcance final não recebe acréscimo tradutório sobre desejos ou vontade divina. A interpretação desses elementos será argumentada abaixo.
+17 Jesus respondeu:
+
+— Ó geração incrédula e perversa! Até quando estarei convosco? Até quando vos suportarei? Trazei-o aqui a mim.
+
+18 E Jesus o repreendeu², e o demônio saiu dele; e o menino foi curado desde aquele momento.
+
+19 Então os discípulos aproximaram-se de Jesus em particular e disseram:
+
+— Por que nós não pudemos expulsá-lo?
+
+20 Ele lhes diz:
+
+— Por causa da vossa pouca fé. Pois em verdade vos digo: se tiverdes fé como um grão de mostarda, direis a este monte: “Passa daqui para lá”, e ele passará; e nada vos será impossível.
+
+Notas de tradução
+
+1. “Tem convulsões”: tradução descritiva provisória de σεληνιάζεται. O estudo lexical examinará seu uso histórico e sua relação com a descrição narrativa.
+
+2. “Jesus o repreendeu”: o grego utiliza um pronome. A identificação do demônio como destinatário é favorecida pelo contexto, mas não foi incorporada como substantivo na tradução analítica.
+
+Nota textual — 17.21: parte da tradição acrescenta: “Mas esta espécie não sai senão por oração e jejum”. Conforme a decisão do EXE-02, a sentença permanece fora do corpo do texto-base.
+
+
+A comparação mostra convergência nas escolhas centrais: πάσχει, pouca fé, convulsões, pronome na repreensão, “como um grão”, presente “ele lhes diz” e amplitude da promessa. A tradução recuperada prefere “perversa”, “foi curado desde aquele momento” e outra disposição de algumas orações. Sua tradução literal inicial empregava “pervertida” e “desde aquela hora”. A [conferência](EXE-03-recuperado-conferencia.md) discrimina os níveis e as diferenças. Nada disso altera a ideia exegética ou a decisão de manter21 em nota.
 
 O texto grego, extraído do08C e conferível no excerto NA28 fornecido, está no apêndice desta seção, em [grego e traduções documentadas](auditoria-lacunas-iniciais.md#texto-grego-e-blocos-de-traducao). Superscritos e outros sinais do aparato podem ter sido perdidos na transcrição original: listas de testemunhas não devem ser reconstruídas por conjectura.
 
@@ -157,7 +180,7 @@ A passagem narra e revela, censura e promete. Sua intenção comunicativa é com
 |21 fica em nota | Aparato recebido e recepção | Inclusão antiga e extensa tem peso, sem ser decisiva | Alto para decisão; história detalhada não equivalente |D03;suplemento |
 | Reino/Igreja/consumação | Relações em12/12B | Leitura local funciona sem intenção alusiva específica | Moderado; não termos locais |09;12/12B;13 |
 
-Questões abertas: extensão da geração, referente deαὐτῷ18, aspecto preciso da mostarda, alcance positivo detalhado da promessa e relação com dom particular da fé. Lacunas documentais: redação histórica03, produtos integrais iniciais e auditorias independentes. A falta da redação antiga não impede leitura atual fundada no grego; impede atribuir a ela a reconstrução posterior e certificar cumprimento integral daquela etapa.
+Questões abertas: extensão da geração, referente deαὐτῷ18, aspecto preciso da mostarda, alcance positivo detalhado da promessa e relação com dom particular da fé. Lacunas documentais remanescentes: produtos integrais de outras etapas iniciais, links/edições exatas das versões declaradas no03 e auditorias independentes. O relatório03 foi recuperado; sua disponibilidade não certifica por si só exaustividade técnica ou conferências externas. A reconstrução08C continua identificada como posterior.
 
 ## 13. Relatórios, fontes e dependências preservados
 
@@ -167,4 +190,4 @@ Referências secundárias fornecidas: Arndt etal., BDAG,2000, verbetesὀλιγ�
 
 Este mestre sintetiza fontes anteriormente examinadas; não afirma nova consulta bibliográfica. Nenhuma hipótese Baixa passou à ideia exegética. A revisão de decisão exigirá atualizar o mestre, as notas afetadas, as perguntas, o registro de decisões e os produtos derivados; os relatórios e versões históricos permanecerão disponíveis.
 
-**Fechamento desta versão:** consolidação intermediária elaborada; pesquisa aberta; aplicação e produtos finais pendentes; traduções recompostas identificadas; relatórios completos preservados. As notas possuem IDs locais estáveis, sem pretensão de IDs nativos do Logos ou entradas definitivas de curadoria global.
+**Fechamento desta versão:** consolidação intermediária elaborada; pesquisa aberta; aplicação e produtos finais pendentes; tradução03 recuperada e recomposição08C historicamente distinguida; relatórios completos preservados. As notas possuem IDs locais estáveis, sem pretensão de IDs nativos do Logos ou entradas definitivas de curadoria global.

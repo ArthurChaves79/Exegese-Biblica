@@ -1,0 +1,183 @@
+Arthur, avançamos ao EXE-03 — Tradução Exegética de Trabalho de Mateus 17.14–20. Usaremos o texto da NA28 que você forneceu, com πάσχει, “sofre”, em 17.15; ὀλιγοπιστίαν, “pouca fé”, em 17.20; e o versículo 21 preservado em nota.
+
+Esta tradução será provisória: deve tornar visíveis as relações do grego e conservar as dificuldades que ainda precisamos investigar. O roteiro pede justamente que distingamos tradução e interpretação, evitando resolver antecipadamente as ambiguidades. EXE-03 — Tradução Exegética de Trabalho.md
+
+1. Texto original, tradução literal e segmentação
+
+Apresento o texto grego em unidades sintáticas, sem os sinais do aparato. A coluna central é deliberadamente próxima da construção original; a redação portuguesa mais fluente virá ao final.
+
+Texto grego	Tradução literal inicial	Função
+14 Καὶ ἐλθόντων πρὸς τὸν ὄχλον	E, tendo [eles] chegado à multidão,	Construção participial em genitivo, com valor temporal.
+προσῆλθεν αὐτῷ ἄνθρωπος	aproximou-se dele um homem,	Oração principal: introdução do novo participante.
+γονυπετῶν αὐτὸν 15 καὶ λέγων·	ajoelhando-se diante dele e dizendo:	Participiais que descrevem a abordagem do homem.
+κύριε, ἐλέησόν μου τὸν υἱόν,	Senhor, tem misericórdia de meu filho,	Vocativo e pedido no imperativo.
+ὅτι σεληνιάζεται καὶ κακῶς πάσχει·	porque é “lunático” e sofre intensamente;	Justificativa causal do pedido.
+πολλάκις γὰρ πίπτει εἰς τὸ πῦρ καὶ πολλάκις εἰς τὸ ὕδωρ.	pois muitas vezes cai no fogo e muitas vezes na água.	Explicação da aflição; o segundo “cai” fica subentendido.
+16 καὶ προσήνεγκα αὐτὸν τοῖς μαθηταῖς σου,	E o trouxe aos teus discípulos,	Relato da tentativa anterior.
+καὶ οὐκ ἠδυνήθησαν αὐτὸν θεραπεῦσαι.	e não puderam curá-lo.	Resultado negativo; infinitivo completa “puderam”.
+17 ἀποκριθεὶς δὲ ὁ Ἰησοῦς εἶπεν·	Jesus, respondendo, disse:	Introdução da resposta.
+ὦ γενεὰ ἄπιστος καὶ διεστραμμένη,	Ó geração incrédula e pervertida,	Interpelação direta.
+ἕως πότε μεθ’ ὑμῶν ἔσομαι;	até quando estarei convosco?	Pergunta sobre a permanência com os interlocutores.
+ἕως πότε ἀνέξομαι ὑμῶν;	até quando vos suportarei?	Segunda pergunta, paralela à primeira.
+φέρετέ μοι αὐτὸν ὧδε.	Trazei-o aqui a mim.	Ordem dirigida a interlocutores no plural.
+18 καὶ ἐπετίμησεν αὐτῷ ὁ Ἰησοῦς	E Jesus o repreendeu,	Ação principal; o pronome exige exame de referência.
+καὶ ἐξῆλθεν ἀπ’ αὐτοῦ τὸ δαιμόνιον	e dele saiu o demônio,	Acontecimento subsequente.
+καὶ ἐθεραπεύθη ὁ παῖς ἀπὸ τῆς ὥρας ἐκείνης.	e o menino foi curado desde aquela hora.	Resultado e determinação temporal.
+19 Τότε προσελθόντες οἱ μαθηταὶ τῷ Ἰησοῦ κατ’ ἰδίαν εἶπον·	Então os discípulos, aproximando-se de Jesus em particular, disseram:	Transição para o diálogo particular.
+διὰ τί ἡμεῖς οὐκ ἠδυνήθημεν ἐκβαλεῖν αὐτό;	Por que nós não pudemos expulsá-lo?	Pergunta causal; “nós” aparece explicitamente.
+20 ὁ δὲ λέγει αὐτοῖς·	Ele lhes diz:	Introdução da resposta no presente narrativo.
+διὰ τὴν ὀλιγοπιστίαν ὑμῶν·	Por causa da vossa pouca fé.	Expressão causal que responde diretamente à pergunta.
+ἀμὴν γὰρ λέγω ὑμῖν,	Pois em verdade vos digo:	Introdução solene da explicação seguinte.
+ἐὰν ἔχητε πίστιν ὡς κόκκον σινάπεως,	se tiverdes fé como um grão de mostarda,	Oração condicional.
+ἐρεῖτε τῷ ὄρει τούτῳ·	direis a este monte:	Consequência da condição.
+μετάβα ἔνθεν ἐκεῖ,	Passa daqui para lá,	Ordem citada dentro da declaração de Jesus.
+καὶ μεταβήσεται·	e ele passará;	Resultado anunciado.
+καὶ οὐδὲν ἀδυνατήσει ὑμῖν.	e nada vos será impossível.	Declaração final coordenada à sequência anterior.
+
+“Lunático”, nessa tradução inicial, está entre aspas por ser um equivalente histórico que exige esclarecimento. Não será empregado sem nota na tradução de trabalho.
+
+Não há necessidade de encontrar todos os tipos de oração mencionados no roteiro: a passagem não apresenta uma oração final explícita, e os resultados narrados por meio de “e” não devem ser automaticamente classificados como subordinadas consecutivas.
+
+2. As principais dificuldades de tradução
+
+“Σεληνιάζεται”: como traduzir a descrição do menino?
+
+Três opções precisam ser distinguidas:
+
+Opção	Vantagem	Limitação
+“É lunático”	Conserva uma designação tradicional relacionada ao vocábulo grego.	No português atual, pode sugerir insanidade ou comportamento extravagante.
+“É epiléptico”	Oferece uma identificação tradicionalmente associada aos sintomas descritos.	Pode soar como diagnóstico clínico moderno precisamente estabelecido.
+“Tem convulsões”	Comunica a manifestação corporal de modo compreensível.	É uma tradução explicativa; não reproduz toda a história semântica do termo.
+
+As notas da NET reconhecem a ligação histórica da palavra com a lua e registram seu entendimento como referência a crises convulsivas, como as associadas à epilepsia. Isso sustenta a opção descritiva, sem exigir que façamos um diagnóstico retrospectivo. 
+
+Escolha provisória: “tem convulsões”, acompanhada de nota lexical. A etimologia não será transformada numa afirmação de que a lua causava a condição do menino.
+
+Também não traduziremos o verbo como “está endemoninhado”. A presença do demônio é explicitada pelo narrador no versículo 18; não devemos antecipar essa formulação dentro do vocábulo usado pelo pai.
+
+“Καὶ οὐκ ἠδυνήθησαν”: “e” ou “mas”?
+
+O texto utiliza καί, normalmente “e”. Na sequência, porém, existe um contraste: o pai trouxe o filho aos discípulos, mas o resultado esperado não ocorreu.
+
+“Mas não puderam” explicita legitimamente essa relação contextual. Para esta versão analítica, conservarei “e eles não puderam”, permitindo observar a coordenação original. A NET adota a tradução adversativa e explica essa escolha em nota. 
+
+“Γενεὰ ἄπιστος καὶ διεστραμμένη”: a quem Jesus se dirige?
+
+A tradução será “geração incrédula e perversa”.
+
+O particípio διεστραμμένη, empregado como qualificação, expressa uma condição de perversão ou desvio. “Perversa” é uma equivalência portuguesa adequada; “pervertida” poderia salientar esse estado, mas possui associações contemporâneas que podem estreitar indevidamente o sentido.
+
+O ponto decisivo é outro: não substituiremos “geração” por “discípulos” na tradução. Determinar o alcance da repreensão pertence à análise contextual. Os pronomes e a ordem seguintes estão no plural, mas isso não identifica, por si só, todos os destinatários.
+
+“Ἐπετίμησεν αὐτῷ”: quem é repreendido?
+
+O grego emprega um pronome: aproximadamente, “Jesus o repreendeu”. A tradução “Jesus repreendeu o demônio” explicita uma identificação contextual plausível, adotada por diversas versões.
+
+Entretanto, αὐτῷ, nessa forma, pode corresponder tanto ao masculino quanto ao neutro. Sua morfologia isoladamente não decide entre o menino e o demônio. A sequência narrativa favorece entender a repreensão como dirigida ao demônio, mas precisamos distinguir essa inferência da forma expressa.
+
+Escolha de trabalho: “Jesus o repreendeu”, com nota. Isso mantém visível a questão para o EXE-04.
+
+“Ὡς κόκκον σινάπεως”: “como” ou “do tamanho de”?
+
+Adotaremos “fé como um grão de mostarda”.
+
+“Do tamanho de um grão” explicita a dimensão da pequenez como ponto da comparação. É uma interpretação possível, mas ὡς introduz a comparação sem nomear expressamente essa dimensão.
+
+Conservar “como” permite investigar o ponto comparativo antes de fixá-lo na tradução. Isso não exclui o tamanho como aspecto relevante; apenas evita decidi-lo antecipadamente.
+
+“Οὐδὲν ἀδυνατήσει ὑμῖν”: qual alcance preservar?
+
+Traduziremos “nada vos será impossível”.
+
+Não acrescentaremos “se estiver de acordo com a vontade de Deus” nem substituiremos a frase por “vocês poderão realizar qualquer desejo”. Ambas as formulações acrescentariam uma interpretação à tradução.
+
+O alcance da declaração deverá ser estabelecido pela relação com a condição, a imagem do monte, a pergunta dos discípulos e o contexto de sua missão.
+
+3. Verbos e efeitos sobre a tradução
+
+Na tabela, perfectivo significa que a ação é apresentada globalmente; imperfectivo, que é apresentada em seu desenvolvimento ou recorrência. Essas categorias não determinam sozinhas a duração real da ação.
+
+Forma e lema	Análise	Efeito na leitura
+προσῆλθεν — προσέρχομαι	Aoristo ativo indicativo; perfectivo.	Faz avançar a narrativa: o homem se aproximou.
+ἐλέησον — ἐλεέω	Aoristo ativo imperativo; perfectivo.	Formula o pedido de misericórdia. O aoristo não significa misericórdia apenas momentânea.
+σεληνιάζεται — σεληνιάζομαι	Presente indicativo, forma médio-passiva; imperfectivo.	Descreve a condição do menino; a forma não exige uma tradução passiva.
+πάσχει — πάσχω	Presente ativo indicativo; imperfectivo.	Apresenta o sofrimento como situação vigente.
+πίπτει — πίπτω	Presente ativo indicativo; imperfectivo.	Com “muitas vezes”, descreve ocorrências repetidas.
+προσήνεγκα — προσφέρω	Aoristo ativo indicativo; perfectivo.	Relata a apresentação anterior aos discípulos.
+ἠδυνήθησαν / ἠδυνήθημεν — δύναμαι	Aoristo indicativo, morfologia passiva, sentido não passivo.	“Não puderam / não pudemos”; retoma a mesma incapacidade nos vv. 16 e 19.
+θεραπεῦσαι / ἐκβαλεῖν	Infinitivos aoristos ativos.	Completam “poder”: curar / expulsar.
+ἔσομαι — εἰμί	Futuro indicativo, forma média.	“Estarei”; primeira pergunta de Jesus.
+ἀνέξομαι — ἀνέχομαι	Futuro médio indicativo.	“Suportarei”; segunda pergunta paralela.
+φέρετε — φέρω	Presente ativo imperativo; imperfectivo.	Ordem concreta: “trazei”. Não exige repetição habitual.
+ἐπετίμησεν / ἐξῆλθεν	Aoristos ativos indicativos; perfectivos.	Repreensão e saída do demônio como acontecimentos narrados.
+ἐθεραπεύθη — θεραπεύω	Aoristo passivo indicativo; perfectivo.	O menino recebe a cura; não é apresentado como seu agente.
+εἶπεν / εἶπον — λέγω	Aoristos ativos indicativos.	Introduzem as falas nos vv. 17 e 19.
+λέγει / λέγω	Presentes ativos indicativos.	O primeiro é presente narrativo; o segundo integra a declaração de Jesus.
+ἔχητε — ἔχω	Presente ativo subjuntivo, com ἐάν.	Formula a condição: “se tiverdes”.
+ἐρεῖτε — λέγω	Futuro ativo indicativo.	Expressa a consequência: “direis”.
+μετάβα — μεταβαίνω	Aoristo ativo imperativo; perfectivo.	Ordem dirigida ao monte.
+μεταβήσεται — μεταβαίνω	Futuro médio indicativo, sentido intransitivo.	“Passará”; não “será passado”.
+ἀδυνατήσει — ἀδυνατέω	Futuro ativo indicativo.	Encerra a declaração: “será impossível”, sob a negação “nada”.
+
+Dois cuidados são especialmente importantes: o aoristo não prova instantaneidade por si só, e o presente não significa automaticamente continuidade ininterrupta. Em 17.18, a indicação temporal da cura vem também da expressão “desde aquela hora”.
+
+4. Elementos que o português pode esconder
+
+Há três relações que devemos conservar no registro:
+
+* Incapacidade e impossibilidade: ἠδυνήθησαν, ἠδυνήθημεν e ἀδυνατήσει conectam o fracasso relatado, a pergunta dos discípulos e a declaração final. Em português, “puderam”, “pudemos” e “impossível” mantêm o sentido, mas tornam menos perceptível a proximidade vocabular.
+* Incredulidade, pouca fé e fé: ἄπιστος, ὀλιγοπιστία e πίστις pertencem a um mesmo campo lexical, embora não sejam equivalentes. A tradução deve preservar suas diferenças.
+* O “nós” explícito: em 17.19, ἡμεῖς aparece embora a pessoa já esteja expressa no verbo. Preservaremos “nós”, deixando para a análise discursiva avaliar a força do contraste.
+
+Também manteremos as repetições “muitas vezes… muitas vezes” e “até quando… até quando”. Elas participam da organização das falas.
+
+5. Comparação com traduções representativas
+
+Versão	Opção observada	Consequência para o estudo
+ARA	Emprega “lunático” e explicita o demônio como destinatário da repreensão.	Conserva uma designação tradicional, mas resolve a referência pronominal em 17.18.
+NAA	Emprega “tem convulsões” e também explicita o demônio.	Facilita a compreensão da aflição, com maior explicitação contextual.
+ESV	Descreve crises convulsivas e conserva a comparação com o grão sem inserir uma expressão de tamanho.	Aproxima-se de nossas escolhas nesses dois pontos.
+NET	Descreve crises convulsivas e explicita o tamanho na comparação da fé.	Mostra como uma tradução pode tornar mais definida uma comparação que o grego deixa menos especificada.
+
+As opções foram conferidas nos textos das versões. São diferenças de tradução e explicitação; não devem ser confundidas automaticamente com diferenças de manuscritos. 
+
+6. Tradução exegética de trabalho
+
+A tradução abaixo foi elaborada a partir do grego fornecido. Conserva o presente narrativo do versículo 20 e algumas repetições que uma versão mais literária poderia suavizar.
+
+14 E, quando chegaram à multidão, um homem aproximou-se dele, ajoelhando-se diante dele 15 e dizendo:
+
+— Senhor, tem misericórdia de meu filho, porque ele tem convulsões¹ e sofre intensamente; pois muitas vezes cai no fogo e muitas vezes na água. 16 E eu o trouxe aos teus discípulos, e eles não puderam curá-lo.
+
+17 Jesus respondeu:
+
+— Ó geração incrédula e perversa! Até quando estarei convosco? Até quando vos suportarei? Trazei-o aqui a mim.
+
+18 E Jesus o repreendeu², e o demônio saiu dele; e o menino foi curado desde aquele momento.
+
+19 Então os discípulos aproximaram-se de Jesus em particular e disseram:
+
+— Por que nós não pudemos expulsá-lo?
+
+20 Ele lhes diz:
+
+— Por causa da vossa pouca fé. Pois em verdade vos digo: se tiverdes fé como um grão de mostarda, direis a este monte: “Passa daqui para lá”, e ele passará; e nada vos será impossível.
+
+Notas de tradução
+
+1. “Tem convulsões”: tradução descritiva provisória de σεληνιάζεται. O estudo lexical examinará seu uso histórico e sua relação com a descrição narrativa.
+
+2. “Jesus o repreendeu”: o grego utiliza um pronome. A identificação do demônio como destinatário é favorecida pelo contexto, mas não foi incorporada como substantivo na tradução analítica.
+
+Nota textual — 17.21: parte da tradição acrescenta: “Mas esta espécie não sai senão por oração e jejum”. Conforme a decisão do EXE-02, a sentença permanece fora do corpo do texto-base.
+
+7. Registro de continuidade
+
+Questão	Decisão nesta etapa	Investigação seguinte
+Como traduzir σεληνιάζεται?	“Tem convulsões”, provisoriamente.	EXE-06: alcance lexical e histórico.
+Quem recebe a repreensão em 17.18?	Pronome conservado; demônio como referente provável.	EXE-04: referência e construção sintática.
+Qual é o ponto da comparação com a mostarda?	“Como” preservado.	EXE-05 e EXE-06.
+A fé é apresentada como condição?	Sim, por ἐάν + subjuntivo.	EXE-04: organização da condição e de suas consequências.
+Qual é o alcance de “nada”?	Formulação ampla preservada, sem acréscimos.	EXE-05: delimitação contextual.
+
+A tradução de trabalho está estabelecida, com suas escolhas e pendências identificadas. O próximo passo é o EXE-04 — Análise Sintática, especialmente a estrutura das falas, as referências pronominais e a relação entre condição e consequências em 17.20.
