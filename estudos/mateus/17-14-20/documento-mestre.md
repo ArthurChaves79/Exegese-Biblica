@@ -1,8 +1,8 @@
 # Mateus 17.14–21 — Documento exegético mestre
 
-**Identificador do projeto:** MT1714-21-MESTRE. **Versão:** 0.2.0, 26/10/2026. **Natureza:** consolidação intermediária cumulativa, com exposição argumentativa e trilha de evidências. **Texto principal adotado:**17.14–20; **17.21:** tradição textual examinada em nota. A designação14–21 amplia a cobertura documental sem alterar a decisão textual D03 ou renomear o diretório histórico.
+**Identificador do projeto:** MT1714-21-MESTRE. **Versão:** 0.3.0, 26/10/2026. **Natureza:** consolidação intermediária cumulativa, com exposição argumentativa e trilha de evidências. **Texto principal adotado:**17.14–20; **17.21:** tradição textual examinada em nota. A designação14–21 amplia a cobertura documental sem alterar a decisão textual D03 ou renomear o diretório histórico.
 
-**Base de integração:** relatórios e fontes disponíveis até EXE-13. A EXE-13B, já publicada antes desta solicitação, permanece preservada e identificada como desenvolvimento posterior à sistemática. Esta consolidação não constitui avanço de etapa nem encerramento EXE-15A, artigo final EXE-15B ou validação independente. Mt17.1–13 continua reservado.
+**Base de integração:** relatórios e fontes disponíveis até EXE-13. A EXE-13B, já publicada antes desta solicitação, permanece preservada e identificada como desenvolvimento posterior à sistemática. O mestre incorpora agora a consolidação EXE-15A no escopo documentado, sem equivaler a artigo final15B ou validação independente. Mt17.1–13 continua reservado.
 
 Este documento passa a ser a exposição comum da pesquisa. Os relatórios completos conservam análises, alternativas e registros históricos; não serão substituídos por esta redação. Novas etapas deverão ampliar ou revisar o mestre e suas notas derivadas, com versões e dependências identificadas. [Auditoria documental](auditoria-lacunas-iniciais.md) · [Notas para o Logos](notas-logos.md) · [Registro estruturado das notas](notas-logos.json) · [Continuidade](CONTINUIDADE.md).
 
@@ -192,7 +192,7 @@ Referências secundárias fornecidas: Arndt etal., BDAG,2000, verbetesὀλιγ�
 
 Este mestre sintetiza fontes anteriormente examinadas; não afirma nova consulta bibliográfica. Nenhuma hipótese Baixa passou à ideia exegética. A revisão de decisão exigirá atualizar o mestre, as notas afetadas, as perguntas, o registro de decisões e os produtos derivados; os relatórios e versões históricos permanecerão disponíveis.
 
-**Fechamento desta versão:** consolidação intermediária elaborada; pesquisa aberta; EXE-14 geral elaborada; produtos finais pendentes; tradução03 recuperada e recomposição08C historicamente distinguida; relatórios completos preservados. As notas possuem IDs locais estáveis, sem pretensão de IDs nativos do Logos ou entradas definitivas de curadoria global.
+**Fechamento desta versão:** EXE-15A consolidada no escopo disponível; pesquisa reabrível por evidência; EXE-14 geral elaborada; produto15B pendente; tradução03 recuperada e recomposição08C historicamente distinguida; relatórios completos preservados. As notas possuem IDs locais estáveis, sem pretensão de IDs nativos do Logos ou entradas definitivas de curadoria global.
 
 <a id="mt1714-21-m-014"></a>
 ## 14. Horizonte hermenêutico e aplicação — EXE-14
@@ -212,3 +212,16 @@ O texto tem pertinência para oração, cuidado familiar, discipulado e discerni
 A base cristológica é direta no socorro e ensino de Jesus; a articulação ao Senhor crucificado e ressuscitado é desenvolvimento contextual e canônico. A graça não é conquistada por obras ou intensidade, e a dependência não dispensa a confiança exigida. Oração e exame pessoal são convites ao pesquisador; não se afirma que uma ferramenta verificou oração realizada, mudança interior ou ação interna do Espírito.
 
 O [relatório14 completo](EXE-14-horizonte-aplicacao.md) registra cada aplicação com função original, ponte, resposta, obra de Cristo, grau e limites. O núcleo Alto permanece a ação de Jesus e sua explicação; as pontes eclesiais e procedimentos concretos são qualificados. Nenhuma decisão textual, tradução ou ideia11 mudou. A aplicação geral está elaborada; comunicação personalizada, sermão e aconselhamento de caso real não foram executados. Próximo: EXE-15A, consolidação no escopo e com as pendências efetivamente documentadas.
+
+<a id="mt1714-21-m-015"></a>
+## 15. Consolidação EXE-15A e estado de fechamento
+
+A pesquisa foi consolidada com cobertura e lacunas discriminadas no [dossiê15A](EXE-15A-dossie-consolidado.md). Este mestre permanece a exposição comum e os relatórios completos permanecem como análise e histórico. A consolidação confirma o núcleo do08B/11, sem nova decisão textual ou mudança de confiança. O03 recuperado é a base tradutória;08C continua recomposição posterior preservada.
+
+Há dois níveis de pendência. Questões interpretativas já investigadas — alcance de geração, aspecto da mostarda, referência pronominal18 e extensão positiva detalhada da promessa — permanecem qualificadas e não impedem uma exposição responsável. Lacunas de documentação — outros relatórios históricos integrais, links/edições exatas das versões declaradas no03, controles e auditorias ausentes — impedem somente as certificações e decisões que deles dependem. Não se afirma que a ausência de documento prove ausência de trabalho histórico.
+
+O inventário classifica01/01B/02/04/05/06/08 como documentação parcial,03 como relatório recuperado com limites técnicos e bibliográficos,07 como não documentado e08B–14 como relatórios disponíveis nos respectivos escopos.10 é levantamento seletivo. Nenhum quiasmo ou auditoria independente foi fabricado. LEIA-PRIMEIRO,FONTES-01,POSTURA-01 eVAL-06 não foram disponibilizados; não se declara execução desses controles. CTL-01 e os limites já documentados orientam a consolidação.
+
+A contribuição permanece a configuração singular de socorro misericordioso e formação dos enviados: Jesus resolve a aflição e interpreta a incapacidade, sem transformar o menino em pretexto. Sua autoridade e a causa local da falha são Altas no núcleo; as integrações particulares com Reino,Igreja e consumação conservam grau Moderado. A aplicação14 orienta busca de socorro,cuidado e confiança, sem diagnosticar toda não cura como incredulidade.
+
+O fechamento é documental no escopo disponível, não certificação integral do método. A transferência de gênero15B, comunicação16 e curadoriaCTL-02 não foram executadas. As14 notas Logos permanecem preparadas, sem transferência ao aplicativo. Novas evidências exigirão revisão explícita das dependências, mantendo fontes, versões e IDs locais. Próximo: produto15B com gênero e modelo próprios, preservando o dossiê como base.

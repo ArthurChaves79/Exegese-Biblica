@@ -11,3 +11,5 @@ A identificação do commit que publica cada versão é recuperável no históri
 |0.1.2|26/10/2026|0.1.1|Reenvio NA28 preservado e conferido com arquivo anterior e grego03; sem mudança de leitura|Mestre,N001,estado,continuidade,manifesto|
 
 |0.2.0|26/10/2026|0.1.2|EXE-14 elaborada e integrada à seção14;notaN014 criada eN012 atualizada|Mestre,notas,continuidade,estado,perguntas,decisões;sem revisão textual|
+
+|0.3.0|26/10/2026|0.2.0|Consolidação15A,cobertura e condições de retomada;atualização do estado atual|Mestre,notas,perguntas,decisões,continuidade;sem nova exegese|

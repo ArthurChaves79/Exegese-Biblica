@@ -1,3 +1,5 @@
+> **Estado atual — mestre0.3.0:** EXE-15A consolidada no escopo disponível;produto15B pendente;14 notas preparadas;sem validação independente ou transferência ao Logos. Avisos de versões anteriores abaixo são históricos.
+
 > **Estado atual — mestre0.2.0:** EXE-14 geral elaborada;14 notas Logos preparadas, sem transferência. Próximo módulo15A. Relatórios e procedência03 preservados.
 
 > **Atualização de procedência — mestre0.1.1:** EXE-03 recuperado pelo pesquisador, preservado em `estudos/mateus/17-14-20/EXE-03-recuperado.txt`. Tradução de trabalho incorporada ao mestre; recomposição08C preservada. Declarações abaixo de ausência do03 descrevem o estado anterior e são superadas por esta recuperação. Ver a conferência no diretório do estudo. Sem nova etapa ou transferência ao Logos.
@@ -83,3 +85,7 @@ Este documento é síntese retrospectiva, não transcrição integral das respos
 ## Horizonte hermenêutico e aplicação
 
 [EXE-14](EXE-14-horizonte-aplicacao.md): aplicações gerais, pontes, exemplos prudenciais e limites. Integrada à seção14 do mestre0.2.0.
+
+## Consolidação da pesquisa
+
+[EXE-15A](EXE-15A-dossie-consolidado.md): cobertura dos módulos,cadeia de evidências,questões abertas,condições de retomada e distinções de fechamento. Integrada à seção15 do mestre0.3.0.

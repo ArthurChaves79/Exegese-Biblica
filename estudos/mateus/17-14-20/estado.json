@@ -1,8 +1,8 @@
 {
   "passagem": "Mt 17.14–21 (texto principal 14–20; v21 em nota)",
   "data": "2026-10-26",
-  "etapa_atual": "EXE-14 elaborada e incorporada ao mestre0.2.0",
-  "proxima": "EXE-15A — Consolidação da Pesquisa, preservando pendências",
+  "etapa_atual": "EXE-15A consolidada no escopo documentado; mestre0.3.0",
+  "proxima": "EXE-15B — Redação do produto final segundo gênero/modelo",
   "reservado": "Mt 17.1–13",
   "pendencias": [
     "Recuperar respostas históricas integrais quando disponíveis",
@@ -10,7 +10,8 @@
     "Auditorias VAL01–05/06 não disponibilizadas; não presumir validação",
     "Novas etapas devem atualizar o mestre, notas e dependências na mesma publicação",
     "Relatório03 recuperado; conferir fontes externas/edições declaradas e completude técnica apenas quando pertinente, sem alegar reconferência nesta operação",
-    "FONTES-01 e POSTURA-01 citados pelo módulo14 não disponibilizados; não afirmar execução"
+    "FONTES-01 e POSTURA-01 citados pelo módulo14 não disponibilizados; não afirmar execução",
+    "LEIA-PRIMEIRO e VAL-06 citados15A não disponibilizados; não certificar execução"
   ],
   "fontes_arquivadas": [
     "NA28",
@@ -37,9 +38,9 @@
   "documento_mestre": {
     "id": "MT1714-21-MESTRE",
     "path": "estudos/mateus/17-14-20/documento-mestre.md",
-    "version": "0.2.0",
-    "natureza": "consolidacao_intermediaria_cumulativa",
-    "base_ate": "EXE-14",
+    "version": "0.3.0",
+    "natureza": "dossie_cumulativo_consolidado_com_pendencias",
+    "base_ate": "EXE-15A",
     "aplicacao": "EXE-14 geral elaborada; sem comunicação personalizada ou caso real"
   },
   "traducao": {
@@ -61,5 +62,12 @@
     "relatorio": "estudos/mateus/17-14-20/conferencia-na28-reenvio.md",
     "fonte": "fontes/logos/na28-mt17-reenvio.txt",
     "resultado": "Grego03 coincide com principal; arquivo anterior sem diferença substantiva; sinais ausentes não restaurados"
+  },
+  "fechamento": {
+    "documental": "concluído no escopo disponível",
+    "validacao_integral_metodo": false,
+    "revisao_independente": false,
+    "produto_15B": "pendente",
+    "relatorio": "estudos/mateus/17-14-20/EXE-15A-dossie-consolidado.md"
   }
 }

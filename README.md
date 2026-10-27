@@ -1,3 +1,5 @@
+> **Estado atual — mestre0.3.0:** EXE-15A consolidada no escopo disponível;produto15B pendente;14 notas preparadas;sem validação independente ou transferência ao Logos. Avisos de versões anteriores abaixo são históricos.
+
 > **Estado atual — mestre0.2.0:** EXE-14 geral elaborada;14 notas Logos preparadas, sem transferência. Próximo módulo15A. Relatórios e procedência03 preservados.
 
 > **Atualização de procedência — mestre0.1.1:** EXE-03 recuperado pelo pesquisador, preservado em `estudos/mateus/17-14-20/EXE-03-recuperado.txt`. Tradução de trabalho incorporada ao mestre; recomposição08C preservada. Declarações abaixo de ausência do03 descrevem o estado anterior e são superadas por esta recuperação. Ver a conferência no diretório do estudo. Sem nova etapa ou transferência ao Logos.

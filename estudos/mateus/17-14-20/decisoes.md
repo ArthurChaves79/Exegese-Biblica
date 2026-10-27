@@ -48,3 +48,5 @@ Alterar uma decisão exige revisar tradução, comentário e conclusões depende
 - D35: reenvio NA28 preservado separadamente; comparação normalizada confirma principal03 e conteúdo anterior. Apenas pontuação bibliográfica difere após normalização. Mestre0.1.2; nenhuma nova decisão textual ou restauração de sobrescritos.
 
 - D36: EXE-14 preserva núcleo Alto e pontes Moderadas, sem elevar preferências a obrigações. Aplicação geral autorizada pelo pedido de continuidade;nenhum caso real ou sermão executado. Mestre0.2.0;notaN014 acrescentada;N012 atualizada sem renumeração.
+
+- D37: EXE-15A fecha documentalmente o escopo disponível,sem converter questões Moderadas em certeza ou controles ausentes em executados. Mestre0.3.0 integra dossiê;relatórios preservados;15B permanece produto pendente. P18 atualizado após recuperação03,com histórico mantido.
