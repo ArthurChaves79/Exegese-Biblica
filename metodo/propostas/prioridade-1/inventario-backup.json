@@ -1,0 +1,348 @@
+{
+  "fonte": "Exegese_Biblica_Projeto.zip",
+  "sha256_zip": "eba2f659770eaf054cd09db14ca752630433536cac9625dc8146b09d557b491f",
+  "library_file_id": "libfile_ef592f8c4b64819188b51c39c27d7be3",
+  "data": "2026-10-27",
+  "status": "backup reavaliado;sem promoção de vigência",
+  "nomes": "nome_zip preserva nome retornado pelo ZIP;alias de consulta não corrige o arquivo original",
+  "contagem": {
+    "não constava dos22 originais": 15,
+    "variante de conteúdo": 12,
+    "idêntico": 10
+  },
+  "arquivos": [
+    {
+      "nome_zip": "EXE-07___Estrutura_e_Forma_Litera_ria.md",
+      "alias": "EXE-07.md",
+      "codigo": "EXE-07",
+      "sha256": "df67ce8236c46e55ada3aeb04e37d8cc97897edd60b8d7f8efd7ab9975748647",
+      "bytes": 4957,
+      "relacao": "não constava dos22 originais",
+      "destinacao": "comparar e reformular conforme diretrizes atuais"
+    },
+    {
+      "nome_zip": "VAL-01___Ana_lise_Morfossinta_tica_Aplicada.md",
+      "alias": "VAL-01.md",
+      "codigo": "VAL-01",
+      "sha256": "b45e13df49947160d8357827fc5289aba273227c8de553a26b500d5ece9baab0",
+      "bytes": 2623,
+      "relacao": "não constava dos22 originais",
+      "destinacao": "comparar e reformular conforme diretrizes atuais"
+    },
+    {
+      "nome_zip": "EXE-11B___Teologia_Biblica_do_Lexico.md",
+      "alias": "EXE-11B.md",
+      "codigo": "EXE-11B",
+      "sha256": "2d5c61f4c6050dab97dc0d34fa0690e1801a6f39ab548204318d087541076413",
+      "bytes": 5309,
+      "relacao": "não constava dos22 originais",
+      "destinacao": "comparar e reformular conforme diretrizes atuais"
+    },
+    {
+      "nome_zip": "CTL-02___Alimenta├º├úo_do_Reposit├│rio_Teol├│gico_Cumulativo.md",
+      "alias": "CTL-02.md",
+      "codigo": "CTL-02",
+      "sha256": "62251d8ed97fa93b48a34132134320ed835f4d3ee0ad4dfd756b7e5eb8c386ef",
+      "bytes": 9134,
+      "relacao": "não constava dos22 originais",
+      "destinacao": "comparar e reformular conforme diretrizes atuais"
+    },
+    {
+      "nome_zip": "EXE-10B___Avalia├º├úo_Can├┤nica_das_Quest├╡es_Controvertidas.md",
+      "alias": "EXE-10B.md",
+      "codigo": "EXE-10B",
+      "sha256": "117843b624247a3f03423ba8617d1566b5592bff00cd3ea071a2bc34f71ffacd",
+      "bytes": 6514,
+      "relacao": "variante de conteúdo",
+      "destinacao": "comparar e reformular conforme diretrizes atuais"
+    },
+    {
+      "nome_zip": "EXE-03___Traduc_a_o_Exege_tica_de_Trabalho.md",
+      "alias": "EXE-03.md",
+      "codigo": "EXE-03",
+      "sha256": "183829666910418a3b0b790d74118a65c145c12bef187ea4a6b8aca499b7c56f",
+      "bytes": 4263,
+      "relacao": "idêntico",
+      "destinacao": "preservar;sem alteração normativa"
+    },
+    {
+      "nome_zip": "EXE-14___Horizonte_Hermene_utico_e_Aplicac_a_o.md",
+      "alias": "EXE-14.md",
+      "codigo": "EXE-14",
+      "sha256": "3f27ec203fa8f1021278621e27aed268d5b5a0724765c35691fb141fc8184007",
+      "bytes": 5559,
+      "relacao": "variante de conteúdo",
+      "destinacao": "não substituir revisão05 disponível;aproveitar só elementos compatíveis"
+    },
+    {
+      "nome_zip": "EXE-05___Ana_lise_Discursiva.md",
+      "alias": "EXE-05.md",
+      "codigo": "EXE-05",
+      "sha256": "5df3939063cd6fa71b619918e5b86ff5afab2ef090973e7efe7167883e1843e1",
+      "bytes": 5095,
+      "relacao": "idêntico",
+      "destinacao": "preservar;sem alteração normativa"
+    },
+    {
+      "nome_zip": "EXE-12B___Integrac_a_o_Cano_nica_Tema_tica.md",
+      "alias": "EXE-12B.md",
+      "codigo": "EXE-12B",
+      "sha256": "d10c050013c0bd2f7d2e936eec2d2c9844e24640eb19f8343a7205c42815dc6c",
+      "bytes": 2619,
+      "relacao": "idêntico",
+      "destinacao": "preservar;sem alteração normativa"
+    },
+    {
+      "nome_zip": "EXE-09___Contexto_Can├┤nico_e_Hist├│ria_da_Reden├º├úo.md",
+      "alias": "EXE-09.md",
+      "codigo": "EXE-09",
+      "sha256": "147deebda6e7c649a8cbfad4872de8eb772cf49ddfce2ae5650c2c793c5cab96",
+      "bytes": 5501,
+      "relacao": "variante de conteúdo",
+      "destinacao": "comparar e reformular conforme diretrizes atuais"
+    },
+    {
+      "nome_zip": "EXE-15B___Redac_a_o_do_Artigo_Exege_tico_Final.md",
+      "alias": "EXE-15B.md",
+      "codigo": "EXE-15B",
+      "sha256": "10179e71bd637d973c830230b7e7ec2db64fdbe5fad820c1a315c2e724c85c47",
+      "bytes": 6136,
+      "relacao": "variante de conteúdo",
+      "destinacao": "não substituir revisão05 disponível;aproveitar só elementos compatíveis"
+    },
+    {
+      "nome_zip": "EXE-11___S├¡ntese_Exeg├⌐tica_e_Determina├º├úo_do_Sentido.md",
+      "alias": "EXE-11.md",
+      "codigo": "EXE-11",
+      "sha256": "1ec6ff05aca097fe56ebcf1637476a5bd1bc33390a62ddf2b03246c6e1d7d4bc",
+      "bytes": 7655,
+      "relacao": "variante de conteúdo",
+      "destinacao": "comparar e reformular conforme diretrizes atuais"
+    },
+    {
+      "nome_zip": "EXE-01B___Localizac_a_o_da_Peri_cope_na_Macroestrutura_do_Livro.md",
+      "alias": "EXE-01B.md",
+      "codigo": "EXE-01B",
+      "sha256": "60c9b4b477a2df147292b369c1ab85e40d8cdeea851890286e8a61ad3618dec0",
+      "bytes": 359,
+      "relacao": "idêntico",
+      "destinacao": "preservar;sem alteração normativa"
+    },
+    {
+      "nome_zip": "VAL-03___Cri_tica_Textual_Aplicada.md",
+      "alias": "VAL-03.md",
+      "codigo": "VAL-03",
+      "sha256": "b7286131aa6bd48e9784d8f2a8d56da31a6203035e216d7e3355f488565a92f9",
+      "bytes": 2875,
+      "relacao": "não constava dos22 originais",
+      "destinacao": "comparar e reformular conforme diretrizes atuais"
+    },
+    {
+      "nome_zip": "VAL-04___Debates_Interpretativos.md",
+      "alias": "VAL-04.md",
+      "codigo": "VAL-04",
+      "sha256": "7e9e2266b25cc25429eb01eeba06d87079e901525f108370313e3183fcffcb1c",
+      "bytes": 3351,
+      "relacao": "não constava dos22 originais",
+      "destinacao": "comparar e reformular conforme diretrizes atuais"
+    },
+    {
+      "nome_zip": "EXE-11C___Teologia_Biblica_dos_Motivos.md",
+      "alias": "EXE-11C.md",
+      "codigo": "EXE-11C",
+      "sha256": "156a561fd09560851051b748d90417d102b3c28f522f3ddaec483c72f9b4ad03",
+      "bytes": 5357,
+      "relacao": "não constava dos22 originais",
+      "destinacao": "comparar e reformular conforme diretrizes atuais"
+    },
+    {
+      "nome_zip": "EXE-16___Mensagem_Pastoral_para_Grupo_de_Estudo__WhatsApp_.md",
+      "alias": "EXE-16.md",
+      "codigo": "EXE-16",
+      "sha256": "dcc23726d2fcd22ab812378c3a3324adfe0f0e2ddba35e4cbffbc08ecd24a8e1",
+      "bytes": 6091,
+      "relacao": "não constava dos22 originais",
+      "destinacao": "histórico apenas;módulo retirado,não reativar"
+    },
+    {
+      "nome_zip": "EXE-15A___Consolidac_a_o_da_Pesquisa_Exege_tica.md",
+      "alias": "EXE-15A.md",
+      "codigo": "EXE-15A",
+      "sha256": "1173425c7c336fd38442ae7ba176fbb78e4707f37f65d24abd0ef3c432234005",
+      "bytes": 1902,
+      "relacao": "variante de conteúdo",
+      "destinacao": "não substituir revisão05 disponível;aproveitar só elementos compatíveis"
+    },
+    {
+      "nome_zip": "EXE-08B___Coment├írio_Exeg├⌐tico_da_Per├¡cope.md",
+      "alias": "EXE-08B.md",
+      "codigo": "EXE-08B",
+      "sha256": "f1a57c685b1c8f875e929176f77b244291a87d3f72e7c409e2307e0722437d97",
+      "bytes": 6398,
+      "relacao": "variante de conteúdo",
+      "destinacao": "comparar e reformular conforme diretrizes atuais"
+    },
+    {
+      "nome_zip": "EXE-12___Teologia_Bi_blica_da_Peri_cope.md",
+      "alias": "EXE-12.md",
+      "codigo": "EXE-12",
+      "sha256": "501cbfc02a9e2e3cdd71bff5d47f275079063500a606c8070cb2721fa5490efe",
+      "bytes": 6516,
+      "relacao": "variante de conteúdo",
+      "destinacao": "comparar e reformular conforme diretrizes atuais"
+    },
+    {
+      "nome_zip": "EXE-08___Contexto_Histo_rico-Cultural.md",
+      "alias": "EXE-08.md",
+      "codigo": "EXE-08",
+      "sha256": "4d5f637b4f0135f11d2c5761ef967fa8ce27c8c841873a1358bbcd2d457c38df",
+      "bytes": 4965,
+      "relacao": "idêntico",
+      "destinacao": "preservar;sem alteração normativa"
+    },
+    {
+      "nome_zip": "VAL-02___Estudo_Lexical_Controlado.md",
+      "alias": "VAL-02.md",
+      "codigo": "VAL-02",
+      "sha256": "6ed87feb6036abec3443fde346f03773e13a25e754b3bcf7bbe1f20ac56aba81",
+      "bytes": 2291,
+      "relacao": "não constava dos22 originais",
+      "destinacao": "comparar e reformular conforme diretrizes atuais"
+    },
+    {
+      "nome_zip": "VAL-05___Interac_a_o_com_Literatura_Secunda_ria.md",
+      "alias": "VAL-05.md",
+      "codigo": "VAL-05",
+      "sha256": "5d90ac23944ff2866ca3163b8299105bf08268804a75b4af4c9fc8a404ce0394",
+      "bytes": 2588,
+      "relacao": "não constava dos22 originais",
+      "destinacao": "comparar e reformular conforme diretrizes atuais"
+    },
+    {
+      "nome_zip": "EXE-02___Cri_tica_Textual.md",
+      "alias": "EXE-02.md",
+      "codigo": "EXE-02",
+      "sha256": "50ca1a0882f647bcb456b1b0b5d8f13796abc309534ab3f157fef2b7946a8c58",
+      "bytes": 4659,
+      "relacao": "idêntico",
+      "destinacao": "preservar;sem alteração normativa"
+    },
+    {
+      "nome_zip": "EXE-01___Delimita├º├úo_da_Per├¡cope.md",
+      "alias": "EXE-01.md",
+      "codigo": "EXE-01",
+      "sha256": "b161fc916088d86fc910b1ab7a748c3720c1301f4a5737aa6cd5d6d4cf2d3d1b",
+      "bytes": 2648,
+      "relacao": "variante de conteúdo",
+      "destinacao": "comparar e reformular conforme diretrizes atuais"
+    },
+    {
+      "nome_zip": "claude_EXE-04___An├ílise_Sint├ítica.md",
+      "alias": "EXE-04.md",
+      "codigo": "EXE-04",
+      "sha256": "f9f62f38db34ad41c109d49b9160829b1f6f08adebbe35db2b90f3c5634d5770",
+      "bytes": 5876,
+      "relacao": "variante de conteúdo",
+      "destinacao": "comparar e reformular conforme diretrizes atuais"
+    },
+    {
+      "nome_zip": "EXE-06___Ana_lise_Lexical.md",
+      "alias": "EXE-06.md",
+      "codigo": "EXE-06",
+      "sha256": "85f18a2f828a80f66d238bcec19846b0d1e22d07e970ca9ead4f2f1f2253087b",
+      "bytes": 5796,
+      "relacao": "idêntico",
+      "destinacao": "preservar;sem alteração normativa"
+    },
+    {
+      "nome_zip": "VAL-06___Auditoria_de_Peso_de_Evid├¬ncia_e_Conex├╡es_Can├┤nicas.md",
+      "alias": "VAL-06.md",
+      "codigo": "VAL-06",
+      "sha256": "f6e531b591d4fa07b972d08319f9844c19a269d15da4661f8fd116d0302db132",
+      "bytes": 10040,
+      "relacao": "não constava dos22 originais",
+      "destinacao": "comparar e reformular conforme diretrizes atuais"
+    },
+    {
+      "nome_zip": "CTL-01___Controle_de_Peso_de_Evid├¬ncia.md",
+      "alias": "CTL-01.md",
+      "codigo": "CTL-01",
+      "sha256": "0db9800c366c42ab22d200ca112d0e93299fbde4bb07c2063eb62f1b225f2a03",
+      "bytes": 5224,
+      "relacao": "variante de conteúdo",
+      "destinacao": "comparar e reformular conforme diretrizes atuais"
+    },
+    {
+      "nome_zip": "EXE-09B___An├ílise_Cosmovisional__Cria├º├úo__Queda__Reden├º├úo_e_Consuma├º├úo_.md",
+      "alias": "EXE-09B.md",
+      "codigo": "EXE-09B",
+      "sha256": "dd8ed543a612d77af4ea6c6f67df1a3b6793ca340ebbbe53270a842d7ceaaff9",
+      "bytes": 10150,
+      "relacao": "não constava dos22 originais",
+      "destinacao": "comparar e reformular conforme diretrizes atuais"
+    },
+    {
+      "nome_zip": "EXE-08C___Comenta_rio_Verso_a_Verso.md",
+      "alias": "EXE-08C.md",
+      "codigo": "EXE-08C",
+      "sha256": "e25319c6f4051303e86d2a566fb1550b68714973be9bcb7daa307568a7ca6ce6",
+      "bytes": 6789,
+      "relacao": "idêntico",
+      "destinacao": "preservar;sem alteração normativa"
+    },
+    {
+      "nome_zip": "EXE-13B___Implicac_o_es_Antropolo_gicas__E_ticas_e_Sapienciais.md",
+      "alias": "EXE-13B.md",
+      "codigo": "EXE-13B",
+      "sha256": "c1a782cb707726fe2653c9a6bc523635e7b7f580c4e9b89a96ac5cd99540b421",
+      "bytes": 5047,
+      "relacao": "idêntico",
+      "destinacao": "preservar;sem alteração normativa"
+    },
+    {
+      "nome_zip": "CTL-03___Sinalizac_a_o_de_Achados_para_Preservac_a_o_Externa__Logos_Bible_.md",
+      "alias": "CTL-03.md",
+      "codigo": "CTL-03",
+      "sha256": "8036334280e5ac9dd86acf574cc53f05040e4c5c22f5e88c21ce3ed8f492eaeb",
+      "bytes": 4205,
+      "relacao": "não constava dos22 originais",
+      "destinacao": "comparar e reformular conforme diretrizes atuais"
+    },
+    {
+      "nome_zip": "EXE-10___Histo_ria_da_Interpretac_a_o__Wirkungsgeschichte_.md",
+      "alias": "EXE-10.md",
+      "codigo": "EXE-10",
+      "sha256": "33c359236c32ff07e259efb0f0131781c0db9af40a31d7a565385f6fff0dbbc4",
+      "bytes": 4867,
+      "relacao": "idêntico",
+      "destinacao": "preservar;sem alteração normativa"
+    },
+    {
+      "nome_zip": "EXE-13___Teologia_Sistem├ítica_da_Per├¡cope.md",
+      "alias": "EXE-13.md",
+      "codigo": "EXE-13",
+      "sha256": "2cddd86098cf39eeedcad2be00c1a479f8646f3ef85a8384cc9917757c41ea89",
+      "bytes": 5814,
+      "relacao": "variante de conteúdo",
+      "destinacao": "comparar e reformular conforme diretrizes atuais"
+    },
+    {
+      "nome_zip": "REPOSITORIO_TEOLOGICO_CUMULATIVO.md",
+      "alias": "REPOSITORIO.md",
+      "codigo": "REPOSITORIO",
+      "sha256": "ce95fbc09d7cfd727668db2a057849053a14921f294603af957bba387335485e",
+      "bytes": 186410,
+      "relacao": "não constava dos22 originais",
+      "destinacao": "acervo cumulativo histórico;não validar teses ou promover graus nesta etapa"
+    },
+    {
+      "nome_zip": "MAPA_DO_PROTOCOLO_EXEGE_TICO.md",
+      "alias": "MAPA.md",
+      "codigo": "MAPA",
+      "sha256": "ec9ebe47bc3ea9b5b1c6d37ac8bb9779ddab86a7b9a5b66947fcae8ec6309ed2",
+      "bytes": 9246,
+      "relacao": "não constava dos22 originais",
+      "destinacao": "comparar e reformular conforme diretrizes atuais"
+    }
+  ]
+}

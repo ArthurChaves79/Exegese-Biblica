@@ -1,11 +1,7 @@
-# Conferência documental da proposta
+# Conferência atual após backup
 
-27/10/2026. Conferência interna;sem auditoria exegética independente.
+37 arquivos inventariados com nome original,tamanho eSHA-256;13 roteiros/mapa recuperados preservados byte a byte em fontes-backup. A comparação com os22 anexos distingue identidade binária,apresentação e conteúdo. OZIP permanece no anexo persistente e tem hash registrado;nomes com codificação irregular são mantidos no inventário,com alias apenas para consulta.
 
-22 anexos cotejados porSHA-256 com o manifesto remoto na base3db5b5b6abfd39b38f7bcf999f63925a59fd03d6. Nenhuma revisão divergente entre anexos e originais foi encontrada. Somente main foi listada e a consulta de pull requests retornou lista vazia.
+O corpo proposto foi revisado nas seções principais,sem anexar regras conflitantes ao final. Revisões e decisões ficam no histórico/reavaliação. Nenhuma remissão operacional ativa à etapa retirada;ocorrências em fontes-backup são históricas e necessárias à preservação. Mateus,originais e normas operacionais atuais continuam intactos. Roteiro recuperado não certifica execução ou qualidade exegética.
 
-O corpo proposto não mantém dependência operacional de etapa retirada;ocorrências antigas estão inventariadas e preservadas como fontes. Documentos ausentes são declarados,não reconstruídos. Remissões de seção e vínculos locais do pacote conferidos;inventárioJSON validado.
-
-O manifesto mantém inalteradas todas as entradas anteriores;apenas documentos deste diretório proposto são acrescentados. Mateus,originais,AGENTS,instruções operacionais e código não são modificados. Um único corpo normativo proposto tem regras principais mapeadas no diagnóstico;histórico separado.
-
-Estado:não vigente,pendente de revisão. Esta conferência de coerência/preservação não autentica conversa externa inacessível,não certifica completude dos controles ausentes e não valida qualidade exegética.
+Índice,JSON,vínculos e integridade conferidos localmente antes de publicar. Estado:não vigente,para revisão.

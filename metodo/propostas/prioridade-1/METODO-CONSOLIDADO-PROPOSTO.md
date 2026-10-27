@@ -1,6 +1,6 @@
 # Método exegético — corpo consolidado proposto
 
-**Estado: proposta para revisão; não vigente.** Data:27/10/2026. Fonte normativa desta revisão: diretrizes expressas pelo pesquisador na solicitação da Prioridade1. Fontes documentais:22 originais disponíveis e protocolo operacional no repositório. Não se apresenta este texto como recuperação de documentos ausentes. O histórico e o diagnóstico ficam em arquivos separados. Sua aprovação não modifica automaticamente estudos anteriores.
+**Estado: proposta para revisão; não vigente.** Data:27/10/2026. Fonte normativa desta revisão: diretrizes expressas pelo pesquisador na solicitação da Prioridade1. Fontes documentais:22 originais,protocolo operacional e backup de37 arquivos reavaliado. Não se apresenta este texto como recuperação de documentos ausentes. O histórico e o diagnóstico ficam em arquivos separados. Sua aprovação não modifica automaticamente estudos anteriores.
 
 ## 1. Finalidade e princípio de interpretação
 
@@ -62,19 +62,19 @@ Apresentar texto adotado,tradução literal inicial,segmentação de unidades e 
 
 ### EXE-04 — Sintaxe
 
-Analisar orações principais e subordinadas,coordenação,sujeitos,complementos,verbos,participiais,infinitivos,pronomes,referentes,conectivos e ambiguidades. Explicar marcador,opções e impacto sobre o sentido;usar blocos ou diagramas quando úteis. Distinguir categoria formal de função contextual e considerar alternativas. Reutilizar a identificação morfológica anterior,aprofundando-a ou corrigindo-a com registro,sem repetir inventários como fim em si mesmos.
+Analisar orações principais e subordinadas,coordenação,sujeitos,complementos,verbos,participiais,infinitivos,pronomes,referentes,conectivos e ambiguidades. Explicar marcador,opções e impacto sobre o sentido;usar blocos ou diagramas quando úteis. Distinguir categoria formal de função contextual e considerar alternativas. Testar o alcance de condicionais antes de estender seu cenário a segmentos fora de seu escopo. Reutilizar a identificação morfológica anterior,aprofundando-a ou corrigindo-a com registro,sem repetir inventários como fim em si mesmos.
 
 ### EXE-05 — Discurso
 
-Identificar unidades,coesão lexical/referencial/conectiva,tema/reema,ênfases e relações de explicação,fundamentação,contraste,condição,propósito e resultado. Explicar progressão e função comunicativa segundo o gênero;em narrativa,examinar situação,conflitos,desenvolvimento,resolução e desfecho sem impor premissas de tratado. Quiasmo,ordem marcada e ênfase exigem evidência contextual. Não confundir aplicação interna ao discurso com aplicação contemporânea.
+Identificar unidades,coesão lexical/referencial/conectiva,tema/reema,ênfases e relações de explicação,fundamentação,contraste,condição,propósito e resultado. Explicar progressão e função comunicativa segundo o gênero;em narrativa,examinar situação,conflitos,desenvolvimento,resolução e desfecho sem impor premissas de tratado. Quiasmo,ordem marcada e ênfase exigem evidência contextual. Não confundir aplicação interna ao discurso com aplicação contemporânea. Distinguir voz do narrador,fala de personagem e confiabilidade enunciativa antes de atribuir motivo ou juízo ao autor. Comparar distribuição real de ênfase entre sujeitos sem presumir simetria retórica por paralelismo formal.
 
 ### EXE-06 — Léxico
 
 Selecionar palavras,expressões,colocações e fórmulas por relevância. Identificar forma,lema,morfologia,domínio e alternativas de sentido;examinar contexto imediato,livro,autor e corpora históricos pertinentes. Comparações precisam considerar gênero,sintaxe e situação. Não usar etimologia como sentido contextual nem transferir totalidade semântica. Avaliar se um sentido técnico é exigido e justificar descarte de alternativas. Redigir o efeito exegético,sem acumular definições irrelevantes.
 
-### EXE-07 — Lacuna de origem
+### EXE-07 — Estrutura e forma literária
 
-O roteiro próprio não está disponível no conjunto localizado. Não reconstruí-lo como documento existente nem presumir centro quiástico. A investigação literária necessária continua documentada nas análises de delimitação,macroestrutura e discurso;isto não certifica execução do módulo ausente. Sua incorporação depende de recuperação e confronto com este corpo proposto.
+Identificar gênero,unidades,progressão,recursos e relação forma–conteúdo. Confrontar estruturas alternativas por correspondências verificáveis e efeito interpretativo. Quiasmo exige evidência lexical/temática,simetria plausível e contribuição real;não presumir sua existência ou centro. Distinguir centralidade estrutural de relevância temática e função comunicativa. O roteiro foi recuperado no backup;as exigências acima são sua incorporação reformulada à proposta,não certificação de execução anterior.
 
 ### EXE-08 — Contexto histórico-cultural
 
@@ -92,6 +92,10 @@ Conferir cobertura de frases e relações do comentário,ligando cada versículo
 
 Situar o estágio redentivo;avaliar citações,referências explícitas,alusões,ecos,temas,alianças e tipologia por correspondência histórica e desenvolvimento demonstrável. Examinar contexto das fontes,função local,continuidade/descontinuidade e relação com Cristo e consumação quando sustentadas. Aplicar a regra de evidência da seção3;sem preencher todos os temas por obrigação. Auditorias anteriores são entradas somente se disponíveis;não presumir execução de controles ausentes.
 
+### EXE-09B — Análise cosmovisional,quando pertinente
+
+Examinar realidades criacionais identificáveis,sua estrutura e direção e as relações com queda,redenção e consumação,somente quando os dados sustentarem a investigação. Diferenciar o que a passagem afirma do que a articulação teológica infere. Correspondências declaradas,estruturais e temáticas exigem avaliação própria;uma tabela simétrica não fornece confiança por si. Distinguir realidade penúltima e consumação sem impor trajetória universal a toda passagem. Remeter evidência à seção3 e evitar repetição com13B.
+
 ### EXE-10 — História da interpretação
 
 Organizar a investigação por questões relevantes e intérpretes efetivamente acessíveis:patrística,medieval,reformadora,pós-Reforma e moderna/contemporânea,conforme pertinência e cobertura real. Registrar interpretação,fundamentos,pressupostos,contribuições e limites. Distinguir consulta direta,compilação e atribuição mediada;testemunhos dependentes não são votos independentes. Identificar mudanças do texto interpretado e recepção quando documentada. Ausência de consulta não é ausência histórica de opinião.
@@ -103,6 +107,10 @@ Representar alternativas defensáveis;avaliar evidência favorável/contrária n
 ### EXE-11 — Síntese do sentido
 
 Integrar apenas resultados pertinentes para responder o que a passagem comunica,como e com qual finalidade. Identificar assunto,funções,necessidades,afirmações e conflitos quando presentes. Uma frase sintética pode ajudar,mas não se exige erro corretivo único ou que o tema aparente seja mero pretexto. Distinguir momentos de ação,ênfase,explicação e estrutura;somente propor centro governante se demonstrável. A síntese registra explícito,pressuposto,inferência e compatibilidade,alternativas e ambiguidades. É a base identificada para desenvolvimento teológico,revisável por evidência.
+
+### EXE-11B e EXE-11C — Trajetórias de termos e motivos
+
+Aprofundar seletivamente termos teologicamente relevantes e motivos recorrentes identificados na análise local. Distinguir história lexical de trajetória de imagem;recorrência formal não garante continuidade conceitual. Identificar estágios anteriores,uso local e desenvolvimento posterior com fontes e limites,sem retrojetar sentidos tardios. A análise não congela o sentido prévio:contraevidência retorna ao módulo pertinente e à síntese. A seleção não exige inventar termos ou motivos para preencher o roteiro. Em12,conferir conceito sem palavra e palavra sem todo o peso conceitual;trajetória não é prova automática de presença local.
 
 ### EXE-12 — Teologia bíblica
 
@@ -131,6 +139,18 @@ Reunir cobertura real,decisões,ideia/funções,conclusões,alternativas,fontes,
 ### EXE-15B — Revisão e entrega acadêmica
 
 Revisar o manuscrito que já cresceu durante a pesquisa,em vez de inaugurar a redação acadêmica ao fim. Adequar gênero,público,extensão,técnica e referências. Modalidades:exposição,artigo,relatório de pesquisa ou estudo delimitado de questão. Artigo pode incluir resumo/tese quando apropriado;exposição segue movimento textual sem exigir novidade. Relatório operacional pertence ao acervo e não deve ser confundido com manuscrito acadêmico sem procedimentos internos. Parâfrase é opcional,rotulada e rastreável,sem novo argumento. Conferir alternativas,fontes,coerência,confiança e limites;questão nova retorna à pesquisa antes de integrar a entrega. A ficha operacional acompanha em arquivo separado. Aula,sermão e notas são derivados com base identificada e aplicação pertinente,sem etapa adicional obrigatória.
+
+### VAL-01 a VAL-06 — Exame crítico dos resultados
+
+VAL01 testa as construções morfossintáticas decisivas,VAL02 os sentidos lexicais eVAL03 a sensibilidade da interpretação às variantes. Examinar alternativas e registrar se mudam a leitura global ou apenas uma explicação local. Após esses testes,retornar ao todo,confirmando ou revisando a hipótese provisória;um dado aparentemente secundário não pode ser ignorado se a contradiz. VAL04 avalia debates eVAL05 o diálogo crítico com literatura,sem repetir a coleta das análises anteriores. O grau de importância de uma questão não equivale ao grau de certeza.
+
+VAL06 inventaria conexões,identifica origem em rodada ou sessão incremental,decompõe elos e aplica os testes da seção3. Quando o argumento depende de fórmula recorrente,examinar frequência geral e pertinência contextual antes de alegar exclusividade. Testar retrojeção e apagamento,permitindo confirmação,rebaixamento,remoção ou reforço justificado. Auditar09/09B/12/12B após produzidos e antes de usar seus graus na sistematização e aplicação;se novas conexões surgirem depois,estender a auditoria. Não exigir sua própria conclusão como entrada anterior à geração do material auditado. Roteiro disponível não significa auditoria feita;se o mesmo responsável revisou,identificar como revisão interna,não independente.
+
+### CTL-02 e CTL-03 — Curadoria e preservação externa
+
+São funções distintas:CTL02 trata eventual incorporação de conclusões auditadas ao acervo cumulativo;CTL03 seleciona achados úteis para consulta externa,com referência,tipo,explicação,grau e limites. As notas podem preservar dúvida informativa sem promovê-la a doutrina estabelecida. Metadados e blocos de sinalização ficam no acervo ou derivado,nunca ao final do manuscrito acadêmico como instruções internas.
+
+Preservar estudo completo independentemente de colheita,sem exigir substituição destrutiva de versões ou um arquivo monolítico. Usar o repositório apenas como fonte revisável de hipóteses e alertas,não autoridade contra nova evidência. Preservar IDs existentes,proveniência e conflitos;não elevar confiança automaticamente por contagem de perícopes ou converter escalas históricas. Elegibilidade de curadoria exige revisão específica da regra e evidências;nenhuma importação de teses,execução de colheita ou alteração do repositório cumulativo integra esta prioridade. Preparação de nota é diferente de gravação efetiva noLogos. Estas são responsabilidades delimitadas da proposta,não implantação de novas ferramentas.
 
 ## 6. Revisão e propagação — regra principal comum
 

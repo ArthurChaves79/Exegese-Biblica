@@ -1,3 +1,5 @@
+> **Atualização após backup:** o diagnóstico anterior descreve a base22 originais. Ausências deEXE07/VAL01–06/CTL02 foram supridas;ver [reavaliação atual](REAVALIACAO-BACKUP.md). Os novos roteiros foram reavaliados,não promovidos a vigentes.
+
 # Diagnóstico e destinação das instruções
 
 ## 1. Qual é o conjunto vigente identificável?

@@ -14,3 +14,7 @@
 |Registrar lacunas externas como pendências|Arquivos não localizados|Sem fabricação de controles ou certificação |
 
 Nenhuma substituição de original,reescrita de Mateus,renumeração de notas,alteração do programa ou desenvolvimento de prioridades seguintes realizado. A proposta pode ser corrigida antes da adoção. Novas alterações deverão atualizar o corpo e ganhar entrada neste histórico,não adendos normativos ao final do texto.
+
+## Reavaliação do backup —27/10/2026
+
+37 arquivos inventariados;07/VAL01–06/CTL02 recuperados,além de09B/11B/11C/CTL03/MAPA e acervo cumulativo. Corpo proposto reescrito nas seções pertinentes,sem adendo normativo final. PENDENCIAS substitui estados de ausência superados;diagnóstico anterior permanece como registro datado,com remissão à reavaliação atual.15A/15B do backup não substituem revisões05;16 permanece retirado. Nenhuma adoção ou alteração de Mateus.
