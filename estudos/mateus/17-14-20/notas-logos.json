@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project_id": "MT1714-21",
-  "notes_version": "0.3.0",
+  "notes_version": "0.4.0",
   "date": "2026-10-26",
   "identity_policy": "IDs locais persistentes do projeto, não IDs nativos do Logos nem entradas definitivas de curadoria. Não renumerar/reutilizar; revisar versão mantendo ID; retirar com histórico.",
   "logos_status": "Preparação somente; nenhuma operação no aplicativo Logos foi realizada.",
@@ -21,7 +21,7 @@
       ],
       "master": {
         "path": "estudos/mateus/17-14-20/documento-mestre.md",
-        "version": "0.3.0",
+        "version": "0.4.0",
         "anchor": "mt1714-21-m-001"
       },
       "sources": [
@@ -47,7 +47,7 @@
       ],
       "master": {
         "path": "estudos/mateus/17-14-20/documento-mestre.md",
-        "version": "0.3.0",
+        "version": "0.4.0",
         "anchor": "mt1714-21-m-002"
       },
       "sources": [
@@ -70,7 +70,7 @@
       ],
       "master": {
         "path": "estudos/mateus/17-14-20/documento-mestre.md",
-        "version": "0.3.0",
+        "version": "0.4.0",
         "anchor": "mt1714-21-m-003"
       },
       "sources": [
@@ -95,7 +95,7 @@
       ],
       "master": {
         "path": "estudos/mateus/17-14-20/documento-mestre.md",
-        "version": "0.3.0",
+        "version": "0.4.0",
         "anchor": "mt1714-21-m-004"
       },
       "sources": [
@@ -119,7 +119,7 @@
       ],
       "master": {
         "path": "estudos/mateus/17-14-20/documento-mestre.md",
-        "version": "0.3.0",
+        "version": "0.4.0",
         "anchor": "mt1714-21-m-005"
       },
       "sources": [
@@ -143,7 +143,7 @@
       ],
       "master": {
         "path": "estudos/mateus/17-14-20/documento-mestre.md",
-        "version": "0.3.0",
+        "version": "0.4.0",
         "anchor": "mt1714-21-m-006"
       },
       "sources": [
@@ -167,7 +167,7 @@
       ],
       "master": {
         "path": "estudos/mateus/17-14-20/documento-mestre.md",
-        "version": "0.3.0",
+        "version": "0.4.0",
         "anchor": "mt1714-21-m-007"
       },
       "sources": [
@@ -191,7 +191,7 @@
       ],
       "master": {
         "path": "estudos/mateus/17-14-20/documento-mestre.md",
-        "version": "0.3.0",
+        "version": "0.4.0",
         "anchor": "mt1714-21-m-007"
       },
       "sources": [
@@ -216,7 +216,7 @@
       ],
       "master": {
         "path": "estudos/mateus/17-14-20/documento-mestre.md",
-        "version": "0.3.0",
+        "version": "0.4.0",
         "anchor": "mt1714-21-m-007"
       },
       "sources": [
@@ -241,7 +241,7 @@
       ],
       "master": {
         "path": "estudos/mateus/17-14-20/documento-mestre.md",
-        "version": "0.3.0",
+        "version": "0.4.0",
         "anchor": "mt1714-21-m-008"
       },
       "sources": [
@@ -267,7 +267,7 @@
       ],
       "master": {
         "path": "estudos/mateus/17-14-20/documento-mestre.md",
-        "version": "0.3.0",
+        "version": "0.4.0",
         "anchor": "mt1714-21-m-010"
       },
       "sources": [
@@ -292,7 +292,7 @@
       ],
       "master": {
         "path": "estudos/mateus/17-14-20/documento-mestre.md",
-        "version": "0.3.0",
+        "version": "0.4.0",
         "anchor": "mt1714-21-m-011"
       },
       "sources": [
@@ -316,7 +316,7 @@
       ],
       "master": {
         "path": "estudos/mateus/17-14-20/documento-mestre.md",
-        "version": "0.3.0",
+        "version": "0.4.0",
         "anchor": "mt1714-21-m-012"
       },
       "sources": [
@@ -339,7 +339,7 @@
       ],
       "master": {
         "path": "estudos/mateus/17-14-20/documento-mestre.md",
-        "version": "0.3.0",
+        "version": "0.4.0",
         "anchor": "mt1714-21-m-014"
       },
       "sources": [

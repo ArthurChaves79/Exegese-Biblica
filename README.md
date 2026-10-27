@@ -1,3 +1,5 @@
+> **Estado atual — mestre0.4.0:** [exposição final de Mateus17.14–21](estudos/mateus/17-14-20/EXE-15B-exposicao-final.md),versão1.0.0,redigida e organizada segundo adaptação do modelo. Dossiê e relatórios preservados;sem certificação independente. Avisos antigos abaixo são históricos.
+
 > **Estado atual — mestre0.3.0:** EXE-15A consolidada no escopo disponível;produto15B pendente;14 notas preparadas;sem validação independente ou transferência ao Logos. Avisos de versões anteriores abaixo são históricos.
 
 > **Estado atual — mestre0.2.0:** EXE-14 geral elaborada;14 notas Logos preparadas, sem transferência. Próximo módulo15A. Relatórios e procedência03 preservados.

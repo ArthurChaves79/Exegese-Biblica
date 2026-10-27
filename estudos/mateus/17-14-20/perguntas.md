@@ -25,3 +25,5 @@
 | P21 | O reenvio supera a lacuna03? | Sim quanto ao acesso documental; atualiza P18 | Texto recebido preservado; seção6 incorporada; comparação e limites registrados; outras lacunas não sanadas automaticamente |
 | P22 | Como aplicar preservando sentido e limites? | Elaborada14 | Socorro, confiança e cuidado; pontes e graus individualizados; casos hipotéticos prudenciais, sem culpa automática ou promessa de qualquer resultado |
 | P23 | O que significa o fechamento15A? | Documental no escopo disponível | Dossiê consolidado;questões e lacunas delimitadas;sem certificação integral ou revisão independente;15B pendente |
+
+| P24 | O produto final e o modelo foram atendidos? | Exposição15B1.0.0 concluída no escopo | Modelo consultado em recortes;estrutura adaptada,sem reprodução gráfica;controle editorial discrimina cobertura e limites |

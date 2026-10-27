@@ -1,6 +1,6 @@
 # Mateus 17.14–21 — Documento exegético mestre
 
-**Identificador do projeto:** MT1714-21-MESTRE. **Versão:** 0.3.0, 26/10/2026. **Natureza:** consolidação intermediária cumulativa, com exposição argumentativa e trilha de evidências. **Texto principal adotado:**17.14–20; **17.21:** tradição textual examinada em nota. A designação14–21 amplia a cobertura documental sem alterar a decisão textual D03 ou renomear o diretório histórico.
+**Identificador do projeto:** MT1714-21-MESTRE. **Versão:** 0.4.0, 26/10/2026. **Natureza:** consolidação intermediária cumulativa, com exposição argumentativa e trilha de evidências. **Texto principal adotado:**17.14–20; **17.21:** tradição textual examinada em nota. A designação14–21 amplia a cobertura documental sem alterar a decisão textual D03 ou renomear o diretório histórico.
 
 **Base de integração:** relatórios e fontes disponíveis até EXE-13. A EXE-13B, já publicada antes desta solicitação, permanece preservada e identificada como desenvolvimento posterior à sistemática. O mestre incorpora agora a consolidação EXE-15A no escopo documentado, sem equivaler a artigo final15B ou validação independente. Mt17.1–13 continua reservado.
 
@@ -225,3 +225,12 @@ O inventário classifica01/01B/02/04/05/06/08 como documentação parcial,03 com
 A contribuição permanece a configuração singular de socorro misericordioso e formação dos enviados: Jesus resolve a aflição e interpreta a incapacidade, sem transformar o menino em pretexto. Sua autoridade e a causa local da falha são Altas no núcleo; as integrações particulares com Reino,Igreja e consumação conservam grau Moderado. A aplicação14 orienta busca de socorro,cuidado e confiança, sem diagnosticar toda não cura como incredulidade.
 
 O fechamento é documental no escopo disponível, não certificação integral do método. A transferência de gênero15B, comunicação16 e curadoriaCTL-02 não foram executadas. As14 notas Logos permanecem preparadas, sem transferência ao aplicativo. Novas evidências exigirão revisão explícita das dependências, mantendo fontes, versões e IDs locais. Próximo: produto15B com gênero e modelo próprios, preservando o dossiê como base.
+
+<a id="mt1714-21-m-016"></a>
+## 16. Produto editorial EXE-15B
+
+A [exposição final](EXE-15B-exposicao-final.md),versão1.0.0,foi redigida a partir do dossiê15A0.1.0 e deste mestre na versão0.3.0. Organiza estudo contextual,textual e teológico,com grego,tradução literal segmentada,tradução de trabalho,comentário por unidades,alternativas,síntese,aplicação separada,paráfrase e referências. A base tradutória é03 recuperado;não houve nova decisão textual ou mudança de ideia.
+
+O modelo real de1Co6.1–11 do pesquisador foi consultado em recortes que permitem identificar sua estrutura e amostras de desenvolvimento. A organização foi adaptada,sem alegação de reprodução gráfica,extensão equivalente ou conformidade institucional. O [controle editorial](EXE-15B-controle-editorial.md) registra páginas/recortes usados,correspondência,base das expansões da paráfrase e limites de aceitação.
+
+Estado:final editorial no escopo da exposição,aberto a revisão por evidência. Isso não significa validação independente,execução de controles ausentes,entrega emDOCX/PDF ou transferência aoLogos. O mestre e os relatórios seguem preservados;15B é derivado,não substituto. Não se presume outro módulo16 ou curadoriaCTL-02 executados. Próximas ações dependem do uso solicitado:revisão de conteúdo,formatação de entrega ou comunicação própria.

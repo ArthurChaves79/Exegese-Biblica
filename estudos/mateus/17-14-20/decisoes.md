@@ -50,3 +50,5 @@ Alterar uma decisão exige revisar tradução, comentário e conclusões depende
 - D36: EXE-14 preserva núcleo Alto e pontes Moderadas, sem elevar preferências a obrigações. Aplicação geral autorizada pelo pedido de continuidade;nenhum caso real ou sermão executado. Mestre0.2.0;notaN014 acrescentada;N012 atualizada sem renumeração.
 
 - D37: EXE-15A fecha documentalmente o escopo disponível,sem converter questões Moderadas em certeza ou controles ausentes em executados. Mestre0.3.0 integra dossiê;relatórios preservados;15B permanece produto pendente. P18 atualizado após recuperação03,com histórico mantido.
+
+- D38: EXE-15B modalidade exposição,estrutura contextual/textual/teológica adaptada do modelo1Co efetivamente consultado em recortes. Produto1.0.0 deriva do mestre0.3.0;registro editorial atualiza mestre0.4.0 sem nova conclusão. SemDOCX/PDF,homologação institucional ou validação independente.

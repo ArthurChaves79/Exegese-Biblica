@@ -1,3 +1,5 @@
+> **Conjunto0.4.0:**14 notas com IDs e conteúdo preservados;EXE-15B não introduziu revisão exegética. Mestre0.4.0;sem transferência ao aplicativo.
+
 > **Conjunto0.3.0:**14 notas com IDs preservados;vinculadas ao mestre consolidado0.3.0. Consolidação15A não altera seus conteúdos exegéticos. Sem transferência ao Logos.
 
 > **Versão do conjunto0.2.0:**14 notas preparadas;N012 revisada;N014 acrescentada;IDs anteriores preservados.

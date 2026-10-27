@@ -1,3 +1,5 @@
+> **Estado atual0.4.0:** EXE-15B exposição final1.0.0 e controle editorial disponíveis. Modelo1Co6.1–11 efetivamente consultado em recortes. Não recriar15B como pendente;nenhumDOCX/PDF ou comunicação16 executados. A cronologia abaixo descreve a base anterior0.3.0.
+
 # Continuidade atual — mestre0.3.0
 
 EXE-15A consolidada no escopo documental disponível. Próximo módulo:EXE-15B, redação do produto de gênero próprio. Começar pelo [mestre](documento-mestre.md) e [dossiê15A](EXE-15A-dossie-consolidado.md), depois perguntas,decisões e fontes pertinentes.
