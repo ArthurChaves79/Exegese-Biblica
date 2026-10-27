@@ -13,7 +13,9 @@ python exegese.py verificar
 python -m unittest discover -s tests -v
 ```
 
-- [Estudo atual — Mateus 17.14–20](estudos/mateus/17-14-20/README.md)
+- [Documento mestre — Mateus 17.14–21](estudos/mateus/17-14-20/documento-mestre.md)
+- [Estudo e relatórios completos](estudos/mateus/17-14-20/README.md)
+- [Notas essenciais para o Logos](estudos/mateus/17-14-20/notas-logos.md)
 - [Método original](metodo/originais/)
 - [Fontes e procedência](fontes/README.md)
 - [Operação e preservação](docs/OPERACAO.md)
@@ -39,3 +41,7 @@ O projeto não concede licença sobre obras de terceiros. Trechos de fontes têm
 
 
 
+
+## Base cumulativa de consulta
+
+O documento mestre MT1714-21-MESTRE, versão0.1.0, consolida a exposição argumentativa e passa a fundamentar os produtos derivados. Não substitui os relatórios nem declara encerramento do método. A auditoria identifica a tradução posterior do08C e a falta do EXE-03 histórico integral. Notas Logos possuem IDs locais estáveis e estão preparadas; nenhuma transferência ao aplicativo foi realizada. Novas etapas devem atualizar mestre, notas pertinentes e continuidade na mesma publicação. Ver [continuidade](estudos/mateus/17-14-20/CONTINUIDADE.md).

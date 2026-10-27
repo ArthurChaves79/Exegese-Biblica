@@ -1,14 +1,16 @@
 {
-  "passagem": "Mt 17.14–20",
+  "passagem": "Mt 17.14–21 (texto principal 14–20; v21 em nota)",
   "data": "2026-10-26",
-  "etapa_atual": "EXE-13B elaborado: antropologia, ética, sabedoria e princípios de aconselhamento",
-  "proxima": "EXE-14",
+  "etapa_atual": "Consolidação intermediária 0.1.0: documento mestre, auditoria de lacunas e notas Logos preparados",
+  "proxima": "Retomada pelo documento mestre; EXE-14 permanece não executada. EXE-13B já publicada e preservada.",
   "reservado": "Mt 17.1–13",
   "pendencias": [
     "Recuperar respostas históricas integrais quando disponíveis",
     "EXE-08B preservado em versão editorial consolidada, não transcrição literal",
     "Conferir traduções recompostas do EXE-08C no EXE-03 histórico quando recuperado",
-    "Auditorias VAL01–05/06 não disponibilizadas; não presumir validação"
+    "Auditorias VAL01–05/06 não disponibilizadas; não presumir validação",
+    "EXE-03: tradução literal inicial, segmentação integral, inventário verbal completo e comparação sistemática de versões não localizados; não certificar execução integral",
+    "Novas etapas devem atualizar o mestre, notas e dependências na mesma publicação"
   ],
   "fontes_arquivadas": [
     "NA28",
@@ -31,5 +33,27 @@
   ],
   "limites_fontes": "Usuário informou ter fornecido todo material Logos disponível; Bavinck não consultado, sem bloquear avanço.",
   "problema_central": "A incapacidade dos discípulos de socorrer o menino, apesar da autoridade recebida, revela uma deficiência de fé que Jesus corrige mediante sua intervenção e instrução.",
-  "ideia_exegetica": "Ao libertar e curar o menino que os discípulos não puderam socorrer, Jesus manifesta sua autoridade, atribui o fracasso deles à pouca fé e os instrui acerca das possibilidades extraordinárias da fé mediante a imagem da mostarda e do monte."
+  "ideia_exegetica": "Ao libertar e curar o menino que os discípulos não puderam socorrer, Jesus manifesta sua autoridade, atribui o fracasso deles à pouca fé e os instrui acerca das possibilidades extraordinárias da fé mediante a imagem da mostarda e do monte.",
+  "documento_mestre": {
+    "id": "MT1714-21-MESTRE",
+    "path": "estudos/mateus/17-14-20/documento-mestre.md",
+    "version": "0.1.0",
+    "natureza": "consolidacao_intermediaria_cumulativa",
+    "base_ate": "EXE-13, com desenvolvimento EXE-13B já disponível e identificado",
+    "aplicacao": "EXE-14 não executada"
+  },
+  "traducao": {
+    "historico_EXE03": "não recuperado integralmente",
+    "disponivel": "recomposição posterior documentada no EXE-08C; blocos exatos na auditoria",
+    "auditoria": "estudos/mateus/17-14-20/auditoria-lacunas-iniciais.md",
+    "certificacao_integral_EXE03": false
+  },
+  "notas_logos": {
+    "path": "estudos/mateus/17-14-20/notas-logos.md",
+    "structured_path": "estudos/mateus/17-14-20/notas-logos.json",
+    "quantidade": 13,
+    "ids": "MT1714-21-N001 a MT1714-21-N013",
+    "status": "preparadas e versionadas; não transferidas ao aplicativo",
+    "origem": "documento mestre; relatórios completos preservados"
+  }
 }

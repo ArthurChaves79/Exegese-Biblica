@@ -37,3 +37,8 @@ Alterar uma decisão exige revisar tradução, comentário e conclusões depende
 - D26: EXE-13B preserva distinção entre sofrimento do menino e deficiência dos discípulos; o diagnóstico de17.20 não é causa automática da aflição ou regra universal para não cura.
 - D27: o texto não revela orgulho, idolatria de resultados ou abandono da oração; não atribuir esses motivos aos discípulos. A autoridade interpretativa de Jesus não confere ao conselheiro conhecimento imediato dos corações.
 - D28: EXE-13B apresenta princípios e visão de realidade; aplicações individuais ficam para14. Analogias com trabalho e demais instituições são secundárias, sem transferência da comissão apostólica ou promessa a produtividade.
+- D29: consolidação intermediária solicitada após publicação13B; preservar o relatório e a cronologia. Não avançar14 nesta operação. O mestre integra núcleo até13 e identifica o desenvolvimento13B já existente.
+- D30: MT1714-21-MESTRE v0.1.0 torna-se base cumulativa; preservar relatórios completos. Escopo documental14–21 não altera principal14–20/v21 em nota nem o diretório histórico.
+- D31: tradução histórica03 não recuperada; blocos08C são recomposição posterior documentada. Não certificar tradução literal inicial, segmentação integral, inventário verbal e comparação sistemática de versões ausentes.
+- D32: notas MT1714-21-N001–N013 são IDs locais estáveis, não IDs nativos Logos ou entradas globais definitivas. Preparadas e salvas; nenhuma transferência ao Logos realizada. Derivam do mestre e não o confirmam como evidência independente.
+- D33: toda nova etapa/revisão deverá atualizar mestre, notas afetadas, perguntas, decisões, continuidade e manifesto no mesmo conjunto; históricos preservados.

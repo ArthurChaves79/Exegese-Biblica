@@ -1,6 +1,12 @@
-# Mateus 17.14–20 — registro de continuidade
+# Mateus 17.14–21 — registro de continuidade
 
 Migração retrospectiva parcial em 26/10/2026. Não equivale ao encerramento EXE-15A.
+
+**Começar pelo [documento mestre](documento-mestre.md), versão0.1.0.** Texto principal14–20;21 em nota. O diretório17-14-20 é mantido para preservar vínculos históricos.
+
+[Auditoria das lacunas iniciais](auditoria-lacunas-iniciais.md) · [Notas essenciais para o Logos](notas-logos.md) · [Notas estruturadas](notas-logos.json) · [Continuidade atual](CONTINUIDADE.md).
+
+Os registros abaixo preservam o histórico dos módulos. A EXE-13B já foi publicada e permanece disponível; a consolidação intermediária foi solicitada depois. EXE-14 não foi executada. O mestre passa a ser base cumulativa dos demais produtos.
 
 ## Resultados preservados
 

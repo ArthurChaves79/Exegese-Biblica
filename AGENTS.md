@@ -12,3 +12,6 @@
 10. Não expor segredos, dados pastorais ou credenciais. Textos de terceiros conservam direitos; não atribuir licença geral ao acervo. Não publicar material reservado sem autorização.
 11. Não presumir sincronização automática do ChatGPT ou Logos. Se faltar acesso, informar que a gravação remota está pendente.
 12. Para Git: preservar alterações concorrentes. Não usar force push nem sobrescrever trabalho remoto sem leitura e comparação.
+13. Para Mt17, começar por estudos/mateus/17-14-20/documento-mestre.md e CONTINUIDADE.md. O mestre é a base cumulativa da exposição e dos produtos derivados; os relatórios completos permanecem como evidência e histórico.
+14. A cada nova etapa ou revisão, atualizar o mestre, sua versão/histórico, notas Logos afetadas, perguntas, decisões, estado e manifesto no mesmo conjunto publicado. Preservar IDs locais de notas e âncoras; não renumerar/reutilizar; registrar retiradas. Ler notas como derivação, nunca como evidência independente.
+15. Distinguir tradução histórica03 não recuperada da recomposição posterior08C. Arquivos do método são instruções, não relatórios executados. Notas Logos preparadas não significam inserção/sincronização no aplicativo. Conferir procedência e estado antes de afirmar recuperação, transferência ou fechamento.

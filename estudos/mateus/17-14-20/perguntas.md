@@ -19,3 +19,6 @@
 | P15 | Como articular temas no cânon? | Integrado12B | Comparações e graus registrados;nenhuma tipologia imposta |
 | P16 | Qual contribuição sistemática é sustentada? | Elaborada13 | Autoridade misericordiosa, confiança e missão; integração canônica distinta de afirmação explícita; dons hoje não resolvidos pela cena |
 | P17 | Como distinguir sofrimento, culpa e responsabilidade? | Elaborada13B | Aflição do menino distinta da pouca fé dos discípulos; causa expressa não universalizada; motivações não narradas permanecem desconhecidas |
+| P18 | O EXE-03 histórico integral foi recuperado? | Não; auditoria intermediária | Instruções e decisões disponíveis; tradução08C é recomposição posterior; requisitos ausentes discriminados em auditoria-lacunas-iniciais.md |
+| P19 | Qual documento passa a fundamentar os produtos? | Definido: MT1714-21-MESTRE v0.1.0 | Exposição cumulativa com evidências; relatórios preservados; atualizar mestre e notas a cada etapa |
+| P20 | As notas foram inseridas no Logos? | Não; preparadas |13 IDs locais estáveis, Markdown/JSON versionados; sem operação no aplicativo |
