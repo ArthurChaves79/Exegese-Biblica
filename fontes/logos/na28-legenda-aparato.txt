@@ -1,0 +1,119 @@
+Critical Signs
+The following signs in the critical apparatus refer to corresponding signs in the text of a given verse, or more rarely, a sequence of verses (cf. Lk 22,19/20). They show the exact location and nature of the variant recorded in the apparatus, and are not repeated within a single verse or within a verse sequence constituting an apparatus unit. Apparent exceptions are easily explained by their contexts. (cf. Mt 1,9 ⸀)
+°
+The word following in the text is omitted by the witnesses cited.
+⸋ ⸌
+The words, clauses or sentences between these signs are omitted by the witnesses cited.
+⸀
+The word following in the text is replaced with one or more words by the witnesses cited.
+⸂ ⸃
+The words between these signs are replaced with other words by the witnesses cited. Frequently this involves the transposition of words. To the extent that the words are identical with those in the text, they are indicated by italic numerals corresponding to their position in the printed text (cf. Mt 27,51).
+⸆
+This sign marks the location where one or more words, sometimes a whole verse, are inserted by the witnesses cited.
+⸉ ⸊
+The words between these signs are transposed by the witnesses cited. The sequence of the transposed words is indicated where necessary by italic numerals corresponding to the position of the words in the printed text (cf. Mt 16,13).
+˸
+A raised colon indicates a variant form of punctuation.
+⸈
+The word or verse of text is transposed as indicated in the apparatus (cf. Lk 6,5; Jn 13,8).
+° °/⸋ ⸋/⸁ ⸀ ⸀/⸄ ⸂ ⸂/⸇ ⸆ ⸆/⸉ ⸉/˸ ˸
+Centered dots and superscript numerals distinguish between multiple occurrences of the same kind of variant within a single unit of the apparatus.
+⸋…⸌, ⸂…⸃ ⸉…⸊
+The signs ⸋…⸌, ⸂…⸃ and ⸉…⸊ occasionally enclose longer passages spanning several verses. In such instances the verse references are indicated (cf. Lk 3,23–31.38). There are no instances of confusion possible due to the overlapping of similar variants; it is always necessary to look for the sign of closure.
+Organization of the Apparatus
+•
+A large dot followed by a bold verse number opens each new section of the apparatus. Critical signs do not occur twice within a single section; their repetitions are distinguished by the addition of centered dots or numerals. Apparatus sections usually span a single verse; when variants extend over several verses, this is made explicit by the reference following the large dot (cf. Lk 22,19/20).
+|
+A solid vertical line separates the instances of variation from each other within a single verse or section of the apparatus.
+¦
+A broken vertical line separates the various alternative readings from each other within a single instance of variation. These readings taken together comprise a group of readings, or a variation unit.
+txt
+This sign (= textus) introduces the list of witnesses supporting the text of this edition. It always occurs as the last member of a group of readings, or variation unit.
+Presentation of Variant Readings and Witnesses
+Variant readings are usually spelled out in full in the apparatus.
+…
+Three periods (…) represent the text of the edition where the variant form cited is in agreement with it (cf. Lk 22,55 ⸂).
+2 3 1 4 5
+Variants of word order comprising at least four words can be represented by italic numerals which correspond to the order of the words in the text (1 = the first word in the text, etc.). This convention is followed not just for variants of transposition indicated by the sign ⸉, but also for alternative forms within a single variation unit, if the wording is changed by transposition or omission (cf. Jn 12,18 ⸂).
+In a limited number of instances, where a subvariant differs only slightly from a main variant, the wording in the apparatus is not given in full. In such instances the witness for the subvariant is given with the following qualifications.
+( )
+Witnesses which show only minor differences are noted in parentheses ( ) along with the witnesses for the main variant (cf. the minuscule 700 at Mt 14,24 ⸂; sy at Mt 26,60 ⸇; Clement of Alexandria at Mt 5,36 ⸂).
+The readings of Greek witnesses cited in parentheses are given in Appendix II. The more important subvariants, however, continue to be noted within the parentheses of the apparatus as before (cf. Mt 7,21 ⸆; Mt 24,48 ⸂).
+[ ]
+Brackets [ ] enclose variants of punctuation.
+The witnesses for a reading are always given in the same sequence: Greek manuscripts, versions, patristic citations (separated by semicolons). For Greek manuscripts the order of papyri, uncials, minuscules and lectionaries is observed, and for the early versions the order of Latin, Syriac, Coptic, Armenian, Georgian, Gothic, Ethiopic and Church Slavonic.
+Greek manuscripts are cited in their numeric order according to the list of manuscripts. In Appendix I further information about each manuscript may be found (date, present location and content).
+The following superscript signs following manuscript numbers distinguish various readings in the same manuscript or qualify (as ) the relative certainty of a decision:
+*
+identifies the original reading when a correction has been made.
+
+identifies a correction made by a later hand, but sometimes also by the first hand.
+
+identifies a correction made by the first, second, or third corrector.
+If used with the majuscules א, B, C and D (05 and 06) superscript signs identify groups of correctors.
+א (01):
+א (4th–6th cent.); א/א (for differences within the group א); א (from circa 7th cent.); א/א (with differences within the group א); א (12th cent.); א (not assigned to a group)
+B (03):
+B (roughly contemporaneous with B); B (6th/7th cent.); B (13th cent.)
+C (04):
+C (roughly contemporaneous with C); C (circa 6th cent.); C (circa 9th cent.)
+D (05):
+D (6th–7th cent.); D (circa 9th cent.); D (12th cent.); D (younger hand, not assigned to a group)
+D (06):
+D (7th cent.); D (circa 9th cent.); D (younger hand, not assigned to a group)
+
+(= varia lectio) indicates a reading recorded in a manuscript as an alternative reading ( is coordinated with the superscript sign ).
+
+(= commentarius) marks a reading cited in the commentary part of an Apocalypse commentary manuscript, if it differs from the lemma text ( is coordinated with the superscript sign ).
+
+(= textus) as a superscript sign indicates the reading in the text of a manuscript which also records an alternative reading ( is coordinated with the superscript sign  or ).
+
+(= in margine) indicates a reading in the margin of a manuscript without being identified as either a correction or an alternative reading.
+
+(= supplementum) indicates a reading derived from a later addition to a manuscript, usually replacing a lost folio or section of a manuscript. Such replacements are identified in the Manuscript List (Appendix I) for the consistently cited witnesses.
+
+(= ut videtur) indicates that the reading attested by a witness cannot be determined with absolute certainty. This is frequently true of papyri and palimpsests. Corrections may also require the sign  if the original reading of the manuscript is no longer clearly legible. The sign  always indicates a high degree of probability, usually based on some surviving letters or parts of letters. When an inference is drawn from the extent of a lacuna, it is carefully verified that the manuscript cannot be cited equally well for other readings in the tradition.
+The following group signs are used (the first one, 𝔪, is particularly important):
+𝔪
+(= Majority text, including the Byzantine Koine text) indicates readings supported by the majority of all manuscripts, i.e., always including manuscripts of the Koine type in the narrow sense. 𝔪 therefore represents the witness of the Koine text type. 𝔪 has the status of a consistently cited witness. Consequently in instances of a negative apparatus, where support for the text is not given, the reading attested by 𝔪 may safely be inferred: if it is not otherwise explicitly cited, it agrees with txt (= the text).
+pm
+(= permulti) is used in place of the sign 𝔪 when the witness of the Majority text is divided in fairly equal strength between two (rarely three) variant readings. The abbreviation pm appears then with both Majority text readings. If one of these readings is in agreement with the text, and the apparatus does not list the support for txt, the sign pm appears only once.
+Byz
+(= Codices Byzantini) is used only in cases where the ECM has already appeared, i. e. up to now in the Catholic Letters. For the ECM the text of the majority of Codices Byzantini was determined by means of almost pure representatives of the mainstream tradition.
+Byz
+Byz partim (= a part of the Codices Byzantini) is used at passages where the selected representatives show that the Byzantine tradition is split. In the ECM apparatus the symbol Byz is abandoned in such cases, because the representatives are cited individually. As these manuscripts are not counted among the ones selected for the present edition, their respective variants are marked by Byz.
+Other Abbreviations in the Apparatus
+(!)
+= sic! indicates an accurate transcription of an absurd reading (cf. Ac 24,5 ⸂).
+add.
+= addit/addunt, add(s)
+om.
+= omittit/omittunt, omit(s)
++ −
+are used in place of add. and om. where such brevity is not inconsistent with clarity (cf. Ro 16,27).
+pon.
+= ponit/ponunt, place(s), transpose(s)
+a.
+= ante, before
+p.
+= post, after
+id.
+= idem, the same wording
+ex err.
+= ex errore, erroneously, by scribal error
+ex itac.
+= ex itacismo, by itacism, the substitution of letters with the same phonetic value
+ex lat.?
+= ex versione latina? apparently derived from a Latin reading
+bis
+(= twice) immediately following a critical sign, refers to two equal words in the text and their variant(s) which are exceptionally identified by the same critical sign (cf. Mt 1,9 ⸀; 1,10 ⸀).
+All Latin words used in the apparatus and the appendices are translated in Appendix IV.
+The following signs and notes come immediately after the critical signs with an explanation of the variant reading(s) presented:
+p)
+refers to parallel passages in the Gospels, which are listed in the margin at the beginning of the pericopes.
+(L 2,7) (12)
+A parenthetical reference to a passage standing before a variant reading refers to a parallel passage in another New Testament book (cf. the reference to Lk 2,7 at Mt 1,25 ⸀). If the parenthetical reference does not name a book, the parallel is found within the same book (cf. the reference to Ac 22,3 at Ac 21,39 ⸂), or the same chapter (cf. the reference to verse 12 at Mt 2,13 ⸆).
+(19 v.l.)
+A parenthetical reference to a verse with v.l. standing before a reading suggests that the reading derives from a variant reading in the verse indicated (cf. Mt 2,13 ⸂, which refers to the same transposition at 2,19).
+(Jr 38,15 𝔊)
+A reference to a passage in the Septuagint standing before a variant suggests a parallel expression in the Septuagint text (cf. the reference to Jr 38,15 𝔊 at Mt 2,18 ⸆).

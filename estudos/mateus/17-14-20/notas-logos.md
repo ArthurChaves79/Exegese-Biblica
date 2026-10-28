@@ -1,6 +1,6 @@
 # Notas essenciais para o Logos — Mateus17.14–21
 
-Conjunto0.7.0,28/10/2026.14 notas preparadas, não transferidas ao aplicativo. IDs locais estáveis, não IDs nativos doLogos. Caderno sugerido: Mateus17.14–21 — Pesquisa.
+Conjunto0.7.1,28/10/2026.14 notas preparadas, não transferidas ao aplicativo. IDs locais estáveis, não IDs nativos doLogos. Caderno sugerido: Mateus17.14–21 — Pesquisa.
 
 Base de conteúdo: [manuscrito acadêmico](manuscrito-academico.md), [dossiê com âncoras](documento-mestre.md) e [revisão interna](revisao-metodo.md). Manter ID em futuras alterações; não renumerar ou duplicar. OJSON preserva estrutura, não é formato de importação certificado. Registro de procedência e versões anteriores permanece no histórico.
 
@@ -78,11 +78,11 @@ A condição de fé introduz os futuros e alcança o fecho “nada vos será imp
 
 ## MT1714-21-N010 — Versículo21 e oração/jejum
 
-**Versão:**0.3.0. **Referência:**Mateus 17.21. **Confiança:**Alto para decisão adotada; história detalhada qualificada.
+**Versão:**0.3.1. **Referência:**Mateus17.21.
 
-O21 permanece em nota: o conjunto textual examinado favorece omissão do principal. A inclusão é antiga, testemunhada na recepção de Orígenes, e não deve ser chamada simplesmente de medieval. Antiguidade não decide sozinha originalidade; a aproximação aMc9.29 ajuda a explicar a transmissão. A sequência histórica detalhada proposta por Westcott/Hort não recebe automaticamente o grau da decisão textual. Fé e oração podem ser relacionadas canonicamente, mas não se atribui ao principal mateano uma explicação expressa por falta de oração/jejum. A ausência emא* B Θ0281,33,579 e a inclusão emC D K L W entre outros exigem ponderação. A harmonização é explicação preferível no material acessível; não se identificou mecanismo de perda mais convincente. Camadasא/א* e qualificadores incompletos não foram reconstruídos.
+O21 permanece em nota: o conjunto textual examinado favorece omissão do principal. A inclusão é antiga, testemunhada na recepção de Orígenes, e não deve ser chamada simplesmente de medieval. Antiguidade não decide sozinha originalidade; a aproximação aMc9.29 ajuda a explicar a transmissão. A sequência histórica detalhada proposta por Westcott/Hort não recebe automaticamente o grau da decisão textual. Fé e oração podem ser relacionadas canonicamente, mas não se atribui ao principal mateano uma explicação expressa por falta de oração/jejum. A ausência emא* B Θ0281,33,579 e a inclusão emC D K L W entre outros exigem ponderação. A harmonização é explicação preferível no material acessível; não se identificou mecanismo de perda mais convincente. Camadasא/א* e qualificadores incompletos não foram reconstruídos. A legenda esclarece quep)apenas remete a paralelos; não comprova direção de harmonização.𝔪 apoia inclusão na cópia;א*indica leitura original anterior a correção,sem identificar o corretor perdido.
 
-[Revisão](EXE-02-03-texto-traducao.md) · [Base](documento-mestre.md#mt1714-21-m-008).
+[Complemento](complemento-legenda-aparato.md).
 
 ## MT1714-21-N011 — Cânon, dons e sofrimento
 

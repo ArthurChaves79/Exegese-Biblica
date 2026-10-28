@@ -77,3 +77,6 @@ Método consolidado aprovado. Manuscrito acadêmico separado do dossiê; origina
 - D45:ὀλιγοπιστία e omissão21 confirmadas no material acessível, com razões externas/internas;πάσχει mantido provisoriamente, contraevidênciaἔχει reconhecida. Não restaurar sobrescritos.
 - D46: nova tradução de trabalho conserva escolhas centrais;explicitaδὲ17 por “porém” eὥρα18 por “hora”.03 permanece histórico intacto;ambiguidades conservadas.
 - D47: decisões não alteram duas cenas ou limites principais14–20.21 amplia resposta,se incluído. Não fechar ainda sintaxe/discurso/léxico.
+
+
+- D48: legendaNA28 esclarece *,txt,𝔪,p); não recupera índices ou ordem perdida.𝔪 explicitamente contrário em20/21 ponderado,sem alteração de decisões. Sentido dep)não é juízo de dependência textual. Fonte arquivada seletivamente,sem declaração de cópia integral.

@@ -422,7 +422,8 @@
         "DOSSIE",
         "TRADUCAO03",
         "CONTEXTO-20261028",
-        "TEXTO-20261028"
+        "TEXTO-20261028",
+        "LEGENDA-20261028"
       ]
     },
     {
@@ -444,7 +445,8 @@
         "DOSSIE",
         "REVISAO",
         "CONTEXTO-20261028",
-        "TEXTO-20261028"
+        "TEXTO-20261028",
+        "LEGENDA-20261028"
       ]
     },
     {
@@ -532,6 +534,23 @@
       "estado": "atual",
       "depende_de": [
         "TEXTO-20261028"
+      ]
+    },
+    {
+      "id": "FONTE-LEGENDA-NA28",
+      "path": "fontes/logos/na28-legenda-aparato.txt",
+      "tipo": "fonte",
+      "estado": "preservado",
+      "depende_de": []
+    },
+    {
+      "id": "LEGENDA-20261028",
+      "path": "estudos/mateus/17-14-20/complemento-legenda-aparato.md",
+      "tipo": "acervo",
+      "estado": "atual",
+      "depende_de": [
+        "FONTE-LEGENDA-NA28",
+        "METODO"
       ]
     }
   ]

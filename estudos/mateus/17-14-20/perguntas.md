@@ -48,3 +48,6 @@
 |P31|πάσχει ouἔχει?|Relevante|πάσχει provisório; forte apoio contrário e discriminação interna limitada|
 |P32|Quais índices/sinais faltam?|Complementar documental|Solicitar somente imagemNA28 p54–55 para precisão do aparato|
 |P33|Qual tradução é atual?|Relevante|traducao-trabalho-revisada.md;03 histórico preservado|
+
+
+P32 atualizada: legenda geral recebida; precisão local ainda requer imagemMt17,p54–55,com corretores,índices e transposição17. Inventários da introdução fornecida ainda não arquivados integralmente; registro seletivo identificado.

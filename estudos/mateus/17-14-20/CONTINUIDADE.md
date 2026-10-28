@@ -21,6 +21,10 @@ Contexto,delimitação e estrutura retomados; ver EXE-01-01B-07-contexto-estrutu
 
 Ler EXE-02-03-texto-traducao.md e traducao-trabalho-revisada.md. Principal14–20 confirmado no escopo;15 mantém preferência provisória;índices ausentes não restaurados. Tradução03 preservada,atual distinta. Notas001/003/007/010 revistas semIDsnovos. Próxima rodada dependerá de orientação para sintaxe,discurso e léxico; pendências discriminadas no relatório. Fac-símileNA28 p54–55 útil para precisão,não bloqueio geral. Contexto e estrutura preservados. Demais blocos não revalidados.
 
+## Legenda recebida
+
+Consultar complemento-legenda-aparato.md: legenda esclarece funções,mas não recupera sobrescritos locais perdidos. N010 corrigida;p)não é prova de harmonização. Texto e tradução mantidos. Cobertura arquivada seletiva declarada em metadados.
+
 ## Atualização
 
 Consultar dependências com `python exegese.py revisar CAMINHO`. Revisar fontes → análise → manuscrito → derivados afetados, registrando decisões e alterações. Atualizar estado e manifesto; executar auditoria e testes pertinentes; publicar e conferir o retorno remoto. O comando apenas lista dependentes, não comprova que foram revisados. História anterior em revisoes-mestre.md, Git e historico/pre-adocao-2026-10-27.

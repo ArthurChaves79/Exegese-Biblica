@@ -43,3 +43,8 @@ Sem revisão da delimitação e duas cenas: decisões menores não retiram pedid
 ## Propagação
 
 Manuscrito recebe prosa argumentativa;N003,N007,N010 revisadas sem duplicar IDs. N001 conserva procedência histórica e recebe aviso de tradução atual distinta. Dossiê e ficha indicam nova redação. Perguntas e decisões registram confirmação com limites. N002 eN013 conferidas, sem mudança de conteúdo. Não houve transferência aoLogos.
+
+
+## Complemento posterior da fonte
+
+Legenda recebida e aplicada em [complemento-legenda-aparato.md](complemento-legenda-aparato.md). Significados de txt,𝔪,א* e p) explicitados; não modifica preferências ou tradução nem supre sinais locais perdidos. Inventários da mensagem não transcritos integralmente noGit; cobertura seletiva declarada.

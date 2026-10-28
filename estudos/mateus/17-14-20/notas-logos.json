@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project_id": "MT1714-21",
-  "notes_version": "0.7.0",
+  "notes_version": "0.7.1",
   "date": "2026-10-28",
   "identity_policy": "IDs locais persistentes do projeto, não IDs nativos do Logos nem entradas definitivas de curadoria. Não renumerar/reutilizar; revisar versão mantendo ID; retirar com histórico.",
   "logos_status": "Preparação somente; nenhuma operação no aplicativo Logos foi realizada.",
@@ -232,12 +232,12 @@
     },
     {
       "id": "MT1714-21-N010",
-      "version": "0.3.0",
+      "version": "0.3.1",
       "title": "Versículo21 e oração/jejum",
       "reference": "Mateus 17.21",
       "status": "preparada_nao_transferida_ao_Logos",
       "confidence": "Alto para decisão adotada; história detalhada qualificada",
-      "body": "O21 permanece em nota: o conjunto textual examinado favorece omissão do principal. A inclusão é antiga, testemunhada na recepção de Orígenes, e não deve ser chamada simplesmente de medieval. Antiguidade não decide sozinha originalidade; a aproximação aMc9.29 ajuda a explicar a transmissão. A sequência histórica detalhada proposta por Westcott/Hort não recebe automaticamente o grau da decisão textual. Fé e oração podem ser relacionadas canonicamente, mas não se atribui ao principal mateano uma explicação expressa por falta de oração/jejum. A ausência emא* B Θ0281,33,579 e a inclusão emC D K L W entre outros exigem ponderação. A harmonização é explicação preferível no material acessível; não se identificou mecanismo de perda mais convincente. Camadasא/א* e qualificadores incompletos não foram reconstruídos.",
+      "body": "O21 permanece em nota: o conjunto textual examinado favorece omissão do principal. A inclusão é antiga, testemunhada na recepção de Orígenes, e não deve ser chamada simplesmente de medieval. Antiguidade não decide sozinha originalidade; a aproximação aMc9.29 ajuda a explicar a transmissão. A sequência histórica detalhada proposta por Westcott/Hort não recebe automaticamente o grau da decisão textual. Fé e oração podem ser relacionadas canonicamente, mas não se atribui ao principal mateano uma explicação expressa por falta de oração/jejum. A ausência emא* B Θ0281,33,579 e a inclusão emC D K L W entre outros exigem ponderação. A harmonização é explicação preferível no material acessível; não se identificou mecanismo de perda mais convincente. Camadasא/א* e qualificadores incompletos não foram reconstruídos. A legenda esclarece quep)apenas remete a paralelos; não comprova direção de harmonização.𝔪 apoia inclusão na cópia;א*indica leitura original anterior a correção,sem identificar o corretor perdido.",
       "tags": [
         "mt1714-21",
         "critica-textual",
@@ -253,7 +253,8 @@
         "estudos/mateus/17-14-20/suplemento-hendriksen-westcott-hort.md",
         "estudos/mateus/17-14-20/EXE-10-historia-interpretacao.md",
         "estudos/mateus/17-14-20/decisoes.md",
-        "estudos/mateus/17-14-20/EXE-02-03-texto-traducao.md"
+        "estudos/mateus/17-14-20/EXE-02-03-texto-traducao.md",
+        "estudos/mateus/17-14-20/complemento-legenda-aparato.md"
       ],
       "source_baseline_commit": "a944c05176cb3a470fb837aef4357a23983b2ddd"
     },
