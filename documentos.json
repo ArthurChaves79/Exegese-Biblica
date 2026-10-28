@@ -384,7 +384,8 @@
         "FONTE-westcott-hort-mt17-21",
         "TRADUCAO03",
         "CONTEXTO-20261028",
-        "TEXTO-20261028"
+        "TEXTO-20261028",
+        "LING-20261028"
       ]
     },
     {
@@ -423,7 +424,8 @@
         "TRADUCAO03",
         "CONTEXTO-20261028",
         "TEXTO-20261028",
-        "LEGENDA-20261028"
+        "LEGENDA-20261028",
+        "LING-20261028"
       ]
     },
     {
@@ -446,7 +448,8 @@
         "REVISAO",
         "CONTEXTO-20261028",
         "TEXTO-20261028",
-        "LEGENDA-20261028"
+        "LEGENDA-20261028",
+        "LING-20261028"
       ]
     },
     {
@@ -495,7 +498,8 @@
       "tipo": "acervo",
       "estado": "atual",
       "depende_de": [
-        "REVISAO"
+        "REVISAO",
+        "LING-20261028"
       ]
     },
     {
@@ -504,7 +508,8 @@
       "tipo": "acervo",
       "estado": "atual",
       "depende_de": [
-        "REVISAO"
+        "REVISAO",
+        "LING-20261028"
       ]
     },
     {
@@ -533,7 +538,8 @@
       "tipo": "acervo",
       "estado": "atual",
       "depende_de": [
-        "TEXTO-20261028"
+        "TEXTO-20261028",
+        "LING-20261028"
       ]
     },
     {
@@ -551,6 +557,30 @@
       "depende_de": [
         "FONTE-LEGENDA-NA28",
         "METODO"
+      ]
+    },
+    {
+      "id": "FONTES-LING-20261028",
+      "path": "estudos/mateus/17-14-20/fontes-linguisticas-20261028.md",
+      "tipo": "acervo",
+      "estado": "atual",
+      "depende_de": []
+    },
+    {
+      "id": "LING-20261028",
+      "path": "estudos/mateus/17-14-20/EXE-04-05-06-analise-linguistica.md",
+      "tipo": "acervo",
+      "estado": "atual",
+      "depende_de": [
+        "METODO",
+        "TEXTO-20261028",
+        "LEGENDA-20261028",
+        "FONTES-LING-20261028",
+        "FONTE-bdag-verbetes-mt17",
+        "FONTE-carson-mt17",
+        "FONTE-france-mt17",
+        "FONTE-luz-mt17",
+        "FONTE-hendriksen-mt17"
       ]
     }
   ]

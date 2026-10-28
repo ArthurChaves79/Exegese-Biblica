@@ -25,6 +25,12 @@ Ler EXE-02-03-texto-traducao.md e traducao-trabalho-revisada.md. Principal14–2
 
 Consultar complemento-legenda-aparato.md: legenda esclarece funções,mas não recupera sobrescritos locais perdidos. N010 corrigida;p)não é prova de harmonização. Texto e tradução mantidos. Cobertura arquivada seletiva declarada em metadados.
 
+## Revisão linguística —estado vigente28/10
+
+Ler [relatório04/05/06](EXE-04-05-06-analise-linguistica.md) e [fontes consultadas](fontes-linguisticas-20261028.md). Manuscrito1.4.0, dossiê0.8.0;2.4–2.5 desenvolvidas. Condição e futuros vinculados;pronome19 contextual;referente18 mantido com contraevidência;mostarda sem taxonomia rígida. Promessa ganha núcleo positivo demonstrado; fronteiras abertas. Tradução e decisões textuais mantidas. Retirada referência interna à aplicação14 do manuscrito,sem apagar pesquisa.
+
+N003–N009 atualizadas em IDs existentes;nenhuma transferênciaLogos. Auditoria documental não certifica mérito;revisão é interna. As próximas etapas mencionadas nas rodadas anteriores são históricas: agora aguardar orientação antes de qualquer revisão sinótica,teológica ou aplicação.
+
 ## Atualização
 
 Consultar dependências com `python exegese.py revisar CAMINHO`. Revisar fontes → análise → manuscrito → derivados afetados, registrando decisões e alterações. Atualizar estado e manifesto; executar auditoria e testes pertinentes; publicar e conferir o retorno remoto. O comando apenas lista dependentes, não comprova que foram revisados. História anterior em revisoes-mestre.md, Git e historico/pre-adocao-2026-10-27.

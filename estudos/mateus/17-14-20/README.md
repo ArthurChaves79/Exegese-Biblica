@@ -8,6 +8,8 @@ O [manuscrito acadêmico](manuscrito-academico.md) é a redação cumulativa pri
 
 ## Pesquisa preservada
 
+Rodada vigente: [análise sintática,discursiva e lexical](EXE-04-05-06-analise-linguistica.md) · [fontes efetivamente consultadas](fontes-linguisticas-20261028.md). Tradução mantida;manuscrito2.4–2.5 desenvolvido.
+
 EXE-03 foi recuperado;08C é recomposição posterior. Fontes Logos e relatórios completos continuam preservados. EXE-07 e VAL foram recuperados como roteiros; a revisão interna atual aplica seus testes decisivos ao material disponível, sem reconstruir relatórios históricos nem afirmar auditoria independente. Orientações históricas ainda ausentes não bloqueiam a continuidade sob o método aprovado.
 
 - [EXE-03-recuperado-conferencia.md](EXE-03-recuperado-conferencia.md)

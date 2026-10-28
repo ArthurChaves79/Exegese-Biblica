@@ -51,3 +51,17 @@
 
 
 P32 atualizada: legenda geral recebida; precisão local ainda requer imagemMt17,p54–55,com corretores,índices e transposição17. Inventários da introdução fornecida ainda não arquivados integralmente; registro seletivo identificado.
+
+## Revisão linguística —28/10/2026
+
+Esta seção qualifica o estado das perguntas anteriores, sem apagar sua história: P02/P11 recebemD53;P03 recebeD55;P04 recebeD54, cuja demonstração local não depende de1Jo5.14;P09 recebeD51. P25/P30 continuam com14–20principal/21nota.
+
+|ID|Pergunta|Prioridade|Estado|
+|---|---|---|---|
+|P34|O que afirma positivamente a promessa e até onde se estende?|Decisiva|Núcleo desenvolvido;capacidade efetiva,condição e destinatários sustentados;fronteiras posteriores abertas|
+|P35|Qual alcance deγενεά e quais nuances dos qualificativos?|Relevante|Coletivo provavelmente inclui discípulos;extensão aberta;Thayer consultado,BDAG desses verbetes ainda não|
+|P36|Quem recebe a repreensão18?|Relevante|Demônio preferidoModerado;menino favorecido pela continuidade é alternativa viva|
+|P37|Como explicar pouca fé/mostarda?|Relevante|Funções retóricas diferentes,pequenez/grandeefeito preferidosModerado;não categorias técnicas|
+|P38|Quais consultas gramaticais ainda faltam?|Complementar|Smyth/Mounce digitais consultados;Zerwick50,Moule203,BDF146(2) seguem mediados porCarson|
+
+Relatório04/05/06 e fontes-linguisticas-20261028.md especificam consultas e pedidos opcionais doLogos. Nenhuma fonte indispensável ausente bloqueia o núcleo desta rodada. P32 e preservação integral da legenda continuam pendentes.

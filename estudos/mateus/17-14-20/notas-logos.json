@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project_id": "MT1714-21",
-  "notes_version": "0.7.1",
+  "notes_version": "0.8.0",
   "date": "2026-10-28",
   "identity_policy": "IDs locais persistentes do projeto, não IDs nativos do Logos nem entradas definitivas de curadoria. Não renumerar/reutilizar; revisar versão mantendo ID; retirar com histórico.",
   "logos_status": "Preparação somente; nenhuma operação no aplicativo Logos foi realizada.",
@@ -21,7 +21,7 @@
       ],
       "master": {
         "path": "estudos/mateus/17-14-20/documento-mestre.md",
-        "version": "0.7.0",
+        "version": "0.8.0",
         "anchor": "mt1714-21-m-001"
       },
       "sources": [
@@ -48,7 +48,7 @@
       ],
       "master": {
         "path": "estudos/mateus/17-14-20/documento-mestre.md",
-        "version": "0.7.0",
+        "version": "0.8.0",
         "anchor": "mt1714-21-m-002"
       },
       "sources": [
@@ -59,12 +59,12 @@
     },
     {
       "id": "MT1714-21-N003",
-      "version": "0.3.0",
+      "version": "0.4.0",
       "title": "Aflição, misericórdia e léxico",
       "reference": "Mateus 17.14–16",
       "status": "preparada_nao_transferida_ao_Logos",
       "confidence": "Alto para pedido e sofrimento; limite lexical",
-      "body": "O pai pede misericórdia para um filho em sofrimento e perigo recorrente. Σεληνιάζεται é descrito no BDAG em relação a crises epilépticas; sua relação histórica com a lua não prova crença causal específica do pai nem o torna sinônimo lexical de possessão. A presença do demônio será afirmada narrativamente18. Adota-se πάσχει, “sofre”, com preferência Moderada. “Tem convulsões” já consta do03 recuperado e coincide com08C. Humildade e petição são leituras do gesto; ele não prova cristologia plenamente desenvolvida. ἔχει possui apoio legível emא B L Z Θ;πάσχει emC D K W entre outros. Mantém-se “sofre” provisoriamente; contexto não decide fortemente entre expressões. Frequência repetida segueπολλάκις, não a varianteἐνίοτε.",
+      "body": "O pai pede misericórdia para um filho em sofrimento e perigo recorrente. Σεληνιάζεται é descrito no BDAG em relação a crises epilépticas; sua relação histórica com a lua não prova crença causal específica do pai nem o torna sinônimo lexical de possessão. A presença do demônio será afirmada narrativamente18. Adota-se πάσχει, “sofre”, com preferência Moderada. “Tem convulsões” já consta do03 recuperado e coincide com08C. Humildade e petição são leituras do gesto; ele não prova cristologia plenamente desenvolvida. ἔχει possui apoio legível emא B L Z Θ;πάσχει emC D K W entre outros. Mantém-se “sofre” provisoriamente; contexto não decide fortemente entre expressões. Frequência repetida segueπολλάκις, não a varianteἐνίοτε. Ὅτι fundamenta o pedido eγάρ concretiza sua gravidade; osκαί16 acrescentam tentativa e insucesso com contraste contextual. Mt4.24 enumera a designação junto a endemoninhados, sem provar categorias mutuamente exclusivas.",
       "tags": [
         "mt1714-21",
         "lexico",
@@ -72,25 +72,28 @@
       ],
       "master": {
         "path": "estudos/mateus/17-14-20/documento-mestre.md",
-        "version": "0.7.0",
+        "version": "0.8.0",
         "anchor": "mt1714-21-m-003"
       },
       "sources": [
         "estudos/mateus/17-14-20/EXE-08C-verso-a-verso.md",
         "fontes/logos/bdag-verbetes-mt17.txt",
         "estudos/mateus/17-14-20/EXE-03-recuperado-conferencia.md",
-        "estudos/mateus/17-14-20/EXE-02-03-texto-traducao.md"
+        "estudos/mateus/17-14-20/EXE-02-03-texto-traducao.md",
+        "estudos/mateus/17-14-20/EXE-04-05-06-analise-linguistica.md",
+        "estudos/mateus/17-14-20/fontes-linguisticas-20261028.md"
       ],
-      "source_baseline_commit": "a944c05176cb3a470fb837aef4357a23983b2ddd"
+      "source_baseline_commit": "a944c05176cb3a470fb837aef4357a23983b2ddd",
+      "last_revision_baseline_commit": "ee7b3a59acee36ad6a34b12cb27244a060f2d2e3"
     },
     {
       "id": "MT1714-21-N004",
-      "version": "0.2.0",
+      "version": "0.3.0",
       "title": "Geração e linguagem de censura",
       "reference": "Mateus 17.17",
       "status": "preparada_nao_transferida_ao_Logos",
       "confidence": "Moderado para destinatários e alusão",
-      "body": "A censura provavelmente alcança um coletivo que inclui os discípulos, sem se limitar seguramente a eles. A proximidade16 favorece sua participação; geração favorece alcance mais amplo. A extensão exata permanece aberta. Dt32.5,20 oferece alusão provável, não importação de todo o cântico. A relação com Emanuel é hipótese de baixa confiança: a expressão de presença não demonstra eco deliberado; retirada definitiva de Deus e rejeição étnica não estão demonstradas. A ordem para trazer o menino mostra censura e socorro no mesmo movimento.",
+      "body": "A censura provavelmente alcança um coletivo que inclui os discípulos, sem se limitar seguramente a eles. A proximidade16 favorece sua participação; geração favorece alcance mais amplo. A extensão exata permanece aberta. Dt32.5,20 oferece alusão provável, não importação de todo o cântico. A relação com Emanuel é hipótese de baixa confiança: a expressão de presença não demonstra eco deliberado; retirada definitiva de Deus e rejeição étnica não estão demonstradas. A ordem para trazer o menino mostra censura e socorro no mesmo movimento. As perguntas comἕωςπότε funcionam como lamento/reprovação, não cálculo de prazo. Διεστραμμένη qualifica a geração; perfeito/passivo não identificam agente ou acontecimento que a perverteu. A coordenação dos qualificativos não codifica uma causa psicológica entre eles.",
       "tags": [
         "mt1714-21",
         "destinatarios",
@@ -98,24 +101,27 @@
       ],
       "master": {
         "path": "estudos/mateus/17-14-20/documento-mestre.md",
-        "version": "0.7.0",
+        "version": "0.8.0",
         "anchor": "mt1714-21-m-004"
       },
       "sources": [
         "estudos/mateus/17-14-20/EXE-08C-verso-a-verso.md",
         "estudos/mateus/17-14-20/EXE-09-contexto-canonico.md",
-        "estudos/mateus/17-14-20/revisao-metodo.md"
+        "estudos/mateus/17-14-20/revisao-metodo.md",
+        "estudos/mateus/17-14-20/EXE-04-05-06-analise-linguistica.md",
+        "estudos/mateus/17-14-20/fontes-linguisticas-20261028.md"
       ],
-      "source_baseline_commit": "a944c05176cb3a470fb837aef4357a23983b2ddd"
+      "source_baseline_commit": "a944c05176cb3a470fb837aef4357a23983b2ddd",
+      "last_revision_baseline_commit": "ee7b3a59acee36ad6a34b12cb27244a060f2d2e3"
     },
     {
       "id": "MT1714-21-N005",
-      "version": "0.1.0",
+      "version": "0.2.0",
       "title": "Libertação e cura efetivas",
       "reference": "Mateus 17.18",
       "status": "preparada_nao_transferida_ao_Logos",
       "confidence": "Alto para acontecimento; referente discutido",
-      "body": "O narrador relata repreensão, saída do demônio e cura desde aquela hora. O demônio é favorecido como referente de αὐτῷ, mas a tradução conserva o pronome: “o repreendeu”. A ambiguidade do referente não torna duvidosa a ocorrência narrativa da expulsão e da cura. Trata-se de socorro concreto ao menino. O episódio não estabelece que toda epilepsia seja possessão ou que a aflição tenha sido causada por culpa individual do menino.",
+      "body": "O narrador relata repreensão, saída do demônio e cura desde aquela hora. O demônio é favorecido como referente de αὐτῷ, mas a tradução conserva o pronome: “o repreendeu”. A ambiguidade do referente não torna duvidosa a ocorrência narrativa da expulsão e da cura. Trata-se de socorro concreto ao menino. O episódio não estabelece que toda epilepsia seja possessão ou que a aflição tenha sido causada por culpa individual do menino. A continuidade deαὐτόν17 oferece argumento para o menino como antecedente; a saída do demônio favorece a interpretação preferida. A morfologia admite ambos. A fórmula desde aquela hora vincula início do resultado à intervenção, sem duração de sessenta minutos. Osκαί coordenam resultados, não subordinadas consecutivas.",
       "tags": [
         "mt1714-21",
         "cura",
@@ -123,23 +129,26 @@
       ],
       "master": {
         "path": "estudos/mateus/17-14-20/documento-mestre.md",
-        "version": "0.7.0",
+        "version": "0.8.0",
         "anchor": "mt1714-21-m-005"
       },
       "sources": [
         "estudos/mateus/17-14-20/EXE-08C-verso-a-verso.md",
-        "estudos/mateus/17-14-20/EXE-11-sintese-sentido.md"
+        "estudos/mateus/17-14-20/EXE-11-sintese-sentido.md",
+        "estudos/mateus/17-14-20/EXE-04-05-06-analise-linguistica.md",
+        "estudos/mateus/17-14-20/fontes-linguisticas-20261028.md"
       ],
-      "source_baseline_commit": "a944c05176cb3a470fb837aef4357a23983b2ddd"
+      "source_baseline_commit": "a944c05176cb3a470fb837aef4357a23983b2ddd",
+      "last_revision_baseline_commit": "ee7b3a59acee36ad6a34b12cb27244a060f2d2e3"
     },
     {
       "id": "MT1714-21-N006",
-      "version": "0.1.0",
+      "version": "0.2.0",
       "title": "Por que nós? Saliência sem psicologização",
       "reference": "Mateus 17.19",
       "status": "preparada_nao_transferida_ao_Logos",
       "confidence": "Alto para pronome expresso; leitura discursiva contextual",
-      "body": "Ἡμεῖς explicita o sujeito já indicado em ἠδυνήθημεν. No contexto da eficácia de Jesus, torna saliente a incapacidade dos discípulos e favorece contraste. Isso não equivale a uma regra automática para todo pronome com verbo conjugado. A pergunta solicita a causa; não demonstra, sozinha, orgulho, rivalidade ou vergonha. O neutro αὐτό retoma o demônio, e a linguagem de expulsar19 se relaciona à cura16 por meio do acontecimento18.",
+      "body": "Ἡμεῖς explicita o sujeito já indicado em ἠδυνήθημεν. No contexto da eficácia de Jesus, torna saliente a incapacidade dos discípulos e favorece contraste. Isso não equivale a uma regra automática para todo pronome com verbo conjugado. A pergunta solicita a causa; não demonstra, sozinha, orgulho, rivalidade ou vergonha. O neutro αὐτό retoma o demônio, e a linguagem de expulsar19 se relaciona à cura16 por meio do acontecimento18. A consulta deSmyth929–930 confirma tendência, não automatismo;Mt9.14 oferece contraste explicitado entre grupos, enquanto aqui a comparação depende da ação precedente. Alto para presença do pronome;Moderado para força contrastiva específica.",
       "tags": [
         "mt1714-21",
         "sintaxe",
@@ -147,23 +156,26 @@
       ],
       "master": {
         "path": "estudos/mateus/17-14-20/documento-mestre.md",
-        "version": "0.7.0",
+        "version": "0.8.0",
         "anchor": "mt1714-21-m-006"
       },
       "sources": [
         "estudos/mateus/17-14-20/EXE-08C-verso-a-verso.md",
-        "estudos/mateus/17-14-20/decisoes.md"
+        "estudos/mateus/17-14-20/decisoes.md",
+        "estudos/mateus/17-14-20/EXE-04-05-06-analise-linguistica.md",
+        "estudos/mateus/17-14-20/fontes-linguisticas-20261028.md"
       ],
-      "source_baseline_commit": "a944c05176cb3a470fb837aef4357a23983b2ddd"
+      "source_baseline_commit": "a944c05176cb3a470fb837aef4357a23983b2ddd",
+      "last_revision_baseline_commit": "ee7b3a59acee36ad6a34b12cb27244a060f2d2e3"
     },
     {
       "id": "MT1714-21-N007",
-      "version": "0.3.0",
+      "version": "0.4.0",
       "title": "Pouca fé como causa deste fracasso",
       "reference": "Mateus 17.20",
       "status": "preparada_nao_transferida_ao_Logos",
       "confidence": "Alto para leitura e causalidade local",
-      "body": "Adota-se ὀλιγοπιστίαν, “pouca fé”, em vez de ἀπιστίαν. Διά com acusativo identifica a causa da incapacidade narrada. “Confiança deficiente” esclarece contextualmente, sem criar categoria lexical técnica. A comissão10.1,8 não dispensa fé no exercício da missão. O diagnóstico tem sujeitos e situação definidos: não pode ser convertido em causa universal de toda não cura. Automatismo mágico ou abandono da oração não são procedimentos narrados. O apoio deא B Θ0281 e outros à leitura menos comum, junto à aproximação possível deἀπιστίαν aἄπιστος17, favorece a decisão; não se decide por maioria.",
+      "body": "Adota-se ὀλιγοπιστίαν, “pouca fé”, em vez de ἀπιστίαν. Διά com acusativo identifica a causa da incapacidade narrada. “Confiança deficiente” esclarece contextualmente, sem criar categoria lexical técnica. A comissão10.1,8 não dispensa fé no exercício da missão. O diagnóstico tem sujeitos e situação definidos: não pode ser convertido em causa universal de toda não cura. Automatismo mágico ou abandono da oração não são procedimentos narrados. O apoio deא B Θ0281 e outros à leitura menos comum, junto à aproximação possível deἀπιστίαν aἄπιστος17, favorece a decisão; não se decide por maioria. Oγάρ20 explica a resposta por meio da promessa, não estabelece uma escala numérica de fé. As ocorrências cognatasMt6.30;8.26;14.31;16.8 ligam pouca fé a confiança deficiente em situações diversas, sem uma motivação única demonstrada.",
       "tags": [
         "mt1714-21",
         "fe",
@@ -171,24 +183,27 @@
       ],
       "master": {
         "path": "estudos/mateus/17-14-20/documento-mestre.md",
-        "version": "0.7.0",
+        "version": "0.8.0",
         "anchor": "mt1714-21-m-007"
       },
       "sources": [
         "estudos/mateus/17-14-20/EXE-08C-verso-a-verso.md",
         "estudos/mateus/17-14-20/EXE-10B-avaliacao-canonica.md",
-        "estudos/mateus/17-14-20/EXE-02-03-texto-traducao.md"
+        "estudos/mateus/17-14-20/EXE-02-03-texto-traducao.md",
+        "estudos/mateus/17-14-20/EXE-04-05-06-analise-linguistica.md",
+        "estudos/mateus/17-14-20/fontes-linguisticas-20261028.md"
       ],
-      "source_baseline_commit": "a944c05176cb3a470fb837aef4357a23983b2ddd"
+      "source_baseline_commit": "a944c05176cb3a470fb837aef4357a23983b2ddd",
+      "last_revision_baseline_commit": "ee7b3a59acee36ad6a34b12cb27244a060f2d2e3"
     },
     {
       "id": "MT1714-21-N008",
-      "version": "0.1.1",
+      "version": "0.2.0",
       "title": "Mostarda e monte: aspecto da comparação",
       "reference": "Mateus 17.20",
       "status": "preparada_nao_transferida_ao_Logos",
       "confidence": "Moderado para aspecto e imagem",
-      "body": "A pequenez diante da grandeza do efeito é o aspecto preferido da mostarda. Crescimento, sabor ou vitalidade não são desenvolvidos nesta frase. A comparação não exige fé do tamanho do monte, mas também não torna a deficiência de fé irrelevante. A distinção entre pequena e pobre pode ajudar contextualmente; não constitui taxonomia lexical demonstrada. Monte significa monte; a imagem favorece o aparentemente impossível. Zc4.7 é paralelo temático, não fonte comprovada. A tradução conserva “fé como um grão”, sem inserir a explicação.",
+      "body": "A pequenez em contraste com o grande efeito é o aspecto preferido da mostarda (Moderado). Mt13.31–32 explicita pequenez e crescimento;17.20 não narra crescimento,plantio ou espera. Pouca fé avalia a confiança deficiente; a imagem pequena desautoriza exigir fé proporcional à grandeza do obstáculo. São funções retóricas distintas, não duas medidas exatas nem categorias lexicais de qualidade versus quantidade. Carson,France,Luz eHendriksen oferecem explicações confrontadas no relatório. O paradoxo não fica completamente eliminado;vitalidade e perseverança não são sentidos obrigatórios. A tradução mantém “como”. Monte permanece imagem concreta do extraordinariamente difícil,sem instituição identificada ou proverbialidade exaustivamente pesquisada.",
       "tags": [
         "mt1714-21",
         "mostarda",
@@ -196,24 +211,27 @@
       ],
       "master": {
         "path": "estudos/mateus/17-14-20/documento-mestre.md",
-        "version": "0.7.0",
+        "version": "0.8.0",
         "anchor": "mt1714-21-m-007"
       },
       "sources": [
         "estudos/mateus/17-14-20/EXE-10B-avaliacao-canonica.md",
         "estudos/mateus/17-14-20/EXE-11-sintese-sentido.md",
-        "estudos/mateus/17-14-20/EXE-03-recuperado-conferencia.md"
+        "estudos/mateus/17-14-20/EXE-03-recuperado-conferencia.md",
+        "estudos/mateus/17-14-20/EXE-04-05-06-analise-linguistica.md",
+        "estudos/mateus/17-14-20/fontes-linguisticas-20261028.md"
       ],
-      "source_baseline_commit": "a944c05176cb3a470fb837aef4357a23983b2ddd"
+      "source_baseline_commit": "a944c05176cb3a470fb837aef4357a23983b2ddd",
+      "last_revision_baseline_commit": "ee7b3a59acee36ad6a34b12cb27244a060f2d2e3"
     },
     {
       "id": "MT1714-21-N009",
-      "version": "0.1.0",
+      "version": "0.2.0",
       "title": "Amplitude concreta e contextual da promessa",
       "reference": "Mateus 17.20",
       "status": "preparada_nao_transferida_ao_Logos",
       "confidence": "Alto para formulação; Moderado para alcance detalhado",
-      "body": "A condição de fé introduz os futuros e alcança o fecho “nada vos será impossível”. A frase não é lema independente do contexto. A comissão10.1,8 e a incapacidade16/19 situam a promessa na missão. Sua força extraordinária não deve ser reduzida a aceitação interior do ordinário. A integração com vontade divina delimita desejos arbitrários sem inserir palavras no grego. O objeto da fé é contextual; a frase não oferece uma energia autônoma ou algoritmo para resultados.",
+      "body": "A condiçãoἐάν/subjuntivo alcança os futuros: direis (discípulos),passará (monte),nada será impossível (nada como sujeito). O fecho generaliza sem novo destinatário ou condição. A construção não prova ausência total de fé. Positivamente,Jesus anuncia aos discípulos que creem capacidade efetiva diante do que excede possibilidades ordinárias; dificuldades como a enfrentada não precisam ser limites intransponíveis à missão recebida. Mt10.1,8 e a retomada16/19 fundamentam essa delimitação contextualModerada. “Nada” amplia além daquele menino; a promessa não é apenas resiliência interior. Fronteiras exatas e extensão a outros destinatários permanecem abertas. Não inserir “segundo a vontade de Deus” na tradução ou diagnosticar toda não cura por este caso.",
       "tags": [
         "mt1714-21",
         "promessa",
@@ -221,14 +239,17 @@
       ],
       "master": {
         "path": "estudos/mateus/17-14-20/documento-mestre.md",
-        "version": "0.7.0",
+        "version": "0.8.0",
         "anchor": "mt1714-21-m-007"
       },
       "sources": [
         "estudos/mateus/17-14-20/EXE-11-sintese-sentido.md",
-        "estudos/mateus/17-14-20/EXE-10B-avaliacao-canonica.md"
+        "estudos/mateus/17-14-20/EXE-10B-avaliacao-canonica.md",
+        "estudos/mateus/17-14-20/EXE-04-05-06-analise-linguistica.md",
+        "estudos/mateus/17-14-20/fontes-linguisticas-20261028.md"
       ],
-      "source_baseline_commit": "a944c05176cb3a470fb837aef4357a23983b2ddd"
+      "source_baseline_commit": "a944c05176cb3a470fb837aef4357a23983b2ddd",
+      "last_revision_baseline_commit": "ee7b3a59acee36ad6a34b12cb27244a060f2d2e3"
     },
     {
       "id": "MT1714-21-N010",
@@ -246,7 +267,7 @@
       ],
       "master": {
         "path": "estudos/mateus/17-14-20/documento-mestre.md",
-        "version": "0.7.0",
+        "version": "0.8.0",
         "anchor": "mt1714-21-m-008"
       },
       "sources": [
@@ -274,7 +295,7 @@
       ],
       "master": {
         "path": "estudos/mateus/17-14-20/documento-mestre.md",
-        "version": "0.7.0",
+        "version": "0.8.0",
         "anchor": "mt1714-21-m-010"
       },
       "sources": [
@@ -299,7 +320,7 @@
       ],
       "master": {
         "path": "estudos/mateus/17-14-20/documento-mestre.md",
-        "version": "0.7.0",
+        "version": "0.8.0",
         "anchor": "mt1714-21-m-011"
       },
       "sources": [
@@ -323,7 +344,7 @@
       ],
       "master": {
         "path": "estudos/mateus/17-14-20/documento-mestre.md",
-        "version": "0.7.0",
+        "version": "0.8.0",
         "anchor": "mt1714-21-m-012"
       },
       "sources": [
@@ -346,7 +367,7 @@
       ],
       "master": {
         "path": "estudos/mateus/17-14-20/documento-mestre.md",
-        "version": "0.7.0",
+        "version": "0.8.0",
         "anchor": "mt1714-21-m-014"
       },
       "sources": [
@@ -357,5 +378,5 @@
     }
   ],
   "recovery_update": "03 recuperado; sem transferência ao Logos",
-  "method_review": "revisao-metodo.md; revisão interna, não independente"
+  "method_review": "Revisão interna delimitada emEXE-04-05-06-analise-linguistica.md;sem auditoria independente"
 }

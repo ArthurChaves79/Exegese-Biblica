@@ -30,3 +30,7 @@ Contexto,delimitação e estrutura desenvolvidos; continuidade não confundida c
 ## 0.7.0 —28/10/2026
 
 Crítica textual e tradução revistas no escopo disponível. Texto principal mantido,adversativa17 e “hora”18 explicitadas. Manuscrito2.2.2–2.3 desenvolvido;notas001/003/007/010 revisadas. Sem novoID ou transferênciaLogos.
+
+## 28/10/2026 —revisão linguística
+
+Dossiê0.8.0/manuscrito1.4.0. Base remotaee7b3a59acee36ad6a34b12cb27244a060f2d2e3. Relatório04/05/06 novo, não recuperado; fontes digitais selecionadas identificadas. Seções2.4–2.5 reescritas em prosa desenvolvida;nota sobre contraevidência deαὐτῷ,condição/futuros e núcleo positivo da promessa. Tradução,principal14–20 e21nota,estrutura e síntese mantidos. Referência administrativa aplicação consolidada14 retirada somente do manuscrito;EXE14 intacto. D49–56,P34–38;N003–N009 atualizadas. Demais blocos não revalidados integralmente. Originais,fontes e relatórios históricos preservados.

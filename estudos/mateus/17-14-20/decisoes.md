@@ -80,3 +80,14 @@ Método consolidado aprovado. Manuscrito acadêmico separado do dossiê; origina
 
 
 - D48: legendaNA28 esclarece *,txt,𝔪,p); não recupera índices ou ordem perdida.𝔪 explicitamente contrário em20/21 ponderado,sem alteração de decisões. Sentido dep)não é juízo de dependência textual. Fonte arquivada seletivamente,sem declaração de cópia integral.
+
+## Sintaxe,discurso e léxico —28/10/2026
+
+- D49: genitivo participial14 com sujeito contextual é construção inteligível; rótulo “defectivo” não demonstra corrupção. Temporal preferido pelo relato. Alto para forma,Moderado para identificação exaustiva dos acompanhantes.
+- D50: αὐτῷ18 mantém preferênciaModerada pelo demônio; continuidade do menino17 explicitada como contraevidência. Tradução pronominal mantida.
+- D51: ἡμεῖς19 favorece contraste comJesus pela sequência, não por regra universal. Sujeito expressoAlto; força contrastivaModerada.
+- D52:ἐάν/subjuntivo não afirma ausência total de fé. Os futuros de sujeitos distintos permanecem coordenados no cenário condicional; fecho não é máxima sem condição. Alto para relação local; extensão pragmática não exaustiva.
+- D53: qualidade/quantidade não são classes lexicais demonstradas. Pouca fé censura deficiência; mostarda provavelmente realça pequenez/grandeefeito. PreferênciaModerada,com tensão retórica preservada. Crescimento,vitalidade e perseverança não importados.
+- D54: núcleo positivo da promessa desenvolvido: capacidade efetiva anunciada aos discípulos que creem diante do que excede possibilidades ordinárias. Missão10.1,8 é delimitação contextualModerada apoiada nos agentes e tarefas. “Nada” amplia além do caso; fronteiras e extensão a outros permanecem abertas. Atualiza grau de desenvolvimento deD14,sem substituir texto por restrição canônica.
+- D55: geralγενεά/ἄπιστος/διεστραμμένη não permite rejeição étnica nem causa psicológica detalhada. Gramática coordena qualificativos, não declara causalidade entre eles. Destinatários precisosModerados/abertos.
+- D56: principal,tradução,estrutura e síntese preservados. Manuscrito2.4–2.5 desenvolvido; “aplicação consolidada14” substituído por redação acadêmica sem apagarEXE14. Fontes técnicas e ocorrências selecionadas registradas; nenhuma pesquisa exaustiva ou revisão independente alegada. N003–N009 revisadas;IDs mantidos;não transferidas.

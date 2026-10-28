@@ -24,3 +24,7 @@ Base principal preservada14–20. Revisão atual distinta do EXE03 histórico. A
 2. O pronome é conservado: o contexto favorece o demônio como destinatário da repreensão, mas a forma αὐτῷ não decide isoladamente seu referente.
 
 **Nota textual —17.21:** parte da tradição acrescenta: “Mas esta espécie não sai senão por oração e jejum”. A sentença não integra o corpo principal adotado.
+
+## Conferência linguística —28/10/2026
+
+Texto português mantido. A análise04/05/06 confirma a chegada temporal com sujeito implícito, “nós” saliente pelo contexto e o fecho no alcance da condição. αὐτῷ conserva alternativa do menino por continuidade, embora demônio seja preferido pelo resultado. “Como” não introduz crescimento; “nada” conserva força positiva sem cláusula acrescentada. Consulte [relatório](EXE-04-05-06-analise-linguistica.md). Não é nova versão do03 histórico.

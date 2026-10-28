@@ -1,6 +1,8 @@
 # Mateus 17.14–21 — Documento exegético mestre
 
-**Identificador do projeto:** MT1714-21-MESTRE. **Versão:** 0.7.0, 27/10/2026. **Natureza:** consolidação intermediária cumulativa, com exposição argumentativa e trilha de evidências. **Texto principal adotado:**17.14–20; **17.21:** tradição textual examinada em nota. A designação14–21 amplia a cobertura documental sem alterar a decisão textual D03 ou renomear o diretório histórico.
+**Identificador do projeto:** MT1714-21-MESTRE. **Versão:** 0.8.0, 27/10/2026. **Natureza:** consolidação intermediária cumulativa, com exposição argumentativa e trilha de evidências. **Texto principal adotado:**17.14–20; **17.21:** tradição textual examinada em nota. A designação14–21 amplia a cobertura documental sem alterar a decisão textual D03 ou renomear o diretório histórico.
+
+**Revisão linguística vigente:** [EXE-04-05-06-analise-linguistica.md](EXE-04-05-06-analise-linguistica.md),28/10/2026. Aprofunda sintaxe,discurso e léxico; não valida integralmente blocos posteriores.
 
 **Base de integração:** relatórios e fontes até15B, com revisão interna de adequação em27/10/2026. Este arquivo conserva exposição de pesquisa, metadados e âncoras; o manuscrito acadêmico é a redação principal. Histórico anterior preservado em snapshots eGit. Não equivale a revisão independente. Mt17.1–13 permanece reservado.
 
@@ -85,7 +87,7 @@ A ordem final, trazer o menino a Jesus, conduz à intervenção. A censura e a m
 <a id="mt1714-21-m-005"></a>
 ## 5. A intervenção resolve a aflição:17.18
 
-O narrador apresenta repreensão, saída do demônio e cura. A brevidade não reduz a realidade do acontecimento. O pronomeαὐτῷ admite discussão de referente; o desenlace favorece o demônio como destinatário da repreensão, mas o texto usa pronome. Manter “o repreendeu” distingue a forma traduzida de sua solução contextual. A expressãoἀπ’αὐτοῦ identifica a saída do menino, e a cura desde aquela hora associa o resultado à intervenção.
+O narrador apresenta repreensão, saída do demônio e cura. A brevidade não reduz a realidade do acontecimento. O pronomeαὐτῷ admite discussão de referente; a continuidade deαὐτόν17 favorece o menino como antecedente, contraevidência que deve permanecer explícita; o desenlace favorece o demônio como destinatário da repreensão, mas o texto usa pronome. Manter “o repreendeu” distingue a forma traduzida de sua solução contextual. A expressãoἀπ’αὐτοῦ identifica a saída do menino, e a cura desde aquela hora associa o resultado à intervenção.
 
 O18 é clímax da ação: responde ao pedido de misericórdia e realiza aquilo que os discípulos não conseguiram. A pergunta posterior evidenciará esse contraste, mas não dá retroativamente valor à cura; esta já é socorro significativo ao menino. O narrador une libertação e restauração corporal neste caso. Não apresenta princípio segundo o qual toda epilepsia seja possessão ou toda aflição pessoal proceda de culpa individual.
 
@@ -113,7 +115,7 @@ Hendriksen desenvolve crescimento e contato vital da semente para enfatizar pers
 
 O monte permanece uma imagem de possibilidade extrema. O substantivo significa monte; não recebe definição lexical “problema”. A leitura hiperbólica do aparentemente impossível é favorecida pelo uso da imagem e pela amplitude do fecho, sem identificação segura de uma instituição ou lugar. Zc4.7 é paralelo temático pertinente, não fonte demonstrada do dito. A alternativa de deslocamento literal e a alegoria de poder hostil têm história de recepção, mas não são exigidas para explicar a função da imagem aqui.
 
-O contexto10.1,8 oferece o campo imediato da promessa: a missão recebida. A confiança está relacionada ao Senhor, não a energia autônoma do agente. Essa descrição detalhada do objeto da fé e da extensão positiva conserva grau Moderado, porque a oração condicional não explicita seu objeto nem enumera todas as circunstâncias abrangidas. A confiança não exige fé do tamanho do monte; sua deficiência também não se torna irrelevante.
+O contexto10.1,8 oferece o campo da missão que esclarece a promessa: a missão recebida. A confiança está relacionada ao Senhor, não a energia autônoma do agente. O núcleo positivo está sustentado: aos discípulos que creem é anunciada capacidade efetiva diante do que excede suas possibilidades ordinárias. A limitação vivenciada não precisa ser fronteira intransponível à missão. “Nada” amplia além daquele caso; não é apenas capacidade de aceitar o ordinário. A delimitação missionária detalhada conserva grau Moderado, porque a oração não enumera tarefas,prazos e destinatários futuros. Os futuros coordenados têm sujeitos distintos — discípulos,monte,nada — e permanecem no cenário da condição inicial. A confiança não exige fé do tamanho do monte; sua deficiência também não se torna irrelevante.
 
 A passagem termina com ensino promissor, sem registrar nova tentativa ou reação. O eixo explicativo20 resolve a pergunta16/19, enquanto o clímax18 já resolveu o sofrimento15. Essa dupla realização dá unidade à passagem sem reduzir todos os seus elementos a uma proposição indiferenciada. [Base:08B/08C20;10B;11; BDAG; Carson,p390–392; France,p927; Hendriksen,v2,p208–212; Luz,p405–410.]
 
@@ -181,9 +183,11 @@ A passagem narra e revela, censura e promete. Sua intenção comunicativa é com
 |21 fica em nota | Aparato recebido e recepção | Inclusão antiga e extensa tem peso, sem ser decisiva | Alto para decisão; história detalhada não equivalente |D03;suplemento |
 | Reino/Igreja/consumação | Relações em12/12B | Leitura local funciona sem intenção alusiva específica | Moderado; não termos locais |09;12/12B;13 |
 
-Questões abertas: extensão da geração, referente deαὐτῷ18, aspecto preciso da mostarda, alcance positivo detalhado da promessa e relação com dom particular da fé. Lacunas documentais remanescentes: produtos integrais de outras etapas iniciais, links/edições exatas das versões declaradas no03 e auditorias independentes. O relatório03 foi recuperado; sua disponibilidade não certifica por si só exaustividade técnica ou conferências externas. A reconstrução08C continua identificada como posterior.
+Questões abertas: extensão da geração, referente deαὐτῷ18, aspecto preciso da mostarda, fronteiras detalhadas da promessa para além do núcleo positivo agora desenvolvido e relação com dom particular da fé. Lacunas documentais remanescentes: produtos integrais de outras etapas iniciais, links/edições exatas das versões declaradas no03 e auditorias independentes. O relatório03 foi recuperado; sua disponibilidade não certifica por si só exaustividade técnica ou conferências externas. A reconstrução08C continua identificada como posterior.
 
 ## 13. Relatórios, fontes e dependências preservados
+
+Revisão atual: [análise linguística](EXE-04-05-06-analise-linguistica.md) e [fontes consultadas](fontes-linguisticas-20261028.md). A tradução foi confirmada sem alteração de palavras;02/03 e legenda mantêm limites. A exposição sintática do manuscrito2.4–2.5 desenvolve os dados registrados aqui.
 
 Relatórios completos: [08B](EXE-08B-comentario.md), [08C](EXE-08C-verso-a-verso.md), [09](EXE-09-contexto-canonico.md), [10](EXE-10-historia-interpretacao.md), [suplemento](suplemento-hendriksen-westcott-hort.md), [10B](EXE-10B-avaliacao-canonica.md), [11](EXE-11-sintese-sentido.md), [12](EXE-12-teologia-biblica.md), [12B](EXE-12B-integracao-canonica.md), [13](EXE-13-teologia-sistematica.md), [13B](EXE-13B-antropologia-etica-sabedoria.md), [14](EXE-14-horizonte-aplicacao.md). Os relatórios refletem o estado de sua elaboração; referências a próximos módulos neles são históricas. O estado atual é determinado pelo mestre, estado.json e CONTINUIDADE.md.
 
