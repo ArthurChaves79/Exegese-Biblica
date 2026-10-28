@@ -1,6 +1,6 @@
 # Mateus 17.14–21 — Documento exegético mestre
 
-**Identificador do projeto:** MT1714-21-MESTRE. **Versão:** 0.6.0, 27/10/2026. **Natureza:** consolidação intermediária cumulativa, com exposição argumentativa e trilha de evidências. **Texto principal adotado:**17.14–20; **17.21:** tradição textual examinada em nota. A designação14–21 amplia a cobertura documental sem alterar a decisão textual D03 ou renomear o diretório histórico.
+**Identificador do projeto:** MT1714-21-MESTRE. **Versão:** 0.7.0, 27/10/2026. **Natureza:** consolidação intermediária cumulativa, com exposição argumentativa e trilha de evidências. **Texto principal adotado:**17.14–20; **17.21:** tradição textual examinada em nota. A designação14–21 amplia a cobertura documental sem alterar a decisão textual D03 ou renomear o diretório histórico.
 
 **Base de integração:** relatórios e fontes até15B, com revisão interna de adequação em27/10/2026. Este arquivo conserva exposição de pesquisa, metadados e âncoras; o manuscrito acadêmico é a redação principal. Histórico anterior preservado em snapshots eGit. Não equivale a revisão independente. Mt17.1–13 permanece reservado.
 
@@ -13,17 +13,17 @@ O estudo possui materiais de natureza diferente. O grego e o aparato NA28, bem c
 
 O EXE-03 foi recuperado e reenviado pelo pesquisador após a consolidação0.1.0. O [texto recebido](EXE-03-recuperado.txt) foi preservado, com [procedência e conferência](EXE-03-recuperado-conferencia.md). Data e links da resposta original não acompanharam a recuperação. A lacuna documental de acesso ao relatório03 está suprida; isso não equivale a auditoria independente ou nova verificação das versões que o relatório declara ter consultado.
 
-A versão0.1.0 utilizava a recomposição posterior do08C, corretamente identificada à época. Ela permanece no histórico e no08C. A base tradutória atual passa a ser a tradução de trabalho da seção6 do03 recuperado, reproduzida a seguir sem harmonização silenciosa:
+A versão0.1.0 utilizava a recomposição posterior do08C, corretamente identificada à época. Ela permanece no histórico e no08C. A base histórica é a seção6 do03 recuperado; a tradução atual abaixo registra separadamente os ajustes de28/10:
 
 14 E, quando chegaram à multidão, um homem aproximou-se dele, ajoelhando-se diante dele 15 e dizendo:
 
 — Senhor, tem misericórdia de meu filho, porque ele tem convulsões¹ e sofre intensamente; pois muitas vezes cai no fogo e muitas vezes na água. 16 E eu o trouxe aos teus discípulos, e eles não puderam curá-lo.
 
-17 Jesus respondeu:
+17 Jesus, porém, respondeu:
 
 — Ó geração incrédula e perversa! Até quando estarei convosco? Até quando vos suportarei? Trazei-o aqui a mim.
 
-18 E Jesus o repreendeu², e o demônio saiu dele; e o menino foi curado desde aquele momento.
+18 E Jesus o repreendeu², e o demônio saiu dele; e o menino foi curado desde aquela hora.
 
 19 Então os discípulos aproximaram-se de Jesus em particular e disseram:
 
@@ -33,14 +33,13 @@ A versão0.1.0 utilizava a recomposição posterior do08C, corretamente identifi
 
 — Por causa da vossa pouca fé. Pois em verdade vos digo: se tiverdes fé como um grão de mostarda, direis a este monte: “Passa daqui para lá”, e ele passará; e nada vos será impossível.
 
-Notas de tradução
+1. “Tem convulsões” é tradução descritiva de σεληνιάζεται, não diagnóstico clínico retrospectivo nem tradução por “está endemoninhado”.
+2. O pronome é conservado: o contexto favorece o demônio como destinatário da repreensão, mas a forma αὐτῷ não decide isoladamente seu referente.
 
-1. “Tem convulsões”: tradução descritiva provisória de σεληνιάζεται. O estudo lexical examinará seu uso histórico e sua relação com a descrição narrativa.
+**Nota textual —17.21:** parte da tradição acrescenta: “Mas esta espécie não sai senão por oração e jejum”. A sentença não integra o corpo principal adotado.
 
-2. “Jesus o repreendeu”: o grego utiliza um pronome. A identificação do demônio como destinatário é favorecida pelo contexto, mas não foi incorporada como substantivo na tradução analítica.
 
-Nota textual — 17.21: parte da tradição acrescenta: “Mas esta espécie não sai senão por oração e jejum”. Conforme a decisão do EXE-02, a sentença permanece fora do corpo do texto-base.
-
+Tradução atual: revisão de28/10,distinta do03 preservado. [Decisões e limites](EXE-02-03-texto-traducao.md).
 
 A comparação mostra convergência nas escolhas centrais: πάσχει, pouca fé, convulsões, pronome na repreensão, “como um grão”, presente “ele lhes diz” e amplitude da promessa. A tradução recuperada prefere “perversa”, “foi curado desde aquele momento” e outra disposição de algumas orações. Sua tradução literal inicial empregava “pervertida” e “desde aquela hora”. A [conferência](EXE-03-recuperado-conferencia.md) discrimina os níveis e as diferenças. Nada disso altera a ideia exegética ou a decisão de manter21 em nota.
 

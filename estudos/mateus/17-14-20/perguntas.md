@@ -37,3 +37,14 @@
 |P26|Como se liga aos vizinhos?|Relevante|Continuidade com descida e caminho do sofrimento, sem fusão de episódios|
 |P27|Qual macroseção o contém?|Relevante|16.13–17.23 como recorteModerado; extensão exclusiva permanece aberta|
 |P28|Há centro único ou quiasmo?|Relevante|Não necessários nem demonstrados; duas cenas e resoluções distintas|
+
+
+## Texto e tradução —28/10
+
+|ID|Pergunta|Prioridade|Estado|
+|---|---|---|---|
+|P29|ὀλιγοπιστία ouἀπιστία?|Decisiva|Primeira preferida por apoio e explicação transcricional; não taxonomia semântica automática|
+|P30|21 pertence ao principal?|Decisiva|Omissão preferida; nota preserva inclusão antiga e impacto|
+|P31|πάσχει ouἔχει?|Relevante|πάσχει provisório; forte apoio contrário e discriminação interna limitada|
+|P32|Quais índices/sinais faltam?|Complementar documental|Solicitar somente imagemNA28 p54–55 para precisão do aparato|
+|P33|Qual tradução é atual?|Relevante|traducao-trabalho-revisada.md;03 histórico preservado|

@@ -1,16 +1,16 @@
 # Notas essenciais para o Logos — Mateus17.14–21
 
-Conjunto0.6.0,28/10/2026.14 notas preparadas, não transferidas ao aplicativo. IDs locais estáveis, não IDs nativos doLogos. Caderno sugerido: Mateus17.14–21 — Pesquisa.
+Conjunto0.7.0,28/10/2026.14 notas preparadas, não transferidas ao aplicativo. IDs locais estáveis, não IDs nativos doLogos. Caderno sugerido: Mateus17.14–21 — Pesquisa.
 
 Base de conteúdo: [manuscrito acadêmico](manuscrito-academico.md), [dossiê com âncoras](documento-mestre.md) e [revisão interna](revisao-metodo.md). Manter ID em futuras alterações; não renumerar ou duplicar. OJSON preserva estrutura, não é formato de importação certificado. Registro de procedência e versões anteriores permanece no histórico.
 
 ## MT1714-21-N001 — Procedência da tradução de trabalho
 
-**Referência:** Mateus 17.14–20. **Versão:** 0.1.2. **Confiança:** Documental.
+**Versão:**0.3.0. **Referência:**Mateus 17.14–20. **Confiança:**Documental.
 
-O EXE-03 foi recuperado e reenviado pelo pesquisador após a consolidação0.1.0. Foram preservados o texto recebido e uma conferência com08C. O mestre0.1.1 usa a tradução de trabalho da seção6 recuperada. A recomposição08C permanece posterior e preservada. A lacuna de acesso ao relatório foi suprida; links e edições exatas das versões declaradas não acompanharam o reenvio e não foram reconferidos nesta operação. Recuperação documental não equivale a auditoria técnica independente. O grego segmentado do03 foi comparado ao reenvio NA28 e coincide após normalização e retirada dos sinais; a fonte anterior foi preservada.
+O EXE-03 foi recuperado e reenviado pelo pesquisador após a consolidação0.1.0. Foram preservados o texto recebido e uma conferência com08C. O mestre0.1.1 usa a tradução de trabalho da seção6 recuperada. A recomposição08C permanece posterior e preservada. A lacuna de acesso ao relatório foi suprida; links e edições exatas das versões declaradas não acompanharam o reenvio e não foram reconferidos nesta operação. Recuperação documental não equivale a auditoria técnica independente. O grego segmentado do03 foi comparado ao reenvio NA28 e coincide após normalização e retirada dos sinais; a fonte anterior foi preservada. A tradução atual de28/10,em arquivo distinto, explicitaδὲ17 por “porém” e conserva “hora”18; não reatribuir esses ajustes ao03 histórico.
 
-[Base no dossiê](documento-mestre.md#mt1714-21-m-001). Fontes e proveniência no registro estruturado.
+[Revisão](EXE-02-03-texto-traducao.md) · [Base](documento-mestre.md#mt1714-21-m-001).
 
 ## MT1714-21-N002 — Unidade e dois momentos decisivos
 
@@ -22,11 +22,11 @@ A chegada14 liga a cena à descida do monte, mas novo suplicante e nova necessid
 
 ## MT1714-21-N003 — Aflição, misericórdia e léxico
 
-**Referência:** Mateus 17.14–16. **Versão:** 0.1.1. **Confiança:** Alto para pedido e sofrimento; limite lexical.
+**Versão:**0.3.0. **Referência:**Mateus 17.14–16. **Confiança:**Alto para pedido e sofrimento; limite lexical.
 
-O pai pede misericórdia para um filho em sofrimento e perigo recorrente. Σεληνιάζεται é descrito no BDAG em relação a crises epilépticas; sua relação histórica com a lua não prova crença causal específica do pai nem o torna sinônimo lexical de possessão. A presença do demônio será afirmada narrativamente18. Adota-se πάσχει, “sofre”, com preferência Moderada. “Tem convulsões” já consta do03 recuperado e coincide com08C. Humildade e petição são leituras do gesto; ele não prova cristologia plenamente desenvolvida.
+O pai pede misericórdia para um filho em sofrimento e perigo recorrente. Σεληνιάζεται é descrito no BDAG em relação a crises epilépticas; sua relação histórica com a lua não prova crença causal específica do pai nem o torna sinônimo lexical de possessão. A presença do demônio será afirmada narrativamente18. Adota-se πάσχει, “sofre”, com preferência Moderada. “Tem convulsões” já consta do03 recuperado e coincide com08C. Humildade e petição são leituras do gesto; ele não prova cristologia plenamente desenvolvida. ἔχει possui apoio legível emא B L Z Θ;πάσχει emC D K W entre outros. Mantém-se “sofre” provisoriamente; contexto não decide fortemente entre expressões. Frequência repetida segueπολλάκις, não a varianteἐνίοτε.
 
-[Base no dossiê](documento-mestre.md#mt1714-21-m-003). Fontes e proveniência no registro estruturado.
+[Revisão](EXE-02-03-texto-traducao.md) · [Base](documento-mestre.md#mt1714-21-m-003).
 
 ## MT1714-21-N004 — Geração e linguagem de censura
 
@@ -54,11 +54,11 @@ O narrador relata repreensão, saída do demônio e cura desde aquela hora. O de
 
 ## MT1714-21-N007 — Pouca fé como causa deste fracasso
 
-**Referência:** Mateus 17.20. **Versão:** 0.1.0. **Confiança:** Alto para leitura e causalidade local.
+**Versão:**0.3.0. **Referência:**Mateus 17.20. **Confiança:**Alto para leitura e causalidade local.
 
-Adota-se ὀλιγοπιστίαν, “pouca fé”, em vez de ἀπιστίαν. Διά com acusativo identifica a causa da incapacidade narrada. “Confiança deficiente” esclarece contextualmente, sem criar categoria lexical técnica. A comissão10.1,8 não dispensa fé no exercício da missão. O diagnóstico tem sujeitos e situação definidos: não pode ser convertido em causa universal de toda não cura. Automatismo mágico ou abandono da oração não são procedimentos narrados.
+Adota-se ὀλιγοπιστίαν, “pouca fé”, em vez de ἀπιστίαν. Διά com acusativo identifica a causa da incapacidade narrada. “Confiança deficiente” esclarece contextualmente, sem criar categoria lexical técnica. A comissão10.1,8 não dispensa fé no exercício da missão. O diagnóstico tem sujeitos e situação definidos: não pode ser convertido em causa universal de toda não cura. Automatismo mágico ou abandono da oração não são procedimentos narrados. O apoio deא B Θ0281 e outros à leitura menos comum, junto à aproximação possível deἀπιστίαν aἄπιστος17, favorece a decisão; não se decide por maioria.
 
-[Base no dossiê](documento-mestre.md#mt1714-21-m-007). Fontes e proveniência no registro estruturado.
+[Revisão](EXE-02-03-texto-traducao.md) · [Base](documento-mestre.md#mt1714-21-m-007).
 
 ## MT1714-21-N008 — Mostarda e monte: aspecto da comparação
 
@@ -78,11 +78,11 @@ A condição de fé introduz os futuros e alcança o fecho “nada vos será imp
 
 ## MT1714-21-N010 — Versículo21 e oração/jejum
 
-**Referência:** Mateus 17.21. **Versão:** 0.1.0. **Confiança:** Alto para decisão adotada; história detalhada qualificada.
+**Versão:**0.3.0. **Referência:**Mateus 17.21. **Confiança:**Alto para decisão adotada; história detalhada qualificada.
 
-O21 permanece em nota: o conjunto textual examinado favorece omissão do principal. A inclusão é antiga, testemunhada na recepção de Orígenes, e não deve ser chamada simplesmente de medieval. Antiguidade não decide sozinha originalidade; a aproximação aMc9.29 ajuda a explicar a transmissão. A sequência histórica detalhada proposta por Westcott/Hort não recebe automaticamente o grau da decisão textual. Fé e oração podem ser relacionadas canonicamente, mas não se atribui ao principal mateano uma explicação expressa por falta de oração/jejum.
+O21 permanece em nota: o conjunto textual examinado favorece omissão do principal. A inclusão é antiga, testemunhada na recepção de Orígenes, e não deve ser chamada simplesmente de medieval. Antiguidade não decide sozinha originalidade; a aproximação aMc9.29 ajuda a explicar a transmissão. A sequência histórica detalhada proposta por Westcott/Hort não recebe automaticamente o grau da decisão textual. Fé e oração podem ser relacionadas canonicamente, mas não se atribui ao principal mateano uma explicação expressa por falta de oração/jejum. A ausência emא* B Θ0281,33,579 e a inclusão emC D K L W entre outros exigem ponderação. A harmonização é explicação preferível no material acessível; não se identificou mecanismo de perda mais convincente. Camadasא/א* e qualificadores incompletos não foram reconstruídos.
 
-[Base no dossiê](documento-mestre.md#mt1714-21-m-008). Fontes e proveniência no registro estruturado.
+[Revisão](EXE-02-03-texto-traducao.md) · [Base](documento-mestre.md#mt1714-21-m-008).
 
 ## MT1714-21-N011 — Cânon, dons e sofrimento
 

@@ -17,9 +17,9 @@ O manuscrito existente é preliminar: a separação de metadados não demonstra 
 
 Contexto,delimitação e estrutura retomados; ver EXE-01-01B-07-contexto-estrutura.md. Manuscrito1.2–1.4 desenvolvido eN002 revisada, sem IDs novos. Outros blocos não revalidados. Próxima rodada prevista: crítica textual; aguardar orientação, sem avanço automático.
 
-## Próximo trabalho
+## Rodada textual —28/10/2026
 
-Prosseguir conforme a pergunta de pesquisa escolhida, sem reiniciar a redação do zero. Reavaliar graus se surgir evidência relevante. A precisão dos destinatários da censura, aspecto da mostarda e alcance positivo da promessa continuam qualificados. Auditoria independente, identificação exata de sobrescritos perdidos e verificação externa das consultas de versões03 permanecem limites reais, não bloqueio de toda investigação.
+Ler EXE-02-03-texto-traducao.md e traducao-trabalho-revisada.md. Principal14–20 confirmado no escopo;15 mantém preferência provisória;índices ausentes não restaurados. Tradução03 preservada,atual distinta. Notas001/003/007/010 revistas semIDsnovos. Próxima rodada dependerá de orientação para sintaxe,discurso e léxico; pendências discriminadas no relatório. Fac-símileNA28 p54–55 útil para precisão,não bloqueio geral. Contexto e estrutura preservados. Demais blocos não revalidados.
 
 ## Atualização
 

@@ -383,7 +383,8 @@
         "FONTE-na28-mt17",
         "FONTE-westcott-hort-mt17-21",
         "TRADUCAO03",
-        "CONTEXTO-20261028"
+        "CONTEXTO-20261028",
+        "TEXTO-20261028"
       ]
     },
     {
@@ -420,7 +421,8 @@
         "REVISAO",
         "DOSSIE",
         "TRADUCAO03",
-        "CONTEXTO-20261028"
+        "CONTEXTO-20261028",
+        "TEXTO-20261028"
       ]
     },
     {
@@ -441,7 +443,8 @@
         "MT1714-21-MANUSCRITO",
         "DOSSIE",
         "REVISAO",
-        "CONTEXTO-20261028"
+        "CONTEXTO-20261028",
+        "TEXTO-20261028"
       ]
     },
     {
@@ -509,6 +512,26 @@
       "estado": "atual",
       "depende_de": [
         "METODO"
+      ]
+    },
+    {
+      "id": "TEXTO-20261028",
+      "path": "estudos/mateus/17-14-20/EXE-02-03-texto-traducao.md",
+      "tipo": "acervo",
+      "estado": "atual",
+      "depende_de": [
+        "METODO",
+        "TRADUCAO03",
+        "CONTEXTO-20261028"
+      ]
+    },
+    {
+      "id": "TRADUCAO-ATUAL",
+      "path": "estudos/mateus/17-14-20/traducao-trabalho-revisada.md",
+      "tipo": "acervo",
+      "estado": "atual",
+      "depende_de": [
+        "TEXTO-20261028"
       ]
     }
   ]

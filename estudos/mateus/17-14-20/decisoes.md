@@ -70,3 +70,10 @@ Método consolidado aprovado. Manuscrito acadêmico separado do dossiê; origina
 - D42: limites14–20 sustentados por nova situação14 e retomada16/19/20;21 prolongaria resposta, sem nova decisão textual.
 - D43: duas cenas e três movimentos são níveis compatíveis;17 prepara socorro;18 e20 têm funções culminantes distintas.
 - D44: autonomia episódica não equivale a isolamento contextual. Recorte16.13–17.23 é propostaModerada; não macroestrutura exclusiva. N002 revisada; sínteseN013 mantida.
+
+
+## Crítica textual e tradução —28/10
+
+- D45:ὀλιγοπιστία e omissão21 confirmadas no material acessível, com razões externas/internas;πάσχει mantido provisoriamente, contraevidênciaἔχει reconhecida. Não restaurar sobrescritos.
+- D46: nova tradução de trabalho conserva escolhas centrais;explicitaδὲ17 por “porém” eὥρα18 por “hora”.03 permanece histórico intacto;ambiguidades conservadas.
+- D47: decisões não alteram duas cenas ou limites principais14–20.21 amplia resposta,se incluído. Não fechar ainda sintaxe/discurso/léxico.

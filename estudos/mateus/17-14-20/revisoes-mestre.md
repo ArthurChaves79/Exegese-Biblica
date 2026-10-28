@@ -25,3 +25,8 @@ Adoção do método aprovado; dossiê distinguido do manuscrito cumulativo. Revi
 ## 0.6.0 —28/10/2026
 
 Contexto,delimitação e estrutura desenvolvidos; continuidade não confundida com ausência de limites;N002 revisada. Sem nova crítica textual. Manuscrito permanece preliminar fora das seções retomadas.
+
+
+## 0.7.0 —28/10/2026
+
+Crítica textual e tradução revistas no escopo disponível. Texto principal mantido,adversativa17 e “hora”18 explicitadas. Manuscrito2.2.2–2.3 desenvolvido;notas001/003/007/010 revisadas. Sem novoID ou transferênciaLogos.

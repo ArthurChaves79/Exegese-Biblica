@@ -111,19 +111,19 @@ A coluna literal conserva opções analíticas iniciais, inclusive “lunático�
 | καὶ μεταβήσεται· | e ele passará; | Resultado anunciado. |
 | καὶ οὐδὲν ἀδυνατήσει ὑμῖν. | e nada vos será impossível. | Declaração final coordenada à sequência anterior. |
 
-#### 2.2.2. Tradução exegética de trabalho
+### 2.2.2. Tradução exegética de trabalho
 
-A tradução conserva relações do grego e ambiguidades relevantes para a discussão. As duas notas de tradução abaixo são distintas das referências bibliográficas.
+A tradução procura conservar relações e ambiguidades relevantes do grego, sem incorporar à fala dos personagens explicações que pertencem ao comentário. O plural de “chegaram” deixa que o contexto identifique os acompanhantes; o pronome da repreensão permanece expresso como pronome, e a comparação da fé conserva “como”, sem determinar antecipadamente seu aspecto. “Porém”, em 17, torna perceptível a transição introduzida por δέ; não significa que Jesus negue o pedido. “Desde aquela hora”, em 18, conserva a expressão temporal, sem atribuir ao aoristo, isoladamente, o sentido de instantaneidade.
 
 14 E, quando chegaram à multidão, um homem aproximou-se dele, ajoelhando-se diante dele 15 e dizendo:
 
 — Senhor, tem misericórdia de meu filho, porque ele tem convulsões¹ e sofre intensamente; pois muitas vezes cai no fogo e muitas vezes na água. 16 E eu o trouxe aos teus discípulos, e eles não puderam curá-lo.
 
-17 Jesus respondeu:
+17 Jesus, porém, respondeu:
 
 — Ó geração incrédula e perversa! Até quando estarei convosco? Até quando vos suportarei? Trazei-o aqui a mim.
 
-18 E Jesus o repreendeu², e o demônio saiu dele; e o menino foi curado desde aquele momento.
+18 E Jesus o repreendeu², e o demônio saiu dele; e o menino foi curado desde aquela hora.
 
 19 Então os discípulos aproximaram-se de Jesus em particular e disseram:
 
@@ -133,20 +133,32 @@ A tradução conserva relações do grego e ambiguidades relevantes para a discu
 
 — Por causa da vossa pouca fé. Pois em verdade vos digo: se tiverdes fé como um grão de mostarda, direis a este monte: “Passa daqui para lá”, e ele passará; e nada vos será impossível.
 
-Notas de tradução
+1. “Tem convulsões” é tradução descritiva de σεληνιάζεται, não diagnóstico clínico retrospectivo nem tradução por “está endemoninhado”.
+2. O pronome é conservado: o contexto favorece o demônio como destinatário da repreensão, mas a forma αὐτῷ não decide isoladamente seu referente.
 
-1. “Tem convulsões”: tradução descritiva provisória de σεληνιάζεται. O estudo lexical examinará seu uso histórico e sua relação com a descrição narrativa.
+**Nota textual —17.21:** parte da tradição acrescenta: “Mas esta espécie não sai senão por oração e jejum”. A sentença não integra o corpo principal adotado.
 
-2. “Jesus o repreendeu”: o grego utiliza um pronome. A identificação do demônio como destinatário é favorecida pelo contexto, mas não foi incorporada como substantivo na tradução analítica.
+### 2.3. Constituição do texto e consequências para a tradução
 
-Nota textual — 17.21: parte da tradição acrescenta: “Mas esta espécie não sai senão por oração e jejum”. Pelas razões discutidas a seguir, a sentença permanece fora do corpo do texto-base.
+O texto principal adotado termina em 17.20, com 17.21 apresentado em nota. Essa escolha não deriva apenas da preferência por uma edição: precisa explicar tanto os testemunhos que preservam a sentença quanto aqueles que não a contêm. O aparato da NA28 registra alternativas também em frases menores, e sua avaliação requer distinguir diferenças de redação, de explicitação e de conteúdo. A transcrição disponível conserva leituras e numerosos testemunhos identificáveis, mas não permite recuperar todos os sobrescritos, qualificações de versões ou formas de agrupamento. Por isso, testemunhos cuja identificação depende desses sinais não podem ser tratados com a precisão de uma colação integral.[^txt1]
 
+Em 17.14, a leitura com ἐλθόντων, sem sujeito nominal expresso, deixa os participantes plurais serem recuperados pelo contexto. A adição de αὐτῶν explicita esse sujeito; a leitura singular ἐλθών relaciona mais diretamente a chegada à aproximação de Jesus ao grupo. O aparato atribui a leitura sem pronome a א, B e Z; a explicitação possui apoio que inclui C, K, L e W, enquanto D aparece com o singular. A pluralidade das soluções mostra uma dificuldade real de transmissão: é compreensível que uma construção menos explícita tenha sido esclarecida de maneiras diferentes. Isso favorece conservar o plural sem pronome, embora não torne impossível a perda de um pronome. A tradução “quando chegaram” comunica o dado adotado sem acrescentar “Jesus e os três discípulos” como se essas palavras estivessem escritas no versículo.
 
-### 2.3. Decisões textuais e delimitação
+Em 17.15, a alternativa entre πάσχει e ἔχει merece maior cautela. O segundo verbo, apoiado no aparato por א, B, L, Z e Θ, permite a descrição de estar mal; πάσχει, com apoio que inclui C, D, K e W, explicita sofrer. Portanto, a leitura adotada não possui uma vantagem externa simples que dispense a discussão. Ambas as expressões se ajustam à situação, e tanto uma substituição por expressão usual quanto uma explicitação do sofrimento são explicações possíveis para a mudança. Mantém-se πάσχει, “sofre”, como preferência de trabalho, com segurança menor que a atribuída à decisão de 17.20; sua adequação ao contexto não basta para demonstrar que precedeu ἔχει. Em qualquer alternativa, permanecem a gravidade da aflição e a necessidade de socorro. A variação no segundo πολλάκις também não cria outra situação narrativa: “muitas vezes” preserva a repetição da leitura principal; ἐνίοτε produziria “às vezes”, e a omissão registrada para W abreviaria a segunda indicação de frequência.
 
-No15 adotamosπάσχει, “sofre”, com preferência Moderada diante da varianteἔχει. No20,ὀλιγοπιστίαν, “pouca fé”, é mantida com confiança Alta; a varianteἀπιστίαν pode refletir aproximação à censura17. O vocabulário mateano correlato reforça a decisão, sem transformar comparação lexical em substituto do aparato. Mantemosλέγει, presente narrativo, e não acrescentamos o nomeJesus onde o principal não o traz.[^2]
+Em 17.20, ὀλιγοπιστίαν e ἀπιστίαν oferecem uma diferença mais importante para a formulação da resposta. O aparato associa a primeira, “pouca fé”, a א, B, Θ, 0281 e outros testemunhos; a segunda, “incredulidade”, aparece com C, D, K, L, W e outros. Não se trata de oposição decidida pela quantidade de cópias. A leitura menos comum possui apoio identificável e ajusta-se ao vocabulário mateano de pouca fé dirigido aos discípulos. Além disso, a presença de ἄπιστος em 17.17 oferece uma razão concreta para a aproximação posterior da resposta à linguagem da censura. É possível argumentar em direção contrária, supondo adaptação à linguagem mateana conhecida, mas isso exige substituir uma palavra perfeitamente compreensível por um substantivo incomum. A combinação de apoio externo e explicação transcricional favorece ὀλιγοπιστίαν.[^txt2]
 
-O21 permanece fora do principal. Sua inclusão é antiga, testemunhada na recepção de Orígenes, e não pode ser chamada simplesmente de medieval. A evidência examinada favorece a omissão; a aproximação aMc9.29 ajuda a explicar a incorporação à tradição mateana. A decisão não certifica toda a sequência histórica proposta porWestcott/Hort para o acréscimo de jejum em Marcos. Os sobrescritos ausentes na transcrição não foram restaurados por conjectura.[^3]
+Conservar “pouca fé” não resolve automaticamente o contraste com a mostarda. O substantivo pode ser explicado em termos de pequenez ou pobreza de fé; a distinção rígida entre quantidade e qualidade é uma interpretação adicional, não outra leitura do manuscrito.[^txt3] Se ἀπιστίαν fosse preferida, a tradução seria “por causa da vossa incredulidade”, com maior aproximação verbal a 17.17. A pergunta dos discípulos continuaria recebendo uma resposta causal, e a estrutura em duas cenas permaneceria. A decisão afeta a caracterização verbal da deficiência, não a existência da deficiência nem a relação entre pergunta e resposta.
+
+As demais alternativas de 17.20 devem ser julgadas separadamente. Acrescentar Ἰησοῦς explicita o sujeito que o contexto já fornece; trocar λέγει por εἶπεν uniformiza a introdução da fala com a narração passada. A forma breve, com “ele lhes diz”, explica de maneira plausível as duas expansões ou regularizações e possui apoio que inclui א, B, D e Θ. Mantê-la não exige supor outra pessoa como falante. As variantes de μετάβα e de sua combinação com ἔνθεν ou ἐντεῦθεν modificam a forma da ordem e a expressão de origem, mas conservam o deslocamento ordenado ao monte. A leitura μετάβα ἔνθεν tem apoio identificado em א e B e pode ser mantida sem transformar suas alternativas em mudanças da promessa. “Passa daqui para lá” não permite distinguir todas essas formas gregas em português.
+
+A questão de 17.21 tem alcance maior porque acrescenta uma frase inteira. A omissão aparece no aparato com א*, B, Θ, 0281, 33 e 579, entre outros; a inclusão aparece com C, D, K, L, W e outros, além de referência a Orígenes. O apoio à inclusão não pode ser descartado como meramente recente, nem a presença de א em uma linha e א* em outra deve ser descrita como testemunho indiferenciado do mesmo estado do texto. Os sinais e qualificações da transcrição precisam limitar a precisão da descrição. A distribuição disponível demonstra que as duas formas circularam, sem que uma lista de siglas forneça por si a genealogia de sua transmissão.
+
+A explicação interna mais forte para a inclusão é a aproximação ao paralelo de Marcos 9.29: uma resposta sobre a expulsão poderia ser incorporada ao diálogo mateano que trata do mesmo fracasso. A presença de variações do verbo na sentença acrescentada mostra diversidade de sua redação, embora não prove sozinha que toda a sentença seja secundária. Para a omissão, seria necessário considerar perda acidental ou supressão deliberada; no material disponível, não se identifica um mecanismo específico de perda que explique melhor a extensão e a distribuição da ausência. Uma conjectura sobre rejeição ao jejum tampouco constitui evidência demonstrada. O conjunto favorece, portanto, a omissão do corpo principal e a preservação em nota.[^txt2]
+
+Westcott e Hort defendem uma reconstrução histórica mais detalhada, ligando a inserção em Mateus ao desenvolvimento do texto de Marcos. Seu argumento registra um problema legítimo, mas a decisão sobre Mateus não comprova automaticamente a sequência exata proposta para o acréscimo de jejum no outro Evangelho. É necessário distinguir a preferência pela forma breve de uma história completa da harmonização.[^txt4] Se a sentença fosse incluída, oração e jejum passariam a figurar expressamente na instrução final de Mateus; sua ausência impede atribuir essas palavras ao texto principal, sem negar seu exame na tradição textual.
+
+A constituição do texto sustenta, assim, o término em 17.20 anteriormente delimitado. Nenhuma alternativa menor examinada elimina o pedido do pai, a cura do menino ou a retomada da incapacidade dos discípulos. A inclusão de 17.21 ampliaria o diálogo, sem introduzir nova cena. A tradução mantém “e eles não puderam”, preservando a coordenação apesar do contraste contextual, e “nós” em 19, porque o pronome está expresso. Conserva também “geração”, “como um grão” e “nada vos será impossível”, deixando a identificação dos destinatários, o aspecto da comparação e o alcance detalhado da promessa serem demonstrados pelo comentário, em vez de resolvidos por acréscimos à tradução. Uma paráfrase pode explicitar essas relações para fins didáticos, mas deve ser reconhecida como reformulação interpretativa.
 
 ### 2.4. Movimento e relações sintáticas
 
@@ -263,3 +275,8 @@ Quando Jesus e seus acompanhantes chegam à multidão, um pai pede misericórdia
 [^ctx1]: CARSON, D. A. “Matthew”. In: GAEBELEIN, F. E. (ed.). *The Expositor’s Bible Commentary*. Grand Rapids: Zondervan, 1984, v. 8, p. 390–392. Excerto sobre 17.14–20.
 [^ctx2]: FRANCE, R. T. “Matthew”. In: CARSON, D. A. et al. (eds.). *New Bible Commentary: 21st Century Edition*. Leicester/Downers Grove: Inter-Varsity Press, 1994, p. 927. Excerto sobre 17.14–20.
 [^ctx3]: LUZ, U. *Matthew: A Commentary*. Minneapolis: Augsburg, 2001, p. 405–410, especialmente análise da estrutura. Excerto consultado.
+
+[^txt1]: NESTLE, E.; NESTLE, E. *Nestle-Aland: NTG Apparatus Criticus*. 28. ed. Stuttgart: Deutsche Bibelgesellschaft, 2012, p. 54–55. Texto e aparato na transcrição fornecida; identificação bibliográfica conforme o excerto.
+[^txt2]: CARSON, D. A. “Matthew”. In: GAEBELEIN, F. E. (ed.). *The Expositor’s Bible Commentary*. Grand Rapids: Zondervan, 1984, v. 8, p. 390–392, especialmente notas a 17.20–21. A argumentação é confrontada com o aparato, sem adotar como idênticas as listas de testemunhos das duas publicações.
+[^txt3]: ARNDT, W. et al. *A Greek-English Lexicon of the New Testament and Other Early Christian Literature*. Chicago: University of Chicago Press, 2000, verbetes ὀλιγοπιστία e σεληνιάζομαι. Excertos consultados.
+[^txt4]: WESTCOTT, B. F.; HORT, F. J. A. *Introduction to the New Testament in the Original Greek: Appendix*. New York: Harper and Brothers, 1882, p. 14. Excerto consultado; categorias históricas não adotadas como descrição genealógica atual.

@@ -1,19 +1,19 @@
 {
   "schema_version": 1,
   "project_id": "MT1714-21",
-  "notes_version": "0.6.0",
+  "notes_version": "0.7.0",
   "date": "2026-10-28",
   "identity_policy": "IDs locais persistentes do projeto, não IDs nativos do Logos nem entradas definitivas de curadoria. Não renumerar/reutilizar; revisar versão mantendo ID; retirar com histórico.",
   "logos_status": "Preparação somente; nenhuma operação no aplicativo Logos foi realizada.",
   "notes": [
     {
       "id": "MT1714-21-N001",
-      "version": "0.1.2",
+      "version": "0.3.0",
       "title": "Procedência da tradução de trabalho",
       "reference": "Mateus 17.14–20",
       "status": "preparada_nao_transferida_ao_Logos",
       "confidence": "Documental",
-      "body": "O EXE-03 foi recuperado e reenviado pelo pesquisador após a consolidação0.1.0. Foram preservados o texto recebido e uma conferência com08C. O mestre0.1.1 usa a tradução de trabalho da seção6 recuperada. A recomposição08C permanece posterior e preservada. A lacuna de acesso ao relatório foi suprida; links e edições exatas das versões declaradas não acompanharam o reenvio e não foram reconferidos nesta operação. Recuperação documental não equivale a auditoria técnica independente. O grego segmentado do03 foi comparado ao reenvio NA28 e coincide após normalização e retirada dos sinais; a fonte anterior foi preservada.",
+      "body": "O EXE-03 foi recuperado e reenviado pelo pesquisador após a consolidação0.1.0. Foram preservados o texto recebido e uma conferência com08C. O mestre0.1.1 usa a tradução de trabalho da seção6 recuperada. A recomposição08C permanece posterior e preservada. A lacuna de acesso ao relatório foi suprida; links e edições exatas das versões declaradas não acompanharam o reenvio e não foram reconferidos nesta operação. Recuperação documental não equivale a auditoria técnica independente. O grego segmentado do03 foi comparado ao reenvio NA28 e coincide após normalização e retirada dos sinais; a fonte anterior foi preservada. A tradução atual de28/10,em arquivo distinto, explicitaδὲ17 por “porém” e conserva “hora”18; não reatribuir esses ajustes ao03 histórico.",
       "tags": [
         "mt1714-21",
         "procedencia",
@@ -21,14 +21,15 @@
       ],
       "master": {
         "path": "estudos/mateus/17-14-20/documento-mestre.md",
-        "version": "0.6.0",
+        "version": "0.7.0",
         "anchor": "mt1714-21-m-001"
       },
       "sources": [
         "estudos/mateus/17-14-20/EXE-08C-verso-a-verso.md",
         "estudos/mateus/17-14-20/auditoria-lacunas-iniciais.md",
         "estudos/mateus/17-14-20/EXE-03-recuperado-conferencia.md",
-        "estudos/mateus/17-14-20/conferencia-na28-reenvio.md"
+        "estudos/mateus/17-14-20/conferencia-na28-reenvio.md",
+        "estudos/mateus/17-14-20/EXE-02-03-texto-traducao.md"
       ],
       "source_baseline_commit": "a944c05176cb3a470fb837aef4357a23983b2ddd"
     },
@@ -47,7 +48,7 @@
       ],
       "master": {
         "path": "estudos/mateus/17-14-20/documento-mestre.md",
-        "version": "0.6.0",
+        "version": "0.7.0",
         "anchor": "mt1714-21-m-002"
       },
       "sources": [
@@ -58,12 +59,12 @@
     },
     {
       "id": "MT1714-21-N003",
-      "version": "0.1.1",
+      "version": "0.3.0",
       "title": "Aflição, misericórdia e léxico",
       "reference": "Mateus 17.14–16",
       "status": "preparada_nao_transferida_ao_Logos",
       "confidence": "Alto para pedido e sofrimento; limite lexical",
-      "body": "O pai pede misericórdia para um filho em sofrimento e perigo recorrente. Σεληνιάζεται é descrito no BDAG em relação a crises epilépticas; sua relação histórica com a lua não prova crença causal específica do pai nem o torna sinônimo lexical de possessão. A presença do demônio será afirmada narrativamente18. Adota-se πάσχει, “sofre”, com preferência Moderada. “Tem convulsões” já consta do03 recuperado e coincide com08C. Humildade e petição são leituras do gesto; ele não prova cristologia plenamente desenvolvida.",
+      "body": "O pai pede misericórdia para um filho em sofrimento e perigo recorrente. Σεληνιάζεται é descrito no BDAG em relação a crises epilépticas; sua relação histórica com a lua não prova crença causal específica do pai nem o torna sinônimo lexical de possessão. A presença do demônio será afirmada narrativamente18. Adota-se πάσχει, “sofre”, com preferência Moderada. “Tem convulsões” já consta do03 recuperado e coincide com08C. Humildade e petição são leituras do gesto; ele não prova cristologia plenamente desenvolvida. ἔχει possui apoio legível emא B L Z Θ;πάσχει emC D K W entre outros. Mantém-se “sofre” provisoriamente; contexto não decide fortemente entre expressões. Frequência repetida segueπολλάκις, não a varianteἐνίοτε.",
       "tags": [
         "mt1714-21",
         "lexico",
@@ -71,13 +72,14 @@
       ],
       "master": {
         "path": "estudos/mateus/17-14-20/documento-mestre.md",
-        "version": "0.6.0",
+        "version": "0.7.0",
         "anchor": "mt1714-21-m-003"
       },
       "sources": [
         "estudos/mateus/17-14-20/EXE-08C-verso-a-verso.md",
         "fontes/logos/bdag-verbetes-mt17.txt",
-        "estudos/mateus/17-14-20/EXE-03-recuperado-conferencia.md"
+        "estudos/mateus/17-14-20/EXE-03-recuperado-conferencia.md",
+        "estudos/mateus/17-14-20/EXE-02-03-texto-traducao.md"
       ],
       "source_baseline_commit": "a944c05176cb3a470fb837aef4357a23983b2ddd"
     },
@@ -96,7 +98,7 @@
       ],
       "master": {
         "path": "estudos/mateus/17-14-20/documento-mestre.md",
-        "version": "0.6.0",
+        "version": "0.7.0",
         "anchor": "mt1714-21-m-004"
       },
       "sources": [
@@ -121,7 +123,7 @@
       ],
       "master": {
         "path": "estudos/mateus/17-14-20/documento-mestre.md",
-        "version": "0.6.0",
+        "version": "0.7.0",
         "anchor": "mt1714-21-m-005"
       },
       "sources": [
@@ -145,7 +147,7 @@
       ],
       "master": {
         "path": "estudos/mateus/17-14-20/documento-mestre.md",
-        "version": "0.6.0",
+        "version": "0.7.0",
         "anchor": "mt1714-21-m-006"
       },
       "sources": [
@@ -156,12 +158,12 @@
     },
     {
       "id": "MT1714-21-N007",
-      "version": "0.1.0",
+      "version": "0.3.0",
       "title": "Pouca fé como causa deste fracasso",
       "reference": "Mateus 17.20",
       "status": "preparada_nao_transferida_ao_Logos",
       "confidence": "Alto para leitura e causalidade local",
-      "body": "Adota-se ὀλιγοπιστίαν, “pouca fé”, em vez de ἀπιστίαν. Διά com acusativo identifica a causa da incapacidade narrada. “Confiança deficiente” esclarece contextualmente, sem criar categoria lexical técnica. A comissão10.1,8 não dispensa fé no exercício da missão. O diagnóstico tem sujeitos e situação definidos: não pode ser convertido em causa universal de toda não cura. Automatismo mágico ou abandono da oração não são procedimentos narrados.",
+      "body": "Adota-se ὀλιγοπιστίαν, “pouca fé”, em vez de ἀπιστίαν. Διά com acusativo identifica a causa da incapacidade narrada. “Confiança deficiente” esclarece contextualmente, sem criar categoria lexical técnica. A comissão10.1,8 não dispensa fé no exercício da missão. O diagnóstico tem sujeitos e situação definidos: não pode ser convertido em causa universal de toda não cura. Automatismo mágico ou abandono da oração não são procedimentos narrados. O apoio deא B Θ0281 e outros à leitura menos comum, junto à aproximação possível deἀπιστίαν aἄπιστος17, favorece a decisão; não se decide por maioria.",
       "tags": [
         "mt1714-21",
         "fe",
@@ -169,12 +171,13 @@
       ],
       "master": {
         "path": "estudos/mateus/17-14-20/documento-mestre.md",
-        "version": "0.6.0",
+        "version": "0.7.0",
         "anchor": "mt1714-21-m-007"
       },
       "sources": [
         "estudos/mateus/17-14-20/EXE-08C-verso-a-verso.md",
-        "estudos/mateus/17-14-20/EXE-10B-avaliacao-canonica.md"
+        "estudos/mateus/17-14-20/EXE-10B-avaliacao-canonica.md",
+        "estudos/mateus/17-14-20/EXE-02-03-texto-traducao.md"
       ],
       "source_baseline_commit": "a944c05176cb3a470fb837aef4357a23983b2ddd"
     },
@@ -193,7 +196,7 @@
       ],
       "master": {
         "path": "estudos/mateus/17-14-20/documento-mestre.md",
-        "version": "0.6.0",
+        "version": "0.7.0",
         "anchor": "mt1714-21-m-007"
       },
       "sources": [
@@ -218,7 +221,7 @@
       ],
       "master": {
         "path": "estudos/mateus/17-14-20/documento-mestre.md",
-        "version": "0.6.0",
+        "version": "0.7.0",
         "anchor": "mt1714-21-m-007"
       },
       "sources": [
@@ -229,12 +232,12 @@
     },
     {
       "id": "MT1714-21-N010",
-      "version": "0.1.0",
+      "version": "0.3.0",
       "title": "Versículo21 e oração/jejum",
       "reference": "Mateus 17.21",
       "status": "preparada_nao_transferida_ao_Logos",
       "confidence": "Alto para decisão adotada; história detalhada qualificada",
-      "body": "O21 permanece em nota: o conjunto textual examinado favorece omissão do principal. A inclusão é antiga, testemunhada na recepção de Orígenes, e não deve ser chamada simplesmente de medieval. Antiguidade não decide sozinha originalidade; a aproximação aMc9.29 ajuda a explicar a transmissão. A sequência histórica detalhada proposta por Westcott/Hort não recebe automaticamente o grau da decisão textual. Fé e oração podem ser relacionadas canonicamente, mas não se atribui ao principal mateano uma explicação expressa por falta de oração/jejum.",
+      "body": "O21 permanece em nota: o conjunto textual examinado favorece omissão do principal. A inclusão é antiga, testemunhada na recepção de Orígenes, e não deve ser chamada simplesmente de medieval. Antiguidade não decide sozinha originalidade; a aproximação aMc9.29 ajuda a explicar a transmissão. A sequência histórica detalhada proposta por Westcott/Hort não recebe automaticamente o grau da decisão textual. Fé e oração podem ser relacionadas canonicamente, mas não se atribui ao principal mateano uma explicação expressa por falta de oração/jejum. A ausência emא* B Θ0281,33,579 e a inclusão emC D K L W entre outros exigem ponderação. A harmonização é explicação preferível no material acessível; não se identificou mecanismo de perda mais convincente. Camadasא/א* e qualificadores incompletos não foram reconstruídos.",
       "tags": [
         "mt1714-21",
         "critica-textual",
@@ -243,13 +246,14 @@
       ],
       "master": {
         "path": "estudos/mateus/17-14-20/documento-mestre.md",
-        "version": "0.6.0",
+        "version": "0.7.0",
         "anchor": "mt1714-21-m-008"
       },
       "sources": [
         "estudos/mateus/17-14-20/suplemento-hendriksen-westcott-hort.md",
         "estudos/mateus/17-14-20/EXE-10-historia-interpretacao.md",
-        "estudos/mateus/17-14-20/decisoes.md"
+        "estudos/mateus/17-14-20/decisoes.md",
+        "estudos/mateus/17-14-20/EXE-02-03-texto-traducao.md"
       ],
       "source_baseline_commit": "a944c05176cb3a470fb837aef4357a23983b2ddd"
     },
@@ -269,7 +273,7 @@
       ],
       "master": {
         "path": "estudos/mateus/17-14-20/documento-mestre.md",
-        "version": "0.6.0",
+        "version": "0.7.0",
         "anchor": "mt1714-21-m-010"
       },
       "sources": [
@@ -294,7 +298,7 @@
       ],
       "master": {
         "path": "estudos/mateus/17-14-20/documento-mestre.md",
-        "version": "0.6.0",
+        "version": "0.7.0",
         "anchor": "mt1714-21-m-011"
       },
       "sources": [
@@ -318,7 +322,7 @@
       ],
       "master": {
         "path": "estudos/mateus/17-14-20/documento-mestre.md",
-        "version": "0.6.0",
+        "version": "0.7.0",
         "anchor": "mt1714-21-m-012"
       },
       "sources": [
@@ -341,7 +345,7 @@
       ],
       "master": {
         "path": "estudos/mateus/17-14-20/documento-mestre.md",
-        "version": "0.6.0",
+        "version": "0.7.0",
         "anchor": "mt1714-21-m-014"
       },
       "sources": [

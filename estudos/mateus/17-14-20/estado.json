@@ -1,8 +1,8 @@
 {
   "passagem": "Mt 17.14–21 (texto principal 14–20; v21 em nota)",
   "data": "2026-10-28",
-  "etapa_atual": "EXE01/01B/07 retomados: contexto,delimitação e estrutura; manuscrito1.2–1.4 desenvolvidos",
-  "proxima": "Aguardar orientação; próxima rodada prevista: crítica textual,sem avanço automático",
+  "etapa_atual": "Crítica textual e tradução revistas;texto principal mantido e manuscrito2.2.2–2.3 desenvolvido",
+  "proxima": "Aguardar orientação para sintaxe,discurso e léxico; não avançar automaticamente",
   "reservado": "Mt 17.1–13",
   "pendencias": [
     "Revisão independente não realizada; revisão atual é interna e delimitada",
@@ -37,7 +37,7 @@
   "documento_mestre": {
     "id": "MT1714-21-MESTRE",
     "path": "estudos/mateus/17-14-20/documento-mestre.md",
-    "version": "0.6.0",
+    "version": "0.7.0",
     "natureza": "dossie_de_pesquisa_preservado_com_ancoras",
     "base_ate": "Revisão de contexto e estrutura28/10",
     "aplicacao": "EXE-14 geral elaborada; sem comunicação personalizada ou caso real"
@@ -46,7 +46,7 @@
     "historico_EXE03": "recuperado por reenvio do pesquisador; origem registrada",
     "arquivo": "estudos/mateus/17-14-20/EXE-03-recuperado.txt",
     "conferencia": "estudos/mateus/17-14-20/EXE-03-recuperado-conferencia.md",
-    "atual": "tradução de trabalho da seção6 recuperada;08C posterior preservado",
+    "atual": "traducao-trabalho-revisada.md,28/10;03 histórico intacto",
     "limite": "links/edições e consultas externas declaradas não reconferidos; sem auditoria exaustiva"
   },
   "notas_logos": {
@@ -80,5 +80,6 @@
   "metodo": "metodo/METODO.md",
   "manuscrito": "estudos/mateus/17-14-20/manuscrito-academico.md",
   "revisao_interna": "estudos/mateus/17-14-20/revisao-metodo.md",
-  "revisao_contexto": "estudos/mateus/17-14-20/EXE-01-01B-07-contexto-estrutura.md"
+  "revisao_contexto": "estudos/mateus/17-14-20/EXE-01-01B-07-contexto-estrutura.md",
+  "revisao_textual": "estudos/mateus/17-14-20/EXE-02-03-texto-traducao.md"
 }
