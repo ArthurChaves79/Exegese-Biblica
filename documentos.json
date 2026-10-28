@@ -382,7 +382,8 @@
         "FONTE-na28-mt17-reenvio",
         "FONTE-na28-mt17",
         "FONTE-westcott-hort-mt17-21",
-        "TRADUCAO03"
+        "TRADUCAO03",
+        "CONTEXTO-20261028"
       ]
     },
     {
@@ -418,7 +419,8 @@
       "depende_de": [
         "REVISAO",
         "DOSSIE",
-        "TRADUCAO03"
+        "TRADUCAO03",
+        "CONTEXTO-20261028"
       ]
     },
     {
@@ -438,7 +440,8 @@
       "depende_de": [
         "MT1714-21-MANUSCRITO",
         "DOSSIE",
-        "REVISAO"
+        "REVISAO",
+        "CONTEXTO-20261028"
       ]
     },
     {
@@ -497,6 +500,15 @@
       "estado": "atual",
       "depende_de": [
         "REVISAO"
+      ]
+    },
+    {
+      "id": "CONTEXTO-20261028",
+      "path": "estudos/mateus/17-14-20/EXE-01-01B-07-contexto-estrutura.md",
+      "tipo": "acervo",
+      "estado": "atual",
+      "depende_de": [
+        "METODO"
       ]
     }
   ]

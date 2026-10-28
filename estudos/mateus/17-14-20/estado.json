@@ -1,8 +1,8 @@
 {
   "passagem": "Mt 17.14–21 (texto principal 14–20; v21 em nota)",
-  "data": "2026-10-27",
-  "etapa_atual": "Método consolidado adotado; manuscrito cumulativo separado; revisão interna de adequação executada",
-  "proxima": "Conferir encerramento documental da Prioridade 1 e seguir implantação gradual; desenvolvimento argumentativo do manuscrito ainda pendente",
+  "data": "2026-10-28",
+  "etapa_atual": "EXE01/01B/07 retomados: contexto,delimitação e estrutura; manuscrito1.2–1.4 desenvolvidos",
+  "proxima": "Aguardar orientação; próxima rodada prevista: crítica textual,sem avanço automático",
   "reservado": "Mt 17.1–13",
   "pendencias": [
     "Revisão independente não realizada; revisão atual é interna e delimitada",
@@ -37,9 +37,9 @@
   "documento_mestre": {
     "id": "MT1714-21-MESTRE",
     "path": "estudos/mateus/17-14-20/documento-mestre.md",
-    "version": "0.5.0",
+    "version": "0.6.0",
     "natureza": "dossie_de_pesquisa_preservado_com_ancoras",
-    "base_ate": "EXE-15B,registro editorial sem nova exegese",
+    "base_ate": "Revisão de contexto e estrutura28/10",
     "aplicacao": "EXE-14 geral elaborada; sem comunicação personalizada ou caso real"
   },
   "traducao": {
@@ -79,5 +79,6 @@
   },
   "metodo": "metodo/METODO.md",
   "manuscrito": "estudos/mateus/17-14-20/manuscrito-academico.md",
-  "revisao_interna": "estudos/mateus/17-14-20/revisao-metodo.md"
+  "revisao_interna": "estudos/mateus/17-14-20/revisao-metodo.md",
+  "revisao_contexto": "estudos/mateus/17-14-20/EXE-01-01B-07-contexto-estrutura.md"
 }

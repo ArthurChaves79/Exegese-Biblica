@@ -27,3 +27,13 @@
 | P23 | O que significa o fechamento15A? | Documental no escopo disponível | Dossiê consolidado;questões e lacunas delimitadas;sem certificação integral ou revisão independente; manuscrito preliminar pendente de desenvolvimento |
 
 | P24 | O produto final e o modelo foram atendidos? | Exposição anterior preservada; objetivo acadêmico ainda pendente | A separação documental não comprova profundidade explicativa; desenvolver o manuscrito conforme ficha e critérios aprovados |
+
+
+## Contexto e estrutura —28/10/2026
+
+|ID|Pergunta|Prioridade|Resultado|
+|---|---|---|---|
+|P25|Onde começa e termina o episódio?|Decisiva|14–20 sustentado;21 depende de decisão textual a reexaminar|
+|P26|Como se liga aos vizinhos?|Relevante|Continuidade com descida e caminho do sofrimento, sem fusão de episódios|
+|P27|Qual macroseção o contém?|Relevante|16.13–17.23 como recorteModerado; extensão exclusiva permanece aberta|
+|P28|Há centro único ou quiasmo?|Relevante|Não necessários nem demonstrados; duas cenas e resoluções distintas|

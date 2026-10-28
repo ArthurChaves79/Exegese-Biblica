@@ -63,3 +63,10 @@ Método consolidado aprovado. Manuscrito acadêmico separado do dossiê; origina
 - D39: relatórios usados como fundamento permanecem recuperáveis como acervo. EXE-09, EXE-12 e EXE-12B contêm conclusões parcialmente superadas, com aviso e remissão à revisão vigente; preservar seus bytes.
 - D40: P08, P19, P23 e P24 atualizadas para refletir a revisão de Emanuel, as funções documentais e a insuficiência editorial ainda pendente. Ficha corrigida: houve alteração interpretativa e ajuste da N004 na adoção anterior; não houve nova alteração exegética neste lote.
 - D41: consolidar prioridade das perguntas, contexto contínuo e avaliação de evidência convergente no corpo do método. Manuscrito permanece preliminar; aplicação contemporânea será preservada em derivado quando da revisão editorial.
+
+
+## Revisão de28/10/2026
+
+- D42: limites14–20 sustentados por nova situação14 e retomada16/19/20;21 prolongaria resposta, sem nova decisão textual.
+- D43: duas cenas e três movimentos são níveis compatíveis;17 prepara socorro;18 e20 têm funções culminantes distintas.
+- D44: autonomia episódica não equivale a isolamento contextual. Recorte16.13–17.23 é propostaModerada; não macroestrutura exclusiva. N002 revisada; sínteseN013 mantida.

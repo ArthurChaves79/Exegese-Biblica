@@ -1,6 +1,6 @@
 # Notas essenciais para o Logos — Mateus17.14–21
 
-Conjunto0.5.0,27/10/2026.14 notas preparadas, não transferidas ao aplicativo. IDs locais estáveis, não IDs nativos doLogos. Caderno sugerido: Mateus17.14–21 — Pesquisa.
+Conjunto0.6.0,28/10/2026.14 notas preparadas, não transferidas ao aplicativo. IDs locais estáveis, não IDs nativos doLogos. Caderno sugerido: Mateus17.14–21 — Pesquisa.
 
 Base de conteúdo: [manuscrito acadêmico](manuscrito-academico.md), [dossiê com âncoras](documento-mestre.md) e [revisão interna](revisao-metodo.md). Manter ID em futuras alterações; não renumerar ou duplicar. OJSON preserva estrutura, não é formato de importação certificado. Registro de procedência e versões anteriores permanece no histórico.
 
@@ -14,11 +14,11 @@ O EXE-03 foi recuperado e reenviado pelo pesquisador após a consolidação0.1.0
 
 ## MT1714-21-N002 — Unidade e dois momentos decisivos
 
-**Referência:** Mateus 17.14–21. **Versão:** 0.1.0. **Confiança:** Alto.
+**Versão:**0.2.0. **Referência:**Mateus17.14–21. **Confiança:**Alto para delimitação e duas cenas;Moderado para recorte maior.
 
-A cena pública14–18 e o diálogo privado19–20 pertencem à mesma unidade: a incapacidade16 reaparece na pergunta19 e recebe explicação20. A cura18 é clímax da ação; a resposta20 é eixo explicativo. O socorro ao menino tem valor próprio e não se reduz a pretexto didático. O21 integra o escopo documental como variante examinada em nota, enquanto o texto principal adotado permanece14–20. Não se demonstrou quiasmo ou execução de um módulo07.
+A chegada14 liga a cena à descida do monte, mas novo suplicante e nova necessidade abrem episódio próprio. O pedido15 recebe atendimento18; a incapacidade16 é retomada19 e explicada20. Duas cenas,14–18 e19–20, preservam socorro e formação. A censura e ordem17 preparam a intervenção.22–23 abre outro episódio, sem eliminar continuidade temática.21 prolongaria a instrução, caso incluído; sua avaliação textual fica em nota. Não se demonstrou quiasmo ou centro único obrigatório. O recorte16.13–17.23 é proposta contextual, não divisão exclusiva do Evangelho.
 
-[Base no dossiê](documento-mestre.md#mt1714-21-m-002). Fontes e proveniência no registro estruturado.
+[Revisão](EXE-01-01B-07-contexto-estrutura.md) · [Base](documento-mestre.md#mt1714-21-m-002).
 
 ## MT1714-21-N003 — Aflição, misericórdia e léxico
 

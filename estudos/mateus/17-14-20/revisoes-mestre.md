@@ -20,3 +20,8 @@ A identificação do commit que publica cada versão é recuperável no históri
 ## 0.5.0 —27/10/2026
 
 Adoção do método aprovado; dossiê distinguido do manuscrito cumulativo. Revisão interna delimita conexões;N004 qualifica hipótese deEmanuel como Baixa. Âncoras e IDs preservados. Registros preexistentes permanecem no histórico.
+
+
+## 0.6.0 —28/10/2026
+
+Contexto,delimitação e estrutura desenvolvidos; continuidade não confundida com ausência de limites;N002 revisada. Sem nova crítica textual. Manuscrito permanece preliminar fora das seções retomadas.

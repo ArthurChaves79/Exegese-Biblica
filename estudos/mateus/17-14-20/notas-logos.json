@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "project_id": "MT1714-21",
-  "notes_version": "0.5.0",
-  "date": "2026-10-27",
+  "notes_version": "0.6.0",
+  "date": "2026-10-28",
   "identity_policy": "IDs locais persistentes do projeto, não IDs nativos do Logos nem entradas definitivas de curadoria. Não renumerar/reutilizar; revisar versão mantendo ID; retirar com histórico.",
   "logos_status": "Preparação somente; nenhuma operação no aplicativo Logos foi realizada.",
   "notes": [
@@ -21,7 +21,7 @@
       ],
       "master": {
         "path": "estudos/mateus/17-14-20/documento-mestre.md",
-        "version": "0.5.0",
+        "version": "0.6.0",
         "anchor": "mt1714-21-m-001"
       },
       "sources": [
@@ -34,12 +34,12 @@
     },
     {
       "id": "MT1714-21-N002",
-      "version": "0.1.0",
+      "version": "0.2.0",
       "title": "Unidade e dois momentos decisivos",
       "reference": "Mateus 17.14–21",
       "status": "preparada_nao_transferida_ao_Logos",
-      "confidence": "Alto",
-      "body": "A cena pública14–18 e o diálogo privado19–20 pertencem à mesma unidade: a incapacidade16 reaparece na pergunta19 e recebe explicação20. A cura18 é clímax da ação; a resposta20 é eixo explicativo. O socorro ao menino tem valor próprio e não se reduz a pretexto didático. O21 integra o escopo documental como variante examinada em nota, enquanto o texto principal adotado permanece14–20. Não se demonstrou quiasmo ou execução de um módulo07.",
+      "confidence": "Alto para delimitação e duas cenas;Moderado para recorte maior",
+      "body": "A chegada14 liga a cena à descida do monte, mas novo suplicante e nova necessidade abrem episódio próprio. O pedido15 recebe atendimento18; a incapacidade16 é retomada19 e explicada20. Duas cenas,14–18 e19–20, preservam socorro e formação. A censura e ordem17 preparam a intervenção.22–23 abre outro episódio, sem eliminar continuidade temática.21 prolongaria a instrução, caso incluído; sua avaliação textual fica em nota. Não se demonstrou quiasmo ou centro único obrigatório. O recorte16.13–17.23 é proposta contextual, não divisão exclusiva do Evangelho.",
       "tags": [
         "mt1714-21",
         "delimitacao",
@@ -47,11 +47,12 @@
       ],
       "master": {
         "path": "estudos/mateus/17-14-20/documento-mestre.md",
-        "version": "0.5.0",
+        "version": "0.6.0",
         "anchor": "mt1714-21-m-002"
       },
       "sources": [
-        "estudos/mateus/17-14-20/EXE-11-sintese-sentido.md"
+        "estudos/mateus/17-14-20/EXE-11-sintese-sentido.md",
+        "estudos/mateus/17-14-20/EXE-01-01B-07-contexto-estrutura.md"
       ],
       "source_baseline_commit": "a944c05176cb3a470fb837aef4357a23983b2ddd"
     },
@@ -70,7 +71,7 @@
       ],
       "master": {
         "path": "estudos/mateus/17-14-20/documento-mestre.md",
-        "version": "0.5.0",
+        "version": "0.6.0",
         "anchor": "mt1714-21-m-003"
       },
       "sources": [
@@ -95,7 +96,7 @@
       ],
       "master": {
         "path": "estudos/mateus/17-14-20/documento-mestre.md",
-        "version": "0.5.0",
+        "version": "0.6.0",
         "anchor": "mt1714-21-m-004"
       },
       "sources": [
@@ -120,7 +121,7 @@
       ],
       "master": {
         "path": "estudos/mateus/17-14-20/documento-mestre.md",
-        "version": "0.5.0",
+        "version": "0.6.0",
         "anchor": "mt1714-21-m-005"
       },
       "sources": [
@@ -144,7 +145,7 @@
       ],
       "master": {
         "path": "estudos/mateus/17-14-20/documento-mestre.md",
-        "version": "0.5.0",
+        "version": "0.6.0",
         "anchor": "mt1714-21-m-006"
       },
       "sources": [
@@ -168,7 +169,7 @@
       ],
       "master": {
         "path": "estudos/mateus/17-14-20/documento-mestre.md",
-        "version": "0.5.0",
+        "version": "0.6.0",
         "anchor": "mt1714-21-m-007"
       },
       "sources": [
@@ -192,7 +193,7 @@
       ],
       "master": {
         "path": "estudos/mateus/17-14-20/documento-mestre.md",
-        "version": "0.5.0",
+        "version": "0.6.0",
         "anchor": "mt1714-21-m-007"
       },
       "sources": [
@@ -217,7 +218,7 @@
       ],
       "master": {
         "path": "estudos/mateus/17-14-20/documento-mestre.md",
-        "version": "0.5.0",
+        "version": "0.6.0",
         "anchor": "mt1714-21-m-007"
       },
       "sources": [
@@ -242,7 +243,7 @@
       ],
       "master": {
         "path": "estudos/mateus/17-14-20/documento-mestre.md",
-        "version": "0.5.0",
+        "version": "0.6.0",
         "anchor": "mt1714-21-m-008"
       },
       "sources": [
@@ -268,7 +269,7 @@
       ],
       "master": {
         "path": "estudos/mateus/17-14-20/documento-mestre.md",
-        "version": "0.5.0",
+        "version": "0.6.0",
         "anchor": "mt1714-21-m-010"
       },
       "sources": [
@@ -293,7 +294,7 @@
       ],
       "master": {
         "path": "estudos/mateus/17-14-20/documento-mestre.md",
-        "version": "0.5.0",
+        "version": "0.6.0",
         "anchor": "mt1714-21-m-011"
       },
       "sources": [
@@ -317,7 +318,7 @@
       ],
       "master": {
         "path": "estudos/mateus/17-14-20/documento-mestre.md",
-        "version": "0.5.0",
+        "version": "0.6.0",
         "anchor": "mt1714-21-m-012"
       },
       "sources": [
@@ -340,7 +341,7 @@
       ],
       "master": {
         "path": "estudos/mateus/17-14-20/documento-mestre.md",
-        "version": "0.5.0",
+        "version": "0.6.0",
         "anchor": "mt1714-21-m-014"
       },
       "sources": [

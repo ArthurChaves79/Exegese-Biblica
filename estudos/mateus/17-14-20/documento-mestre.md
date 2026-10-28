@@ -1,6 +1,6 @@
 # Mateus 17.14–21 — Documento exegético mestre
 
-**Identificador do projeto:** MT1714-21-MESTRE. **Versão:** 0.5.0, 27/10/2026. **Natureza:** consolidação intermediária cumulativa, com exposição argumentativa e trilha de evidências. **Texto principal adotado:**17.14–20; **17.21:** tradição textual examinada em nota. A designação14–21 amplia a cobertura documental sem alterar a decisão textual D03 ou renomear o diretório histórico.
+**Identificador do projeto:** MT1714-21-MESTRE. **Versão:** 0.6.0, 27/10/2026. **Natureza:** consolidação intermediária cumulativa, com exposição argumentativa e trilha de evidências. **Texto principal adotado:**17.14–20; **17.21:** tradição textual examinada em nota. A designação14–21 amplia a cobertura documental sem alterar a decisão textual D03 ou renomear o diretório histórico.
 
 **Base de integração:** relatórios e fontes até15B, com revisão interna de adequação em27/10/2026. Este arquivo conserva exposição de pesquisa, metadados e âncoras; o manuscrito acadêmico é a redação principal. Histórico anterior preservado em snapshots eGit. Não equivale a revisão independente. Mt17.1–13 permanece reservado.
 
@@ -51,7 +51,7 @@ O texto grego, extraído do08C e conferível no excerto NA28 fornecido, está no
 
 **Conferência documental0.1.2:** o pesquisador reenviou o grego e aparato NA28. O grego segmentado do03 recuperado coincide com o principal após normalização de Unicode, espaços e apóstrofos e retirada dos sinais. O arquivo anterior coincide em conteúdo; diferença normalizada restrita à pontuação bibliográfica. Ver [conferência](conferencia-na28-reenvio.md). Não houve nova decisão textual ou restauração de sobrescritos.
 
-A unidade reúne uma cena pública14–18 e uma conversa privada19–20. O relato do fracasso16 é retomado na pergunta19, e a resposta20 interpreta precisamente essa incapacidade. Separar a cura da instrução enfraqueceria a progressão; tratar toda a cura como pretexto apagaria o atendimento do menino. A mudança de assunto a partir17.22 ajuda a reconhecer o encerramento. O21 é incluído no escopo documental porque sua presença em parte da tradição marcou a recepção e algumas traduções.
+A unidade14–20 mantém continuidade com a descida9–13, mas abre novo episódio pela chegada à multidão e novo suplicante14. Duas cenas,14–18 e19–20, desenvolvem socorro e instrução:15→18 atende pedido;16→19→20 explica incapacidade.17 prepara18 pela ordem, não é apenas interrupção.22–23 introduz circunstância e anúncio distintos.21,quando presente,prolonga instrução e não abre episódio. O recorte16.13–17.23 é proposta contextual Moderada, não macroestrutura exclusiva. Não se exige quiasmo ou centro único. Ver [revisão de contexto e estrutura](EXE-01-01B-07-contexto-estrutura.md) e seções1.2–1.4 do manuscrito.
 
 No contexto do Evangelho, a comissão10.1,8 torna o fracasso significativo: curar e expulsar estava entre as atividades autorizadas. A sequência após a transfiguração oferece contraste entre revelação e incapacidade, mas a análise de17.1–13 permanece reservada. O anúncio17.22–23 impede isolar a autoridade de Jesus de seu caminho para a paixão. Não se demonstrou local geográfico exato, quiasmo ou centro formal independente de EXE-07.
 
