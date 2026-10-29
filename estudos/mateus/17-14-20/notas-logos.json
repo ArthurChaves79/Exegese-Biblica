@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project_id": "MT1714-21",
-  "notes_version": "0.8.1",
+  "notes_version": "0.9.0",
   "date": "2026-10-29",
   "identity_policy": "IDs locais persistentes do projeto, não IDs nativos do Logos nem entradas definitivas de curadoria. Não renumerar/reutilizar; revisar versão mantendo ID; retirar com histórico.",
   "logos_status": "Preparação somente; nenhuma operação no aplicativo Logos foi realizada.",
@@ -59,12 +59,12 @@
     },
     {
       "id": "MT1714-21-N003",
-      "version": "0.4.0",
+      "version": "0.5.0",
       "title": "Aflição, misericórdia e léxico",
       "reference": "Mateus 17.14–16",
       "status": "preparada_nao_transferida_ao_Logos",
       "confidence": "Alto para pedido e sofrimento; limite lexical",
-      "body": "O pai pede misericórdia para um filho em sofrimento e perigo recorrente. Σεληνιάζεται é descrito no BDAG em relação a crises epilépticas; sua relação histórica com a lua não prova crença causal específica do pai nem o torna sinônimo lexical de possessão. A presença do demônio será afirmada narrativamente18. Adota-se πάσχει, “sofre”, com preferência Moderada. “Tem convulsões” já consta do03 recuperado e coincide com08C. Humildade e petição são leituras do gesto; ele não prova cristologia plenamente desenvolvida. ἔχει possui apoio legível emא B L Z Θ;πάσχει emC D K W entre outros. Mantém-se “sofre” provisoriamente; contexto não decide fortemente entre expressões. Frequência repetida segueπολλάκις, não a varianteἐνίοτε. Ὅτι fundamenta o pedido eγάρ concretiza sua gravidade; osκαί16 acrescentam tentativa e insucesso com contraste contextual. Mt4.24 enumera a designação junto a endemoninhados, sem provar categorias mutuamente exclusivas.",
+      "body": "O pai pede misericórdia para um filho em sofrimento e perigo recorrente. Σεληνιάζεται é descrito no BDAG em relação a crises epilépticas; sua relação histórica com a lua não prova crença causal específica do pai nem o torna sinônimo lexical de possessão. A presença do demônio será afirmada narrativamente18. Adota-se πάσχει, “sofre”, com preferência Moderada. “Tem convulsões” já consta do03 recuperado e coincide com08C. Humildade e petição são leituras do gesto; ele não prova cristologia plenamente desenvolvida. ἔχει possui apoio legível emא B L Z Θ;πάσχει emC D K W entre outros. Mantém-se “sofre” provisoriamente; contexto não decide fortemente entre expressões. Frequência repetida segueπολλάκις, não a varianteἐνίοτε. Ὅτι fundamenta o pedido eγάρ concretiza sua gravidade; osκαί16 acrescentam tentativa e insucesso com contraste contextual. Mt4.24 enumera a designação junto a endemoninhados, sem provar categorias mutuamente exclusivas. O tratado hipocrático documenta contestação de explicações sagradas; não diagnostica este menino. JosefoAnt8.2.5 descreve uma prática particular, não todo exorcismo antigo.",
       "tags": [
         "mt1714-21",
         "lexico",
@@ -81,7 +81,8 @@
         "estudos/mateus/17-14-20/EXE-03-recuperado-conferencia.md",
         "estudos/mateus/17-14-20/EXE-02-03-texto-traducao.md",
         "estudos/mateus/17-14-20/EXE-04-05-06-analise-linguistica.md",
-        "estudos/mateus/17-14-20/fontes-linguisticas-20261028.md"
+        "estudos/mateus/17-14-20/fontes-linguisticas-20261028.md",
+        "estudos/mateus/17-14-20/comparacao-sinotica-contexto-historico.md"
       ],
       "source_baseline_commit": "a944c05176cb3a470fb837aef4357a23983b2ddd",
       "last_revision_baseline_commit": "ee7b3a59acee36ad6a34b12cb27244a060f2d2e3"
@@ -117,12 +118,12 @@
     },
     {
       "id": "MT1714-21-N005",
-      "version": "0.2.0",
+      "version": "0.5.0",
       "title": "Libertação e cura efetivas",
       "reference": "Mateus 17.18",
       "status": "preparada_nao_transferida_ao_Logos",
       "confidence": "Alto para acontecimento; referente discutido",
-      "body": "O narrador relata repreensão, saída do demônio e cura desde aquela hora. O demônio é favorecido como referente de αὐτῷ, mas a tradução conserva o pronome: “o repreendeu”. A ambiguidade do referente não torna duvidosa a ocorrência narrativa da expulsão e da cura. Trata-se de socorro concreto ao menino. O episódio não estabelece que toda epilepsia seja possessão ou que a aflição tenha sido causada por culpa individual do menino. A continuidade deαὐτόν17 oferece argumento para o menino como antecedente; a saída do demônio favorece a interpretação preferida. A morfologia admite ambos. A fórmula desde aquela hora vincula início do resultado à intervenção, sem duração de sessenta minutos. Osκαί coordenam resultados, não subordinadas consecutivas.",
+      "body": "O narrador relata repreensão, saída do demônio e cura desde aquela hora. O demônio é favorecido como referente de αὐτῷ, mas a tradução conserva o pronome: “o repreendeu”. A ambiguidade do referente não torna duvidosa a ocorrência narrativa da expulsão e da cura. Trata-se de socorro concreto ao menino. O episódio não estabelece que toda epilepsia seja possessão ou que a aflição tenha sido causada por culpa individual do menino. A continuidade deαὐτόν17 oferece argumento para o menino como antecedente; a saída do demônio favorece a interpretação preferida. A morfologia admite ambos. A fórmula desde aquela hora vincula início do resultado à intervenção, sem duração de sessenta minutos. Osκαί coordenam resultados, não subordinadas consecutivas. Mc9.25 eLc9.42 nomeiam o espírito como destinatário; reforçam a preferência, mas não apagam o pronome ambíguo deMt17.18.",
       "tags": [
         "mt1714-21",
         "cura",
@@ -137,7 +138,8 @@
         "estudos/mateus/17-14-20/EXE-08C-verso-a-verso.md",
         "estudos/mateus/17-14-20/EXE-11-sintese-sentido.md",
         "estudos/mateus/17-14-20/EXE-04-05-06-analise-linguistica.md",
-        "estudos/mateus/17-14-20/fontes-linguisticas-20261028.md"
+        "estudos/mateus/17-14-20/fontes-linguisticas-20261028.md",
+        "estudos/mateus/17-14-20/comparacao-sinotica-contexto-historico.md"
       ],
       "source_baseline_commit": "a944c05176cb3a470fb837aef4357a23983b2ddd",
       "last_revision_baseline_commit": "ee7b3a59acee36ad6a34b12cb27244a060f2d2e3"
@@ -171,12 +173,12 @@
     },
     {
       "id": "MT1714-21-N007",
-      "version": "0.4.0",
+      "version": "0.5.0",
       "title": "Pouca fé como causa deste fracasso",
       "reference": "Mateus 17.20",
       "status": "preparada_nao_transferida_ao_Logos",
       "confidence": "Alto para leitura e causalidade local",
-      "body": "Adota-se ὀλιγοπιστίαν, “pouca fé”, em vez de ἀπιστίαν. Διά com acusativo identifica a causa da incapacidade narrada. “Confiança deficiente” esclarece contextualmente, sem criar categoria lexical técnica. A comissão10.1,8 não dispensa fé no exercício da missão. O diagnóstico tem sujeitos e situação definidos: não pode ser convertido em causa universal de toda não cura. Automatismo mágico ou abandono da oração não são procedimentos narrados. O apoio deא B Θ0281 e outros à leitura menos comum, junto à aproximação possível deἀπιστίαν aἄπιστος17, favorece a decisão; não se decide por maioria. Oγάρ20 explica a resposta por meio da promessa, não estabelece uma escala numérica de fé. As ocorrências cognatasMt6.30;8.26;14.31;16.8 ligam pouca fé a confiança deficiente em situações diversas, sem uma motivação única demonstrada.",
+      "body": "Adota-se ὀλιγοπιστίαν, “pouca fé”, em vez de ἀπιστίαν. Διά com acusativo identifica a causa da incapacidade narrada. “Confiança deficiente” esclarece contextualmente, sem criar categoria lexical técnica. A comissão10.1,8 não dispensa fé no exercício da missão. O diagnóstico tem sujeitos e situação definidos: não pode ser convertido em causa universal de toda não cura. Automatismo mágico ou abandono da oração não são procedimentos narrados. O apoio deא B Θ0281 e outros à leitura menos comum, junto à aproximação possível deἀπιστίαν aἄπιστος17, favorece a decisão; não se decide por maioria. Oγάρ20 explica a resposta por meio da promessa, não estabelece uma escala numérica de fé. As ocorrências cognatasMt6.30;8.26;14.31;16.8 ligam pouca fé a confiança deficiente em situações diversas, sem uma motivação única demonstrada. Mc9.29 relaciona expulsão e oração; a complementaridade com pouca fé é plausível, sem prova de que discípulos não oraram ou usaram fórmula mágica.",
       "tags": [
         "mt1714-21",
         "fe",
@@ -192,7 +194,8 @@
         "estudos/mateus/17-14-20/EXE-10B-avaliacao-canonica.md",
         "estudos/mateus/17-14-20/EXE-02-03-texto-traducao.md",
         "estudos/mateus/17-14-20/EXE-04-05-06-analise-linguistica.md",
-        "estudos/mateus/17-14-20/fontes-linguisticas-20261028.md"
+        "estudos/mateus/17-14-20/fontes-linguisticas-20261028.md",
+        "estudos/mateus/17-14-20/comparacao-sinotica-contexto-historico.md"
       ],
       "source_baseline_commit": "a944c05176cb3a470fb837aef4357a23983b2ddd",
       "last_revision_baseline_commit": "ee7b3a59acee36ad6a34b12cb27244a060f2d2e3"
@@ -255,12 +258,12 @@
     },
     {
       "id": "MT1714-21-N010",
-      "version": "0.3.1",
+      "version": "0.5.0",
       "title": "Versículo21 e oração/jejum",
       "reference": "Mateus 17.21",
       "status": "preparada_nao_transferida_ao_Logos",
       "confidence": "Alto para decisão adotada; história detalhada qualificada",
-      "body": "O21 permanece em nota: o conjunto textual examinado favorece omissão do principal. A inclusão é antiga, testemunhada na recepção de Orígenes, e não deve ser chamada simplesmente de medieval. Antiguidade não decide sozinha originalidade; a aproximação aMc9.29 ajuda a explicar a transmissão. A sequência histórica detalhada proposta por Westcott/Hort não recebe automaticamente o grau da decisão textual. Fé e oração podem ser relacionadas canonicamente, mas não se atribui ao principal mateano uma explicação expressa por falta de oração/jejum. A ausência emא* B Θ0281,33,579 e a inclusão emC D K L W entre outros exigem ponderação. A harmonização é explicação preferível no material acessível; não se identificou mecanismo de perda mais convincente. Camadasא/א* e qualificadores incompletos não foram reconstruídos. A legenda esclarece quep)apenas remete a paralelos; não comprova direção de harmonização.𝔪 apoia inclusão na cópia;א*indica leitura original anterior a correção,sem identificar o corretor perdido.",
+      "body": "O21 permanece em nota: o conjunto textual examinado favorece omissão do principal. A inclusão é antiga, testemunhada na recepção de Orígenes, e não deve ser chamada simplesmente de medieval. Antiguidade não decide sozinha originalidade; a aproximação aMc9.29 ajuda a explicar a transmissão. A sequência histórica detalhada proposta por Westcott/Hort não recebe automaticamente o grau da decisão textual. Fé e oração podem ser relacionadas canonicamente, mas não se atribui ao principal mateano uma explicação expressa por falta de oração/jejum. A ausência emא* B Θ0281,33,579 e a inclusão emC D K L W entre outros exigem ponderação. A harmonização é explicação preferível no material acessível; não se identificou mecanismo de perda mais convincente. Camadasא/א* e qualificadores incompletos não foram reconstruídos. A legenda esclarece quep)apenas remete a paralelos; não comprova direção de harmonização.𝔪 apoia inclusão na cópia;א*indica leitura original anterior a correção,sem identificar o corretor perdido. Mc9.29 consultado noSBLGNT contém oração sem jejum; aparato completo ainda solicitado. Não confundir essa leitura editorial com nova avaliação integral de testemunhos.",
       "tags": [
         "mt1714-21",
         "critica-textual",
@@ -277,7 +280,8 @@
         "estudos/mateus/17-14-20/EXE-10-historia-interpretacao.md",
         "estudos/mateus/17-14-20/decisoes.md",
         "estudos/mateus/17-14-20/EXE-02-03-texto-traducao.md",
-        "estudos/mateus/17-14-20/complemento-legenda-aparato.md"
+        "estudos/mateus/17-14-20/complemento-legenda-aparato.md",
+        "estudos/mateus/17-14-20/comparacao-sinotica-contexto-historico.md"
       ],
       "source_baseline_commit": "a944c05176cb3a470fb837aef4357a23983b2ddd"
     },

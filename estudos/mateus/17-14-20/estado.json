@@ -1,8 +1,8 @@
 {
   "passagem": "Mt 17.14–21 (texto principal 14–20; v21 em nota)",
   "data": "2026-10-29",
-  "etapa_atual": "Sintaxe,discurso e léxico revistos no escopo delimitado; manuscrito2.4–2.5 desenvolvido",
-  "proxima": "Aguardar orientação; sem avanço automático para revisão sinótica,teológica ou aplicação",
+  "etapa_atual": "Comparação sinótica e contexto histórico-cultural revistos; relatório próprio",
+  "proxima": "Aguardar orientação; não avançar à síntese ou integração canônica",
   "reservado": "Mt 17.1–13",
   "pendencias": [
     "Revisão independente não realizada; revisão atual é interna e delimitada",
@@ -11,7 +11,8 @@
     "Respostas históricas integrais de outras etapas iniciais não recuperadas",
     "Desenvolvimento argumentativo, revisão editorial e transferência da aplicação para derivado conforme ficha-manuscrito.json",
     "Extensão da geração,referente18,paradoxo da mostarda e fronteiras da promessa permanecem qualificados; núcleo positivo desenvolvido",
-    "Inventários integrais da última legendaNA28 não arquivados; cobertura seletiva anterior preservada"
+    "Inventários integrais da última legendaNA28 não arquivados; cobertura seletiva anterior preservada",
+    "P42: aparatoNA28 deMc9.29 com sobrescritos ou Metzger, comentário textual aMc9.29"
   ],
   "fontes_arquivadas": [
     "NA28",

@@ -31,3 +31,8 @@ EXE-03 foi recuperado;08C é recomposição posterior. Fontes Logos e relatório
 ## Derivados
 
 [14 notas Logos](notas-logos.md), com [registro estruturado](notas-logos.json) e IDs preservados. Preparadas, não inseridas no aplicativo. O vínculo operacional ao manuscrito e ao dossiê é mantido fora do texto acadêmico, em documentos.json e ficha-manuscrito.json.
+
+
+## Revisão sinótica e histórica —29/10/2026
+
+Ver [relatório e fontes](comparacao-sinotica-contexto-historico.md): D61–D66, P39–P43. Manuscrito1.1 e2.5.7–8 desenvolvidos; tradução mantida. Complementaridade fé/oração qualificada; procedimento dos discípulos desconhecido; referente18 reforçado pelos paralelos. Sem avanço à síntese ou integração canônica. P42 requer aparatoMc9.29.

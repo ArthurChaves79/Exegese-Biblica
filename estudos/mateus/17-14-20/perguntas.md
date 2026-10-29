@@ -65,3 +65,8 @@ Esta seção qualifica o estado das perguntas anteriores, sem apagar sua histór
 |P38|Quais consultas gramaticais ainda faltam?|Complementar|Smyth/Mounce digitais consultados;Zerwick50,Moule203,BDF146(2) seguem mediados porCarson|
 
 Relatório04/05/06 e fontes-linguisticas-20261028.md especificam consultas e pedidos opcionais doLogos. Nenhuma fonte indispensável ausente bloqueia o núcleo desta rodada. P32 e preservação integral da legenda continuam pendentes.
+
+
+## Revisão sinótica e histórica —29/10/2026
+
+Ver [relatório e fontes](comparacao-sinotica-contexto-historico.md): D61–D66, P39–P43. Manuscrito1.1 e2.5.7–8 desenvolvidos; tradução mantida. Complementaridade fé/oração qualificada; procedimento dos discípulos desconhecido; referente18 reforçado pelos paralelos. Sem avanço à síntese ou integração canônica. P42 requer aparatoMc9.29.

@@ -386,7 +386,8 @@
         "CONTEXTO-20261028",
         "TEXTO-20261028",
         "LING-20261028",
-        "LEXICO-COMPLEMENTO"
+        "LEXICO-COMPLEMENTO",
+        "SINOTICA-HISTORIA"
       ]
     },
     {
@@ -427,7 +428,8 @@
         "TEXTO-20261028",
         "LEGENDA-20261028",
         "LING-20261028",
-        "LEXICO-COMPLEMENTO"
+        "LEXICO-COMPLEMENTO",
+        "SINOTICA-HISTORIA"
       ]
     },
     {
@@ -452,7 +454,8 @@
         "TEXTO-20261028",
         "LEGENDA-20261028",
         "LING-20261028",
-        "LEXICO-COMPLEMENTO"
+        "LEXICO-COMPLEMENTO",
+        "SINOTICA-HISTORIA"
       ]
     },
     {
@@ -503,7 +506,8 @@
       "depende_de": [
         "REVISAO",
         "LING-20261028",
-        "LEXICO-COMPLEMENTO"
+        "LEXICO-COMPLEMENTO",
+        "SINOTICA-HISTORIA"
       ]
     },
     {
@@ -514,7 +518,8 @@
       "depende_de": [
         "REVISAO",
         "LING-20261028",
-        "LEXICO-COMPLEMENTO"
+        "LEXICO-COMPLEMENTO",
+        "SINOTICA-HISTORIA"
       ]
     },
     {
@@ -603,6 +608,17 @@
       "depende_de": [
         "BDAG-COMPLEMENTO",
         "LING-20261028"
+      ]
+    },
+    {
+      "id": "SINOTICA-HISTORIA",
+      "path": "estudos/mateus/17-14-20/comparacao-sinotica-contexto-historico.md",
+      "tipo": "acervo",
+      "estado": "atual",
+      "depende_de": [
+        "LEXICO-COMPLEMENTO",
+        "TEXTO-20261028",
+        "CONTEXTO-20261028"
       ]
     }
   ]

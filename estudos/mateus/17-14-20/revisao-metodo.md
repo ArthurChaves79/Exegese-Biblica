@@ -76,3 +76,8 @@ O exame específico de sintaxe,discurso e léxico está em [EXE-04-05-06-analise
 ## Complemento lexical de 29/10/2026
 
 Ver [complemento BDAG](complemento-bdag-lexico.md): decisões D57–D60; geração contemporânea priorizada, qualificativos confirmados e confiança em Deus fundamentada no BDAG. A remissão ao dom paulino foi considerada sem fechar a comparação canônica. Tradução e estrutura mantidas. A falta anterior desses quatro verbetes foi suprida; outras lacunas permanecem.
+
+
+## Revisão sinótica e histórica —29/10/2026
+
+Ver [relatório e fontes](comparacao-sinotica-contexto-historico.md): D61–D66, P39–P43. Manuscrito1.1 e2.5.7–8 desenvolvidos; tradução mantida. Complementaridade fé/oração qualificada; procedimento dos discípulos desconhecido; referente18 reforçado pelos paralelos. Sem avanço à síntese ou integração canônica. P42 requer aparatoMc9.29.
