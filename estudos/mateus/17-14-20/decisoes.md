@@ -91,3 +91,8 @@ Método consolidado aprovado. Manuscrito acadêmico separado do dossiê; origina
 - D54: núcleo positivo da promessa desenvolvido: capacidade efetiva anunciada aos discípulos que creem diante do que excede possibilidades ordinárias. Missão10.1,8 é delimitação contextualModerada apoiada nos agentes e tarefas. “Nada” amplia além do caso; fronteiras e extensão a outros permanecem abertas. Atualiza grau de desenvolvimento deD14,sem substituir texto por restrição canônica.
 - D55: geralγενεά/ἄπιστος/διεστραμμένη não permite rejeição étnica nem causa psicológica detalhada. Gramática coordena qualificativos, não declara causalidade entre eles. Destinatários precisosModerados/abertos.
 - D56: principal,tradução,estrutura e síntese preservados. Manuscrito2.4–2.5 desenvolvido; “aplicação consolidada14” substituído por redação acadêmica sem apagarEXE14. Fontes técnicas e ocorrências selecionadas registradas; nenhuma pesquisa exaustiva ou revisão independente alegada. N003–N009 revisadas;IDs mantidos;não transferidas.
+
+
+## Complemento lexical de 29/10/2026
+
+Ver [complemento BDAG](complemento-bdag-lexico.md): decisões D57–D60; geração contemporânea priorizada, qualificativos confirmados e confiança em Deus fundamentada no BDAG. A remissão ao dom paulino foi considerada sem fechar a comparação canônica. Tradução e estrutura mantidas. A falta anterior desses quatro verbetes foi suprida; outras lacunas permanecem.

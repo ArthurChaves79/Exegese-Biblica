@@ -44,3 +44,8 @@ A páginaSBLoficial retornou403, e tentativa de acessar antigo repositórioLogos
 ## Literatura interpretativa
 
 Carson1984,p390–392;France1994,p927;Luz2001,p405–410;Hendriksen2010,v2,p208–212,excertos fornecidos e preservados. Reavaliadas hipóteses de qualidade/quantidade,ausência prática de fé,pequenez/grandeefeito,crescimento/perseverança. Sem nova revisão sinótica ou história exaustiva da interpretação. Referências completas nos metadados existentes e manuscrito.
+
+
+## Complemento lexical de 29/10/2026
+
+Ver [complemento BDAG](complemento-bdag-lexico.md): decisões D57–D60; geração contemporânea priorizada, qualificativos confirmados e confiança em Deus fundamentada no BDAG. A remissão ao dom paulino foi considerada sem fechar a comparação canônica. Tradução e estrutura mantidas. A falta anterior desses quatro verbetes foi suprida; outras lacunas permanecem.

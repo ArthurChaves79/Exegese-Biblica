@@ -71,3 +71,8 @@ Não foi feita colheita CTL02 de teses históricas. CTL03 foi aplicada ao confer
 ## Revisão linguística posterior —28/10/2026
 
 O exame específico de sintaxe,discurso e léxico está em [EXE-04-05-06-analise-linguistica.md](EXE-04-05-06-analise-linguistica.md), com [fontes efetivamente consultadas](fontes-linguisticas-20261028.md). Preserva o núcleo dos testes locais acima, explicita contraevidência paraαὐτῷ18 e desenvolve a afirmação positiva da promessa, distinguindo-a de suas fronteiras abertas. O presente relatório anterior permanece consultável; não houve validação integral de suas conexões canônicas nesta rodada. A revisão atual é interna.
+
+
+## Complemento lexical de 29/10/2026
+
+Ver [complemento BDAG](complemento-bdag-lexico.md): decisões D57–D60; geração contemporânea priorizada, qualificativos confirmados e confiança em Deus fundamentada no BDAG. A remissão ao dom paulino foi considerada sem fechar a comparação canônica. Tradução e estrutura mantidas. A falta anterior desses quatro verbetes foi suprida; outras lacunas permanecem.

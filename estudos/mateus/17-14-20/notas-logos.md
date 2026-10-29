@@ -1,6 +1,6 @@
 # Notas essenciais para o Logos — Mateus17.14–21
 
-Conjunto0.8.0,28/10/2026.14 notas preparadas, não transferidas ao aplicativo. IDs locais estáveis, não IDs nativos doLogos.
+Conjunto0.8.1,29/10/2026.14 notas preparadas, não transferidas ao aplicativo. IDs locais estáveis, não IDs nativos doLogos.
 
 Base: [manuscrito](manuscrito-academico.md), [dossiê](documento-mestre.md) e [revisão linguística](EXE-04-05-06-analise-linguistica.md). JSON é registro estruturado, não formato de importação certificado. N003–N009 revistas;N002,N010,N013 conferidas sem alteração substantiva;demais notas não revalidadas nesta rodada.
 
@@ -30,11 +30,10 @@ O pai pede misericórdia para um filho em sofrimento e perigo recorrente. Σελ
 
 ## MT1714-21-N004 — Geração e linguagem de censura
 
-**Versão:** 0.3.0. **Referência:** Mateus 17.17. **Confiança:** Moderado para destinatários e alusão.
+**Versão:** 0.3.1. **Referência:** Mateus 17.17.
 
-A censura provavelmente alcança um coletivo que inclui os discípulos, sem se limitar seguramente a eles. A proximidade16 favorece sua participação; geração favorece alcance mais amplo. A extensão exata permanece aberta. Dt32.5,20 oferece alusão provável, não importação de todo o cântico. A relação com Emanuel é hipótese de baixa confiança: a expressão de presença não demonstra eco deliberado; retirada definitiva de Deus e rejeição étnica não estão demonstradas. A ordem para trazer o menino mostra censura e socorro no mesmo movimento. As perguntas comἕωςπότε funcionam como lamento/reprovação, não cálculo de prazo. Διεστραμμένη qualifica a geração; perfeito/passivo não identificam agente ou acontecimento que a perverteu. A coordenação dos qualificativos não codifica uma causa psicológica entre eles.
+A censura provavelmente alcança um coletivo que inclui os discípulos, sem se limitar seguramente a eles. A proximidade16 favorece sua participação; geração favorece alcance mais amplo. A extensão exata permanece aberta. Dt32.5,20 oferece alusão provável, não importação de todo o cântico. A relação com Emanuel é hipótese de baixa confiança: a expressão de presença não demonstra eco deliberado; retirada definitiva de Deus e rejeição étnica não estão demonstradas. A ordem para trazer o menino mostra censura e socorro no mesmo movimento. As perguntas comἕωςπότε funcionam como lamento/reprovação, não cálculo de prazo. Διεστραμμένη qualifica a geração; perfeito/passivo não identificam agente ou acontecimento que a perverteu. A coordenação dos qualificativos não codifica uma causa psicológica entre eles. BDAG γενεά2 situa17.17 na geração contemporânea, moralmente caracterizada; isso favorece contemporaneidade sem definir todos os destinatários. ἄπιστος2 e διαστρέφω2 sustentam incredulidade e perversão moral.
 
-[Base](documento-mestre.md#mt1714-21-m-004). Fontes e proveniência: [registro estruturado](notas-logos.json).
 
 ## MT1714-21-N005 — Libertação e cura efetivas
 
@@ -70,11 +69,10 @@ A pequenez em contraste com o grande efeito é o aspecto preferido da mostarda (
 
 ## MT1714-21-N009 — Amplitude concreta e contextual da promessa
 
-**Versão:** 0.2.0. **Referência:** Mateus 17.20. **Confiança:** Alto para formulação; Moderado para alcance detalhado.
+**Versão:** 0.2.1. **Referência:** Mateus 17.20.
 
-A condiçãoἐάν/subjuntivo alcança os futuros: direis (discípulos),passará (monte),nada será impossível (nada como sujeito). O fecho generaliza sem novo destinatário ou condição. A construção não prova ausência total de fé. Positivamente,Jesus anuncia aos discípulos que creem capacidade efetiva diante do que excede possibilidades ordinárias; dificuldades como a enfrentada não precisam ser limites intransponíveis à missão recebida. Mt10.1,8 e a retomada16/19 fundamentam essa delimitação contextualModerada. “Nada” amplia além daquele menino; a promessa não é apenas resiliência interior. Fronteiras exatas e extensão a outros destinatários permanecem abertas. Não inserir “segundo a vontade de Deus” na tradução ou diagnosticar toda não cura por este caso.
+A condiçãoἐάν/subjuntivo alcança os futuros: direis (discípulos),passará (monte),nada será impossível (nada como sujeito). O fecho generaliza sem novo destinatário ou condição. A construção não prova ausência total de fé. Positivamente,Jesus anuncia aos discípulos que creem capacidade efetiva diante do que excede possibilidades ordinárias; dificuldades como a enfrentada não precisam ser limites intransponíveis à missão recebida. Mt10.1,8 e a retomada16/19 fundamentam essa delimitação contextualModerada. “Nada” amplia além daquele menino; a promessa não é apenas resiliência interior. Fronteiras exatas e extensão a outros destinatários permanecem abertas. Não inserir “segundo a vontade de Deus” na tradução ou diagnosticar toda não cura por este caso. BDAG πίστις2a classifica17.20 como confiança em Deus. A remissão de2dζ ao dom paulino reconhece a dimensão miraculosa, mas não prova categoria exclusiva de dons em Mateus.
 
-[Base](documento-mestre.md#mt1714-21-m-007). Fontes e proveniência: [registro estruturado](notas-logos.json).
 
 ## MT1714-21-N010 — Versículo21 e oração/jejum
 

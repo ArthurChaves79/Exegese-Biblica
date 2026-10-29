@@ -1,6 +1,6 @@
 {
   "passagem": "Mt 17.14–21 (texto principal 14–20; v21 em nota)",
-  "data": "2026-10-28",
+  "data": "2026-10-29",
   "etapa_atual": "Sintaxe,discurso e léxico revistos no escopo delimitado; manuscrito2.4–2.5 desenvolvido",
   "proxima": "Aguardar orientação; sem avanço automático para revisão sinótica,teológica ou aplicação",
   "reservado": "Mt 17.1–13",
@@ -84,5 +84,6 @@
   "revisao_contexto": "estudos/mateus/17-14-20/EXE-01-01B-07-contexto-estrutura.md",
   "revisao_textual": "estudos/mateus/17-14-20/EXE-02-03-texto-traducao.md",
   "complemento_legenda": "Legenda recebida; cobertura arquivada seletiva; símbolos esclarecidos,índices locais perdidos não restituídos; sem nova tradução",
-  "revisao_linguistica": "EXE-04-05-06-analise-linguistica.md"
+  "revisao_linguistica": "EXE-04-05-06-analise-linguistica.md",
+  "complemento_lexical": "complemento-bdag-lexico.md; quatro verbetes recebidos e integrados; D57–D60"
 }

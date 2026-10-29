@@ -34,3 +34,8 @@ N003–N009 atualizadas em IDs existentes;nenhuma transferênciaLogos. Auditoria
 ## Atualização
 
 Consultar dependências com `python exegese.py revisar CAMINHO`. Revisar fontes → análise → manuscrito → derivados afetados, registrando decisões e alterações. Atualizar estado e manifesto; executar auditoria e testes pertinentes; publicar e conferir o retorno remoto. O comando apenas lista dependentes, não comprova que foram revisados. História anterior em revisoes-mestre.md, Git e historico/pre-adocao-2026-10-27.
+
+
+## Complemento lexical de 29/10/2026
+
+Ver [complemento BDAG](complemento-bdag-lexico.md): decisões D57–D60; geração contemporânea priorizada, qualificativos confirmados e confiança em Deus fundamentada no BDAG. A remissão ao dom paulino foi considerada sem fechar a comparação canônica. Tradução e estrutura mantidas. A falta anterior desses quatro verbetes foi suprida; outras lacunas permanecem.

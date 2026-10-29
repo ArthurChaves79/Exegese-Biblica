@@ -385,7 +385,8 @@
         "TRADUCAO03",
         "CONTEXTO-20261028",
         "TEXTO-20261028",
-        "LING-20261028"
+        "LING-20261028",
+        "LEXICO-COMPLEMENTO"
       ]
     },
     {
@@ -425,7 +426,8 @@
         "CONTEXTO-20261028",
         "TEXTO-20261028",
         "LEGENDA-20261028",
-        "LING-20261028"
+        "LING-20261028",
+        "LEXICO-COMPLEMENTO"
       ]
     },
     {
@@ -449,7 +451,8 @@
         "CONTEXTO-20261028",
         "TEXTO-20261028",
         "LEGENDA-20261028",
-        "LING-20261028"
+        "LING-20261028",
+        "LEXICO-COMPLEMENTO"
       ]
     },
     {
@@ -499,7 +502,8 @@
       "estado": "atual",
       "depende_de": [
         "REVISAO",
-        "LING-20261028"
+        "LING-20261028",
+        "LEXICO-COMPLEMENTO"
       ]
     },
     {
@@ -509,7 +513,8 @@
       "estado": "atual",
       "depende_de": [
         "REVISAO",
-        "LING-20261028"
+        "LING-20261028",
+        "LEXICO-COMPLEMENTO"
       ]
     },
     {
@@ -581,6 +586,23 @@
         "FONTE-france-mt17",
         "FONTE-luz-mt17",
         "FONTE-hendriksen-mt17"
+      ]
+    },
+    {
+      "id": "BDAG-COMPLEMENTO",
+      "path": "fontes/logos/bdag-complemento-genea-apistos-diastrepho-pistis.txt",
+      "tipo": "fonte",
+      "estado": "preservado",
+      "depende_de": []
+    },
+    {
+      "id": "LEXICO-COMPLEMENTO",
+      "path": "estudos/mateus/17-14-20/complemento-bdag-lexico.md",
+      "tipo": "acervo",
+      "estado": "atual",
+      "depende_de": [
+        "BDAG-COMPLEMENTO",
+        "LING-20261028"
       ]
     }
   ]

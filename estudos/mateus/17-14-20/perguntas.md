@@ -59,7 +59,7 @@ Esta seção qualifica o estado das perguntas anteriores, sem apagar sua histór
 |ID|Pergunta|Prioridade|Estado|
 |---|---|---|---|
 |P34|O que afirma positivamente a promessa e até onde se estende?|Decisiva|Núcleo desenvolvido;capacidade efetiva,condição e destinatários sustentados;fronteiras posteriores abertas|
-|P35|Qual alcance deγενεά e quais nuances dos qualificativos?|Relevante|Coletivo provavelmente inclui discípulos;extensão aberta;Thayer consultado,BDAG desses verbetes ainda não|
+|P35|Qual alcance deγενεά e quais nuances dos qualificativos?|Relevante|Coletivo provavelmente inclui discípulos;extensão aberta;Thayer e BDAG consultados; contemporaneidade priorizada no complemento de29/10; destinatários exatos ainda abertos|
 |P36|Quem recebe a repreensão18?|Relevante|Demônio preferidoModerado;menino favorecido pela continuidade é alternativa viva|
 |P37|Como explicar pouca fé/mostarda?|Relevante|Funções retóricas diferentes,pequenez/grandeefeito preferidosModerado;não categorias técnicas|
 |P38|Quais consultas gramaticais ainda faltam?|Complementar|Smyth/Mounce digitais consultados;Zerwick50,Moule203,BDF146(2) seguem mediados porCarson|

@@ -127,3 +127,8 @@ NotasN003–N009 revisadas no mesmo ID. N002,N010,N013 conferidas, sem necessida
 - Preservação: inventários completos da última legendaNA28 ainda não arquivados; coberturaseletiva explicitada no complemento. Não corrigido silenciosamente nesta rodada.
 
 Nenhuma fonte adicional mostrou-se indispensável para o núcleo desenvolvido. As solicitações delimitam aperfeiçoamentos, não condições para todo o estudo. Próxima etapa depende de orientação; não iniciar revisão sinótica,teológica ou aplicada automaticamente.
+
+
+## Complemento lexical de 29/10/2026
+
+Ver [complemento BDAG](complemento-bdag-lexico.md): decisões D57–D60; geração contemporânea priorizada, qualificativos confirmados e confiança em Deus fundamentada no BDAG. A remissão ao dom paulino foi considerada sem fechar a comparação canônica. Tradução e estrutura mantidas. A falta anterior desses quatro verbetes foi suprida; outras lacunas permanecem.

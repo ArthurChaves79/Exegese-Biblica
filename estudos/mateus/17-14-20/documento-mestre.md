@@ -237,3 +237,8 @@ A [exposição final](EXE-15B-exposicao-final.md),versão1.0.0,foi redigida a pa
 O modelo real de1Co6.1–11 do pesquisador foi consultado em recortes que permitem identificar sua estrutura e amostras de desenvolvimento. A organização foi adaptada,sem alegação de reprodução gráfica,extensão equivalente ou conformidade institucional. O [controle editorial](EXE-15B-controle-editorial.md) registra páginas/recortes usados,correspondência,base das expansões da paráfrase e limites de aceitação.
 
 Estado:final editorial no escopo da exposição,aberto a revisão por evidência. Isso não significa validação independente,execução de controles ausentes,entrega emDOCX/PDF ou transferência aoLogos. O mestre e os relatórios seguem preservados;15B é derivado,não substituto. Não se presume outro módulo16 ou curadoriaCTL-02 executados. Próximas ações dependem do uso solicitado:revisão de conteúdo,formatação de entrega ou comunicação própria.
+
+
+## Complemento lexical de 29/10/2026
+
+Ver [complemento BDAG](complemento-bdag-lexico.md): decisões D57–D60; geração contemporânea priorizada, qualificativos confirmados e confiança em Deus fundamentada no BDAG. A remissão ao dom paulino foi considerada sem fechar a comparação canônica. Tradução e estrutura mantidas. A falta anterior desses quatro verbetes foi suprida; outras lacunas permanecem.
