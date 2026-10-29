@@ -387,7 +387,8 @@
         "TEXTO-20261028",
         "LING-20261028",
         "LEXICO-COMPLEMENTO",
-        "SINOTICA-HISTORIA"
+        "SINOTICA-HISTORIA",
+        "COMPLEMENTO-MC929"
       ]
     },
     {
@@ -429,7 +430,8 @@
         "LEGENDA-20261028",
         "LING-20261028",
         "LEXICO-COMPLEMENTO",
-        "SINOTICA-HISTORIA"
+        "SINOTICA-HISTORIA",
+        "COMPLEMENTO-MC929"
       ]
     },
     {
@@ -455,7 +457,8 @@
         "LEGENDA-20261028",
         "LING-20261028",
         "LEXICO-COMPLEMENTO",
-        "SINOTICA-HISTORIA"
+        "SINOTICA-HISTORIA",
+        "COMPLEMENTO-MC929"
       ]
     },
     {
@@ -507,7 +510,8 @@
         "REVISAO",
         "LING-20261028",
         "LEXICO-COMPLEMENTO",
-        "SINOTICA-HISTORIA"
+        "SINOTICA-HISTORIA",
+        "COMPLEMENTO-MC929"
       ]
     },
     {
@@ -519,7 +523,8 @@
         "REVISAO",
         "LING-20261028",
         "LEXICO-COMPLEMENTO",
-        "SINOTICA-HISTORIA"
+        "SINOTICA-HISTORIA",
+        "COMPLEMENTO-MC929"
       ]
     },
     {
@@ -619,6 +624,23 @@
         "LEXICO-COMPLEMENTO",
         "TEXTO-20261028",
         "CONTEXTO-20261028"
+      ]
+    },
+    {
+      "id": "FONTE-MC929",
+      "path": "fontes/logos/na28-mc9-29-texto-aparato.txt",
+      "tipo": "fonte",
+      "estado": "preservado",
+      "depende_de": []
+    },
+    {
+      "id": "COMPLEMENTO-MC929",
+      "path": "estudos/mateus/17-14-20/complemento-mc9-29.md",
+      "tipo": "acervo",
+      "estado": "atual",
+      "depende_de": [
+        "FONTE-MC929",
+        "SINOTICA-HISTORIA"
       ]
     }
   ]

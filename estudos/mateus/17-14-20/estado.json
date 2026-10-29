@@ -12,7 +12,7 @@
     "Desenvolvimento argumentativo, revisão editorial e transferência da aplicação para derivado conforme ficha-manuscrito.json",
     "Extensão da geração,referente18,paradoxo da mostarda e fronteiras da promessa permanecem qualificados; núcleo positivo desenvolvido",
     "Inventários integrais da última legendaNA28 não arquivados; cobertura seletiva anterior preservada",
-    "P42: aparatoNA28 deMc9.29 com sobrescritos ou Metzger, comentário textual aMc9.29"
+    "P42: leituras e aparatoMc9.29 recebidos; restam índices perdidos, sem bloqueio geral"
   ],
   "fontes_arquivadas": [
     "NA28",
@@ -86,5 +86,6 @@
   "revisao_textual": "estudos/mateus/17-14-20/EXE-02-03-texto-traducao.md",
   "complemento_legenda": "Legenda recebida; cobertura arquivada seletiva; símbolos esclarecidos,índices locais perdidos não restituídos; sem nova tradução",
   "revisao_linguistica": "EXE-04-05-06-analise-linguistica.md",
-  "complemento_lexical": "complemento-bdag-lexico.md; quatro verbetes recebidos e integrados; D57–D60"
+  "complemento_lexical": "complemento-bdag-lexico.md; quatro verbetes recebidos e integrados; D57–D60",
+  "complemento_marcos": "complemento-mc9-29.md; D67–D68"
 }

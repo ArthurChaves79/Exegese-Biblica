@@ -1,6 +1,6 @@
 # Notas essenciais para o Logos — Mateus17.14–21
 
-Conjunto0.9.0,29/10/2026.14 notas preparadas, não transferidas ao aplicativo. IDs locais estáveis, não IDs nativos doLogos.
+Conjunto0.9.1,29/10/2026.14 notas preparadas, não transferidas ao aplicativo. IDs locais estáveis, não IDs nativos doLogos.
 
 Base: [manuscrito](manuscrito-academico.md), [dossiê](documento-mestre.md) e [revisão linguística](EXE-04-05-06-analise-linguistica.md). JSON é registro estruturado, não formato de importação certificado. N003–N009 revistas;N002,N010,N013 conferidas sem alteração substantiva;demais notas não revalidadas nesta rodada.
 
@@ -73,9 +73,9 @@ A condiçãoἐάν/subjuntivo alcança os futuros: direis (discípulos),passar�
 
 ## MT1714-21-N010 — Versículo21 e oração/jejum
 
-Versão 0.5.0. Mateus 17.21.
+Versão 0.5.1.
 
-O21 permanece em nota: o conjunto textual examinado favorece omissão do principal. A inclusão é antiga, testemunhada na recepção de Orígenes, e não deve ser chamada simplesmente de medieval. Antiguidade não decide sozinha originalidade; a aproximação aMc9.29 ajuda a explicar a transmissão. A sequência histórica detalhada proposta por Westcott/Hort não recebe automaticamente o grau da decisão textual. Fé e oração podem ser relacionadas canonicamente, mas não se atribui ao principal mateano uma explicação expressa por falta de oração/jejum. A ausência emא* B Θ0281,33,579 e a inclusão emC D K L W entre outros exigem ponderação. A harmonização é explicação preferível no material acessível; não se identificou mecanismo de perda mais convincente. Camadasא/א* e qualificadores incompletos não foram reconstruídos. A legenda esclarece quep)apenas remete a paralelos; não comprova direção de harmonização.𝔪 apoia inclusão na cópia;א*indica leitura original anterior a correção,sem identificar o corretor perdido. Mc9.29 consultado noSBLGNT contém oração sem jejum; aparato completo ainda solicitado. Não confundir essa leitura editorial com nova avaliação integral de testemunhos.
+O21 permanece em nota: o conjunto textual examinado favorece omissão do principal. A inclusão é antiga, testemunhada na recepção de Orígenes, e não deve ser chamada simplesmente de medieval. Antiguidade não decide sozinha originalidade; a aproximação aMc9.29 ajuda a explicar a transmissão. A sequência histórica detalhada proposta por Westcott/Hort não recebe automaticamente o grau da decisão textual. Fé e oração podem ser relacionadas canonicamente, mas não se atribui ao principal mateano uma explicação expressa por falta de oração/jejum. A ausência emא* B Θ0281,33,579 e a inclusão emC D K L W entre outros exigem ponderação. A harmonização é explicação preferível no material acessível; não se identificou mecanismo de perda mais convincente. Camadasא/א* e qualificadores incompletos não foram reconstruídos. A legenda esclarece quep)apenas remete a paralelos; não comprova direção de harmonização.𝔪 apoia inclusão na cópia;א*indica leitura original anterior a correção,sem identificar o corretor perdido. Mc9.29: aparatoNA28p141 recebido; txt א*,B,0274,k, contra inclusão amplamente atestada. Preferência moderada pela forma curta; associação oração/jejum explica possível expansão, sem mecanismo de omissão demonstrado. Índices perdidos não reconstruídos. A oração permanece em ambas as formas; não inferir que os discípulos não oraram.
 
 
 ## MT1714-21-N011 — Cânon, dons e sofrimento

@@ -43,3 +43,8 @@ Hipocrático: contraponto grego anterior, aproximadamente400a.C.; esclarece cont
 ## Pendências precisas
 
 Para decidir com maior precisão a variante deMarcos: fornecer doLogos o texto e aparatoNA28 deMc9.29, incluindo a unidade de καὶ νηστείᾳ e todos os sobrescritos, preferencialmente imagem; alternativamente comentário textual deMetzger aMc9.29, com edição/página. A ausência não bloqueia a comparação das leituras consultadas. Permanecem índices perdidos deMt17 e lacuna de preservação integral da introduçãoNA28. Não avançar à síntese ou integração canônica.
+
+
+## Aparato deMc9.29 recebido —29/10/2026
+
+[Complemento textual](complemento-mc9-29.md): D67–D68; P42 documentalmente suprida quanto às leituras e siglas legíveis, com índices ainda ausentes. Metzger indisponível, não consultado nem exigido. Preferência moderada por oração sem jejum; apoio amplo à inclusão reconhecido. Tradução deMateus e comparação fé/oração mantidas.

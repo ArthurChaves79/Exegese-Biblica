@@ -70,3 +70,8 @@ Relatório04/05/06 e fontes-linguisticas-20261028.md especificam consultas e ped
 ## Revisão sinótica e histórica —29/10/2026
 
 Ver [relatório e fontes](comparacao-sinotica-contexto-historico.md): D61–D66, P39–P43. Manuscrito1.1 e2.5.7–8 desenvolvidos; tradução mantida. Complementaridade fé/oração qualificada; procedimento dos discípulos desconhecido; referente18 reforçado pelos paralelos. Sem avanço à síntese ou integração canônica. P42 requer aparatoMc9.29.
+
+
+## Aparato deMc9.29 recebido —29/10/2026
+
+[Complemento textual](complemento-mc9-29.md): D67–D68; P42 documentalmente suprida quanto às leituras e siglas legíveis, com índices ainda ausentes. Metzger indisponível, não consultado nem exigido. Preferência moderada por oração sem jejum; apoio amplo à inclusão reconhecido. Tradução deMateus e comparação fé/oração mantidas.
