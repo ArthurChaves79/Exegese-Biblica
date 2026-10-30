@@ -389,7 +389,8 @@
         "LEXICO-COMPLEMENTO",
         "SINOTICA-HISTORIA",
         "COMPLEMENTO-MC929",
-        "VAL-INTERNA-20261029"
+        "VAL-INTERNA-20261029",
+        "INTEGRADO-SINTESE"
       ]
     },
     {
@@ -433,7 +434,8 @@
         "LEXICO-COMPLEMENTO",
         "SINOTICA-HISTORIA",
         "COMPLEMENTO-MC929",
-        "VAL-INTERNA-20261029"
+        "VAL-INTERNA-20261029",
+        "INTEGRADO-SINTESE"
       ]
     },
     {
@@ -461,7 +463,8 @@
         "LEXICO-COMPLEMENTO",
         "SINOTICA-HISTORIA",
         "COMPLEMENTO-MC929",
-        "VAL-INTERNA-20261029"
+        "VAL-INTERNA-20261029",
+        "INTEGRADO-SINTESE"
       ]
     },
     {
@@ -515,7 +518,8 @@
         "LEXICO-COMPLEMENTO",
         "SINOTICA-HISTORIA",
         "COMPLEMENTO-MC929",
-        "VAL-INTERNA-20261029"
+        "VAL-INTERNA-20261029",
+        "INTEGRADO-SINTESE"
       ]
     },
     {
@@ -529,7 +533,8 @@
         "LEXICO-COMPLEMENTO",
         "SINOTICA-HISTORIA",
         "COMPLEMENTO-MC929",
-        "VAL-INTERNA-20261029"
+        "VAL-INTERNA-20261029",
+        "INTEGRADO-SINTESE"
       ]
     },
     {
@@ -660,6 +665,22 @@
         "SINOTICA-HISTORIA",
         "COMPLEMENTO-MC929"
       ]
+    },
+    {
+      "id": "INTEGRADO-SINTESE",
+      "path": "estudos/mateus/17-14-20/comentario-integrado-sintese-conferencia.md",
+      "tipo": "acervo",
+      "estado": "atual",
+      "depende_de": [
+        "VAL-INTERNA-20261029"
+      ]
+    },
+    {
+      "id": "MANUSCRITO-PRE-INTEGRADO",
+      "path": "historico/manuscrito-antes-comentario-integrado-20261029.md",
+      "tipo": "historico",
+      "estado": "historico",
+      "depende_de": []
     }
   ]
 }

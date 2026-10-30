@@ -1,6 +1,6 @@
 # Notas essenciais para o Logos — Mateus17.14–21
 
-Conjunto0.9.2,29/10/2026.14 notas preparadas, não transferidas ao aplicativo. IDs locais estáveis, não IDs nativos doLogos.
+Conjunto1.0.0,29/10/2026.14 notas preparadas, não transferidas ao aplicativo. IDs locais estáveis, não IDs nativos doLogos.
 
 Base: [manuscrito](manuscrito-academico.md), [dossiê](documento-mestre.md) e [revisão linguística](EXE-04-05-06-analise-linguistica.md). JSON é registro estruturado, não formato de importação certificado. N003–N009 revistas;N002,N010,N013 conferidas sem alteração substantiva;demais notas não revalidadas nesta rodada.
 
@@ -95,11 +95,10 @@ O menino necessita de socorro; os discípulos necessitam de correção e ensino.
 
 ## MT1714-21-N013 — Ideia exegética e complexidade da unidade
 
-**Versão:** 0.1.0. **Referência:** Mateus 17.14–21. **Confiança:** Alto no núcleo; preferências Moderadas preservadas.
+Versão 0.3.0.
 
-Ao libertar e curar o menino que os discípulos não puderam socorrer, Jesus manifesta sua autoridade, atribui o fracasso deles à pouca fé e os instrui acerca das possibilidades extraordinárias da fé mediante a imagem da mostarda e do monte. A ideia preserva socorro e formação no mesmo acontecimento. Não torna o menino pretexto, não exige reação posterior não narrada e não eleva a certeza das conexões discutidas por possuir um núcleo forte.
+Jesus atende à aflição que os discípulos não conseguiram resolver e interpreta sua incapacidade como pouca fé. Pedido15→cura18 e fracasso16→pergunta19→resposta20 articulam socorro, autoridade e formação. A promessa anuncia eficácia além da capacidade ordinária, favorecida no contexto da missão, sem delimitação exaustiva dos objetos de “nada”. A tensão pouca fé/mostarda e os destinatários exatos da censura permanecem qualificados. O sofrimento do menino não é atribuído à pouca fé dos discípulos; oração é comparação sinótica, não procedimento narrado emMateus.
 
-[Base](documento-mestre.md#mt1714-21-m-012). Fontes e proveniência: [registro estruturado](notas-logos.json).
 
 ## MT1714-21-N014 — Aplicação: confiança, cuidado e discernimento
 

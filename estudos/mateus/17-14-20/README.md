@@ -41,3 +41,8 @@ Ver [relatório e fontes](comparacao-sinotica-contexto-historico.md): D61–D66,
 ## Revisão crítica interna de29/10/2026
 
 Ver [VAL-01–05 e teste seletivoVAL-06](VAL-01-05-revisao-interna.md). D69–D76 corrigem apresentaçãoFrance/Luz e qualificam mostarda e promessa: condição/destinatários não delimitam sozinhos todos os resultados. Comparação fé/oração não demonstra intenção conjunta nem procedimento omitido. Tradução mantida; revisão interna, não independente. Resultados anteriores só sustentam comentário/síntese sob essas qualificações; nenhum próximo bloco executado.
+
+
+## Comentário integrado e síntese —29/10/2026
+
+[Conferência e decisõesD77–D80](comentario-integrado-sintese-conferencia.md). Manuscrito2.4 reorganizado e2.5 desenvolvido sob qualificaçõesVAL. Tradução mantida;N013 atualizada. Extensão da promessa,mostarda,destinatários e integração canônica permanecem qualificados. Capítulo3 e posteriores não revalidados; nenhum avanço automático.

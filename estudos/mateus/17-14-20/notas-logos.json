@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project_id": "MT1714-21",
-  "notes_version": "0.9.2",
+  "notes_version": "1.0.0",
   "date": "2026-10-29",
   "identity_policy": "IDs locais persistentes do projeto, não IDs nativos do Logos nem entradas definitivas de curadoria. Não renumerar/reutilizar; revisar versão mantendo ID; retirar com histórico.",
   "logos_status": "Preparação somente; nenhuma operação no aplicativo Logos foi realizada.",
@@ -342,12 +342,12 @@
     },
     {
       "id": "MT1714-21-N013",
-      "version": "0.1.0",
+      "version": "0.3.0",
       "title": "Ideia exegética e complexidade da unidade",
       "reference": "Mateus 17.14–21",
       "status": "preparada_nao_transferida_ao_Logos",
       "confidence": "Alto no núcleo; preferências Moderadas preservadas",
-      "body": "Ao libertar e curar o menino que os discípulos não puderam socorrer, Jesus manifesta sua autoridade, atribui o fracasso deles à pouca fé e os instrui acerca das possibilidades extraordinárias da fé mediante a imagem da mostarda e do monte. A ideia preserva socorro e formação no mesmo acontecimento. Não torna o menino pretexto, não exige reação posterior não narrada e não eleva a certeza das conexões discutidas por possuir um núcleo forte.",
+      "body": "Jesus atende à aflição que os discípulos não conseguiram resolver e interpreta sua incapacidade como pouca fé. Pedido15→cura18 e fracasso16→pergunta19→resposta20 articulam socorro, autoridade e formação. A promessa anuncia eficácia além da capacidade ordinária, favorecida no contexto da missão, sem delimitação exaustiva dos objetos de “nada”. A tensão pouca fé/mostarda e os destinatários exatos da censura permanecem qualificados. O sofrimento do menino não é atribuído à pouca fé dos discípulos; oração é comparação sinótica, não procedimento narrado emMateus.",
       "tags": [
         "mt1714-21",
         "sintese",
@@ -359,7 +359,8 @@
         "anchor": "mt1714-21-m-012"
       },
       "sources": [
-        "estudos/mateus/17-14-20/EXE-11-sintese-sentido.md"
+        "estudos/mateus/17-14-20/EXE-11-sintese-sentido.md",
+        "estudos/mateus/17-14-20/comentario-integrado-sintese-conferencia.md"
       ],
       "source_baseline_commit": "a944c05176cb3a470fb837aef4357a23983b2ddd"
     },
