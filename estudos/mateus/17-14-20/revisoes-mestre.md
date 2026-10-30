@@ -64,3 +64,8 @@ Ver [VAL-01–05 e teste seletivoVAL-06](VAL-01-05-revisao-interna.md). D69–D7
 ## Revisão canônica29/10/2026
 
 [VAL06 e fontes](revisao-canonica-VAL06.md):C01–C15,D81–D85,P44–P47. Manuscrito3.1 desenvolvido;1.5 remete. Síntese/tradução mantidas. Emanuel e alianças específicas não restaurados; Mt21 fortalece fé/oração, Hb11/2Co12 limitam universalização sem esvaziar eficácia. Sem avanço sistemático ou aplicação.
+
+
+## Conferência editorial — 30/10/2026
+
+Releitura da publicação 31edde2: corrigidos espaços indevidos nos marcadores de notas da seção 3.1 e pequenos espaçamentos. Todas as chamadas de notas do manuscrito foram confrontadas com suas definições. Nenhuma conclusão exegética alterada; sem nova rodada canônica ou duplicação de notas Logos. Histórico anterior preservado no Git.
