@@ -56,11 +56,9 @@ A repetição de incapacidade em 16 e 19, seguida da formulação sobre o imposs
 
 Também não há correspondências suficientes para preferir uma estrutura quiástica. A sequência pedido, censura, cura e instrução não produz, por si, pares invertidos equivalentes. A retomada entre 16 e 19 é demonstrável, mas uma retomada não estabelece toda uma composição concêntrica. A leitura linear em duas cenas, com subdivisões funcionais, explica os dados sem exigir esse passo adicional. Seu resultado é uma unidade em que misericórdia eficaz e formação dos discípulos se articulam, preservando tanto a realidade do socorro quanto a importância da instrução.
 
-### 1.5. Contexto canônico
+### 1.5. Horizonte canônico
 
-A linguagem de geração incrédula e pervertida aproxima-se deDt32.5,20, favorecendo uma alusão provável, embora não inequívoca. Não se importa todo o cântico nem se conclui rejeição étnica definitiva. No livro,12.28 fornece horizonte para compreender expulsões como atuação do Reino; a relação específica desta cena com esse horizonte permanece integração contextual, não ocorrência local da palavra Reino.
-
-A leitura canônica esclarece promessa e limites. At3.12–16 atribui eficácia aJesus,1Co12 apresenta diversidade de dons,Tg5 convoca oração pelo enfermo eHb11/2Co12 mostram fidelidade em aflição. Essas relações não são todas alusões mateanas nem palavras acrescentadas ao v20. Essas passagens oferecem questões pertinentes à avaliação da extensão da promessa, mas sua integração exige exame de seus contextos próprios. Não são uma cláusula restritiva já demonstrada pela sintaxe de Mateus, nem substituem a investigação do alcance de “nada”.
+As relações com a missão, a censura deuteronômica e as promessas de fé e oração exigem distinguir contexto do Evangelho, possível alusão e integração teológica. Sua demonstração é desenvolvida na seção de teologia bíblica, preservando a prioridade da explicação local e as diferenças entre os textos comparados.
 
 ## 2. Estudo textual
 
@@ -303,11 +301,51 @@ A comparação sinótica confirma que o episódio pode ser apresentado com ênfa
 
 ## 3. Estudo teológico
 
-### 3.1. Teologia bíblica e cristologia
+### 3.1. Teologia bíblica: missão, Reino e confiança
 
-Jesus é agente explícito de socorro e ensino. A relação com a missão10 e o caminho da paixão17.22–23 situa o episódio no ministério messiânico. A cura não substitui a cruz; a cruz próxima não torna a cura irrelevante. A conexão particular comReino e restauração futura é uma integração contextual plausível, sem fórmula local de cumprimento.
+#### 3.1.1. A autoridade que socorre e forma os enviados
 
-No desenvolvimento canônico,At3 associa eficácia ao nome deJesus, eMt28 relaciona envio, autoridade e presença do ressuscitado. A comunidade permanece dependente; não recebe soberania própria. A cura temporal não equivale à consumação deAp21.4 ou à glorificação do menino.
+A relação com a missão de Mateus 10.1,8 é particularmente firme porque não depende de uma palavra isolada: os discípulos receberam autoridade para expulsar espíritos e curar, e é nessa atividade que fracassam em 17.16. O episódio distingue autorização e exercício da confiança. Não permite reconstruir uma técnica usada incorretamente, mas mostra que a ação dos enviados permanece relacionada àquele que os enviou. O socorro ao menino e a correção dos discípulos integram, assim, o desenvolvimento da missão; nenhum deles constitui apenas um símbolo do outro.
+
+A relação com o Reino exige um passo interpretativo adicional, sustentado pelo próprio Evangelho. Em 12.22–29, Jesus responde à acusação de expulsar demônios por uma potência demoníaca e relaciona sua atuação pelo Espírito de Deus à chegada do Reino. Esse contexto oferece uma categoria mateana para compreender a libertação de 17.18: ela participa da atuação vitoriosa de Jesus sobre o mal. O termo Reino não aparece naquela cena, nem há citação de 12.28; trata-se de integração intralivro, não de uma alusão verbal demonstrada. A categoria acrescenta o significado do ministério ao acontecimento sem substituir a cura concreta por uma abstração.[^can 1]
+
+A misericórdia se manifesta localmente na correspondência entre o pedido do pai e a ação de Jesus. Não é preciso construir uma cadeia de alusões para reconhecê-la. No conjunto do livro, a controvérsia sobre fazer o bem e curar em 12.7–13 aproxima misericórdia e socorro, embora sua situação sabática seja diferente. Essa recorrência ajuda a situar o atendimento do menino no retrato de Jesus; não significa que cada cura reproduza a mesma controvérsia ou dependa da mesma condição explicitada em 17.20.[^can 1]
+
+#### 3.1.2. A censura escriturística e o limite da analogia mosaica
+
+Deuteronômio 32 oferece um antecedente pertinente à linguagem de geração perversa. No cântico, a fidelidade e o cuidado de Deus são contrapostos à corrupção e à deslealdade do povo. A expressão de 32.5 e a falta de fé de 32.20 aproximam-se da censura de Mateus 17.17; a correspondência vocabular já identificada nos excertos de Carson eBDAG é acompanhada por afinidade de função. Isso favorece uma alusão à censura deuteronômica, embora Mateus não reproduza um único versículo integralmente nem introduza uma citação formal. A tradução de Brenton consultada permite conferir o contexto, mas não substitui uma colação crítica do grego da Septuaginta.[^can 2][^ctx 1][^bdag 2]
+
+A possível alusão acrescenta densidade escriturística à repreensão: a dificuldade não é apresentada como simples defeito técnico, mas como falta de confiança diante da ação divina. O argumento tem, contudo, um limite decisivo. O cântico trata também de idolatria e juízo; esses temas não podem ser transferidos integralmente para cada personagem de Mateus. Nem a doença do menino é identificada como punição por idolatria, nem a censura determina, por si, rejeição étnica definitiva. A presença de demônios em Deuteronômio 32.17 não autoriza identificar o caso do menino com os sacrifícios ali condenados. A semelhança lexical exige comparação contextual, não equivalência de situações.[^can 2]
+
+A proposta de uma relação específica com Moisés descendo do monte é mais frágil. Êxodo 32 apresenta descida, infidelidade e indignação; porém, desenvolve a fabricação do bezerro, a quebra das tábuas e a intercessão pelo povo. Mateus descreve um pai suplicante, discípulos incapazes e uma cura. A presença de Moisés na cena anterior torna a comparação possível, mas não preenche essas diferenças nem demonstra que os discípulos correspondam a Arão ou que o menino representeIsrael. A leitura local continua inteligível sem essa tipologia. Isso não prova inexistência de eco; mostra que a reconstrução específica carece de sinais suficientes para funcionar como fundamento da exposição.[^can 3]
+
+#### 3.1.3. Fé, mostarda, monte e oração no Evangelho
+
+A recorrência de mostarda em 13.31–32 e 17.20 precisa respeitar funções distintas. A parábola desenvolve o crescimento do Reino; a declaração aos discípulos compara fé e semente diante de um efeito extraordinário. A recorrência favorece reconhecer a pequenez da imagem, mas não transforma o crescimento em propriedade necessária da fé nesta frase. Também não resolve inteiramente a tensão entre pouca fé censurada e semente pequena eficaz. A integração preserva a questão em vez de encerrá-la mediante transferência do enredo da parábola.
+
+Mateus 21.20–22 oferece uma relação mais direta para fé, monte e oração. No contexto da figueira, a fala a discípulos associa fé sem dúvida, uma ordem dirigida ao monte e pedidos feitos em oração. A conjunção desses elementos, e não apenas a repetição de “monte”, fundamenta a comparação. Ela mostra que a aproximação de confiança e oração não é estranha a Mateus. Não demonstra, porém, que em 17 os discípulos tenham deixado de orar, nem fixa a identidade geográfica ou institucional de “este monte” em ambas as cenas. A promessa de 21 também é ampla; portanto, não pode ser convocada apenas para reduzir a de 17 a efeitos ordinários.[^can 4]
+
+A condição de fé mantém o caráter relacional da promessa. A comissão de 10 ajuda a situar os destinatários, enquanto 21 confirma a linguagem de eficácia extraordinária. Esses dois apoios não são provas independentes de uma delimitação exaustiva: um esclarece a tarefa, o outro amplia a comparação. A leitura missionária continua preferível como enquadramento, mas a extensão total dos resultados prometidos exige mais do que reunir recorrências.
+
+#### 3.1.4. O caminho da paixão, a ressurreição e a restauração final
+
+A cura ocorre no ministério terreno, antes da morte e ressurreição anunciadas em 17.22–23. Sua localização importa: o mesmo Jesus que socorre não abandona o caminho do sofrimento. Essa relação narrativa não torna a aflição do menino uma figura da cruz nem a cura uma ressurreição não mencionada pelo narrador. O episódio participa do retrato do Messias que exerce autoridade e caminha para a paixão, sem oferecer sozinho uma explicação completa da relação entre cada cura e a expiação.
+
+Após a ressurreição, Mateus 28.16–20 apresenta a missão das nações sob a autoridade de Jesus e sua presença. O desenvolvimento é real: mudam o momento narrativo e a extensão expressa do envio. A continuidade está na dependência dos discípulos e na autoridade do mestre, não numa capacidade soberana que passaria a pertencer ao grupo. A promessa de presença permite uma comparação temática com a pergunta “até quando estarei convosco?”, mas não demonstra que 17.17 ameace a retirada definitiva de Emanuel. Sem levantamento das fórmulas e evidência discriminante adicional, essa tese forte não se estabelece apenas pela repetição de “convosco”.[^can 5]
+
+Apocalipse 21.1–5 situa o fim da morte e do sofrimento na renovação final. Lida nesse horizonte, a cura do menino pode ser relacionada à restauração que o cânon espera, mas não deve ser identificada com sua realização consumada. A ligação passa pela atuação salvadora de Deus e pelo desenvolvimento do Reino; ela é temática e teológica, não uma intenção alusiva atribuída a Mateus. O menino é curado numa situação determinada; o texto não declara sua glorificação nem a cessação universal da aflição. A consumação acrescenta horizonte à restauração, preservando a diferença entre socorro histórico e renovação final.[^can 6]
+
+#### 3.1.5. Confiança, oração e sofrimento: contribuição e resistência dos textos
+
+Tiago 5.13–18 oferece uma instrução comunitária que une sofrimento, oração e cuidado dos presbíteros. A oração da fé é associada a uma ação eficaz do Senhor; o texto não se limita a recomendar conformidade interior. Sua contribuição impede que a integração canônica dissolva a expectativa de socorro real. Ao mesmo tempo, a situação e os agentes diferem de Mateus 17, e a menção condicional de pecados não identifica toda enfermidade com culpa pessoal. O alcance das formulações de Tiago exige estudo próprio; sua força não deve ser usada para encerrar por decreto a questão da promessa mateana.[^can 7]
+
+Em 1João 5.13–16, a confiança dos que creem noFilho inclui pedir segundo a vontade de Deus e interceder. A condição pertence expressamente ao argumento joanino. Ela contribui para uma teologia canônica da oração orientada a Deus, mas não é uma expressão omitida que o tradutor de Mateus esteja autorizado a acrescentar. A relação é de integração de ensinos, não de alteração retroativa da frase “nada vos será impossível”. Também não fornece um procedimento infalível para identificar antecipadamente o resultado de cada pedido.[^can 8]
+
+Hebreus 11.32–40 reúne pessoas que experimentaram livramento e outras que sofreram violência e morte, mantendo a aprovação pela fé. O contraste impede universalizar a tese de que sofrimento persistente sempre demonstra incredulidade. Não nega o diagnóstico dado porJesus aos discípulos: demonstra que esse diagnóstico não se transfere indistintamente a todos os fiéis. Em 2Coríntios 12.7–10, a súplica repetida de Paulo recebe a resposta da suficiência da graça e do poder na fraqueza. A natureza precisa do espinho não é necessária para reconhecer esse argumento; tampouco deve ser inventada. Ambos os textos resistem à redução da fé a ausência de aflição, sem redefinir a cura de Mateus como simples fortalecimento subjetivo.[^can 9]
+
+A distribuição de dons em 1Coríntios 12.4–11 associa manifestações diferentes ao mesmo Espírito e ao benefício comum. Isso oferece fundamento para não pressupor capacidade miraculosa uniforme em todos os membros. Não demonstra, contudo, que πίστις em Mateus 17 seja exclusivamente o dom mencionado porPaulo. A remissão do BDAG torna a comparação pertinente, mas a diferença entre uma instrução a discípulos num episódio e a organização dos dons na comunidade precisa permanecer. A leitura canônica esclarece diversidade e dependência sem resolver toda questão lexical ou estabelecer uma teoria da continuidade dos dons.[^can 10]
+
+Essas relações permitem preservar duas afirmações simultâneas: Mateus anuncia eficácia concreta vinculada à fé, e o conjunto canônico não autoriza explicar toda aflição pela deficiência de quem sofre. A segunda não cancela a primeira; a primeira não converte o juízo de Jesus sobre um fracasso determinado em diagnóstico universal. O socorro ao menino e a formação dos discípulos encontram, assim, um horizonte mais amplo de missão, Reino, oração e esperança. As conexões alianciais específicas e as tipologias não demonstradas não são necessárias para sustentá-la.
 
 ### 3.2. Teologia sistemática e antropologia
 
@@ -370,3 +408,23 @@ Quando Jesus e seus acompanhantes chegam à multidão, um pai pede misericórdia
 [^sin2]: *SBL Greek New Testament*, Lucas9.37–43a, reprodução digital: https://biblehub.com/sbl/luke/9.htm. Consultado em29/10/2026.
 
 [^mc29]: NESTLE, E.; NESTLE, E. *Nestle-Aland: NTG Apparatus Criticus*. 28.ed. Stuttgart: Deutsche Bibelgesellschaft, 2012, p.141. Texto e aparato deMc9.29 fornecidos pelo pesquisador; transcrição com índices incompletos. Não foi consultado comentário deMetzger.
+
+[^can1]: SBLGNT, Mt12.7–13,22–29. https://biblehub.com/sbl/matthew/12.htm Consulta seletiva digital em29/10/2026.
+
+[^can2]: Brenton, tradução daSeptuaginta, Dt32.1–20. https://biblehub.com/sep/deuteronomy/32.htm. Correspondência grega discutida também nos excertos deCarson eBDAG; sem nova colação daLXX. Consulta seletiva digital em29/10/2026.
+
+[^can3]: Brenton, Êx32.1–19. https://biblehub.com/sep/exodus/32.htm Consulta seletiva digital em29/10/2026.
+
+[^can4]: SBLGNT, Mt21.18–22. https://biblehub.com/sbl/matthew/21.htm Consulta seletiva digital em29/10/2026.
+
+[^can5]: SBLGNT, Mt28.5–7,16–20. https://biblehub.com/sbl/matthew/28.htm Consulta seletiva digital em29/10/2026.
+
+[^can6]: SBLGNT, Ap21.1–5. https://biblehub.com/sbl/revelation/21.htm Consulta seletiva digital em29/10/2026.
+
+[^can7]: SBLGNT, Tg5.13–18. https://biblehub.com/sbl/james/5.htm Consulta seletiva digital em29/10/2026.
+
+[^can8]: SBLGNT, 1Jo5.13–16. https://biblehub.com/sbl/1_john/5.htm Consulta seletiva digital em29/10/2026.
+
+[^can9]: SBLGNT, Hb11.32–40 e2Co12.7–10. https://biblehub.com/sbl/hebrews/11.htm ; https://biblehub.com/sbl/2_corinthians/12.htm Consulta seletiva digital em29/10/2026.
+
+[^can10]: SBLGNT, 1Co12.4–11. https://biblehub.com/sbl/1_corinthians/12.htm Consulta seletiva digital em29/10/2026.

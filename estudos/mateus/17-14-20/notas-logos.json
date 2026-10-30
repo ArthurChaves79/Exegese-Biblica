@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project_id": "MT1714-21",
-  "notes_version": "1.0.0",
+  "notes_version": "1.1.0",
   "date": "2026-10-29",
   "identity_policy": "IDs locais persistentes do projeto, não IDs nativos do Logos nem entradas definitivas de curadoria. Não renumerar/reutilizar; revisar versão mantendo ID; retirar com histórico.",
   "logos_status": "Preparação somente; nenhuma operação no aplicativo Logos foi realizada.",
@@ -89,12 +89,12 @@
     },
     {
       "id": "MT1714-21-N004",
-      "version": "0.6.0",
+      "version": "0.7.0",
       "title": "Geração e linguagem de censura",
       "reference": "Mateus 17.17",
       "status": "preparada_nao_transferida_ao_Logos",
       "confidence": "Moderado para destinatários e alusão",
-      "body": "A censura provavelmente alcança um coletivo que inclui os discípulos, sem se limitar seguramente a eles. A proximidade16 favorece sua participação; geração favorece alcance mais amplo. A extensão exata permanece aberta. Dt32.5,20 oferece alusão provável, não importação de todo o cântico. A relação com Emanuel é hipótese de baixa confiança: a expressão de presença não demonstra eco deliberado; retirada definitiva de Deus e rejeição étnica não estão demonstradas. A ordem para trazer o menino mostra censura e socorro no mesmo movimento. As perguntas comἕωςπότε funcionam como lamento/reprovação, não cálculo de prazo. Διεστραμμένη qualifica a geração; perfeito/passivo não identificam agente ou acontecimento que a perverteu. A coordenação dos qualificativos não codifica uma causa psicológica entre eles. BDAG γενεά2 situa17.17 na geração contemporânea, moralmente caracterizada; isso favorece contemporaneidade sem definir todos os destinatários. ἄπιστος2 e διαστρέφω2 sustentam incredulidade e perversão moral. A objeção deLuz sobre uso coletivo degeração e distinção de pouca fé permanece relevante; inclusão dos discípulos é preferência contextual moderada, não identificação lexical automática.",
+      "body": "A censura provavelmente alcança um coletivo que inclui os discípulos, sem se limitar seguramente a eles. A proximidade16 favorece sua participação; geração favorece alcance mais amplo. A extensão exata permanece aberta. Dt32.5,20 oferece alusão provável, não importação de todo o cântico. A relação com Emanuel é hipótese de baixa confiança: a expressão de presença não demonstra eco deliberado; retirada definitiva de Deus e rejeição étnica não estão demonstradas. A ordem para trazer o menino mostra censura e socorro no mesmo movimento. As perguntas comἕωςπότε funcionam como lamento/reprovação, não cálculo de prazo. Διεστραμμένη qualifica a geração; perfeito/passivo não identificam agente ou acontecimento que a perverteu. A coordenação dos qualificativos não codifica uma causa psicológica entre eles. BDAG γενεά2 situa17.17 na geração contemporânea, moralmente caracterizada; isso favorece contemporaneidade sem definir todos os destinatários. ἄπιστος2 e διαστρέφω2 sustentam incredulidade e perversão moral. A objeção deLuz sobre uso coletivo degeração e distinção de pouca fé permanece relevante; inclusão dos discípulos é preferência contextual moderada, não identificação lexical automática. VAL06:Dt32 permanece alusão provável,sem transferência do cântico inteiro;Êx32 eco possível,não tipologia demonstrada;Emanuel não elevado por repetição.",
       "tags": [
         "mt1714-21",
         "destinatarios",
@@ -112,7 +112,8 @@
         "estudos/mateus/17-14-20/EXE-04-05-06-analise-linguistica.md",
         "estudos/mateus/17-14-20/fontes-linguisticas-20261028.md",
         "fontes/logos/bdag-complemento-genea-apistos-diastrepho-pistis.txt",
-        "estudos/mateus/17-14-20/VAL-01-05-revisao-interna.md"
+        "estudos/mateus/17-14-20/VAL-01-05-revisao-interna.md",
+        "estudos/mateus/17-14-20/revisao-canonica-VAL06.md"
       ],
       "source_baseline_commit": "a944c05176cb3a470fb837aef4357a23983b2ddd",
       "last_revision_baseline_commit": "ee7b3a59acee36ad6a34b12cb27244a060f2d2e3"
@@ -233,12 +234,12 @@
     },
     {
       "id": "MT1714-21-N009",
-      "version": "0.6.0",
+      "version": "0.7.0",
       "title": "Amplitude concreta e contextual da promessa",
       "reference": "Mateus 17.20",
       "status": "preparada_nao_transferida_ao_Logos",
       "confidence": "Alto para formulação; Moderado para alcance detalhado",
-      "body": "A condiçãoἐάν/subjuntivo alcança os futuros: direis (discípulos),passará (monte),nada será impossível (nada como sujeito). O fecho generaliza sem novo destinatário ou condição. A construção não prova ausência total de fé. Positivamente,Jesus anuncia aos discípulos que creem capacidade efetiva diante do que excede possibilidades ordinárias; dificuldades como a enfrentada não precisam ser limites intransponíveis à missão recebida. Mt10.1,8 e a retomada16/19 fundamentam essa delimitação contextualModerada. “Nada” amplia além daquele menino; a promessa não é apenas resiliência interior. Fronteiras exatas e extensão a outros destinatários permanecem abertas. Não inserir “segundo a vontade de Deus” na tradução ou diagnosticar toda não cura por este caso. BDAG πίστις2a classifica17.20 como confiança em Deus. A remissão de2dζ ao dom paulino reconhece a dimensão miraculosa, mas não prova categoria exclusiva de dons em Mateus. Condição e destinatários delimitam quem recebe a promessa; não definem sozinhos a extensão de seus objetos. Leitura missionária favorecida pelo contexto, sem lista exaustiva de limites. A objeção de amplitude radical permanece aberta.",
+      "body": "A condiçãoἐάν/subjuntivo alcança os futuros: direis (discípulos),passará (monte),nada será impossível (nada como sujeito). O fecho generaliza sem novo destinatário ou condição. A construção não prova ausência total de fé. Positivamente,Jesus anuncia aos discípulos que creem capacidade efetiva diante do que excede possibilidades ordinárias; dificuldades como a enfrentada não precisam ser limites intransponíveis à missão recebida. Mt10.1,8 e a retomada16/19 fundamentam essa delimitação contextualModerada. “Nada” amplia além daquele menino; a promessa não é apenas resiliência interior. Fronteiras exatas e extensão a outros destinatários permanecem abertas. Não inserir “segundo a vontade de Deus” na tradução ou diagnosticar toda não cura por este caso. BDAG πίστις2a classifica17.20 como confiança em Deus. A remissão de2dζ ao dom paulino reconhece a dimensão miraculosa, mas não prova categoria exclusiva de dons em Mateus. Condição e destinatários delimitam quem recebe a promessa; não definem sozinhos a extensão de seus objetos. Leitura missionária favorecida pelo contexto, sem lista exaustiva de limites. A objeção de amplitude radical permanece aberta. Mt21.21–22 fortalece vínculo entre fé,monte eoração,mas também contém promessa ampla. 1Jo5 contribui àteologia daoração sem fornecer palavras àtradução deMt17.",
       "tags": [
         "mt1714-21",
         "promessa",
@@ -255,7 +256,8 @@
         "estudos/mateus/17-14-20/EXE-04-05-06-analise-linguistica.md",
         "estudos/mateus/17-14-20/fontes-linguisticas-20261028.md",
         "fontes/logos/bdag-complemento-genea-apistos-diastrepho-pistis.txt",
-        "estudos/mateus/17-14-20/VAL-01-05-revisao-interna.md"
+        "estudos/mateus/17-14-20/VAL-01-05-revisao-interna.md",
+        "estudos/mateus/17-14-20/revisao-canonica-VAL06.md"
       ],
       "source_baseline_commit": "a944c05176cb3a470fb837aef4357a23983b2ddd",
       "last_revision_baseline_commit": "ee7b3a59acee36ad6a34b12cb27244a060f2d2e3"
@@ -292,12 +294,12 @@
     },
     {
       "id": "MT1714-21-N011",
-      "version": "0.1.0",
+      "version": "0.7.0",
       "title": "Cânon, dons e sofrimento",
       "reference": "Mateus 17.14–21",
       "status": "preparada_nao_transferida_ao_Logos",
       "confidence": "Integração canônica qualificada",
-      "body": "At3.12–16 situa a eficácia em Jesus, sem provar o motivo psicológico do fracasso anterior. 1Co12 apresenta diversidade de dons, sem tornar πίστις20 termo técnico exclusivo. Hb11 e2Co12 mostram fidelidade em aflição e impedem generalizar não cura como pouca fé. Tg5 conserva oração e expectativa de socorro real. Reino, Igreja e consumação são articulações particulares Moderadas desta cena. O texto não decide sozinho o debate inteiro sobre dons hoje nem promete realização indiscriminada de desejos.",
+      "body": "At3.12–16 situa a eficácia em Jesus, sem provar o motivo psicológico do fracasso anterior. 1Co12 apresenta diversidade de dons, sem tornar πίστις20 termo técnico exclusivo. Hb11 e2Co12 mostram fidelidade em aflição e impedem generalizar não cura como pouca fé. Tg5 conserva oração e expectativa de socorro real. Reino, Igreja e consumação são articulações particulares Moderadas desta cena. O texto não decide sozinho o debate inteiro sobre dons hoje nem promete realização indiscriminada de desejos. Revisão canônica:Hebreus11.32–40 inclui livramentos e sofrimento de aprovados pela fé;2Co12.7–10 apresenta súplica e graça nafraqueza. Esses textos limitam generalização de toda aflição como pouca fé,sem negar diagnóstico deMt17. Tiago5 preserva expectativa eficaz de socorro;1Co12 mostra diversidade,sem provar dom exclusivo emMt17. ConsumaçãoAp21 é horizonte distinto da cura temporal.",
       "tags": [
         "mt1714-21",
         "canonica",
@@ -312,7 +314,8 @@
       "sources": [
         "estudos/mateus/17-14-20/EXE-10B-avaliacao-canonica.md",
         "estudos/mateus/17-14-20/EXE-12B-integracao-canonica.md",
-        "estudos/mateus/17-14-20/EXE-13-teologia-sistematica.md"
+        "estudos/mateus/17-14-20/EXE-13-teologia-sistematica.md",
+        "estudos/mateus/17-14-20/revisao-canonica-VAL06.md"
       ],
       "source_baseline_commit": "a944c05176cb3a470fb837aef4357a23983b2ddd"
     },

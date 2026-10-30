@@ -262,3 +262,8 @@ Ver [VAL-01–05 e teste seletivoVAL-06](VAL-01-05-revisao-interna.md). D69–D7
 ## Comentário integrado e síntese —29/10/2026
 
 [Conferência e decisõesD77–D80](comentario-integrado-sintese-conferencia.md). Manuscrito2.4 reorganizado e2.5 desenvolvido sob qualificaçõesVAL. Tradução mantida;N013 atualizada. Extensão da promessa,mostarda,destinatários e integração canônica permanecem qualificados. Capítulo3 e posteriores não revalidados; nenhum avanço automático.
+
+
+## Revisão canônica29/10/2026
+
+[VAL06 e fontes](revisao-canonica-VAL06.md):C01–C15,D81–D85,P44–P47. Manuscrito3.1 desenvolvido;1.5 remete. Síntese/tradução mantidas. Emanuel e alianças específicas não restaurados; Mt21 fortalece fé/oração, Hb11/2Co12 limitam universalização sem esvaziar eficácia. Sem avanço sistemático ou aplicação.
