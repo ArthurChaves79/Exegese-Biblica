@@ -264,12 +264,12 @@
     },
     {
       "id": "MT1714-21-N010",
-      "version": "0.5.1",
+      "version": "0.9.0",
       "title": "Versículo21 e oração/jejum",
       "reference": "Mateus 17.21",
       "status": "preparada_nao_transferida_ao_Logos",
       "confidence": "Alto para decisão adotada; história detalhada qualificada",
-      "body": "O21 permanece em nota: o conjunto textual examinado favorece omissão do principal. A inclusão é antiga, testemunhada na recepção de Orígenes, e não deve ser chamada simplesmente de medieval. Antiguidade não decide sozinha originalidade; a aproximação aMc9.29 ajuda a explicar a transmissão. A sequência histórica detalhada proposta por Westcott/Hort não recebe automaticamente o grau da decisão textual. Fé e oração podem ser relacionadas canonicamente, mas não se atribui ao principal mateano uma explicação expressa por falta de oração/jejum. A ausência emא* B Θ0281,33,579 e a inclusão emC D K L W entre outros exigem ponderação. A harmonização é explicação preferível no material acessível; não se identificou mecanismo de perda mais convincente. Camadasא/א* e qualificadores incompletos não foram reconstruídos. A legenda esclarece quep)apenas remete a paralelos; não comprova direção de harmonização.𝔪 apoia inclusão na cópia;א*indica leitura original anterior a correção,sem identificar o corretor perdido. Mc9.29: aparatoNA28p141 recebido; txt א*,B,0274,k, contra inclusão amplamente atestada. Preferência moderada pela forma curta; associação oração/jejum explica possível expansão, sem mecanismo de omissão demonstrado. Índices perdidos não reconstruídos. A oração permanece em ambas as formas; não inferir que os discípulos não oraram.",
+      "body": "“Esta espécie” emMc9.29 admite discussão do referente, mas não demonstra escala mensurável de poder ou duração de jejuns necessária para superar categorias demoníacas. Mateus20 atribui o fracasso à pouca fé. Decisões textuais sobre21 eMc9.29 preservadas.",
       "tags": [
         "mt1714-21",
         "critica-textual",
@@ -288,18 +288,19 @@
         "estudos/mateus/17-14-20/EXE-02-03-texto-traducao.md",
         "estudos/mateus/17-14-20/complemento-legenda-aparato.md",
         "estudos/mateus/17-14-20/comparacao-sinotica-contexto-historico.md",
-        "fontes/logos/na28-mc9-29-texto-aparato.txt"
+        "fontes/logos/na28-mc9-29-texto-aparato.txt",
+        "estudos/mateus/17-14-20/revisao-aplicacao-controles.md"
       ],
       "source_baseline_commit": "a944c05176cb3a470fb837aef4357a23983b2ddd"
     },
     {
       "id": "MT1714-21-N011",
-      "version": "0.8.0",
+      "version": "0.9.0",
       "title": "Cânon, dons e sofrimento",
       "reference": "Mateus 17.14–21",
       "status": "preparada_nao_transferida_ao_Logos",
       "confidence": "Integração canônica qualificada",
-      "body": "At3.12–16 situa a eficácia em Jesus, sem provar o motivo psicológico do fracasso anterior. 1Co12 apresenta diversidade de dons, sem tornar πίστις20 termo técnico exclusivo. Hb11 e2Co12 mostram fidelidade em aflição e impedem generalizar não cura como pouca fé. Tg5 conserva oração e expectativa de socorro real. Reino, Igreja e consumação são articulações particulares Moderadas desta cena. O texto não decide sozinho o debate inteiro sobre dons hoje nem promete realização indiscriminada de desejos. Revisão canônica:Hebreus11.32–40 inclui livramentos e sofrimento de aprovados pela fé;2Co12.7–10 apresenta súplica e graça nafraqueza. Esses textos limitam generalização de toda aflição como pouca fé,sem negar diagnóstico deMt17. Tiago5 preserva expectativa eficaz de socorro;1Co12 mostra diversidade,sem provar dom exclusivo emMt17. ConsumaçãoAp21 é horizonte distinto da cura temporal. Contribuição doutrinária: dependência não elimina responsabilidade; a confissão não resolve as ambiguidades locais. A aflição do menino e a incapacidade dos discípulos têm funções distintas; nem cada detalhe narrativo é norma universal.",
+      "body": "A oração expressa dependência relacional; Ef2.18 fundamenta canonicamente acesso aoPai porCristo noEspírito. Essa integração não demonstra negligência trinitária consciente dos discípulos nem ausência de toda oração. Diversidade de1Co12 impede uniformizar funções; sofrimento não decide sozinho condição espiritual.",
       "tags": [
         "mt1714-21",
         "canonica",
@@ -316,18 +317,19 @@
         "estudos/mateus/17-14-20/EXE-12B-integracao-canonica.md",
         "estudos/mateus/17-14-20/EXE-13-teologia-sistematica.md",
         "estudos/mateus/17-14-20/revisao-canonica-VAL06.md",
-        "estudos/mateus/17-14-20/revisao-sistematica-antropologica.md"
+        "estudos/mateus/17-14-20/revisao-sistematica-antropologica.md",
+        "estudos/mateus/17-14-20/revisao-aplicacao-controles.md"
       ],
       "source_baseline_commit": "a944c05176cb3a470fb837aef4357a23983b2ddd"
     },
     {
       "id": "MT1714-21-N012",
-      "version": "0.8.0",
+      "version": "0.9.0",
       "title": "Sofrimento e responsabilidade no aconselhamento",
       "reference": "Mateus 17.15–20",
       "status": "preparada_nao_transferida_ao_Logos",
       "confidence": "Inferência forte com limites de integração",
-      "body": "O menino necessita de socorro; os discípulos necessitam de correção e ensino. A causa do fracasso deles não é automaticamente a causa da doença. O texto não revela todos os motivos do coração e não chama desejo de alívio corporal de idolatria. A autoridade de Jesus para diagnosticar não concede ao conselheiro acesso imediato a motivos secretos. Misericórdia, responsabilidade e esperança se articulam. Esta é implicação antropológica já documentada13B; a EXE-14 agora desenvolve aplicações gerais com exemplos prudenciais, sem diagnosticar pessoa real. Contribuição doutrinária: dependência não elimina responsabilidade; a confissão não resolve as ambiguidades locais. A aflição do menino e a incapacidade dos discípulos têm funções distintas; nem cada detalhe narrativo é norma universal.",
+      "body": "Aflição do menino e incapacidade dos discípulos são distintas. Responsabilidade exige evidência; sofrimento persistente não autoriza culpa automática. Escuta e exame de fatos são orientações prudenciais, sem conhecimento imediato de motivos secretos.",
       "tags": [
         "mt1714-21",
         "aconselhamento",
@@ -341,7 +343,8 @@
       "sources": [
         "estudos/mateus/17-14-20/EXE-13B-antropologia-etica-sabedoria.md",
         "estudos/mateus/17-14-20/EXE-14-horizonte-aplicacao.md",
-        "estudos/mateus/17-14-20/revisao-sistematica-antropologica.md"
+        "estudos/mateus/17-14-20/revisao-sistematica-antropologica.md",
+        "estudos/mateus/17-14-20/revisao-aplicacao-controles.md"
       ],
       "source_baseline_commit": "a944c05176cb3a470fb837aef4357a23983b2ddd"
     },
@@ -371,12 +374,12 @@
     },
     {
       "id": "MT1714-21-N014",
-      "version": "0.2.0",
+      "version": "0.9.0",
       "title": "Aplicação: confiança, cuidado e discernimento",
       "reference": "Mateus17.14–21",
       "status": "preparada_nao_transferida_ao_Logos",
       "confidence": "Alto no núcleo local;Moderado nas pontes específicas;exemplos prudenciais",
-      "body": "A aplicação reúne busca confiante de socorro, cuidado concreto e receptividade à correção. A comissão não produz poder autônomo. A causa20 foi revelada para o fracasso dos discípulos;não é diagnóstico automático da aflição de todo paciente. A extensão à Igreja consideraAt3,1Co12,Tg5,Hb11 e2Co12,sem equiparar todos aos doze. A promessa conserva força extraordinária sem garantir qualquer desejo. Perguntas de exame e situações familiares hipotéticas são recursos prudenciais, não novas ordens universais. Não há norma específica para sucesso profissional ou escolar.",
+      "body": "A aplicação fundamentada reúne busca de misericórdia, oração confiante, cuidado concreto e receptividade à correção. A Igreja não se identifica indistintamente com os enviados; a promessa conserva força sem garantir qualquer desejo. Práticas particulares e perguntas pertencem ao derivado pastoral.",
       "tags": [
         "mt1714-21",
         "aplicacao",
@@ -389,12 +392,13 @@
       },
       "sources": [
         "estudos/mateus/17-14-20/EXE-14-horizonte-aplicacao.md",
-        "estudos/mateus/17-14-20/EXE-13B-antropologia-etica-sabedoria.md"
+        "estudos/mateus/17-14-20/EXE-13B-antropologia-etica-sabedoria.md",
+        "estudos/mateus/17-14-20/revisao-aplicacao-controles.md"
       ],
       "source_baseline_commit": "341fb5dc534e8aacf98fc5e7a32658452f025cf8"
     }
   ],
   "recovery_update": "03 recuperado; sem transferência ao Logos",
   "method_review": "Revisão interna delimitada emEXE-04-05-06-analise-linguistica.md;sem auditoria independente",
-  "version": "1.2.0"
+  "version": "1.3.0"
 }

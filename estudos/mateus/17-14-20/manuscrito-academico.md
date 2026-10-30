@@ -381,14 +381,6 @@ A pergunta dos discípulos torna possível a explicação. Isso favorece reconhe
 
 A perícope pode, portanto, fundamentar uma compreensão de cuidado responsável, confiança e aprendizagem sob a autoridade de Cristo. Não legitima a indiferença diante do sofrimento, a autossuficiência de quem exerce uma função ou a certeza de conhecer causas não reveladas. Essas conclusões preservam a promessa como palavra de encorajamento eficaz e a censura como juízo particular. A passagem contribui para a doutrina e para a reflexão moral precisamente quando sua força e seus limites são mantidos juntos.
 
-### 3.3. Mensagem para hoje e implicações práticas
-
-A aplicação da passagem relaciona busca confiante de misericórdia, cuidado concreto e receptividade ao ensino. A ponte à Igreja considera diferenças de situação e função: nem cada membro equivale aos doze nem uma liderança atual ocupa a posição deJesus. Formas específicas de cuidado e perguntas de exame são prudenciais, sem constituir nova técnica obrigatória.
-
-A promessa permite pedir socorro real, sem medir a fé pela emoção ou exigir resultado predeterminado. Hb11 e2Co12 impedem tratar toda aflição persistente como incredulidade;Tg5 sustenta oração comunitária e expectativa de auxílio. Esses limites canônicos não negam a causa declarada20. No aconselhamento, fatos e causas exigem distinção: diagnóstico daquela falha não se transfere automaticamente à doença de uma pessoa atual.
-
-A passagem não prescreve sucesso profissional, escolar ou institucional. A graça não se conquista mediante intensidade psicológica, e a dependência não elimina a responsabilidade de confiar e receber instrução.
-
 ## Conclusão
 
 A incapacidade dos discípulos é explicada porJesus como pouca fé, no contexto de uma comissão real. Sua resposta vem depois de uma intervenção que resolve o sofrimento do menino. O encadeamento16–19–20 e a cura18 são decisivos para compreender a unidade: socorro misericordioso e formação dependente pertencem ao mesmo acontecimento.

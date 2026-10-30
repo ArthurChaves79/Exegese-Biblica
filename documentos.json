@@ -696,6 +696,25 @@
         "INTEGRADO-SINTESE",
         "VAL-INTERNA-20261029"
       ]
+    },
+    {
+      "id": "APLICACAO-REVISAO",
+      "path": "estudos/mateus/17-14-20/revisao-aplicacao-controles.md",
+      "tipo": "acervo",
+      "estado": "atual",
+      "depende_de": [
+        "MT1714-21-MANUSCRITO"
+      ]
+    },
+    {
+      "id": "APLICACAO-DERIVADO",
+      "path": "estudos/mateus/17-14-20/aplicacao-hermeneutica.md",
+      "tipo": "derivado",
+      "estado": "atual",
+      "depende_de": [
+        "APLICACAO-REVISAO",
+        "MT1714-21-MANUSCRITO"
+      ]
     }
   ]
 }

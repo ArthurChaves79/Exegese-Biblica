@@ -1,8 +1,8 @@
 {
   "passagem": "Mt 17.14–21 (texto principal 14–20; v21 em nota)",
   "data": "2026-10-30",
-  "etapa_atual": "Contribuição sistemática e antropológica revista internamente",
-  "proxima": "Aguardar orientação para aplicação; sem fechamento editorial",
+  "etapa_atual": "Horizonte hermenêutico e aplicação revistos em derivado",
+  "proxima": "Aguardar orientação; consolidação acadêmica e Word não concluídos",
   "reservado": "Mt 17.1–13",
   "pendencias": [
     "Revisão independente não realizada; revisão atual é interna e delimitada",
@@ -88,5 +88,6 @@
   "revisao_linguistica": "EXE-04-05-06-analise-linguistica.md",
   "complemento_lexical": "complemento-bdag-lexico.md; quatro verbetes recebidos e integrados; D57–D60",
   "complemento_marcos": "complemento-mc9-29.md; D67–D68",
-  "revisao_sistematica": "revisao-sistematica-antropologica.md"
+  "revisao_sistematica": "revisao-sistematica-antropologica.md",
+  "aplicacao_atual": "aplicacao-hermeneutica.md"
 }
