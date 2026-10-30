@@ -1,102 +1,57 @@
-# Perguntas acompanhadas
+# Perguntas acompanhadas — situação consolidada em 30/10/2026
 
-| ID | Pergunta | Estado | Evidência / próximo passo |
-|---|---|---|---|
-| P01 | Por que fracassaram? | Respondida no caso narrado | pouca fé, v20 |
-| P02 | O que significa a mostarda? | Preferência moderada | pequenez diante do grande efeito; preservar tensão |
-| P03 | Quem é a geração? | Aberta, preferência coletiva | discípulos envolvidos, extensão exata indeterminada |
-| P04 | Nada impossível garante qualquer resultado? | Avaliada10B: não garante qualquer desejo | contexto da missão e1Jo5.14; amplitude concreta preservada |
-| P05 | Fé e oração em Mateus e Marcos? | Complementaridade qualificada10B | Mc9.29; não reconstruir prática omitida; v21 em nota |
-| P06 | Doença e ação demoníaca? | Afirmação local estabelecida | narrativa afirma ambas; generalização não autorizada |
-| P07 | Relação com Dt32? | Respondida parcialmente em EXE-09 | Alusão provável, Moderado; não importar todo o cântico |
-| P08 | Presença/Emanuel em17.17? | Eco deliberado: Baixo; comparação temática possível | Revisão interna de 27/10/2026 supera o grau anterior; retirada definitiva não demonstrada |
-| P09 | Pronome sujeito explícito em17.19? | Esclarecido | ἡμεῖς saliente em contraste com Jesus; não inferir estado psicológico |
-| P10 | Fé especial/comum, oração e alcance da promessa? | Avaliada10B: dom possível, exclusividade não demonstrada | Não resolver pela autoridade ou votação de intérpretes |
-| P11 | Mostarda indica crescimento/perseverança? | Avaliada10B: perseverança canônica; crescimento não necessário ao sentido | Não transferir automaticamente13.31–32 |
-| P12 | Zc4.7 é fonte do dito sobre monte? | Paralelo temático pertinente; alusão não demonstrada | Distinguir imagem e dependência |
-| P13 | Que sentido integrar ao EXE-12? | Sintetizado no EXE-11 | Problema e ideia fixados;cura18 e instrução20 preservadas |
-| P14 | Contribuição teológico-bíblica específica? | Elaborada12 | Socorro misericordioso e formação dependente;articulação canônica com limites |
-| P15 | Como articular temas no cânon? | Integrado12B | Comparações e graus registrados;nenhuma tipologia imposta |
-| P16 | Qual contribuição sistemática é sustentada? | Elaborada13 | Autoridade misericordiosa, confiança e missão; integração canônica distinta de afirmação explícita; dons hoje não resolvidos pela cena |
-| P17 | Como distinguir sofrimento, culpa e responsabilidade? | Elaborada13B | Aflição do menino distinta da pouca fé dos discípulos; causa expressa não universalizada; motivações não narradas permanecem desconhecidas |
-| P18 | O EXE-03 histórico integral foi recuperado? | Sim, por reenvio;revisão P21 | Diagnóstico anterior de ausência superado;texto recebido e conferência preservados;limites técnicos/bibliográficos discriminados |
-| P19 | Qual documento passa a fundamentar os produtos? | Manuscrito acadêmico: interpretação em desenvolvimento; dossiê: evidências e âncoras | Consultar ficha-manuscrito.json e cadastro; relatórios preservados e recuperáveis |
-| P20 | As notas foram inseridas no Logos? | Não; preparadas |14 IDs locais estáveis, Markdown/JSON versionados; sem operação no aplicativo |
-| P21 | O reenvio supera a lacuna03? | Sim quanto ao acesso documental; atualiza P18 | Texto recebido preservado; seção6 incorporada; comparação e limites registrados; outras lacunas não sanadas automaticamente |
-| P22 | Como aplicar preservando sentido e limites? | Elaborada14 | Socorro, confiança e cuidado; pontes e graus individualizados; casos hipotéticos prudenciais, sem culpa automática ou promessa de qualquer resultado |
-| P23 | O que significa o fechamento15A? | Documental no escopo disponível | Dossiê consolidado;questões e lacunas delimitadas;sem certificação integral ou revisão independente; manuscrito preliminar pendente de desenvolvimento |
+IDs preservados. Esta tabela substitui o estado acumulado; o registro anterior está em `historico/consolidacao-20261030/perguntas.md`. Respostas não equivalem a certezas uniformes. Prioridades dos testes permanecem nos relatórios; objeções não perdem relevância por contrariarem uma preferência.
 
-| P24 | O produto final e o modelo foram atendidos? | Exposição anterior preservada; objetivo acadêmico ainda pendente | A separação documental não comprova profundidade explicativa; desenvolver o manuscrito conforme ficha e critérios aprovados |
-
-
-## Contexto e estrutura —28/10/2026
-
-|ID|Pergunta|Prioridade|Resultado|
-|---|---|---|---|
-|P25|Onde começa e termina o episódio?|Decisiva|14–20 sustentado;21 depende de decisão textual a reexaminar|
-|P26|Como se liga aos vizinhos?|Relevante|Continuidade com descida e caminho do sofrimento, sem fusão de episódios|
-|P27|Qual macroseção o contém?|Relevante|16.13–17.23 como recorteModerado; extensão exclusiva permanece aberta|
-|P28|Há centro único ou quiasmo?|Relevante|Não necessários nem demonstrados; duas cenas e resoluções distintas|
-
-
-## Texto e tradução —28/10
-
-|ID|Pergunta|Prioridade|Estado|
-|---|---|---|---|
-|P29|ὀλιγοπιστία ouἀπιστία?|Decisiva|Primeira preferida por apoio e explicação transcricional; não taxonomia semântica automática|
-|P30|21 pertence ao principal?|Decisiva|Omissão preferida; nota preserva inclusão antiga e impacto|
-|P31|πάσχει ouἔχει?|Relevante|πάσχει provisório; forte apoio contrário e discriminação interna limitada|
-|P32|Quais índices/sinais faltam?|Complementar documental|Solicitar somente imagemNA28 p54–55 para precisão do aparato|
-|P33|Qual tradução é atual?|Relevante|traducao-trabalho-revisada.md;03 histórico preservado|
-
-
-P32 atualizada: legenda geral recebida; precisão local ainda requer imagemMt17,p54–55,com corretores,índices e transposição17. Inventários da introdução fornecida ainda não arquivados integralmente; registro seletivo identificado.
-
-## Revisão linguística —28/10/2026
-
-Esta seção qualifica o estado das perguntas anteriores, sem apagar sua história: P02/P11 recebemD53;P03 recebeD55;P04 recebeD54, cuja demonstração local não depende de1Jo5.14;P09 recebeD51. P25/P30 continuam com14–20principal/21nota.
-
-|ID|Pergunta|Prioridade|Estado|
-|---|---|---|---|
-|P34|O que afirma positivamente a promessa e até onde se estende?|Decisiva|Núcleo desenvolvido;capacidade efetiva,condição e destinatários sustentados;fronteiras posteriores abertas|
-|P35|Qual alcance deγενεά e quais nuances dos qualificativos?|Relevante|Coletivo provavelmente inclui discípulos;extensão aberta;Thayer e BDAG consultados; contemporaneidade priorizada no complemento de29/10; destinatários exatos ainda abertos|
-|P36|Quem recebe a repreensão18?|Relevante|Demônio preferidoModerado;menino favorecido pela continuidade é alternativa viva|
-|P37|Como explicar pouca fé/mostarda?|Relevante|Funções retóricas diferentes,pequenez/grandeefeito preferidosModerado;não categorias técnicas|
-|P38|Quais consultas gramaticais ainda faltam?|Complementar|Smyth/Mounce digitais consultados;Zerwick50,Moule203,BDF146(2) seguem mediados porCarson|
-
-Relatório04/05/06 e fontes-linguisticas-20261028.md especificam consultas e pedidos opcionais doLogos. Nenhuma fonte indispensável ausente bloqueia o núcleo desta rodada. P32 e preservação integral da legenda continuam pendentes.
-
-
-## Revisão sinótica e histórica —29/10/2026
-
-Ver [relatório e fontes](comparacao-sinotica-contexto-historico.md): D61–D66, P39–P43. Manuscrito1.1 e2.5.7–8 desenvolvidos; tradução mantida. Complementaridade fé/oração qualificada; procedimento dos discípulos desconhecido; referente18 reforçado pelos paralelos. Sem avanço à síntese ou integração canônica. P42 requer aparatoMc9.29.
-
-
-## Aparato deMc9.29 recebido —29/10/2026
-
-[Complemento textual](complemento-mc9-29.md): D67–D68; P42 documentalmente suprida quanto às leituras e siglas legíveis, com índices ainda ausentes. Metzger indisponível, não consultado nem exigido. Preferência moderada por oração sem jejum; apoio amplo à inclusão reconhecido. Tradução deMateus e comparação fé/oração mantidas.
-
-
-## Revisão crítica interna de29/10/2026
-
-Ver [VAL-01–05 e teste seletivoVAL-06](VAL-01-05-revisao-interna.md). D69–D76 corrigem apresentaçãoFrance/Luz e qualificam mostarda e promessa: condição/destinatários não delimitam sozinhos todos os resultados. Comparação fé/oração não demonstra intenção conjunta nem procedimento omitido. Tradução mantida; revisão interna, não independente. Resultados anteriores só sustentam comentário/síntese sob essas qualificações; nenhum próximo bloco executado.
-
-
-## Comentário integrado e síntese —29/10/2026
-
-[Conferência e decisõesD77–D80](comentario-integrado-sintese-conferencia.md). Manuscrito2.4 reorganizado e2.5 desenvolvido sob qualificaçõesVAL. Tradução mantida;N013 atualizada. Extensão da promessa,mostarda,destinatários e integração canônica permanecem qualificados. Capítulo3 e posteriores não revalidados; nenhum avanço automático.
-
-
-## Revisão canônica29/10/2026
-
-[VAL06 e fontes](revisao-canonica-VAL06.md):C01–C15,D81–D85,P44–P47. Manuscrito3.1 desenvolvido;1.5 remete. Síntese/tradução mantidas. Emanuel e alianças específicas não restaurados; Mt21 fortalece fé/oração, Hb11/2Co12 limitam universalização sem esvaziar eficácia. Sem avanço sistemático ou aplicação.
-
-
-## Revisão sistemática e antropológica — 30/10/2026
-
-[Relatório, testes e fontes](revisao-sistematica-antropologica.md): D86–D90; P48–P49. Manuscrito3.2 desenvolvido; tradução e síntese mantidas. N011/N012 atualizadas. Revisão interna; sem avanço à aplicação nem fechamento editorial.
-
-
-## Aplicação revista — 30/10/2026
-
-[Derivado](aplicacao-hermeneutica.md) e [revisão interna](revisao-aplicacao-controles.md): D91–D95, P50–P51. Seção3.3 transferida do manuscrito; histórico preservado. Tradução e síntese mantidas. Exemplos hipotéticos; nenhuma pessoa real, sermão, Word ou fechamento editorial.
+| ID | Pergunta | Situação | Resposta atual / limite | Base |
+|---|---|---|---|---|
+| P01 | Por que fracassaram? | Respondida | Jesus atribui o fracasso à pouca fé; não revela todo o procedimento anterior. | 17.19–20; comentário 2.4.5 |
+| P02 | O que significa a mostarda? | Preferência qualificada | Pequenez e grande efeito explicam melhor a comparação; paradoxo não inteiramente resolvido. | VAL-01–05; 2.4.5.1 |
+| P03 | Quem é a geração? | Aberta interpretativa | Coletivo contemporâneo provavelmente inclui discípulos; extensão precisa indeterminada. | BDAG γενεά; 2.4.2 |
+| P04 | Nada impossível garante qualquer resultado? | Qualificada | Eficácia concreta no horizonte da missão; condição e destinatários não limitam sozinhos todos os resultados. | VAL-01–05; 2.4.5.2 |
+| P05 | Fé e oração em Mateus e Marcos? | Qualificada | Complementaridade de confiança e oração; não prova de oração omitida. | Mc 9.29; 2.4.7 |
+| P06 | Doença e ação demoníaca? | Respondida no escopo | Sofrimento corporal e demônio afirmados no episódio; sem diagnóstico clínico retrospectivo ou regra universal. | 17.15,18; seção 1.1 |
+| P07 | Relação com Dt32? | Qualificada | Alusão provável; correspondência grega ainda mediada por Carson/BDAG. | VAL06 C04; 3.1 |
+| P08 | Presença/Emanuel em17.17? | Possibilidade | Comparação temática legítima; eco deliberado e retirada definitiva não demonstrados. | VAL06 C09; 3.1 |
+| P09 | Pronome sujeito explícito em17.19? | Respondida | Pronome explícito torna sujeitos salientes; contraste contextual não revela orgulho ou autossuficiência. | 17.19; análise linguística; 2.4.4 |
+| P10 | Fé especial/comum, oração e alcance da promessa? | Aberta interpretativa | Dom especial possível; exclusividade lexical não demonstrada. | 1Co 12; VAL06 C14 |
+| P11 | Mostarda indica crescimento/perseverança? | Respondida no escopo | Crescimento não exigido em 17.20; perseverança canônica não determina a comparação. | 13.31–32; VAL06 C06 |
+| P12 | Zc4.7 é fonte do dito sobre monte? | Não estabelecida | Paralelo temático; dependência literária de Zc 4.7 não demonstrada. | EXE-10B; 2.4.5.2 |
+| P13 | Que sentido integrar ao EXE-12? | Respondida | Socorro ao menino, autoridade de Jesus e formação dos discípulos integrados. | 2.5; conferência do comentário |
+| P14 | Contribuição teológico-bíblica específica? | Respondida no escopo | Missão, misericórdia, Reino e percurso da paixão articulados sem impor expiação específica. | 3.1; VAL06 |
+| P15 | Como articular temas no cânon? | Respondida no escopo | Conexões C01–C15 avaliadas individualmente; compatibilidade não equivale a alusão. | revisao-canonica-VAL06.md |
+| P16 | Qual contribuição sistemática é sustentada? | Respondida no escopo | Autoridade misericordiosa, confiança dependente e responsabilidade; sem sistema completo. | 3.2; revisão sistemática |
+| P17 | Como distinguir sofrimento, culpa e responsabilidade? | Respondida | Aflição do menino distinta da deficiência dos discípulos; não culpabilização universal. | 17.15–20; 3.2 |
+| P18 | O EXE-03 histórico integral foi recuperado? | Recuperada | Texto integral reenviado preservado; consultas externas declaradas não reconferidas. | EXE-03-recuperado.txt e conferência |
+| P19 | Qual documento passa a fundamentar os produtos? | Definida | Manuscrito é exposição cumulativa; acervo preserva demonstração técnica e história. | ficha-manuscrito.json; documentos.json |
+| P20 | As notas foram inseridas no Logos? | Pendente operacional | 14 notas preparadas; nenhuma transferência ao aplicativo confirmada. | notas-logos.json |
+| P21 | O reenvio supera a lacuna03? | Respondida | Recuperação supera falta do EXE-03, sem sanar todas as lacunas de procedência. | EXE-03-recuperado-conferencia.md |
+| P22 | Como aplicar preservando sentido e limites? | Respondida no escopo | Aplicação geral em derivado; casos hipotéticos e conselhos prudenciais distinguidos. | aplicacao-hermeneutica.md |
+| P23 | O que significa o fechamento15A? | Atualizada | Consolidação atual delimitada; não certificação independente nem entrega final. | consolidacao-pesquisa.md |
+| P24 | O produto final e o modelo foram atendidos? | Próxima etapa | Pronto para revisão editorial e preparação do Word; DOCX ainda não gerado ou conferido. | ficha-manuscrito.json |
+| P25 | Onde começa e termina o episódio? | Respondida | 14–20 principal;21 em nota conforme decisão textual. | 2.2; relatório textual |
+| P26 | Como se liga aos vizinhos? | Respondida | Continuidade narrativa com descida e paixão, sem fusão de perícopes. | 1.2–1.5; contexto/estrutura |
+| P27 | Qual macroseção o contém? | Qualificada | 16.13–17.23 útil como recorte, não única macrodivisão possível. | contexto/estrutura; seção 1 |
+| P28 | Há centro único ou quiasmo? | Não demonstrada | Quiasmo e centro único não necessários; cura e instrução conservam funções próprias. | contexto/estrutura |
+| P29 | ὀλιγοπιστία ouἀπιστία? | Preferida | ὀλιγοπιστία por evidência externa e explicação da alteração; não definição automática qualidade/quantidade. | 2.2; relatório textual |
+| P30 | 21 pertence ao principal? | Preferida | Omissão de 21 no principal; inclusão antiga e ampla documentada em nota. | 2.2; 2.4.8 |
+| P31 | πάσχει ouἔχει? | Provisória | πάσχει conservado; ἔχει tem apoio forte e diferença de sentido reduzida. | relatório textual; tradução |
+| P32 | Quais índices/sinais faltam? | Lacuna específica | Imagens NA28 p.54–55 e141 necessárias só à precisão de índices/corretores/transposição; não reconstruir. | complementos da legenda e Mc9.29 |
+| P33 | Qual tradução é atual? | Definida | Tradução revisada de 28/10 preservada; EXE-03 histórico não confundido com revisão. | traducao-trabalho-revisada.md |
+| P34 | O que afirma positivamente a promessa e até onde se estende? | Qualificada | Capacidade efetiva anunciada; fronteiras de toda aplicação não enumeradas. | 2.4.5.2; VAL01–05 |
+| P35 | Qual alcance deγενεά e quais nuances dos qualificativos? | Qualificada | Geração/contemporâneos é sentido contextual preferido; léxico não identifica toda a audiência. | BDAG; 2.4.2 |
+| P36 | Quem recebe a repreensão18? | Qualificada | Demônio provável por sequência e paralelos; morfologia não exclui menino. | 2.3; 2.4.3; tradução |
+| P37 | Como explicar pouca fé/mostarda? | Qualificada | Funções retóricas distintas preferíveis; não categorias técnicas nem crescimento imposto. | 2.4.5.1; VAL02/04 |
+| P38 | Quais consultas gramaticais ainda faltam? | Consulta limitada | Smyth/Mounce consultados seletivamente; Zerwick50, Moule203 e BDF146(2) mediados por Carson. | fontes-linguisticas-20261028.md |
+| P39 | Como relacionar fé e oração nos sinóticos? | Qualificada | Orações e fé convergem como dependência sem identidade semântica nem reconstrução de procedimento. | 2.4.7; comparação sinótica |
+| P40 | Que contribuição composicional é observável em Mateus? | Respondida no escopo | Seleção e sequência observáveis; fonte literária e intenção de cada omissão permanecem hipóteses. | 2.4.6 |
+| P41 | O que o contexto histórico esclarece e o que não permite inferir? | Respondida no escopo | Hipócrates/Josefo mostram contextos distintos; não provam crença de cada personagem. | 1.1; relatório sinótico-histórico |
+| P42 | O aparato de Marcos 9.29 está disponível? | Parcial documental | Texto e aparato recebidos; índices perdidos; leitura curta moderadamente preferida; Metzger não consultado. | complemento-mc9-29.md |
+| P43 | É possível reconstruir tradições anteriores e uma comunidade específica? | Não estabelecida | Tradições anteriores e comunidade hipotética não demonstradas pelos textos finais. | comparação sinótica |
+| P44 | Qual é a extensão da promessa sob a comparação canônica? | Aberta decisiva | Promessa concreta mantida; comparação com Mt21/Tg5 não resolve cada fronteira ou caso. | VAL06 C07/C11–13 |
+| P45 | Que evidência falta para discriminar a alusão a Deuteronômio 32? | Lacuna específica | Colação direta do grego de Dt32.5,20 e comparáveis refinaria classificação alusiva; não pressuposta. | VAL06 C04; nota can2 |
+| P46 | A fé é dom específico e o episódio resolve a continuidade dos dons? | Aberta fora do escopo | Não há base para decidir continuidade dos dons apenas por esta cena. | VAL06 C14; 3.2 |
+| P47 | Que relação detalhada entre cura e expiação pode ser estabelecida? | Não estabelecida | Cura integra missão rumo à paixão; teoria detalhada cura/expiação requer outra demonstração. | VAL06 C08; 3.1–3.2 |
+| P48 | A passagem decide debates contemporâneos sobre dons? | Não decidida | Diversidade canônica impede identidade automática de funções; debate de dons não encerrado. | revisão sistemática |
+| P49 | Quais pontes gerais e particulares sustentam a aplicação? | Respondida no geral | Pontes gerais desenvolvidas; aplicação particular depende de informações sobre pessoas e contexto. | derivado e controles |
+| P50 | Qual é o referente de “esta espécie” em Marcos? | Aberta interpretativa | Conjunto dos espíritos ou espécie particular; nenhuma escala mensurável demonstrada. | Mc9.29; 2.4.7; controles de aplicação |
+| P51 | O que seria necessário conhecer antes de aplicar a um caso real? | Limite de escopo | Circunstâncias, necessidades, expectativas e cuidados já recebidos devem ser conhecidos; nenhum caso real examinado. | aplicacao-hermeneutica.md |

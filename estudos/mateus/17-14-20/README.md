@@ -1,5 +1,8 @@
 # Mateus 17.14–21
 
+
+> Estado vigente em30/10/2026: [consolidação](consolidacao-pesquisa.md), manuscrito2.0.0 e perguntas atualizadas. Este acervo preserva formulações históricas; não restaurar conclusões superadas.
+
 Texto principal: 17.14–20; 17.21 em nota textual. Mateus 17.1–13 permanece reservado.
 
 O [manuscrito acadêmico](manuscrito-academico.md) é a redação cumulativa principal e deve crescer a cada investigação. O [documento mestre anterior](documento-mestre.md) permanece como dossiê de pesquisa com âncoras estáveis; não é o manuscrito limpo. A [exposição anterior](EXE-15B-exposicao-final.md) conserva o produto editorial anterior à adoção.

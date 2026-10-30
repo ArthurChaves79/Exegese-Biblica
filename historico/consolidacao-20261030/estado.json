@@ -1,0 +1,93 @@
+{
+  "passagem": "Mt 17.14–21 (texto principal 14–20; v21 em nota)",
+  "data": "2026-10-30",
+  "etapa_atual": "Horizonte hermenêutico e aplicação revistos em derivado",
+  "proxima": "Aguardar orientação; consolidação acadêmica e Word não concluídos",
+  "reservado": "Mt 17.1–13",
+  "pendencias": [
+    "Revisão independente não realizada; revisão atual é interna e delimitada",
+    "Sobrescritos perdidos do aparato não reconstruídos",
+    "Consultas externas/edições de versões declaradas no EXE03 não reconferidas",
+    "Respostas históricas integrais de outras etapas iniciais não recuperadas",
+    "Desenvolvimento argumentativo, revisão editorial e transferência da aplicação para derivado conforme ficha-manuscrito.json",
+    "Extensão da geração,referente18,paradoxo da mostarda e fronteiras da promessa permanecem qualificados; núcleo positivo desenvolvido",
+    "Inventários integrais da última legendaNA28 não arquivados; cobertura seletiva anterior preservada",
+    "P42: leituras e aparatoMc9.29 recebidos; restam índices perdidos, sem bloqueio geral"
+  ],
+  "fontes_arquivadas": [
+    "NA28",
+    "BDAG",
+    "France",
+    "Carson",
+    "Luz",
+    "Lange",
+    "Hendriksen",
+    "Westcott e Hort"
+  ],
+  "git_status": "Publicação autorizada e operacional; bloqueio 403 resolvido em 26/10/2026",
+  "fontes_consultadas_web": [
+    "Orígenes, Comentário XIII.4–7",
+    "Crisóstomo, Homilia57 §§3–4",
+    "Catena aurea17 lectiones4–5",
+    "Calvino, Harmonia Mt17.19–21",
+    "Matthew Henry, Mt17.14–21",
+    "Confissão de Westminster, OPC: 5.3;14.2–3;21.3–4 (comparação seletiva)"
+  ],
+  "limites_fontes": "Usuário informou ter fornecido todo material Logos disponível; Bavinck não consultado, sem bloquear avanço.",
+  "problema_central": "A incapacidade dos discípulos de socorrer o menino, apesar da autoridade recebida, revela uma deficiência de fé que Jesus corrige mediante sua intervenção e instrução.",
+  "ideia_exegetica": "Ao libertar e curar o menino que os discípulos não puderam socorrer, Jesus manifesta sua autoridade, atribui o fracasso deles à pouca fé e os instrui acerca das possibilidades extraordinárias da fé mediante a imagem da mostarda e do monte.",
+  "documento_mestre": {
+    "id": "MT1714-21-MESTRE",
+    "path": "estudos/mateus/17-14-20/documento-mestre.md",
+    "version": "0.8.0",
+    "natureza": "dossie_de_pesquisa_preservado_com_ancoras",
+    "base_ate": "Revisão linguística28/10",
+    "aplicacao": "EXE-14 geral elaborada; sem comunicação personalizada ou caso real"
+  },
+  "traducao": {
+    "historico_EXE03": "recuperado por reenvio do pesquisador; origem registrada",
+    "arquivo": "estudos/mateus/17-14-20/EXE-03-recuperado.txt",
+    "conferencia": "estudos/mateus/17-14-20/EXE-03-recuperado-conferencia.md",
+    "atual": "traducao-trabalho-revisada.md,28/10;03 histórico intacto",
+    "limite": "links/edições e consultas externas declaradas não reconferidos; sem auditoria exaustiva"
+  },
+  "notas_logos": {
+    "path": "estudos/mateus/17-14-20/notas-logos.md",
+    "structured_path": "estudos/mateus/17-14-20/notas-logos.json",
+    "quantidade": 14,
+    "ids": "MT1714-21-N001 a MT1714-21-N014",
+    "status": "preparadas e versionadas; não transferidas ao aplicativo",
+    "origem": "dossiê e manuscrito, com dependências externas e revisão interna"
+  },
+  "conferencia_NA28": {
+    "relatorio": "estudos/mateus/17-14-20/conferencia-na28-reenvio.md",
+    "fonte": "fontes/logos/na28-mt17-reenvio.txt",
+    "resultado": "Grego03 coincide com principal; arquivo anterior sem diferença substantiva; sinais ausentes não restaurados"
+  },
+  "fechamento": {
+    "documental": "concluído no escopo disponível",
+    "validacao_integral_metodo": false,
+    "revisao_independente": false,
+    "produto_15B": "manuscrito preliminar; separação documental concluída, desenvolvimento argumentativo e entrega acadêmica pendentes",
+    "relatorio": "estudos/mateus/17-14-20/EXE-15A-dossie-consolidado.md"
+  },
+  "produto_final": {
+    "path": "estudos/mateus/17-14-20/EXE-15B-exposicao-final.md",
+    "version": "1.0.0",
+    "controle": "estudos/mateus/17-14-20/EXE-15B-controle-editorial.md",
+    "base": "mestre0.3.0/15A0.1.0",
+    "modelo": "1Co6.1–11 do pesquisador;estrutura consultada em recortes,sem reprodução gráfica",
+    "estado": "produto histórico anterior; redação vigente em manuscrito-academico.md"
+  },
+  "metodo": "metodo/METODO.md",
+  "manuscrito": "estudos/mateus/17-14-20/manuscrito-academico.md",
+  "revisao_interna": "estudos/mateus/17-14-20/revisao-metodo.md",
+  "revisao_contexto": "estudos/mateus/17-14-20/EXE-01-01B-07-contexto-estrutura.md",
+  "revisao_textual": "estudos/mateus/17-14-20/EXE-02-03-texto-traducao.md",
+  "complemento_legenda": "Legenda recebida; cobertura arquivada seletiva; símbolos esclarecidos,índices locais perdidos não restituídos; sem nova tradução",
+  "revisao_linguistica": "EXE-04-05-06-analise-linguistica.md",
+  "complemento_lexical": "complemento-bdag-lexico.md; quatro verbetes recebidos e integrados; D57–D60",
+  "complemento_marcos": "complemento-mc9-29.md; D67–D68",
+  "revisao_sistematica": "revisao-sistematica-antropologica.md",
+  "aplicacao_atual": "aplicacao-hermeneutica.md"
+}

@@ -1,5 +1,8 @@
 # Mateus 17.14–21 — Documento exegético mestre
 
+
+> Estado vigente em30/10/2026: [consolidação](consolidacao-pesquisa.md), manuscrito2.0.0 e perguntas atualizadas. Este acervo preserva formulações históricas; não restaurar conclusões superadas.
+
 **Identificador do projeto:** MT1714-21-MESTRE. **Versão:** 0.8.0, 27/10/2026. **Natureza:** consolidação intermediária cumulativa, com exposição argumentativa e trilha de evidências. **Texto principal adotado:**17.14–20; **17.21:** tradição textual examinada em nota. A designação14–21 amplia a cobertura documental sem alterar a decisão textual D03 ou renomear o diretório histórico.
 
 **Revisão linguística vigente:** [EXE-04-05-06-analise-linguistica.md](EXE-04-05-06-analise-linguistica.md),28/10/2026. Aprofunda sintaxe,discurso e léxico; não valida integralmente blocos posteriores.

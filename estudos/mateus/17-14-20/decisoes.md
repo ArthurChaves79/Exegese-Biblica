@@ -131,3 +131,8 @@ Ver [VAL-01–05 e teste seletivoVAL-06](VAL-01-05-revisao-interna.md). D69–D7
 ## Aplicação revista — 30/10/2026
 
 [Derivado](aplicacao-hermeneutica.md) e [revisão interna](revisao-aplicacao-controles.md): D91–D95, P50–P51. Seção3.3 transferida do manuscrito; histórico preservado. Tradução e síntese mantidas. Exemplos hipotéticos; nenhuma pessoa real, sermão, Word ou fechamento editorial.
+
+
+## Consolidação — 30/10/2026
+
+D96–D99: recepção seletiva recuperada em2.4.9 com fontes reconferidas; N010 restaurada e N011 complementada; espécie e comunhão trinitária incorporadas sem reconstrução psicológica; perguntas/estado atualizados. Tradução mantida. Testes, evidências, alternativas e limites em [consolidação](consolidacao-pesquisa.md). Pronto para revisão editorial, não Word entregue.

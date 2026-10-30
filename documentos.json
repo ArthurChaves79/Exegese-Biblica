@@ -715,6 +715,25 @@
         "APLICACAO-REVISAO",
         "MT1714-21-MANUSCRITO"
       ]
+    },
+    {
+      "id": "MT1714-CONSOLIDACAO-20261030",
+      "path": "estudos/mateus/17-14-20/consolidacao-pesquisa.md",
+      "tipo": "acervo",
+      "estado": "atual",
+      "depende_de": [
+        "METODO",
+        "MT1714-21-MANUSCRITO"
+      ]
+    },
+    {
+      "id": "MT1714-MANIFESTO-20261030",
+      "path": "estudos/mateus/17-14-20/manifesto-consolidacao.json",
+      "tipo": "acervo",
+      "estado": "atual",
+      "depende_de": [
+        "MT1714-CONSOLIDACAO-20261030"
+      ]
     }
   ]
 }

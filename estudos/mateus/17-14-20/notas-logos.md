@@ -1,6 +1,6 @@
 # Notas essenciais para o Logos
 
-Preparadas; não transferidas. IDs preservados. Exemplos pastorais permanecem no derivado.
+Preparadas; não transferidas. IDs preservados; versão de conjunto 1.4.0. Exemplos pastorais permanecem no derivado.
 
 ## MT1714-21-N001 — Procedência da tradução de trabalho
 
@@ -40,11 +40,11 @@ A condiçãoἐάν/subjuntivo alcança os futuros: direis (discípulos),passar�
 
 ## MT1714-21-N010 — Versículo21 e oração/jejum
 
-“Esta espécie” emMc9.29 admite discussão do referente, mas não demonstra escala mensurável de poder ou duração de jejuns necessária para superar categorias demoníacas. Mateus20 atribui o fracasso à pouca fé. Decisões textuais sobre21 eMc9.29 preservadas.
+Mateus 17.21 permanece em nota: a omissão é preferida pela combinação da evidência disponível e da explicação de harmonização com Marcos, sem negar a inclusão antiga e ampla. Em Marcos 9.29, oração está presente nas duas leituras; “e jejum” possui apoio amplo, enquanto a forma curta tem apoio explícito em א*, B, 0274 e k. A preferência pela forma curta é moderada; índices perdidos da transcrição não foram reconstruídos. “Esta espécie” pode designar o conjunto dos espíritos ou uma categoria particular; isso não demonstra uma hierarquia mensurável de poder nem técnicas para aumentar força pessoal. Mateus atribui o fracasso à pouca fé; Marcos requer oração. A complementaridade não prova que os discípulos deixaram de orar.
 
 ## MT1714-21-N011 — Cânon, dons e sofrimento
 
-A oração expressa dependência relacional; Ef2.18 fundamenta canonicamente acesso aoPai porCristo noEspírito. Essa integração não demonstra negligência trinitária consciente dos discípulos nem ausência de toda oração. Diversidade de1Co12 impede uniformizar funções; sofrimento não decide sozinho condição espiritual.
+A oração expressa dependência relacional; Ef2.18 fundamenta canonicamente acesso aoPai porCristo noEspírito. Essa integração não demonstra negligência trinitária consciente dos discípulos nem ausência de toda oração. Diversidade de1Co12 impede uniformizar funções; sofrimento não decide sozinho condição espiritual. Hebreus 11.32–40 reúne livramento e sofrimento entre pessoas aprovadas pela fé; 2 Coríntios 12.7–10 apresenta súplica e graça sem remoção do espinho. Esses textos limitam a generalização de que sofrimento persistente prova incredulidade, sem negar a eficácia positiva anunciada em Mateus. Não identificam retrospectivamente o procedimento dos discípulos.
 
 ## MT1714-21-N012 — Sofrimento e responsabilidade no aconselhamento
 

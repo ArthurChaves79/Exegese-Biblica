@@ -1,12 +1,12 @@
-# Autoridade, misericórdia e fé: exegese de Mateus17.14–21
+# Autoridade, misericórdia e fé: exegese de Mateus 17.14–21
 
 **Arthur Reiginaldo de Carvalho Chaves**
 
 ## Introdução
 
-Como compreender a incapacidade de discípulos autorizados a curar e expulsar demônios diante da eficácia de Jesus? Mateus17.14–20 responde mediante um acontecimento e uma instrução: um pai pede misericórdia, Jesus liberta e cura seu filho, e os discípulos recebem explicação sobre o próprio fracasso. O contraste não elimina o valor do socorro ao menino nem transforma a fé em capacidade independente do Senhor.
+Como compreender a incapacidade de discípulos autorizados a curar e expulsar demônios diante da eficácia de Jesus? Mateus 17.14–20 responde mediante um acontecimento e uma instrução: um pai pede misericórdia, Jesus liberta e cura seu filho, e os discípulos recebem explicação sobre o próprio fracasso. O contraste não elimina o valor do socorro ao menino nem transforma a fé em capacidade independente do Senhor.
 
-A exposição acompanha o movimento da passagem e discute as alternativas que afetam seu sentido. O objetivo é explicar a relação entre autoridade, misericórdia e confiança, preservando o alcance do diagnóstico de Jesus. O v21 recebe tratamento textual porque sua presença em parte da tradição influenciou traduções e interpretações. As implicações atuais aparecem separadamente da tradução e do comentário.
+A exposição acompanha o movimento da passagem e discute as alternativas que afetam seu sentido. O objetivo é explicar a relação entre autoridade, misericórdia e confiança, preservando o alcance do diagnóstico de Jesus. O v21 recebe tratamento textual porque sua presença em parte da tradição influenciou traduções e interpretações. A exposição distingue a interpretação local de sua contribuição canônica e teológica.
 
 A análise utiliza o texto e aparato NA28, verbetes do BDAG, consultas seletivas a Smyth e Thayer, passagens comparáveis do texto grego e excertos dos comentários identificados nas referências. A consulta desses excertos não equivale à leitura integral das obras. As conclusões preservam as questões que a evidência disponível não permite resolver.
 
@@ -251,7 +251,7 @@ Permanece uma diferença entre esse núcleo e a extensão total de sua aplicaç�
 
 Por isso, a tradução mantém integralmente “nada vos será impossível”. A expressão “segundo a vontade de Deus” pode pertencer a uma articulação teológica mais ampla, mas não está na frase e não deve ser inserida nela. Também não se deve inferir automaticamente de qualquer cura ausente a falta de fé de qualquer pessoa. Jesus interpreta um fracasso determinado; a ampliação responsável exige examinar destinatários, situação e condição, em vez de transformar o episódio numa fórmula diagnóstica universal. O relato termina com correção e promessa, sem narrar uma segunda tentativa dos discípulos nem permitir certificar por ela como teriam respondido.
 
-### 2.4.6. Os relatos paralelos e a particularidade de Mateus
+#### 2.4.6. Os relatos paralelos e a particularidade de Mateus
 
 Os três relatos compartilham a sequência básica de encontro, aflição do filho, incapacidade dos discípulos e intervenção eficaz de Jesus. As diferenças, porém, orientam a atenção do leitor. Em Marcos, escribas discutem com os discípulos; o pai descreve manifestações corporais e dialoga sobre crer e incredulidade. A expulsão inclui a ordem ao espírito e o levantamento do menino, que parecera morto. A conversa particular ocorre numa casa e culmina na oração. Mateus não reproduz esse desenvolvimento: aproxima imediatamente o pai suplicante e relaciona a explicação final à pouca fé dos discípulos. Essa concentração torna particularmente estreita a ligação entre a incapacidade relatada e sua explicação, sem transformar o menino em mero instrumento didático.[^sin1]
 
@@ -263,23 +263,35 @@ A semelhança extensa entre os relatos torna pertinente discutir relações lite
 
 A comparação contribui também para a referência da repreensão. Marcos e Lucas nomeiam o espírito como seu destinatário, reforçando a preferência por compreender assim o pronome de Mateus 17.18. Esse reforço é comparativo: não altera o fato de que Mateus emprega αὐτῷ, cuja forma não distingue aqui masculino e neutro. Conservar o pronome na tradução analítica continua permitindo observar a diferença entre a formulação mateana e a explicitação nos paralelos.
 
-### 2.4.7. Fé, oração e o limite da reconstrução
+#### 2.4.7. Fé, oração e o limite da reconstrução
 
 Mateus responde à pergunta dos discípulos com uma causa: sua pouca fé. Marcos responde com a necessidade de oração para a expulsão. Como leitura comparativa, há complementaridade plausível, sem que isso demonstre uma intenção conjunta dos evangelistas: a oração exprime dependência, e a confiança requerida por Mateus se dirige ao auxílio que os discípulos não possuem autonomamente. Contudo, os dois enunciados não são semanticamente idênticos. Mateus diagnostica a deficiência; Marcos assinala a necessidade do recurso a Deus. Reduzir um ao outro apagaria a forma particular de cada resposta.
 
 A forma sem “e jejum” encontra apoio explícito, no aparato recebido de Marcos 9.29, em א*, B, 0274 e k. A inclusão de καὶ νηστείᾳ tem apoio amplo em manuscritos gregos, no testemunho majoritário e em versões. A transcrição registra ainda uma subvariante com artigo em Δ. Essa amplitude impede descrever a forma longa como uma adição de circulação insignificante. Também não basta contar testemunhos para decidir: sua independência e a história das leituras não são expressas pela extensão da lista. Alguns índices do aparato não se conservaram, impedindo identificar precisamente o papiro, a família indicada por ƒ e qualificações de certas siglas.[^mc29]
 
-A leitura curta permanece preferível, com reserva proporcional à documentação disponível. Internamente, a ampliação de oração para oração e jejum pode ser explicada pela associação dessas práticas; isso é uma hipótese de transmissão, não uma motivação comprovada de um copista. A alternativa é a perda das palavras finais da forma longa, acidental ou deliberada. A transcrição não oferece um mecanismo inequívoco de omissão nem documenta uma campanha contra o jejum. O apoio à leitura curta e sua capacidade de explicar a ampliação favorecem conservá-la, sem apelar à regra de que o texto menor seria sempre original. A ausência de Metzger não impede esse juízo limitado, que não equivale a uma colação independente dos manuscritos.
+A leitura curta permanece preferível, com reserva proporcional à documentação disponível. Internamente, a ampliação de oração para oração e jejum pode ser explicada pela associação dessas práticas; isso é uma hipótese de transmissão, não uma motivação comprovada de um copista. A alternativa é a perda das palavras finais da forma longa, acidental ou deliberada. A transcrição não oferece um mecanismo inequívoco de omissão nem documenta uma campanha contra o jejum. O apoio à leitura curta e sua capacidade de explicar a ampliação favorecem conservá-la, sem apelar à regra de que o texto menor seria sempre original. Esse juízo permanece limitado pelo caráter parcial da documentação e não equivale a uma colação independente dos manuscritos.
 
 Em ambas as formas de Marcos a oração permanece necessária; a variante incide sobre a inclusão do jejum. Por isso, a relação com a pouca fé em Mateus não depende de resolver toda a história dessa transmissão. A decisão sobre Marcos 9.29 e a decisão sobre a presença de Mateus 17.21 são relacionadas, mas distintas: a existência de uma forma ampliada em Marcos não demonstra por si o caminho exato de sua entrada em Mateus. Mantém-se 17.21 em nota e permanece indevida a reconstrução de que os discípulos necessariamente deixaram de orar ou de jejuar.
 
 Nem a necessidade de oração nem o diagnóstico de pouca fé fornecem uma descrição do procedimento anteriormente empregado. É possível que a tentativa tenha sido marcada por autossuficiência; não se pode afirmar como fato narrado que os discípulos não oraram, usaram uma fórmula mágica ou interromperam a oração cedo demais. Essas explicações, presentes de diferentes modos em Carson e Hendriksen, procuram tornar compreensível o fracasso, mas acrescentam circunstâncias que os relatos não especificam. Também não se narra uma oração de Jesus durante a expulsão: a ausência de registro não prova ausência de oração, nem permite inventar uma oração silenciosa para preencher a lacuna.[^ctx1][^8]
+
+A expressão “esta espécie”, em Marcos, admite discutir se o referente é o conjunto dos espíritos ou um caso particular. Mesmo a segunda possibilidade não fornece uma classificação por níveis mensuráveis de poder, nem diz que os discípulos precisavam aumentar uma força pessoal para competir com o adversário. A resposta de Mateus nomeia a pouca fé como causa do fracasso; a de Marcos dirige a atenção à oração. Reconhecer a gravidade da aflição e a possibilidade de resistência particular não desloca automaticamente o diagnóstico para uma insuficiência quantitativa de poder. Também não demonstra quais procedimentos os discípulos empregaram.
 
 Assim, a comparação preserva o alcance positivo da resposta de Mateus: a incapacidade constatada não encerra as possibilidades da missão, pois Jesus associa à fé uma eficácia que supera o obstáculo apresentado. Marcos acrescenta à leitura comparativa a necessidade de oração, sem fornecer uma técnica reproduzível ou um relato dos atos omitidos. A promessa mateana continua ligada a destinatários e situação concretos; a comparação não exige acrescentar restrições à tradução nem autoriza convertê-la em garantia de qualquer resultado desejado.
 
 #### 2.4.8. O dito transmitido como 17.21
 
 Na forma textual adotada, o diálogo termina com a promessa de 17.20. A sentença sobre oração e jejum é preservada em nota porque sua presença em parte da transmissão é relevante para a leitura e recepção da passagem, embora não seja aqui julgada parte do texto principal. Quando incluída, ela acrescenta uma orientação explícita sobre a expulsão e aproxima a resposta de Mateus da de Marcos; não cria outro episódio. Não se deve, porém, explicar a “pouca fé” como falta de jejum a partir de uma sentença cuja pertença ao texto mateano é precisamente disputada. A avaliação das duas formas, exposta na discussão textual, permite reconhecer a importância histórica da leitura longa sem utilizá-la como premissa tácita da interpretação de 17.20.[^txt1][^txt2][^mc29]
+
+#### 2.4.9. Contribuições de uma recepção seletiva
+
+A leitura desta passagem recebeu respostas distintas antes dos comentários modernos. Uma amostra não representa toda a história da interpretação, mas permite reconhecer que algumas alternativas atuais têm antecedentes e pressupostos diferentes. Importa especialmente distinguir a interpretação de um texto que inclui oração e jejum da interpretação da forma que termina com a promessa de 17.20.
+
+Crisóstomo, na Homilia 57, §§3–4, interpreta a fragilidade do pai com auxílio de Marcos e conserva a responsabilidade dos discípulos. Ao enfrentar a pergunta sobre montanhas efetivamente removidas, argumenta que a ausência de necessidade explica a ausência dessa ação e que os apóstolos realizaram feitos maiores. Sua resposta preserva a capacidade extraordinária prometida, mas a explicação pela falta de necessidade não é narrada em Mateus. O intérprete também entende “esta espécie” como o conjunto dos espíritos malignos. Essa leitura documenta uma alternativa à classificação de um demônio excepcionalmente poderoso; não decide, por sua antiguidade, o referente da expressão.[^recep1]
+
+Calvino relaciona a promessa ao que Deus promete conceder e distingue desejos indiscriminados da fé. Interpreta ainda a fé do episódio como dom especial relacionado a 1 Coríntios 12.9, embora estenda a instrução à fé comum da Igreja. Sua leitura de 17.21 apresenta o jejum como auxílio à oração e reconhece um adversário poderoso. Há contribuição importante na recusa de um resultado arbitrário controlado pelo ser humano; entretanto, a identificação exclusiva de um dom especial e a reconstrução da negligência dos discípulos exigem argumentos que a palavra “fé” e o relato local, isoladamente, não fornecem. Sua discussão pressupõe a presença de 17.21 e, por isso, não pode substituir a decisão sobre a constituição do texto.[^recep2]
+
+Esses exemplos mostram duas tarefas distintas: compreender o argumento de um intérprete em sua forma textual e testar esse argumento diante da passagem. A antiguidade da recepção de 17.21 interessa à história do texto, mas não prova sua originalidade. A convergência de intérpretes em torno da dependência de Deus tampouco elimina a divergência sobre espécie, fé especial e extensão da promessa. O diálogo com Carson, France, Luz, Lange e Hendriksen acrescenta outras propostas, já discutidas no comentário; não constitui levantamento completo das tradições cristãs nem demonstra consenso.
 
 ### 2.5. Síntese do sentido
 
@@ -297,7 +309,7 @@ A tensão entre pouca fé e mostarda permanece parte dessa comunicação. A cens
 
 No contexto deMateus, a passagem contribui para a formação dos discípulos precisamente porque a missão já lhes foi confiada. Receber autoridade não significa compreender ou exercer de modo irrepreensível sua relação comJesus. O episódio também se encontra no percurso em que a identidade e a autoridade do mestre são apresentadas junto ao anúncio de seu sofrimento. Essa posição mantém juntos socorro poderoso e caminho da paixão, sem exigir uma tipologia específica do monte ou uma hipótese sobre uma crise da comunidade leitora. A explicação permanece fundada no movimento do Evangelho e na ação narrada.
 
-A comparação sinótica confirma que o episódio pode ser apresentado com ênfases distintas. Marcos desenvolve o diálogo com o pai e destaca a oração; Lucas destaca a restituição do filho e o reconhecimento da grandeza deDeus. Mateus concentra sua instrução particular na pouca fé e na promessa. A relação entre confiança e oração é uma integração comparativa pertinente, mas não autoriza reconstruir uma tentativa sem oração. O sentido mateano pode ser articulado em seus próprios termos antes dessa integração. Assim, a passagem reúne misericórdia eficaz, autoridade deJesus e formação da confiança dos discípulos, deixando a extensão canônica da promessa e sua relação com a diversidade de dons para investigação própria.
+A comparação sinótica confirma que o episódio pode ser apresentado com ênfases distintas. Marcos desenvolve o diálogo com o pai e destaca a oração; Lucas destaca a restituição do filho e o reconhecimento da grandeza deDeus. Mateus concentra sua instrução particular na pouca fé e na promessa. A relação entre confiança e oração é uma integração comparativa pertinente, mas não autoriza reconstruir uma tentativa sem oração. O sentido mateano pode ser articulado em seus próprios termos antes dessa integração. Assim, a passagem reúne misericórdia eficaz, autoridade deJesus e formação da confiança dos discípulos, cuja extensão canônica e relação com a diversidade de dons são examinadas a seguir sem eliminar as questões locais ainda abertas.
 
 ## 3. Estudo teológico
 
@@ -347,6 +359,8 @@ A distribuição de dons em 1 Coríntios 12.4–11 associa manifestações difer
 
 Essas relações permitem preservar duas afirmações simultâneas: Mateus anuncia eficácia concreta vinculada à fé, e o conjunto canônico não autoriza explicar toda aflição pela deficiência de quem sofre. A segunda não cancela a primeira; a primeira não converte o juízo de Jesus sobre um fracasso determinado em diagnóstico universal. O socorro ao menino e a formação dos discípulos encontram, assim, um horizonte mais amplo de missão, Reino, oração e esperança. As conexões alianciais específicas e as tipologias não demonstradas não são necessárias para sustentar essa compreensão.
 
+A dimensão relacional da oração pode ser esclarecida ainda por Efésios 2.13–18. Nesse contexto, a aproximação de judeus e gentios é fundada na obra reconciliadora de Cristo, e o acesso ao Pai ocorre por ele, em um Espírito. O texto fornece uma formulação trinitária da comunhão, sem tratar da tentativa de expulsão narrada por Mateus. Sua contribuição é situar teologicamente a dependência expressa pela oração; não demonstrar que os discípulos romperam conscientemente essa comunhão ou negligenciaram uma prática específica. A distinção protege tanto a realidade da relação com Deus quanto os limites do conhecimento sobre a vida interior dos personagens.[^rel1]
+
 ### 3.2. Contribuição doutrinária e compreensão da condição humana
 
 #### Autoridade misericordiosa e ação dos discípulos
@@ -389,20 +403,20 @@ O texto mantém possibilidades extraordinárias sem conceder controle arbitrári
 
 ## Paráfrase interpretativa
 
-*Reformulação explicativa, não tradução: preserva a indefinição exata dos destinatários17 e não fixa o aspecto da mostarda.*
+*Reformulação explicativa, não tradução: preserva a indefinição exata dos destinatários de 17.17 e não fixa o aspecto da mostarda.*
 
 Quando Jesus e seus acompanhantes chegam à multidão, um pai pede misericórdia pelo filho afligido e informa que os discípulos não conseguiram curá-lo. Jesus censura a incredulidade dos presentes sem que a narrativa determine cada destinatário, manda trazer o menino e o liberta e cura. Depois, em particular, os discípulos perguntam por sua incapacidade. Jesus a atribui à pouca fé e os instrui, pela comparação da mostarda e pela imagem do monte, acerca das possibilidades extraordinárias da fé. O fracasso é explicado e a necessidade do menino efetivamente atendida; a reação posterior dos discípulos não é narrada.
 
 ## Referências e notas
 
-[^1]: ARNDT,W.etal. *A Greek-English Lexicon of the New Testament and Other Early Christian Literature*. Chicago:University of Chicago Press,2000. Verbetes fornecidos:σεληνιάζομαι,ὀλιγοπιστία e correlatos.
+[^1]: ARNDT, W. et al. *A Greek-English Lexicon of the New Testament and Other Early Christian Literature*. Chicago: University of Chicago Press, 2000. Verbetes fornecidos:σεληνιάζομαι,ὀλιγοπιστία e correlatos.
 [^2]: NESTLE,E.;NESTLE,E. *Nestle-Aland: NTG Apparatus Criticus*.28.ed.Stuttgart:Deutsche Bibelgesellschaft,2012,p54–55. Texto e aparato fornecidos; limitações de transcrição preservadas.
 [^3]: WESTCOTT,B.F.;HORT,F.J.A. *Introduction to the New Testament in the Original Greek: Appendix*.New York:Harper and Brothers,1882,p14. Excerto histórico.
-[^4]: CARSON,D.A. “Matthew”. In:GAEBELEIN,F.E.(ed.). *The Expositor’s Bible Commentary*.Grand Rapids:Zondervan,1984,v8,p390–392. Excerto recebido.
-[^5]: CARSON,p390–392;LANGE,J.P.;SCHAFF,P. *A Commentary on the Holy Scriptures: Matthew*.Bellingham:Logos Bible Software,2008,p313–316. Edição digital;excertos recebidos. Reconstruções psicológicas não adotadas como fatos.
-[^6]: LUZ,U. *Matthew: A Commentary*.Minneapolis:Augsburg,2001,p405–410;FRANCE,R.T. “Matthew”. In:CARSON,D.A.etal.(eds.). *New Bible Commentary:21st Century Edition*.4.ed.Leicester/Downers Grove:Inter-Varsity Press,1994,p927;CARSON,p390–392. Excertos recebidos.
-[^7]: CARSON,p390–392;FRANCE,p927;LUZ,p405–410. A avaliação lexical e contextual é explicitada no comentário, sem reivindicação de descoberta independente.
-[^8]: HENDRIKSEN,W. *Mateus*.Trad.Valter Graciano Martins.2.ed.em português.São Paulo:Cultura Cristã,2010,v2,p208–212. Excerto recebido.
+[^4]: CARSON, D. A. “Matthew”. In:GAEBELEIN,F.E.(ed.). *The Expositor’s Bible Commentary*.Grand Rapids:Zondervan,1984,v8,p. 390–392. Excerto recebido.
+[^5]: CARSON,p. 390–392;LANGE,J.P.;SCHAFF,P. *A Commentary on the Holy Scriptures: Matthew*.Bellingham:Logos Bible Software,2008,p. 313–316. Edição digital;excertos recebidos. Reconstruções psicológicas não adotadas como fatos.
+[^6]: LUZ,U. *Matthew: A Commentary*.Minneapolis:Augsburg,2001,p. 405–410;FRANCE,R.T. “Matthew”. In:CARSON, D. A.etal.(eds.). *New Bible Commentary:21st Century Edition*.4.ed.Leicester/Downers Grove:Inter-Varsity Press,1994,p. 927;CARSON,p. 390–392. Excertos recebidos.
+[^7]: CARSON,p. 390–392;FRANCE,p. 927;LUZ,p. 405–410. A avaliação lexical e contextual é explicitada no comentário, sem reivindicação de descoberta independente.
+[^8]: HENDRIKSEN,W. *Mateus*.Trad.Valter Graciano Martins.2.ed.em português.São Paulo:Cultura Cristã,2010,v2,p. 208–212. Excerto recebido.
 
 
 [^ctx1]: CARSON, D. A. “Matthew”. In: GAEBELEIN, F. E. (ed.). *The Expositor’s Bible Commentary*. Grand Rapids: Zondervan, 1984, v. 8, p. 390–392. Excerto sobre 17.14–20.
@@ -450,3 +464,9 @@ Quando Jesus e seus acompanhantes chegam à multidão, um pai pede misericórdia
 [^can10]: SBLGNT, 1Co12.4–11. https://biblehub.com/sbl/1_corinthians/12.htm Consulta seletiva digital em29/10/2026.
 
 [^sist1]: Confissão de Fé de Westminster, 5.2–3; 14.2–3; 16.3. Texto inglês disponibilizado pela Orthodox Presbyterian Church, https://www.opc.org/wcf.html, consulta seletiva em 30/10/2026. Paráfrases em português; não se presume cotejo de uma tradução oficial da IPB.
+
+[^recep1]: JOÃO CRISÓSTOMO. *Homily 57 on Matthew*, §§3–4. Tradução inglesa em New Advent: https://www.newadvent.org/fathers/200157.htm. Trecho reconferido em 30/10/2026; não cotejado com o grego.
+
+[^recep2]: CALVINO, João. *Commentary on Matthew, Mark, Luke*, v. 2, seção sobre Mt 17.19–21; Mc 9.28–29; Lc 17.5–6. Tradução inglesa digital em CCEL: https://www.ccel.org/ccel/calvin/calcom32/calcom32.ii.lvii.html. Trecho reconferido em 30/10/2026; paráfrase, não citação literal em português.
+
+[^rel1]: SBLGNT, Ef 2.13–18, reprodução digital: https://biblehub.com/sbl/ephesians/2.htm. Consulta seletiva em 30/10/2026. Integração temática, não alegação de alusão de Mateus a Efésios.

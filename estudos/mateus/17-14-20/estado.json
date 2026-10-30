@@ -1,18 +1,15 @@
 {
   "passagem": "Mt 17.14–21 (texto principal 14–20; v21 em nota)",
   "data": "2026-10-30",
-  "etapa_atual": "Horizonte hermenêutico e aplicação revistos em derivado",
-  "proxima": "Aguardar orientação; consolidação acadêmica e Word não concluídos",
+  "etapa_atual": "Consolidação da pesquisa concluída no escopo documental e bibliográfico declarado",
+  "proxima": "Revisão editorial e geração/conferência de Word mediante próxima rodada",
   "reservado": "Mt 17.1–13",
   "pendencias": [
-    "Revisão independente não realizada; revisão atual é interna e delimitada",
-    "Sobrescritos perdidos do aparato não reconstruídos",
-    "Consultas externas/edições de versões declaradas no EXE03 não reconferidas",
-    "Respostas históricas integrais de outras etapas iniciais não recuperadas",
-    "Desenvolvimento argumentativo, revisão editorial e transferência da aplicação para derivado conforme ficha-manuscrito.json",
-    "Extensão da geração,referente18,paradoxo da mostarda e fronteiras da promessa permanecem qualificados; núcleo positivo desenvolvido",
-    "Inventários integrais da última legendaNA28 não arquivados; cobertura seletiva anterior preservada",
-    "P42: leituras e aparatoMc9.29 recebidos; restam índices perdidos, sem bloqueio geral"
+    "Precisão dos índices perdidos NA28: afeta atribuições particulares, não o núcleo da interpretação",
+    "Colação direta LXX Dt32.5,20: afeta grau da proposta alusiva",
+    "História da interpretação seletiva; sem levantamento exaustivo",
+    "Questões interpretativas abertas em perguntas.md, especialmente P03/P34/P37/P44/P50",
+    "Revisão editorial e DOCX ainda não executados; notas não transferidas ao Logos"
   ],
   "fontes_arquivadas": [
     "NA28",
@@ -41,8 +38,8 @@
     "path": "estudos/mateus/17-14-20/documento-mestre.md",
     "version": "0.8.0",
     "natureza": "dossie_de_pesquisa_preservado_com_ancoras",
-    "base_ate": "Revisão linguística28/10",
-    "aplicacao": "EXE-14 geral elaborada; sem comunicação personalizada ou caso real"
+    "base_ate": "Dossiê histórico com âncoras; relatórios posteriores e manuscrito2.0 constituem estado vigente",
+    "aplicacao": "aplicacao-hermeneutica.md; separada do manuscrito"
   },
   "traducao": {
     "historico_EXE03": "recuperado por reenvio do pesquisador; origem registrada",
@@ -65,11 +62,11 @@
     "resultado": "Grego03 coincide com principal; arquivo anterior sem diferença substantiva; sinais ausentes não restaurados"
   },
   "fechamento": {
-    "documental": "concluído no escopo disponível",
+    "documental": "Consolidação de30/10 no escopo declarado",
     "validacao_integral_metodo": false,
     "revisao_independente": false,
-    "produto_15B": "manuscrito preliminar; separação documental concluída, desenvolvimento argumentativo e entrega acadêmica pendentes",
-    "relatorio": "estudos/mateus/17-14-20/EXE-15A-dossie-consolidado.md"
+    "produto_15B": "Histórico; manuscrito2.0 pronto para revisão editorial, não entregue em Word",
+    "relatorio": "estudos/mateus/17-14-20/consolidacao-pesquisa.md"
   },
   "produto_final": {
     "path": "estudos/mateus/17-14-20/EXE-15B-exposicao-final.md",
@@ -89,5 +86,6 @@
   "complemento_lexical": "complemento-bdag-lexico.md; quatro verbetes recebidos e integrados; D57–D60",
   "complemento_marcos": "complemento-mc9-29.md; D67–D68",
   "revisao_sistematica": "revisao-sistematica-antropologica.md",
-  "aplicacao_atual": "aplicacao-hermeneutica.md"
+  "aplicacao_atual": "aplicacao-hermeneutica.md",
+  "consolidacao": "consolidacao-pesquisa.md"
 }

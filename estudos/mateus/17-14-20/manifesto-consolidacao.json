@@ -1,0 +1,202 @@
+{
+  "base_commit": "ef6c3d8e827871b80f49a082ef345ed57ded7b1d",
+  "natureza": "Identificação de versões da base consultada; cobertura substantiva e leitura seletiva discriminadas no relatório, hash não certifica leitura integral",
+  "arquivos": [
+    {
+      "path": "metodo/METODO.md",
+      "sha256": "a9c94ca57809936300598d6d52005b186b13ae1299e1f9f89474b8a575ff4617"
+    },
+    {
+      "path": "AGENTS.md",
+      "sha256": "db262abc51e570e395b9e1b2e396b61d7062cf08e1bf89a92baed0ec026a4aa1"
+    },
+    {
+      "path": "estudos/mateus/17-14-20/aplicacao-hermeneutica.md",
+      "sha256": "abdbaa32d4db35be05558489270a3a820b3eada2f01fcfd7edef3e7a6fa6803f"
+    },
+    {
+      "path": "estudos/mateus/17-14-20/EXE-12B-integracao-canonica.md",
+      "sha256": "c0f57a3de3d46beab24fa70eae8731ee52a8ff8a866b4e831e06d4766072142d"
+    },
+    {
+      "path": "estudos/mateus/17-14-20/estado.json",
+      "sha256": "45e4fd8d473b2b5825ab48910dc7e9c5187f8a889d43ac07ad1183a5b81333d8"
+    },
+    {
+      "path": "estudos/mateus/17-14-20/EXE-13B-antropologia-etica-sabedoria.md",
+      "sha256": "c898f436cc385e6699d832768bd5ae277af0a161e1991f73cd130e1ef8967c30"
+    },
+    {
+      "path": "estudos/mateus/17-14-20/traducao-trabalho-revisada.md",
+      "sha256": "c309ecb7475e6c00e9c1ec7ca37c945ca3b084879df1d9087b379e40754bf311"
+    },
+    {
+      "path": "estudos/mateus/17-14-20/revisoes-mestre.md",
+      "sha256": "2623604ae7f20c5690635cbac017f452fae7f3fd7f5ecc2b9d7916bce21a3053"
+    },
+    {
+      "path": "estudos/mateus/17-14-20/comparacao-sinotica-contexto-historico.md",
+      "sha256": "870adabfe648a8aedd7621a336914deeae856f09f314553dc5c36c4b124f65a1"
+    },
+    {
+      "path": "estudos/mateus/17-14-20/fontes-linguisticas-20261028.md",
+      "sha256": "e2a818214763a7a610598059592ddae264bd3e98b2404782f01a1f6f48326789"
+    },
+    {
+      "path": "estudos/mateus/17-14-20/EXE-08C-verso-a-verso.md",
+      "sha256": "c813ce28bba1d0b4a39b16fa082d23d48d38348ae03865676d70ba7a5c07c435"
+    },
+    {
+      "path": "estudos/mateus/17-14-20/revisao-aplicacao-controles.md",
+      "sha256": "64d872423a7e8bb321d5af0ca6a98b3d46b0dadaa6e30857b578357e21248e69"
+    },
+    {
+      "path": "estudos/mateus/17-14-20/EXE-15A-dossie-consolidado.md",
+      "sha256": "eb2e522b9b7155088e1b7e35e94ae0c98e30931e572b29f3e5a40de406cfc926"
+    },
+    {
+      "path": "estudos/mateus/17-14-20/comentario-integrado-sintese-conferencia.md",
+      "sha256": "a1ca66426e173458f0483bb0977bfc4c3f668327b617ed1f8d68ebabf7a925a6"
+    },
+    {
+      "path": "estudos/mateus/17-14-20/EXE-15B-exposicao-final.md",
+      "sha256": "7f9541ef5c292277831bf974d6192645cc9baf771ae35b5b5631b01db3e430cb"
+    },
+    {
+      "path": "estudos/mateus/17-14-20/complemento-mc9-29.md",
+      "sha256": "3aa51d46cc602fc3295b8b817c946f0b8e76a360406a6acd4f4f57e5260f833e"
+    },
+    {
+      "path": "estudos/mateus/17-14-20/EXE-12-teologia-biblica.md",
+      "sha256": "3e16b60ca32534caaf0769a9bdbaf137c61890889df1c6248d4d723f40a580aa"
+    },
+    {
+      "path": "estudos/mateus/17-14-20/notas-logos.md",
+      "sha256": "d7ac22fc4bc71b53d5f552b2033bf08b935d7992343dcd5d0712259aa11cea5a"
+    },
+    {
+      "path": "estudos/mateus/17-14-20/perguntas.md",
+      "sha256": "d419dd13ac0dbd4c553ee733422852e8724e597d68a6dcbd6f54598fed72ec9f"
+    },
+    {
+      "path": "estudos/mateus/17-14-20/suplemento-hendriksen-westcott-hort.md",
+      "sha256": "d1a5cfb3a5093b89ca508ab76c5fa80ee8881855a1996ccda3195245e75a1393"
+    },
+    {
+      "path": "estudos/mateus/17-14-20/EXE-14-horizonte-aplicacao.md",
+      "sha256": "a633a998de9b08772a8cf4e0b3409d3f11dbea4c8e3a9c05883777af44fd79be"
+    },
+    {
+      "path": "estudos/mateus/17-14-20/EXE-03-recuperado.meta.json",
+      "sha256": "365f20ead90068c2e1a6f9e65aff70030f6b5f26a7d5aeefaa31f35821e7e768"
+    },
+    {
+      "path": "estudos/mateus/17-14-20/EXE-02-03-texto-traducao.md",
+      "sha256": "6a5d2f86eea97ff7aa99c18cf0d671067d840b991ad0b617cd6707f52f4de8e3"
+    },
+    {
+      "path": "estudos/mateus/17-14-20/EXE-15B-controle-editorial.md",
+      "sha256": "5496fc464b1e70543ea485b79653d8f4b597d5362ab83da07530443f49b81078"
+    },
+    {
+      "path": "estudos/mateus/17-14-20/revisao-sistematica-antropologica.md",
+      "sha256": "ee5c618ff6db57f8d771ded84d59c5adad442555b462fa6377fb30e0d78414f3"
+    },
+    {
+      "path": "estudos/mateus/17-14-20/complemento-legenda-aparato.md",
+      "sha256": "3a9b42c11e2e40e0b5a47da49e201ed4a6af41f5a85a96bafaf04cba9a66d030"
+    },
+    {
+      "path": "estudos/mateus/17-14-20/EXE-04-05-06-analise-linguistica.md",
+      "sha256": "577a75bc16b70a62c96909ebf5850962a13e0a597bcb62004a722e7ffd40b534"
+    },
+    {
+      "path": "estudos/mateus/17-14-20/EXE-01-01B-07-contexto-estrutura.md",
+      "sha256": "10ac55151d3dc36518729e0ef46a7a9b3b6cb3eac388656344012292acd483c5"
+    },
+    {
+      "path": "estudos/mateus/17-14-20/revisao-canonica-VAL06.md",
+      "sha256": "33e6065ef52c2272d505fec09c93d7bff1a72d83bca1ba44d56ea942e898ac9e"
+    },
+    {
+      "path": "estudos/mateus/17-14-20/revisao-metodo.md",
+      "sha256": "0aa4a1b8b894bbf41f69b58050302f2345deec27f00add636d8484ec2ed08109"
+    },
+    {
+      "path": "estudos/mateus/17-14-20/EXE-08B-comentario.md",
+      "sha256": "b6fe76e7df141e0c0fa790ba53934b100a1296801d41cfa89ec073160de8c19c"
+    },
+    {
+      "path": "estudos/mateus/17-14-20/documento-mestre.md",
+      "sha256": "50bfd599ab71c110568d71af9f72da586b44cce4b5c03b0fcb996c6026f35cd0"
+    },
+    {
+      "path": "estudos/mateus/17-14-20/VAL-01-05-revisao-interna.md",
+      "sha256": "38755b6d92797d83c062f2968ffea0c0913b18d30822368798fca210ad6fc8e7"
+    },
+    {
+      "path": "estudos/mateus/17-14-20/notas-logos.json",
+      "sha256": "86da02e8ad00422f2e131183aa40b5d6648c7f9be3e0ff057ff40ccea29fda98"
+    },
+    {
+      "path": "estudos/mateus/17-14-20/conferencia-na28-reenvio.md",
+      "sha256": "08e7ca55e4d25ccee70ef65f808502cfdccd8d0c01344037f18fb43980f87267"
+    },
+    {
+      "path": "estudos/mateus/17-14-20/EXE-10-historia-interpretacao.md",
+      "sha256": "b78eb0b7dcaa200952b27cb6e437aa41f0985be4edd24d6ef80c6281aa4d1ec0"
+    },
+    {
+      "path": "estudos/mateus/17-14-20/ficha-manuscrito.json",
+      "sha256": "febe978957794b298b65cd2d29b7ccbaa7a1f90f78411e2479d355576596b3ea"
+    },
+    {
+      "path": "estudos/mateus/17-14-20/manuscrito-academico.md",
+      "sha256": "176feac49e4fd755adcfd07dc2781c05d1aeb7bf1d55480f73ec172bfb68d7ef"
+    },
+    {
+      "path": "estudos/mateus/17-14-20/decisoes.md",
+      "sha256": "7609ef3421f42ed759c73f1d1b2e5691bbd17c91f44a835dc748425a200ff123"
+    },
+    {
+      "path": "estudos/mateus/17-14-20/README.md",
+      "sha256": "08d2721a4f8a5a1a839657d61026781dfc404e18b3e84dbef6f2e826cf6bc190"
+    },
+    {
+      "path": "estudos/mateus/17-14-20/EXE-13-teologia-sistematica.md",
+      "sha256": "4245c73e187da1b97cd0e2d4378ae48b4c20e2c973686cd9be148f3827600287"
+    },
+    {
+      "path": "estudos/mateus/17-14-20/auditoria-lacunas-iniciais.md",
+      "sha256": "b7169b0ff154dad69b842a2d24865d57558291a6373133b3d488b1078a0f1f34"
+    },
+    {
+      "path": "estudos/mateus/17-14-20/EXE-10B-avaliacao-canonica.md",
+      "sha256": "efaafaf590b8c9f5edc56789666e23727416fc86b875361944633ec07030007d"
+    },
+    {
+      "path": "estudos/mateus/17-14-20/EXE-03-recuperado-conferencia.md",
+      "sha256": "ffb4c29410a8f1daca1e2677a3d25a74e0cd7f4041f927a8a15f5692861d37a6"
+    },
+    {
+      "path": "estudos/mateus/17-14-20/complemento-bdag-lexico.md",
+      "sha256": "0cc2db905147d7e1a92d770135c6aedde8acaf116676436e44838e41a58bcb2c"
+    },
+    {
+      "path": "estudos/mateus/17-14-20/CONTINUIDADE.md",
+      "sha256": "52830966ad5fe38429fef1c6bae929cae6ae84ed1c46b1833ca43d65e3b05f6a"
+    },
+    {
+      "path": "estudos/mateus/17-14-20/EXE-11-sintese-sentido.md",
+      "sha256": "7feec4a1991f6044402a0e3f59f4a8a7aa5138ebedee9d214a83b21d409e3543"
+    },
+    {
+      "path": "estudos/mateus/17-14-20/EXE-09-contexto-canonico.md",
+      "sha256": "781a158d00d89c5b239d19b4afd341c9edde4648e0a90ff85bd4ee61bc8a8957"
+    },
+    {
+      "path": "estudos/mateus/17-14-20/EXE-03-recuperado.txt",
+      "sha256": "9ed4b5cca1f8d1658471f0cfcb0d0bd2077371108028a28d0ee6b035f077a2c2"
+    }
+  ]
+}
