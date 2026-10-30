@@ -121,3 +121,8 @@ Ver [VAL-01–05 e teste seletivoVAL-06](VAL-01-05-revisao-interna.md). D69–D7
 ## Revisão canônica29/10/2026
 
 [VAL06 e fontes](revisao-canonica-VAL06.md):C01–C15,D81–D85,P44–P47. Manuscrito3.1 desenvolvido;1.5 remete. Síntese/tradução mantidas. Emanuel e alianças específicas não restaurados; Mt21 fortalece fé/oração, Hb11/2Co12 limitam universalização sem esvaziar eficácia. Sem avanço sistemático ou aplicação.
+
+
+## Revisão sistemática e antropológica — 30/10/2026
+
+[Relatório, testes e fontes](revisao-sistematica-antropologica.md): D86–D90; P48–P49. Manuscrito3.2 desenvolvido; tradução e síntese mantidas. N011/N012 atualizadas. Revisão interna; sem avanço à aplicação nem fechamento editorial.

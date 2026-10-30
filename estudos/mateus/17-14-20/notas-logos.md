@@ -106,3 +106,8 @@ Jesus atende à aflição que os discípulos não conseguiram resolver e interpr
 A aplicação reúne busca confiante de socorro, cuidado concreto e receptividade à correção. A comissão não produz poder autônomo. A causa20 foi revelada para o fracasso dos discípulos;não é diagnóstico automático da aflição de todo paciente. A extensão à Igreja consideraAt3,1Co12,Tg5,Hb11 e2Co12,sem equiparar todos aos doze. A promessa conserva força extraordinária sem garantir qualquer desejo. Perguntas de exame e situações familiares hipotéticas são recursos prudenciais, não novas ordens universais. Não há norma específica para sucesso profissional ou escolar.
 
 [Base](documento-mestre.md#mt1714-21-m-014). Fontes e proveniência: [registro estruturado](notas-logos.json).
+
+
+## Revisão de N011 e N012 — 30/10/2026
+
+Dependência não elimina responsabilidade; formulações confessionais não resolvem ambiguidades locais. Aflição do menino e incapacidade dos discípulos não se confundem. Detalhes narrados não são automaticamente normas universais. Texto estruturado atualizado nos mesmos IDs; sem transferência ao Logos.

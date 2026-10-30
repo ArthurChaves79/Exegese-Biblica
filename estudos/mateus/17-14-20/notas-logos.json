@@ -294,12 +294,12 @@
     },
     {
       "id": "MT1714-21-N011",
-      "version": "0.7.0",
+      "version": "0.8.0",
       "title": "Cânon, dons e sofrimento",
       "reference": "Mateus 17.14–21",
       "status": "preparada_nao_transferida_ao_Logos",
       "confidence": "Integração canônica qualificada",
-      "body": "At3.12–16 situa a eficácia em Jesus, sem provar o motivo psicológico do fracasso anterior. 1Co12 apresenta diversidade de dons, sem tornar πίστις20 termo técnico exclusivo. Hb11 e2Co12 mostram fidelidade em aflição e impedem generalizar não cura como pouca fé. Tg5 conserva oração e expectativa de socorro real. Reino, Igreja e consumação são articulações particulares Moderadas desta cena. O texto não decide sozinho o debate inteiro sobre dons hoje nem promete realização indiscriminada de desejos. Revisão canônica:Hebreus11.32–40 inclui livramentos e sofrimento de aprovados pela fé;2Co12.7–10 apresenta súplica e graça nafraqueza. Esses textos limitam generalização de toda aflição como pouca fé,sem negar diagnóstico deMt17. Tiago5 preserva expectativa eficaz de socorro;1Co12 mostra diversidade,sem provar dom exclusivo emMt17. ConsumaçãoAp21 é horizonte distinto da cura temporal.",
+      "body": "At3.12–16 situa a eficácia em Jesus, sem provar o motivo psicológico do fracasso anterior. 1Co12 apresenta diversidade de dons, sem tornar πίστις20 termo técnico exclusivo. Hb11 e2Co12 mostram fidelidade em aflição e impedem generalizar não cura como pouca fé. Tg5 conserva oração e expectativa de socorro real. Reino, Igreja e consumação são articulações particulares Moderadas desta cena. O texto não decide sozinho o debate inteiro sobre dons hoje nem promete realização indiscriminada de desejos. Revisão canônica:Hebreus11.32–40 inclui livramentos e sofrimento de aprovados pela fé;2Co12.7–10 apresenta súplica e graça nafraqueza. Esses textos limitam generalização de toda aflição como pouca fé,sem negar diagnóstico deMt17. Tiago5 preserva expectativa eficaz de socorro;1Co12 mostra diversidade,sem provar dom exclusivo emMt17. ConsumaçãoAp21 é horizonte distinto da cura temporal. Contribuição doutrinária: dependência não elimina responsabilidade; a confissão não resolve as ambiguidades locais. A aflição do menino e a incapacidade dos discípulos têm funções distintas; nem cada detalhe narrativo é norma universal.",
       "tags": [
         "mt1714-21",
         "canonica",
@@ -315,18 +315,19 @@
         "estudos/mateus/17-14-20/EXE-10B-avaliacao-canonica.md",
         "estudos/mateus/17-14-20/EXE-12B-integracao-canonica.md",
         "estudos/mateus/17-14-20/EXE-13-teologia-sistematica.md",
-        "estudos/mateus/17-14-20/revisao-canonica-VAL06.md"
+        "estudos/mateus/17-14-20/revisao-canonica-VAL06.md",
+        "estudos/mateus/17-14-20/revisao-sistematica-antropologica.md"
       ],
       "source_baseline_commit": "a944c05176cb3a470fb837aef4357a23983b2ddd"
     },
     {
       "id": "MT1714-21-N012",
-      "version": "0.2.0",
+      "version": "0.8.0",
       "title": "Sofrimento e responsabilidade no aconselhamento",
       "reference": "Mateus 17.15–20",
       "status": "preparada_nao_transferida_ao_Logos",
       "confidence": "Inferência forte com limites de integração",
-      "body": "O menino necessita de socorro; os discípulos necessitam de correção e ensino. A causa do fracasso deles não é automaticamente a causa da doença. O texto não revela todos os motivos do coração e não chama desejo de alívio corporal de idolatria. A autoridade de Jesus para diagnosticar não concede ao conselheiro acesso imediato a motivos secretos. Misericórdia, responsabilidade e esperança se articulam. Esta é implicação antropológica já documentada13B; a EXE-14 agora desenvolve aplicações gerais com exemplos prudenciais, sem diagnosticar pessoa real.",
+      "body": "O menino necessita de socorro; os discípulos necessitam de correção e ensino. A causa do fracasso deles não é automaticamente a causa da doença. O texto não revela todos os motivos do coração e não chama desejo de alívio corporal de idolatria. A autoridade de Jesus para diagnosticar não concede ao conselheiro acesso imediato a motivos secretos. Misericórdia, responsabilidade e esperança se articulam. Esta é implicação antropológica já documentada13B; a EXE-14 agora desenvolve aplicações gerais com exemplos prudenciais, sem diagnosticar pessoa real. Contribuição doutrinária: dependência não elimina responsabilidade; a confissão não resolve as ambiguidades locais. A aflição do menino e a incapacidade dos discípulos têm funções distintas; nem cada detalhe narrativo é norma universal.",
       "tags": [
         "mt1714-21",
         "aconselhamento",
@@ -339,7 +340,8 @@
       },
       "sources": [
         "estudos/mateus/17-14-20/EXE-13B-antropologia-etica-sabedoria.md",
-        "estudos/mateus/17-14-20/EXE-14-horizonte-aplicacao.md"
+        "estudos/mateus/17-14-20/EXE-14-horizonte-aplicacao.md",
+        "estudos/mateus/17-14-20/revisao-sistematica-antropologica.md"
       ],
       "source_baseline_commit": "a944c05176cb3a470fb837aef4357a23983b2ddd"
     },
@@ -393,5 +395,6 @@
     }
   ],
   "recovery_update": "03 recuperado; sem transferência ao Logos",
-  "method_review": "Revisão interna delimitada emEXE-04-05-06-analise-linguistica.md;sem auditoria independente"
+  "method_review": "Revisão interna delimitada emEXE-04-05-06-analise-linguistica.md;sem auditoria independente",
+  "version": "1.2.0"
 }

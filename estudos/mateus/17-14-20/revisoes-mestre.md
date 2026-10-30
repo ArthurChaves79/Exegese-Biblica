@@ -69,3 +69,8 @@ Ver [VAL-01–05 e teste seletivoVAL-06](VAL-01-05-revisao-interna.md). D69–D7
 ## Conferência editorial — 30/10/2026
 
 Releitura da publicação 31edde2: corrigidos espaços indevidos nos marcadores de notas da seção 3.1 e pequenos espaçamentos. Todas as chamadas de notas do manuscrito foram confrontadas com suas definições. Nenhuma conclusão exegética alterada; sem nova rodada canônica ou duplicação de notas Logos. Histórico anterior preservado no Git.
+
+
+## Revisão sistemática e antropológica — 30/10/2026
+
+[Relatório, testes e fontes](revisao-sistematica-antropologica.md): D86–D90; P48–P49. Manuscrito3.2 desenvolvido; tradução e síntese mantidas. N011/N012 atualizadas. Revisão interna; sem avanço à aplicação nem fechamento editorial.
