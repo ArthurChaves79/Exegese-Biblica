@@ -388,7 +388,8 @@
         "LING-20261028",
         "LEXICO-COMPLEMENTO",
         "SINOTICA-HISTORIA",
-        "COMPLEMENTO-MC929"
+        "COMPLEMENTO-MC929",
+        "VAL-INTERNA-20261029"
       ]
     },
     {
@@ -431,7 +432,8 @@
         "LING-20261028",
         "LEXICO-COMPLEMENTO",
         "SINOTICA-HISTORIA",
-        "COMPLEMENTO-MC929"
+        "COMPLEMENTO-MC929",
+        "VAL-INTERNA-20261029"
       ]
     },
     {
@@ -458,7 +460,8 @@
         "LING-20261028",
         "LEXICO-COMPLEMENTO",
         "SINOTICA-HISTORIA",
-        "COMPLEMENTO-MC929"
+        "COMPLEMENTO-MC929",
+        "VAL-INTERNA-20261029"
       ]
     },
     {
@@ -511,7 +514,8 @@
         "LING-20261028",
         "LEXICO-COMPLEMENTO",
         "SINOTICA-HISTORIA",
-        "COMPLEMENTO-MC929"
+        "COMPLEMENTO-MC929",
+        "VAL-INTERNA-20261029"
       ]
     },
     {
@@ -524,7 +528,8 @@
         "LING-20261028",
         "LEXICO-COMPLEMENTO",
         "SINOTICA-HISTORIA",
-        "COMPLEMENTO-MC929"
+        "COMPLEMENTO-MC929",
+        "VAL-INTERNA-20261029"
       ]
     },
     {
@@ -641,6 +646,19 @@
       "depende_de": [
         "FONTE-MC929",
         "SINOTICA-HISTORIA"
+      ]
+    },
+    {
+      "id": "VAL-INTERNA-20261029",
+      "path": "estudos/mateus/17-14-20/VAL-01-05-revisao-interna.md",
+      "tipo": "acervo",
+      "estado": "atual",
+      "depende_de": [
+        "METODO",
+        "LING-20261028",
+        "LEXICO-COMPLEMENTO",
+        "SINOTICA-HISTORIA",
+        "COMPLEMENTO-MC929"
       ]
     }
   ]

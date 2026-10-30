@@ -106,3 +106,8 @@ Ver [relatório e fontes](comparacao-sinotica-contexto-historico.md): D61–D66,
 ## Aparato deMc9.29 recebido —29/10/2026
 
 [Complemento textual](complemento-mc9-29.md): D67–D68; P42 documentalmente suprida quanto às leituras e siglas legíveis, com índices ainda ausentes. Metzger indisponível, não consultado nem exigido. Preferência moderada por oração sem jejum; apoio amplo à inclusão reconhecido. Tradução deMateus e comparação fé/oração mantidas.
+
+
+## Revisão crítica interna de29/10/2026
+
+Ver [VAL-01–05 e teste seletivoVAL-06](VAL-01-05-revisao-interna.md). D69–D76 corrigem apresentaçãoFrance/Luz e qualificam mostarda e promessa: condição/destinatários não delimitam sozinhos todos os resultados. Comparação fé/oração não demonstra intenção conjunta nem procedimento omitido. Tradução mantida; revisão interna, não independente. Resultados anteriores só sustentam comentário/síntese sob essas qualificações; nenhum próximo bloco executado.

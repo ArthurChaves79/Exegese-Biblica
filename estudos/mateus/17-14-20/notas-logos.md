@@ -1,6 +1,6 @@
 # Notas essenciais para o Logos — Mateus17.14–21
 
-Conjunto0.9.1,29/10/2026.14 notas preparadas, não transferidas ao aplicativo. IDs locais estáveis, não IDs nativos doLogos.
+Conjunto0.9.2,29/10/2026.14 notas preparadas, não transferidas ao aplicativo. IDs locais estáveis, não IDs nativos doLogos.
 
 Base: [manuscrito](manuscrito-academico.md), [dossiê](documento-mestre.md) e [revisão linguística](EXE-04-05-06-analise-linguistica.md). JSON é registro estruturado, não formato de importação certificado. N003–N009 revistas;N002,N010,N013 conferidas sem alteração substantiva;demais notas não revalidadas nesta rodada.
 
@@ -29,9 +29,9 @@ O pai pede misericórdia para um filho em sofrimento e perigo recorrente. Σελ
 
 ## MT1714-21-N004 — Geração e linguagem de censura
 
-**Versão:** 0.3.1. **Referência:** Mateus 17.17.
+Versão 0.6.0.
 
-A censura provavelmente alcança um coletivo que inclui os discípulos, sem se limitar seguramente a eles. A proximidade16 favorece sua participação; geração favorece alcance mais amplo. A extensão exata permanece aberta. Dt32.5,20 oferece alusão provável, não importação de todo o cântico. A relação com Emanuel é hipótese de baixa confiança: a expressão de presença não demonstra eco deliberado; retirada definitiva de Deus e rejeição étnica não estão demonstradas. A ordem para trazer o menino mostra censura e socorro no mesmo movimento. As perguntas comἕωςπότε funcionam como lamento/reprovação, não cálculo de prazo. Διεστραμμένη qualifica a geração; perfeito/passivo não identificam agente ou acontecimento que a perverteu. A coordenação dos qualificativos não codifica uma causa psicológica entre eles. BDAG γενεά2 situa17.17 na geração contemporânea, moralmente caracterizada; isso favorece contemporaneidade sem definir todos os destinatários. ἄπιστος2 e διαστρέφω2 sustentam incredulidade e perversão moral.
+A censura provavelmente alcança um coletivo que inclui os discípulos, sem se limitar seguramente a eles. A proximidade16 favorece sua participação; geração favorece alcance mais amplo. A extensão exata permanece aberta. Dt32.5,20 oferece alusão provável, não importação de todo o cântico. A relação com Emanuel é hipótese de baixa confiança: a expressão de presença não demonstra eco deliberado; retirada definitiva de Deus e rejeição étnica não estão demonstradas. A ordem para trazer o menino mostra censura e socorro no mesmo movimento. As perguntas comἕωςπότε funcionam como lamento/reprovação, não cálculo de prazo. Διεστραμμένη qualifica a geração; perfeito/passivo não identificam agente ou acontecimento que a perverteu. A coordenação dos qualificativos não codifica uma causa psicológica entre eles. BDAG γενεά2 situa17.17 na geração contemporânea, moralmente caracterizada; isso favorece contemporaneidade sem definir todos os destinatários. ἄπιστος2 e διαστρέφω2 sustentam incredulidade e perversão moral. A objeção deLuz sobre uso coletivo degeração e distinção de pouca fé permanece relevante; inclusão dos discípulos é preferência contextual moderada, não identificação lexical automática.
 
 
 ## MT1714-21-N005 — Libertação e cura efetivas
@@ -51,24 +51,23 @@ O narrador relata repreensão, saída do demônio e cura desde aquela hora. O de
 
 ## MT1714-21-N007 — Pouca fé como causa deste fracasso
 
-Versão 0.5.0. Mateus 17.20.
+Versão 0.6.0.
 
-Adota-se ὀλιγοπιστίαν, “pouca fé”, em vez de ἀπιστίαν. Διά com acusativo identifica a causa da incapacidade narrada. “Confiança deficiente” esclarece contextualmente, sem criar categoria lexical técnica. A comissão10.1,8 não dispensa fé no exercício da missão. O diagnóstico tem sujeitos e situação definidos: não pode ser convertido em causa universal de toda não cura. Automatismo mágico ou abandono da oração não são procedimentos narrados. O apoio deא B Θ0281 e outros à leitura menos comum, junto à aproximação possível deἀπιστίαν aἄπιστος17, favorece a decisão; não se decide por maioria. Oγάρ20 explica a resposta por meio da promessa, não estabelece uma escala numérica de fé. As ocorrências cognatasMt6.30;8.26;14.31;16.8 ligam pouca fé a confiança deficiente em situações diversas, sem uma motivação única demonstrada. Mc9.29 relaciona expulsão e oração; a complementaridade com pouca fé é plausível, sem prova de que discípulos não oraram ou usaram fórmula mágica.
+Adota-se ὀλιγοπιστίαν, “pouca fé”, em vez de ἀπιστίαν. Διά com acusativo identifica a causa da incapacidade narrada. “Confiança deficiente” esclarece contextualmente, sem criar categoria lexical técnica. A comissão10.1,8 não dispensa fé no exercício da missão. O diagnóstico tem sujeitos e situação definidos: não pode ser convertido em causa universal de toda não cura. Automatismo mágico ou abandono da oração não são procedimentos narrados. O apoio deא B Θ0281 e outros à leitura menos comum, junto à aproximação possível deἀπιστίαν aἄπιστος17, favorece a decisão; não se decide por maioria. Oγάρ20 explica a resposta por meio da promessa, não estabelece uma escala numérica de fé. As ocorrências cognatasMt6.30;8.26;14.31;16.8 ligam pouca fé a confiança deficiente em situações diversas, sem uma motivação única demonstrada. Mc9.29 relaciona expulsão e oração; a complementaridade com pouca fé é plausível, sem prova de que discípulos não oraram ou usaram fórmula mágica. Complementaridade fé/oração é leitura comparativa plausível, não prova de intenção conjunta dos autores ou de procedimento omitido.
 
 
 ## MT1714-21-N008 — Mostarda e monte: aspecto da comparação
 
-**Versão:** 0.2.0. **Referência:** Mateus 17.20. **Confiança:** Moderado para aspecto e imagem.
+Versão 0.6.0.
 
-A pequenez em contraste com o grande efeito é o aspecto preferido da mostarda (Moderado). Mt13.31–32 explicita pequenez e crescimento;17.20 não narra crescimento,plantio ou espera. Pouca fé avalia a confiança deficiente; a imagem pequena desautoriza exigir fé proporcional à grandeza do obstáculo. São funções retóricas distintas, não duas medidas exatas nem categorias lexicais de qualidade versus quantidade. Carson,France,Luz eHendriksen oferecem explicações confrontadas no relatório. O paradoxo não fica completamente eliminado;vitalidade e perseverança não são sentidos obrigatórios. A tradução mantém “como”. Monte permanece imagem concreta do extraordinariamente difícil,sem instituição identificada ou proverbialidade exaustivamente pesquisada.
+A pequenez em contraste com o grande efeito é o aspecto preferido da mostarda (Moderado). Mt13.31–32 explicita pequenez e crescimento;17.20 não narra crescimento,plantio ou espera. Pouca fé avalia a confiança deficiente; a imagem pequena desautoriza exigir fé proporcional à grandeza do obstáculo. São funções retóricas distintas, não duas medidas exatas nem categorias lexicais de qualidade versus quantidade. Carson,France,Luz eHendriksen oferecem explicações confrontadas no relatório. O paradoxo não fica completamente eliminado;vitalidade e perseverança não são sentidos obrigatórios. A tradução mantém “como”. Monte permanece imagem concreta do extraordinariamente difícil,sem instituição identificada ou proverbialidade exaustivamente pesquisada. A distinção de funções retóricas preserva, mas não resolve integralmente, o paradoxo pequeno/insuficiente e pequeno/eficaz. A interpretação permanece moderada, sem excluir dimensão escalar da censura.
 
-[Base](documento-mestre.md#mt1714-21-m-007). Fontes e proveniência: [registro estruturado](notas-logos.json).
 
 ## MT1714-21-N009 — Amplitude concreta e contextual da promessa
 
-**Versão:** 0.2.1. **Referência:** Mateus 17.20.
+Versão 0.6.0.
 
-A condiçãoἐάν/subjuntivo alcança os futuros: direis (discípulos),passará (monte),nada será impossível (nada como sujeito). O fecho generaliza sem novo destinatário ou condição. A construção não prova ausência total de fé. Positivamente,Jesus anuncia aos discípulos que creem capacidade efetiva diante do que excede possibilidades ordinárias; dificuldades como a enfrentada não precisam ser limites intransponíveis à missão recebida. Mt10.1,8 e a retomada16/19 fundamentam essa delimitação contextualModerada. “Nada” amplia além daquele menino; a promessa não é apenas resiliência interior. Fronteiras exatas e extensão a outros destinatários permanecem abertas. Não inserir “segundo a vontade de Deus” na tradução ou diagnosticar toda não cura por este caso. BDAG πίστις2a classifica17.20 como confiança em Deus. A remissão de2dζ ao dom paulino reconhece a dimensão miraculosa, mas não prova categoria exclusiva de dons em Mateus.
+A condiçãoἐάν/subjuntivo alcança os futuros: direis (discípulos),passará (monte),nada será impossível (nada como sujeito). O fecho generaliza sem novo destinatário ou condição. A construção não prova ausência total de fé. Positivamente,Jesus anuncia aos discípulos que creem capacidade efetiva diante do que excede possibilidades ordinárias; dificuldades como a enfrentada não precisam ser limites intransponíveis à missão recebida. Mt10.1,8 e a retomada16/19 fundamentam essa delimitação contextualModerada. “Nada” amplia além daquele menino; a promessa não é apenas resiliência interior. Fronteiras exatas e extensão a outros destinatários permanecem abertas. Não inserir “segundo a vontade de Deus” na tradução ou diagnosticar toda não cura por este caso. BDAG πίστις2a classifica17.20 como confiança em Deus. A remissão de2dζ ao dom paulino reconhece a dimensão miraculosa, mas não prova categoria exclusiva de dons em Mateus. Condição e destinatários delimitam quem recebe a promessa; não definem sozinhos a extensão de seus objetos. Leitura missionária favorecida pelo contexto, sem lista exaustiva de limites. A objeção de amplitude radical permanece aberta.
 
 
 ## MT1714-21-N010 — Versículo21 e oração/jejum

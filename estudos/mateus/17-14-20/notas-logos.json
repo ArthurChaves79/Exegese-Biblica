@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project_id": "MT1714-21",
-  "notes_version": "0.9.1",
+  "notes_version": "0.9.2",
   "date": "2026-10-29",
   "identity_policy": "IDs locais persistentes do projeto, não IDs nativos do Logos nem entradas definitivas de curadoria. Não renumerar/reutilizar; revisar versão mantendo ID; retirar com histórico.",
   "logos_status": "Preparação somente; nenhuma operação no aplicativo Logos foi realizada.",
@@ -89,12 +89,12 @@
     },
     {
       "id": "MT1714-21-N004",
-      "version": "0.3.1",
+      "version": "0.6.0",
       "title": "Geração e linguagem de censura",
       "reference": "Mateus 17.17",
       "status": "preparada_nao_transferida_ao_Logos",
       "confidence": "Moderado para destinatários e alusão",
-      "body": "A censura provavelmente alcança um coletivo que inclui os discípulos, sem se limitar seguramente a eles. A proximidade16 favorece sua participação; geração favorece alcance mais amplo. A extensão exata permanece aberta. Dt32.5,20 oferece alusão provável, não importação de todo o cântico. A relação com Emanuel é hipótese de baixa confiança: a expressão de presença não demonstra eco deliberado; retirada definitiva de Deus e rejeição étnica não estão demonstradas. A ordem para trazer o menino mostra censura e socorro no mesmo movimento. As perguntas comἕωςπότε funcionam como lamento/reprovação, não cálculo de prazo. Διεστραμμένη qualifica a geração; perfeito/passivo não identificam agente ou acontecimento que a perverteu. A coordenação dos qualificativos não codifica uma causa psicológica entre eles. BDAG γενεά2 situa17.17 na geração contemporânea, moralmente caracterizada; isso favorece contemporaneidade sem definir todos os destinatários. ἄπιστος2 e διαστρέφω2 sustentam incredulidade e perversão moral.",
+      "body": "A censura provavelmente alcança um coletivo que inclui os discípulos, sem se limitar seguramente a eles. A proximidade16 favorece sua participação; geração favorece alcance mais amplo. A extensão exata permanece aberta. Dt32.5,20 oferece alusão provável, não importação de todo o cântico. A relação com Emanuel é hipótese de baixa confiança: a expressão de presença não demonstra eco deliberado; retirada definitiva de Deus e rejeição étnica não estão demonstradas. A ordem para trazer o menino mostra censura e socorro no mesmo movimento. As perguntas comἕωςπότε funcionam como lamento/reprovação, não cálculo de prazo. Διεστραμμένη qualifica a geração; perfeito/passivo não identificam agente ou acontecimento que a perverteu. A coordenação dos qualificativos não codifica uma causa psicológica entre eles. BDAG γενεά2 situa17.17 na geração contemporânea, moralmente caracterizada; isso favorece contemporaneidade sem definir todos os destinatários. ἄπιστος2 e διαστρέφω2 sustentam incredulidade e perversão moral. A objeção deLuz sobre uso coletivo degeração e distinção de pouca fé permanece relevante; inclusão dos discípulos é preferência contextual moderada, não identificação lexical automática.",
       "tags": [
         "mt1714-21",
         "destinatarios",
@@ -111,7 +111,8 @@
         "estudos/mateus/17-14-20/revisao-metodo.md",
         "estudos/mateus/17-14-20/EXE-04-05-06-analise-linguistica.md",
         "estudos/mateus/17-14-20/fontes-linguisticas-20261028.md",
-        "fontes/logos/bdag-complemento-genea-apistos-diastrepho-pistis.txt"
+        "fontes/logos/bdag-complemento-genea-apistos-diastrepho-pistis.txt",
+        "estudos/mateus/17-14-20/VAL-01-05-revisao-interna.md"
       ],
       "source_baseline_commit": "a944c05176cb3a470fb837aef4357a23983b2ddd",
       "last_revision_baseline_commit": "ee7b3a59acee36ad6a34b12cb27244a060f2d2e3"
@@ -173,12 +174,12 @@
     },
     {
       "id": "MT1714-21-N007",
-      "version": "0.5.0",
+      "version": "0.6.0",
       "title": "Pouca fé como causa deste fracasso",
       "reference": "Mateus 17.20",
       "status": "preparada_nao_transferida_ao_Logos",
       "confidence": "Alto para leitura e causalidade local",
-      "body": "Adota-se ὀλιγοπιστίαν, “pouca fé”, em vez de ἀπιστίαν. Διά com acusativo identifica a causa da incapacidade narrada. “Confiança deficiente” esclarece contextualmente, sem criar categoria lexical técnica. A comissão10.1,8 não dispensa fé no exercício da missão. O diagnóstico tem sujeitos e situação definidos: não pode ser convertido em causa universal de toda não cura. Automatismo mágico ou abandono da oração não são procedimentos narrados. O apoio deא B Θ0281 e outros à leitura menos comum, junto à aproximação possível deἀπιστίαν aἄπιστος17, favorece a decisão; não se decide por maioria. Oγάρ20 explica a resposta por meio da promessa, não estabelece uma escala numérica de fé. As ocorrências cognatasMt6.30;8.26;14.31;16.8 ligam pouca fé a confiança deficiente em situações diversas, sem uma motivação única demonstrada. Mc9.29 relaciona expulsão e oração; a complementaridade com pouca fé é plausível, sem prova de que discípulos não oraram ou usaram fórmula mágica.",
+      "body": "Adota-se ὀλιγοπιστίαν, “pouca fé”, em vez de ἀπιστίαν. Διά com acusativo identifica a causa da incapacidade narrada. “Confiança deficiente” esclarece contextualmente, sem criar categoria lexical técnica. A comissão10.1,8 não dispensa fé no exercício da missão. O diagnóstico tem sujeitos e situação definidos: não pode ser convertido em causa universal de toda não cura. Automatismo mágico ou abandono da oração não são procedimentos narrados. O apoio deא B Θ0281 e outros à leitura menos comum, junto à aproximação possível deἀπιστίαν aἄπιστος17, favorece a decisão; não se decide por maioria. Oγάρ20 explica a resposta por meio da promessa, não estabelece uma escala numérica de fé. As ocorrências cognatasMt6.30;8.26;14.31;16.8 ligam pouca fé a confiança deficiente em situações diversas, sem uma motivação única demonstrada. Mc9.29 relaciona expulsão e oração; a complementaridade com pouca fé é plausível, sem prova de que discípulos não oraram ou usaram fórmula mágica. Complementaridade fé/oração é leitura comparativa plausível, não prova de intenção conjunta dos autores ou de procedimento omitido.",
       "tags": [
         "mt1714-21",
         "fe",
@@ -195,19 +196,20 @@
         "estudos/mateus/17-14-20/EXE-02-03-texto-traducao.md",
         "estudos/mateus/17-14-20/EXE-04-05-06-analise-linguistica.md",
         "estudos/mateus/17-14-20/fontes-linguisticas-20261028.md",
-        "estudos/mateus/17-14-20/comparacao-sinotica-contexto-historico.md"
+        "estudos/mateus/17-14-20/comparacao-sinotica-contexto-historico.md",
+        "estudos/mateus/17-14-20/VAL-01-05-revisao-interna.md"
       ],
       "source_baseline_commit": "a944c05176cb3a470fb837aef4357a23983b2ddd",
       "last_revision_baseline_commit": "ee7b3a59acee36ad6a34b12cb27244a060f2d2e3"
     },
     {
       "id": "MT1714-21-N008",
-      "version": "0.2.0",
+      "version": "0.6.0",
       "title": "Mostarda e monte: aspecto da comparação",
       "reference": "Mateus 17.20",
       "status": "preparada_nao_transferida_ao_Logos",
       "confidence": "Moderado para aspecto e imagem",
-      "body": "A pequenez em contraste com o grande efeito é o aspecto preferido da mostarda (Moderado). Mt13.31–32 explicita pequenez e crescimento;17.20 não narra crescimento,plantio ou espera. Pouca fé avalia a confiança deficiente; a imagem pequena desautoriza exigir fé proporcional à grandeza do obstáculo. São funções retóricas distintas, não duas medidas exatas nem categorias lexicais de qualidade versus quantidade. Carson,France,Luz eHendriksen oferecem explicações confrontadas no relatório. O paradoxo não fica completamente eliminado;vitalidade e perseverança não são sentidos obrigatórios. A tradução mantém “como”. Monte permanece imagem concreta do extraordinariamente difícil,sem instituição identificada ou proverbialidade exaustivamente pesquisada.",
+      "body": "A pequenez em contraste com o grande efeito é o aspecto preferido da mostarda (Moderado). Mt13.31–32 explicita pequenez e crescimento;17.20 não narra crescimento,plantio ou espera. Pouca fé avalia a confiança deficiente; a imagem pequena desautoriza exigir fé proporcional à grandeza do obstáculo. São funções retóricas distintas, não duas medidas exatas nem categorias lexicais de qualidade versus quantidade. Carson,France,Luz eHendriksen oferecem explicações confrontadas no relatório. O paradoxo não fica completamente eliminado;vitalidade e perseverança não são sentidos obrigatórios. A tradução mantém “como”. Monte permanece imagem concreta do extraordinariamente difícil,sem instituição identificada ou proverbialidade exaustivamente pesquisada. A distinção de funções retóricas preserva, mas não resolve integralmente, o paradoxo pequeno/insuficiente e pequeno/eficaz. A interpretação permanece moderada, sem excluir dimensão escalar da censura.",
       "tags": [
         "mt1714-21",
         "mostarda",
@@ -223,19 +225,20 @@
         "estudos/mateus/17-14-20/EXE-11-sintese-sentido.md",
         "estudos/mateus/17-14-20/EXE-03-recuperado-conferencia.md",
         "estudos/mateus/17-14-20/EXE-04-05-06-analise-linguistica.md",
-        "estudos/mateus/17-14-20/fontes-linguisticas-20261028.md"
+        "estudos/mateus/17-14-20/fontes-linguisticas-20261028.md",
+        "estudos/mateus/17-14-20/VAL-01-05-revisao-interna.md"
       ],
       "source_baseline_commit": "a944c05176cb3a470fb837aef4357a23983b2ddd",
       "last_revision_baseline_commit": "ee7b3a59acee36ad6a34b12cb27244a060f2d2e3"
     },
     {
       "id": "MT1714-21-N009",
-      "version": "0.2.1",
+      "version": "0.6.0",
       "title": "Amplitude concreta e contextual da promessa",
       "reference": "Mateus 17.20",
       "status": "preparada_nao_transferida_ao_Logos",
       "confidence": "Alto para formulação; Moderado para alcance detalhado",
-      "body": "A condiçãoἐάν/subjuntivo alcança os futuros: direis (discípulos),passará (monte),nada será impossível (nada como sujeito). O fecho generaliza sem novo destinatário ou condição. A construção não prova ausência total de fé. Positivamente,Jesus anuncia aos discípulos que creem capacidade efetiva diante do que excede possibilidades ordinárias; dificuldades como a enfrentada não precisam ser limites intransponíveis à missão recebida. Mt10.1,8 e a retomada16/19 fundamentam essa delimitação contextualModerada. “Nada” amplia além daquele menino; a promessa não é apenas resiliência interior. Fronteiras exatas e extensão a outros destinatários permanecem abertas. Não inserir “segundo a vontade de Deus” na tradução ou diagnosticar toda não cura por este caso. BDAG πίστις2a classifica17.20 como confiança em Deus. A remissão de2dζ ao dom paulino reconhece a dimensão miraculosa, mas não prova categoria exclusiva de dons em Mateus.",
+      "body": "A condiçãoἐάν/subjuntivo alcança os futuros: direis (discípulos),passará (monte),nada será impossível (nada como sujeito). O fecho generaliza sem novo destinatário ou condição. A construção não prova ausência total de fé. Positivamente,Jesus anuncia aos discípulos que creem capacidade efetiva diante do que excede possibilidades ordinárias; dificuldades como a enfrentada não precisam ser limites intransponíveis à missão recebida. Mt10.1,8 e a retomada16/19 fundamentam essa delimitação contextualModerada. “Nada” amplia além daquele menino; a promessa não é apenas resiliência interior. Fronteiras exatas e extensão a outros destinatários permanecem abertas. Não inserir “segundo a vontade de Deus” na tradução ou diagnosticar toda não cura por este caso. BDAG πίστις2a classifica17.20 como confiança em Deus. A remissão de2dζ ao dom paulino reconhece a dimensão miraculosa, mas não prova categoria exclusiva de dons em Mateus. Condição e destinatários delimitam quem recebe a promessa; não definem sozinhos a extensão de seus objetos. Leitura missionária favorecida pelo contexto, sem lista exaustiva de limites. A objeção de amplitude radical permanece aberta.",
       "tags": [
         "mt1714-21",
         "promessa",
@@ -251,7 +254,8 @@
         "estudos/mateus/17-14-20/EXE-10B-avaliacao-canonica.md",
         "estudos/mateus/17-14-20/EXE-04-05-06-analise-linguistica.md",
         "estudos/mateus/17-14-20/fontes-linguisticas-20261028.md",
-        "fontes/logos/bdag-complemento-genea-apistos-diastrepho-pistis.txt"
+        "fontes/logos/bdag-complemento-genea-apistos-diastrepho-pistis.txt",
+        "estudos/mateus/17-14-20/VAL-01-05-revisao-interna.md"
       ],
       "source_baseline_commit": "a944c05176cb3a470fb837aef4357a23983b2ddd",
       "last_revision_baseline_commit": "ee7b3a59acee36ad6a34b12cb27244a060f2d2e3"

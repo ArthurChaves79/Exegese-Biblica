@@ -36,3 +36,8 @@ EXE-03 foi recuperado;08C é recomposição posterior. Fontes Logos e relatório
 ## Revisão sinótica e histórica —29/10/2026
 
 Ver [relatório e fontes](comparacao-sinotica-contexto-historico.md): D61–D66, P39–P43. Manuscrito1.1 e2.5.7–8 desenvolvidos; tradução mantida. Complementaridade fé/oração qualificada; procedimento dos discípulos desconhecido; referente18 reforçado pelos paralelos. Sem avanço à síntese ou integração canônica. P42 requer aparatoMc9.29.
+
+
+## Revisão crítica interna de29/10/2026
+
+Ver [VAL-01–05 e teste seletivoVAL-06](VAL-01-05-revisao-interna.md). D69–D76 corrigem apresentaçãoFrance/Luz e qualificam mostarda e promessa: condição/destinatários não delimitam sozinhos todos os resultados. Comparação fé/oração não demonstra intenção conjunta nem procedimento omitido. Tradução mantida; revisão interna, não independente. Resultados anteriores só sustentam comentário/síntese sob essas qualificações; nenhum próximo bloco executado.
