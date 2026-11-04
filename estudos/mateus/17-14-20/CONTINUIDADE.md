@@ -1,9 +1,7 @@
-# Continuidade — 30/10/2026
+# Continuidade — 04/11/2026
 
-Consolidação concluída no escopo de `consolidacao-pesquisa.md`. Manuscrito2.0.0 pronto para revisão editorial; tradução de28/10 mantida. Não há Word gerado/conferido nesta rodada. Não declarar entrega final.
+Base editorial parcial: academico/Mateus-17-14-21-Partes-1-2-e-3A.md e Word homônimo. 28 páginas renderizadas e inspecionadas, 44 notas reais. Parte 1 e tradução preservadas; Parte 2 com ajustes localizados; comentário desenvolvido até 17.18. Entregas anteriores preservadas. Pesquisa integral e aplicação permanecem em seus arquivos próprios.
 
-Ler método vigente, relatório de consolidação, perguntas (51 IDs), decisões, ficha, manuscrito e notas antes de alterar conclusões. Dossiê e antigos produtos são acervo, não autoridade para restaurar decisões superadas. Aplicação permanece no derivado, sem casos reais.
+Ler método vigente, registros editoriais, perguntas, decisões, relatórios e verificações antes de alterar conclusões. O registro desta rodada é registros-editoriais/Registro-Parte-3A.md; contém decisões, evidências e limites. A conferência seletiva do grego de Dt32 atualiza P07/P45 e N004, sem elevar a alusão a certeza. Apparato com índices ilegíveis permanece limitado. Não restaurar conclusões superadas por repetição no acervo.
 
-Próximo trabalho: normalização editorial, conferência de referências e renderização do DOCX. Conservar as reservas sobre geração, mostarda, promessa, espécie e índices do aparato. Ausências de fontes afetam afirmações delimitadas; não alegar história completa, colação de manuscritos ou revisão independente. Notas preparadas, não transferidas.
-
-Histórico anterior preservado em `historico/consolidacao-20261030/`. Publicação será conferida pelo commit e pela leitura remota, sem confundir sucesso técnico com mérito exegético.
+Próxima redação: 17.19–20, somente mediante solicitação. Não declarar estudo editorial integral concluído. Notas preparadas, não inseridas no Logos. Revisão interna e conferência técnica não equivalem a revisão independente.

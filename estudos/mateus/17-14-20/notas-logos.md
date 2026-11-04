@@ -1,6 +1,6 @@
 # Notas essenciais para o Logos
 
-Preparadas; não transferidas. IDs preservados; versão de conjunto 1.4.0. Exemplos pastorais permanecem no derivado.
+Preparadas; não transferidas. IDs preservados; versão de conjunto 1.5.0. Exemplos pastorais permanecem no derivado.
 
 ## MT1714-21-N001 — Procedência da tradução de trabalho
 
@@ -16,7 +16,9 @@ O pai pede misericórdia para um filho em sofrimento e perigo recorrente. Σελ
 
 ## MT1714-21-N004 — Geração e linguagem de censura
 
-A censura provavelmente alcança um coletivo que inclui os discípulos, sem se limitar seguramente a eles. A proximidade16 favorece sua participação; geração favorece alcance mais amplo. A extensão exata permanece aberta. Dt32.5,20 oferece alusão provável, não importação de todo o cântico. A relação com Emanuel é hipótese de baixa confiança: a expressão de presença não demonstra eco deliberado; retirada definitiva de Deus e rejeição étnica não estão demonstradas. A ordem para trazer o menino mostra censura e socorro no mesmo movimento. As perguntas comἕωςπότε funcionam como lamento/reprovação, não cálculo de prazo. Διεστραμμένη qualifica a geração; perfeito/passivo não identificam agente ou acontecimento que a perverteu. A coordenação dos qualificativos não codifica uma causa psicológica entre eles. BDAG γενεά2 situa17.17 na geração contemporânea, moralmente caracterizada; isso favorece contemporaneidade sem definir todos os destinatários. ἄπιστος2 e διαστρέφω2 sustentam incredulidade e perversão moral. A objeção deLuz sobre uso coletivo degeração e distinção de pouca fé permanece relevante; inclusão dos discípulos é preferência contextual moderada, não identificação lexical automática. VAL06:Dt32 permanece alusão provável,sem transferência do cântico inteiro;Êx32 eco possível,não tipologia demonstrada;Emanuel não elevado por repetição.
+A censura provavelmente abrange os contemporâneos e inclui os discípulos, sem se limitar a eles; sua extensão exata permanece aberta. A proximidade de 17.16 e a explicação de 17.20 favorecem sua participação, enquanto o coletivo “geração” impede restringir automaticamente a fala ao grupo. A objeção de Luz sobre o uso mateano e a distinção entre incredulidade e pouca fé permanece relevante. BDAG, γενεά 2, ἄπιστος 2 e διαστρέφω 2, sustenta geração contemporânea, incredulidade e desvio moral; a coordenação não determina uma causa psicológica. As perguntas “até quando” exprimem lamento e reprovação. A ordem de trazer o menino reúne censura e iniciativa de socorro.
+
+Dt 32.5 apresenta γενεὰ σκολιὰ καὶ διεστραμμένη; Dt 32.20, οὐκ ἔστιν πίστις. O grego foi consultado seletivamente na reprodução digital identificada como Swete’s Septuagint, com o contexto de 32.4–6,15–20. A convergência verbal e funcional favorece alusão provável, de confiança moderada, sem importar todo o cântico. Não houve colação do aparato ou pesquisa exaustiva da fórmula. Êxodo 32 permanece eco possível; a retirada definitiva de Deus a partir de Emanuel não foi demonstrada.
 
 ## MT1714-21-N005 — Libertação e cura efetivas
 

@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "project_id": "MT1714-21",
-  "notes_version": "1.4.0",
-  "date": "2026-10-30",
+  "notes_version": "1.5.0",
+  "date": "2026-11-04",
   "identity_policy": "IDs locais persistentes do projeto, não IDs nativos do Logos nem entradas definitivas de curadoria. Não renumerar/reutilizar; revisar versão mantendo ID; retirar com histórico.",
   "logos_status": "Preparação somente; nenhuma operação no aplicativo Logos foi realizada.",
   "notes": [
@@ -89,12 +89,12 @@
     },
     {
       "id": "MT1714-21-N004",
-      "version": "0.7.0",
+      "version": "0.8.0",
       "title": "Geração e linguagem de censura",
       "reference": "Mateus 17.17",
       "status": "preparada_nao_transferida_ao_Logos",
       "confidence": "Moderado para destinatários e alusão",
-      "body": "A censura provavelmente alcança um coletivo que inclui os discípulos, sem se limitar seguramente a eles. A proximidade16 favorece sua participação; geração favorece alcance mais amplo. A extensão exata permanece aberta. Dt32.5,20 oferece alusão provável, não importação de todo o cântico. A relação com Emanuel é hipótese de baixa confiança: a expressão de presença não demonstra eco deliberado; retirada definitiva de Deus e rejeição étnica não estão demonstradas. A ordem para trazer o menino mostra censura e socorro no mesmo movimento. As perguntas comἕωςπότε funcionam como lamento/reprovação, não cálculo de prazo. Διεστραμμένη qualifica a geração; perfeito/passivo não identificam agente ou acontecimento que a perverteu. A coordenação dos qualificativos não codifica uma causa psicológica entre eles. BDAG γενεά2 situa17.17 na geração contemporânea, moralmente caracterizada; isso favorece contemporaneidade sem definir todos os destinatários. ἄπιστος2 e διαστρέφω2 sustentam incredulidade e perversão moral. A objeção deLuz sobre uso coletivo degeração e distinção de pouca fé permanece relevante; inclusão dos discípulos é preferência contextual moderada, não identificação lexical automática. VAL06:Dt32 permanece alusão provável,sem transferência do cântico inteiro;Êx32 eco possível,não tipologia demonstrada;Emanuel não elevado por repetição.",
+      "body": "A censura provavelmente abrange os contemporâneos e inclui os discípulos, sem se limitar a eles; sua extensão exata permanece aberta. A proximidade de 17.16 e a explicação de 17.20 favorecem sua participação, enquanto o coletivo “geração” impede restringir automaticamente a fala ao grupo. A objeção de Luz sobre o uso mateano e a distinção entre incredulidade e pouca fé permanece relevante. BDAG, γενεά 2, ἄπιστος 2 e διαστρέφω 2, sustenta geração contemporânea, incredulidade e desvio moral; a coordenação não determina uma causa psicológica. As perguntas “até quando” exprimem lamento e reprovação. A ordem de trazer o menino reúne censura e iniciativa de socorro.\n\nDt 32.5 apresenta γενεὰ σκολιὰ καὶ διεστραμμένη; Dt 32.20, οὐκ ἔστιν πίστις. O grego foi consultado seletivamente na reprodução digital identificada como Swete’s Septuagint, com o contexto de 32.4–6,15–20. A convergência verbal e funcional favorece alusão provável, de confiança moderada, sem importar todo o cântico. Não houve colação do aparato ou pesquisa exaustiva da fórmula. Êxodo 32 permanece eco possível; a retirada definitiva de Deus a partir de Emanuel não foi demonstrada.",
       "tags": [
         "mt1714-21",
         "destinatarios",
@@ -113,10 +113,12 @@
         "estudos/mateus/17-14-20/fontes-linguisticas-20261028.md",
         "fontes/logos/bdag-complemento-genea-apistos-diastrepho-pistis.txt",
         "estudos/mateus/17-14-20/VAL-01-05-revisao-interna.md",
-        "estudos/mateus/17-14-20/revisao-canonica-VAL06.md"
+        "estudos/mateus/17-14-20/revisao-canonica-VAL06.md",
+        "https://biblehub.com/sepd/deuteronomy/32.htm",
+        "estudos/mateus/17-14-20/academico/Mateus-17-14-21-Partes-1-2-e-3A.md#42-a-censura-à-geração-e-a-ordem-de-socorrer--1717"
       ],
       "source_baseline_commit": "a944c05176cb3a470fb837aef4357a23983b2ddd",
-      "last_revision_baseline_commit": "ee7b3a59acee36ad6a34b12cb27244a060f2d2e3"
+      "last_revision_baseline_commit": "a5b9bffecaf1f6939004ee4015d713c8f42e3639"
     },
     {
       "id": "MT1714-21-N005",

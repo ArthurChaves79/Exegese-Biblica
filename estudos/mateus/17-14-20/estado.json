@@ -1,15 +1,15 @@
 {
   "passagem": "Mt 17.14–21 (texto principal 14–20; v21 em nota)",
-  "data": "2026-10-30",
-  "etapa_atual": "Consolidação da pesquisa concluída no escopo documental e bibliográfico declarado",
-  "proxima": "Revisão editorial e geração/conferência de Word mediante próxima rodada",
+  "data": "2026-11-04",
+  "etapa_atual": "Entrega editorial parcial: Partes 1, 2 e 3A, comentário até 17.18",
+  "proxima": "Comentário de 17.19–20, somente quando solicitado",
   "reservado": "Mt 17.1–13",
   "pendencias": [
     "Precisão dos índices perdidos NA28: afeta atribuições particulares, não o núcleo da interpretação",
-    "Colação direta LXX Dt32.5,20: afeta grau da proposta alusiva",
+    "LXX Dt32: texto digital consultado seletivamente; aparato e comparáveis não colacionados",
     "História da interpretação seletiva; sem levantamento exaustivo",
     "Questões interpretativas abertas em perguntas.md, especialmente P03/P34/P37/P44/P50",
-    "Revisão editorial e DOCX ainda não executados; notas não transferidas ao Logos"
+    "Redação editorial restante; notas não transferidas ao Logos"
   ],
   "fontes_arquivadas": [
     "NA28",
@@ -65,7 +65,7 @@
     "documental": "Consolidação de30/10 no escopo declarado",
     "validacao_integral_metodo": false,
     "revisao_independente": false,
-    "produto_15B": "Histórico; manuscrito2.0 pronto para revisão editorial, não entregue em Word",
+    "produto_15B": "Histórico preservado; entrega Word parcial cumulativa até comentário de 17.18",
     "relatorio": "estudos/mateus/17-14-20/consolidacao-pesquisa.md"
   },
   "produto_final": {
@@ -87,5 +87,13 @@
   "complemento_marcos": "complemento-mc9-29.md; D67–D68",
   "revisao_sistematica": "revisao-sistematica-antropologica.md",
   "aplicacao_atual": "aplicacao-hermeneutica.md",
-  "consolidacao": "consolidacao-pesquisa.md"
+  "consolidacao": "consolidacao-pesquisa.md",
+  "editorial_atual": {
+    "word": "academico/Mateus-17-14-21-Partes-1-2-e-3A.docx",
+    "manuscrito": "academico/Mateus-17-14-21-Partes-1-2-e-3A.md",
+    "registro": "registros-editoriais/Registro-Parte-3A.md",
+    "paginas": 28,
+    "notas_reais": 44,
+    "entrega_integral": false
+  }
 }

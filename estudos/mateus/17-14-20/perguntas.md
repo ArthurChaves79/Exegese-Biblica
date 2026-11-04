@@ -1,4 +1,4 @@
-# Perguntas acompanhadas — situação consolidada em 30/10/2026
+# Perguntas acompanhadas — situação atualizada em 04/11/2026
 
 IDs preservados. Esta tabela substitui o estado acumulado; o registro anterior está em `historico/consolidacao-20261030/perguntas.md`. Respostas não equivalem a certezas uniformes. Prioridades dos testes permanecem nos relatórios; objeções não perdem relevância por contrariarem uma preferência.
 
@@ -10,7 +10,7 @@ IDs preservados. Esta tabela substitui o estado acumulado; o registro anterior e
 | P04 | Nada impossível garante qualquer resultado? | Qualificada | Eficácia concreta no horizonte da missão; condição e destinatários não limitam sozinhos todos os resultados. | VAL-01–05; 2.4.5.2 |
 | P05 | Fé e oração em Mateus e Marcos? | Qualificada | Complementaridade de confiança e oração; não prova de oração omitida. | Mc 9.29; 2.4.7 |
 | P06 | Doença e ação demoníaca? | Respondida no escopo | Sofrimento corporal e demônio afirmados no episódio; sem diagnóstico clínico retrospectivo ou regra universal. | 17.15,18; seção 1.1 |
-| P07 | Relação com Dt32? | Qualificada | Alusão provável; correspondência grega ainda mediada por Carson/BDAG. | VAL06 C04; 3.1 |
+| P07 | Relação com Dt32? | Qualificada | Alusão provável mantida; grego consultado seletivamente na reprodução Swete/Bible Hub em 04/11, sem aparato. | VAL06 C04; 3.1 |
 | P08 | Presença/Emanuel em17.17? | Possibilidade | Comparação temática legítima; eco deliberado e retirada definitiva não demonstrados. | VAL06 C09; 3.1 |
 | P09 | Pronome sujeito explícito em17.19? | Respondida | Pronome explícito torna sujeitos salientes; contraste contextual não revela orgulho ou autossuficiência. | 17.19; análise linguística; 2.4.4 |
 | P10 | Fé especial/comum, oração e alcance da promessa? | Aberta interpretativa | Dom especial possível; exclusividade lexical não demonstrada. | 1Co 12; VAL06 C14 |
@@ -27,7 +27,7 @@ IDs preservados. Esta tabela substitui o estado acumulado; o registro anterior e
 | P21 | O reenvio supera a lacuna03? | Respondida | Recuperação supera falta do EXE-03, sem sanar todas as lacunas de procedência. | EXE-03-recuperado-conferencia.md |
 | P22 | Como aplicar preservando sentido e limites? | Respondida no escopo | Aplicação geral em derivado; casos hipotéticos e conselhos prudenciais distinguidos. | aplicacao-hermeneutica.md |
 | P23 | O que significa o fechamento15A? | Atualizada | Consolidação atual delimitada; não certificação independente nem entrega final. | consolidacao-pesquisa.md |
-| P24 | O produto final e o modelo foram atendidos? | Próxima etapa | Pronto para revisão editorial e preparação do Word; DOCX ainda não gerado ou conferido. | ficha-manuscrito.json |
+| P24 | O produto final e o modelo foram atendidos? | Próxima etapa | Word parcial cumulativo Partes 1, 2 e 3A gerado e conferido; restante da redação editorial ainda pendente. | ficha-manuscrito.json |
 | P25 | Onde começa e termina o episódio? | Respondida | 14–20 principal;21 em nota conforme decisão textual. | 2.2; relatório textual |
 | P26 | Como se liga aos vizinhos? | Respondida | Continuidade narrativa com descida e paixão, sem fusão de perícopes. | 1.2–1.5; contexto/estrutura |
 | P27 | Qual macroseção o contém? | Qualificada | 16.13–17.23 útil como recorte, não única macrodivisão possível. | contexto/estrutura; seção 1 |
@@ -48,7 +48,7 @@ IDs preservados. Esta tabela substitui o estado acumulado; o registro anterior e
 | P42 | O aparato de Marcos 9.29 está disponível? | Parcial documental | Texto e aparato recebidos; índices perdidos; leitura curta moderadamente preferida; Metzger não consultado. | complemento-mc9-29.md |
 | P43 | É possível reconstruir tradições anteriores e uma comunidade específica? | Não estabelecida | Tradições anteriores e comunidade hipotética não demonstradas pelos textos finais. | comparação sinótica |
 | P44 | Qual é a extensão da promessa sob a comparação canônica? | Aberta decisiva | Promessa concreta mantida; comparação com Mt21/Tg5 não resolve cada fronteira ou caso. | VAL06 C07/C11–13 |
-| P45 | Que evidência falta para discriminar a alusão a Deuteronômio 32? | Lacuna específica | Colação direta do grego de Dt32.5,20 e comparáveis refinaria classificação alusiva; não pressuposta. | VAL06 C04; nota can2 |
+| P45 | Que evidência falta para discriminar a alusão a Deuteronômio 32? | Lacuna específica | Texto grego digital de Dt32.5,20 e contexto consultado; permanecem colação do aparato e investigação de comparáveis. Ver Registro-Parte-3A. | VAL06 C04; nota can2 |
 | P46 | A fé é dom específico e o episódio resolve a continuidade dos dons? | Aberta fora do escopo | Não há base para decidir continuidade dos dons apenas por esta cena. | VAL06 C14; 3.2 |
 | P47 | Que relação detalhada entre cura e expiação pode ser estabelecida? | Não estabelecida | Cura integra missão rumo à paixão; teoria detalhada cura/expiação requer outra demonstração. | VAL06 C08; 3.1–3.2 |
 | P48 | A passagem decide debates contemporâneos sobre dons? | Não decidida | Diversidade canônica impede identidade automática de funções; debate de dons não encerrado. | revisão sistemática |
