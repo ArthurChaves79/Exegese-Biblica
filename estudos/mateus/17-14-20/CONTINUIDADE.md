@@ -1,3 +1,9 @@
+# Continuidade — Parte 5A
+
+Entrega vigente: academico/Mateus-17-14-21-Partes-1-a-5A.docx e .md. Registro: registros-editoriais/Registro-Parte-5A.md. Partes anteriores preservadas. Próxima etapa: Teologia Sistemática, quando solicitada. Nenhuma aplicação acrescentada.
+
+## Registro anterior preservado
+
 # Continuidade — 05/11/2026
 
 Base editorial: academico/Mateus-17-14-21-Partes-1-a-4.md e Word homônimo. 41 páginas, 68 notas reais, revisão visual integral concluída. Comentário de 17.14–20 e síntese do sentido incorporados; 17.21 em nota. Tradução e decisões textuais preservadas. Registro: registros-editoriais/Registro-Parte-4.md.

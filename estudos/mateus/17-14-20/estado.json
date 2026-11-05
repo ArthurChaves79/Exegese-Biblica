@@ -1,8 +1,8 @@
 {
   "passagem": "Mt 17.14–21 (texto principal 14–20; v21 em nota)",
   "data": "2026-11-05",
-  "etapa_atual": "Entrega editorial parcial: Partes 1 a 4, comentário completo e síntese do sentido",
-  "proxima": "Contribuição teológica e relações canônicas, quando solicitado",
+  "etapa_atual": "Entrega editorial parcial: Partes 1 a 5A, Teologia Bíblica",
+  "proxima": "Teologia Sistemática, quando solicitada",
   "reservado": "Mt 17.1–13",
   "pendencias": [
     "Precisão dos índices perdidos NA28: afeta atribuições particulares, não o núcleo da interpretação",
@@ -89,12 +89,12 @@
   "aplicacao_atual": "aplicacao-hermeneutica.md",
   "consolidacao": "consolidacao-pesquisa.md",
   "editorial_atual": {
-    "word": "academico/Mateus-17-14-21-Partes-1-a-4.docx",
-    "manuscrito": "academico/Mateus-17-14-21-Partes-1-a-4.md",
-    "registro": "registros-editoriais/Registro-Parte-4.md",
-    "paginas": 41,
-    "notas_reais": 68,
-    "revisao_visual": "integral nesta entrega",
+    "word": "academico/Mateus-17-14-21-Partes-1-a-5A.docx",
+    "manuscrito": "academico/Mateus-17-14-21-Partes-1-a-5A.md",
+    "registro": "registros-editoriais/Registro-Parte-5A.md",
+    "paginas": 47,
+    "notas_reais": 80,
+    "revisao_visual": "Páginas alteradas examinadas; demais idênticas por hash às previamente examinadas",
     "entrega_integral": false
   }
 }
