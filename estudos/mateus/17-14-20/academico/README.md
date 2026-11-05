@@ -1,5 +1,5 @@
 # Redação acadêmica parcial
 
-Base editorial atual: [Partes 1, 2 e 3A](Mateus-17-14-21-Partes-1-2-e-3A.md), com [Word](Mateus-17-14-21-Partes-1-2-e-3A.docx). Comentário desenvolvido até Mateus 17.18. 28 páginas, 44 notas reais, renderização integral inspecionada. Partes anteriores preservadas nos arquivos existentes.
+Base editorial atual: [Partes 1 a 4](Mateus-17-14-21-Partes-1-a-4.md), com [Word](Mateus-17-14-21-Partes-1-a-4.docx). Comentário completo e síntese do sentido: 41 páginas, 68 notas reais, revisão visual integral. [Registro editorial](../registros-editoriais/Registro-Parte-4.md).
 
-Pesquisa integral anterior permanece no manuscrito e no acervo; aplicação em documento separado. [Registro desta entrega](../registros-editoriais/Registro-Parte-3A.md). Próxima redação: 17.19–20, quando solicitada. Esta entrega não encerra o trabalho acadêmico.
+As entregas anteriores permanecem preservadas. O manuscrito integral de pesquisa e os relatórios conservam sua função no acervo; a aplicação continua separada. Próxima parte: contribuição teológica e relações canônicas, somente quando solicitada. Entrega acadêmica ainda parcial.

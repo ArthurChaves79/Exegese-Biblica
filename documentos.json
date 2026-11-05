@@ -734,6 +734,31 @@
       "depende_de": [
         "MT1714-CONSOLIDACAO-20261030"
       ]
+    },
+    {
+      "id": "MT-EDITORIAL-P4",
+      "path": "estudos/mateus/17-14-20/academico/Mateus-17-14-21-Partes-1-a-4.md",
+      "tipo": "manuscrito",
+      "estado": "atual",
+      "depende_de": []
+    },
+    {
+      "id": "MT-WORD-P4",
+      "path": "estudos/mateus/17-14-20/academico/Mateus-17-14-21-Partes-1-a-4.docx",
+      "tipo": "produto",
+      "estado": "atual",
+      "depende_de": [
+        "MT-EDITORIAL-P4"
+      ]
+    },
+    {
+      "id": "MT-REGISTRO-P4",
+      "path": "estudos/mateus/17-14-20/registros-editoriais/Registro-Parte-4.md",
+      "tipo": "registro",
+      "estado": "atual",
+      "depende_de": [
+        "MT-EDITORIAL-P4"
+      ]
     }
   ]
 }
