@@ -32,3 +32,8 @@ Arquivos acrescentados: critica-textual-rodada-02.md e traducao-trabalho-rodada-
 ## Complemento NA28 de 2.28
 
 Texto impresso e aparato de 2.28 agora recebidos e registrados em complemento-na28-2-28.md (NA28, p. 719). A lacuna documental do texto impresso foi suprida. Permanece cautela quanto à transposição numérica de א. Próximo passo EXE-05; não alterar delimitação antes da análise discursiva.
+
+
+## Rodada 05 — análise discursiva concluída
+
+Relatório arquivado: analise-discursiva-rodada-05.md. O complemento NA28 de 2.28 **está disponível** em complemento-na28-2-28.md; menções anteriores à sua ausência pertencem ao histórico das rodadas, não descrevem o estado vigente. Não se fez colação direta de códices. O esquema 2.18–19; 2.20–23; 2.24–25; 2.26–27 foi mantido com funções argumentativas mais precisas; 2.28 foi qualificado como ponte de dupla função, predominantemente prospectiva. A interpretação imperativa do μένετε final de 2.27 é favorecida pelo conjunto discursivo, com alternativas indicativa e futura preservadas. A nota de 2.19 foi alinhada à tradução formal efetiva 'nem todos são dos nossos', distinguindo paráfrase contextual. Próxima etapa: EXE-06 análise lexical aprofundada de χρῖσμα, ὁ ἅγιος e μένω, além dos contrastes verdade/mentira e negar/confessar. EXE-05 concluída; conclusões teológicas não antecipadas.
