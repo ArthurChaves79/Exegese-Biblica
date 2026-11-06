@@ -15,3 +15,16 @@ Publicação: arquivos produzidos em branch de estudo, sem alteração da main. 
 Fontes consultadas em 2026-11-06: SBLGNT em Biblia.com (1Jo 2.18–29), comparação de edições no BibleHub e STEPBible TAGNT (2.20), notas de variantes da edição f35 (capítulo 2), excerto de Robert W. Yarbrough sobre 2.27–28 e colação isolada de GA 2464. A edição f35 tem posição editorial própria; não se tomou sua avaliação ou percentuais como consenso. Nenhum aparato integral NA28/UBS5 foi efetivamente consultado.
 
 Arquivos acrescentados: critica-textual-rodada-02.md e traducao-trabalho-rodada-02.md. Manuscrito acadêmico acrescido de discussão textual e tradutória, sem antecipar sintaxe ou síntese dogmática. EXE-02 e EXE-03 permanecem **parciais**. P12: variantes efetivas verificadas em comparação de edições; avaliação externa não concluída. P01/P02/P03/P09 seguem abertas. Próximo passo: conferir aparato NA28/UBS5 (preferencialmente excerto do Logos de 2.18–28), testar 2.19, 2.22, 2.27 e referentes pronominais em EXE-04, revisar tradução e delimitação. Não foram executados testes locais, selagem ou auditoria independente.
+
+
+## Rodada 03 integrada e Rodada 04 — análise sintática e tradução revista
+
+**Fonte nova:** texto grego e aparato da NA28 de 1Jo 2.18–27, fornecidos pelo pesquisador com referência E. Nestle e E. Nestle, *Nestle-Aland: NTG Apparatus Criticus*, 28ª ed. rev. (2012), pp. 718–719. A transcrição não inclui legenda completa nem aparato de 2.28. Relatório técnico da Rodada 03 preservado; suas leituras impressas são base de análise, não conclusões próprias sobre gênese de variantes. Não houve colação de códices.
+
+**Integração:** manuscrito acadêmico ampliado em prosa; perguntas e decisões atualizadas; tradução da Rodada 02 preservada como versão histórica e nova tradução revista em traducao-trabalho-rodada-04.md; relatório analise-sintatica-rodada-04.md separado. EXE-02 avançou com aparato fornecido, mas continua com limites editoriais explícitos. EXE-03 tem tradução revista; EXE-04 foi desenvolvido em análise sintática inicial aprofundada. EXE-05 e EXE-06 não executados.
+
+**Principais resultados:** 2.19 distingue procedência/pertencimento e companhia, apresenta contrafactual e oração elíptica com ἵνα; 2.20 distingue πάντες/πάντα; 2.22 não permite inverter a negação cristológica; 2.24 distingue dois sujeitos de permanecer; 2.27 distingue μένει (unção) e μένετε (destinatários), com ambiguidade formal indicativo/imperativo do último e variante futura. τις indefinido e negação de necessidade não estabelecem proibição universal de instrução. Referentes de αὐτοῦ/αὐτῷ e fronteira em 2.28 permanecem abertos.
+
+**Próxima rodada:** EXE-05 análise discursiva, seguida de EXE-06 lexical aprofundada. Testar ἵνα de 2.19, escopo de οὐκ ... πάντες, a progressão 2.20–27, a estrutura ἀλλ’ ὡς ... καὶ καθὼς ... μένετε e a relação 2.27–28. Não revisar esquema preliminar como conclusão antes desse teste. Caso o Logos seja solicitado, pedir apenas legenda do aparato NA28 para os sinais não decodificados e/ou aparato de 2.28 para avaliar a transição; não necessário para avançar na análise discursiva.
+
+**Verificação:** confirmar leitura remota de arquivos após escrita. Publicação no GitHub não constitui auditoria independente, selagem ou execução de testes locais.
