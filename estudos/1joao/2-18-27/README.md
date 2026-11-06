@@ -11,3 +11,8 @@ Rodada 01: leitura contextual e delimitação provisória. Sem aplicação pasto
 
 
 Rodada 02: [crítica textual parcial](critica-textual-rodada-02.md) e [tradução exegética de trabalho](traducao-trabalho-rodada-02.md). Manuscrito atualizado; aparato integral NA28/UBS5 ainda pendente.
+
+
+Rodada 03: [aparato NA28 fornecido e analisado](critica-textual-na28-rodada-03.md).
+
+Rodada 04: [análise sintática](analise-sintatica-rodada-04.md) e [tradução revista](traducao-trabalho-rodada-04.md). A versão da Rodada 02 foi preservada; o manuscrito cumulativo e os registros foram integrados. Próxima rodada: análise discursiva e lexical aprofundada.
