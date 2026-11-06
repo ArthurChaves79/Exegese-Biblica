@@ -18,3 +18,11 @@ Estado: rodada 01, 2026-11-06. Prioridade indica impacto, não grau de certeza. 
 | P12 | Decisiva | Há variantes textuais em 2.20, 23 ou 27 que mudem tradução, referente ou esquema? | pontos sensíveis identificados para conferência, não variantes confirmadas | Aguardando aparato NA28/UBS5 |
 
 Regra de acompanhamento: registrar a cada rodada resposta, evidência verificável, alternativa, grau Alto/Moderado/Baixo, limites, decisão e impacto sobre o manuscrito. Não confundir pergunta registrada com resposta demonstrada.
+
+## Atualização — rodada 02 (2026-11-06)
+
+- P12: **parcialmente respondida**. Variantes verificadas em 2.20 (πάντες/πάντα), 2.23 (presença/ausência da oração positiva), 2.27 (μένετε e alternativas registradas) e 2.28 (omissão em testemunhos isolados). Base: SBLGNT, comparação de edições e notas secundárias; **não** aparato integral NA28/UBS5. Confiança Moderado para escolhas de trabalho, Baixo para conclusão externa definitiva.
+- P01: continua aberta; a repetição de μένετε ἐν αὐτῷ em 2.27–28 reforça coesão, e καὶ νῦν/manifestação reforçam transição. Confiança Moderado na delimitação provisória.
+- P02: resposta inicial: o ato de escrever (2.21,26) torna improvável proibição absoluta de instrução; extensão da negação exige sintaxe. Confiança Moderado.
+- P03: ligação de χρῖσμα (2.20,27) com verdade, ensino e permanência está explicitamente no discurso; identificação referencial permanece aberta.
+- P09: referente de ἐν αὐτῷ (2.27–28) não decidido.
