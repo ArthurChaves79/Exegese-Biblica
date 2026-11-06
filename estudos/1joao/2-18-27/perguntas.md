@@ -63,3 +63,5 @@ P01: texto impresso e aparato NA28 de 2.28 recebidos. A relação entre repetiç
 - **P05:** 'última hora' inferida da ocorrência de muitos anticristos; alusão a Daniel e artigo de Beale permanecem **não examinados** e reservados à EXE-09.
 - **P01:** léxico de μένω confirma sujeitos e complementos distintos, sem mudar delimitação 2.18–27 e ponte 2.28.
 - **Nova questão P13:** ὁ ἅγιος em 2.20 refere-se ao Pai ou ao Filho? Testar Jo 6.69, Jo 17.11 e cadeia 2.23–28; não concluir por semântica do adjetivo. Confiança baixa quanto à identificação.
+
+**P03 — atualização de fonte:** excerto BDAG χρῖσμα (Arndt et al., 2000) agora consultado; confirma 'unção' e informa interpretação usual como unção com o Espírito. Referente teológico permanece inferência, não definição lexical. BDAG ἅγιος e μένω ainda pendentes; alternativa de Reitzenstein apenas registrada, não estudada.
