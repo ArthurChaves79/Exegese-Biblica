@@ -1,3 +1,9 @@
+# Continuidade — fechamento acadêmico
+
+Entrega vigente: academico/Mateus-17-14-21-Trabalho-Academico-Final.docx e .md. Registro: registros-editoriais/Registro-Fechamento-Academico.md. 55 páginas e 89 notas reais. Introdução revista, conclusão incorporada, tradução preservada. Questões interpretativas e limites documentais continuam explícitos. Nenhuma etapa ou aplicação automática. Notas Logos inalteradas.
+
+## Histórico anterior preservado
+
 # Continuidade Parte 5B
 
 Atual: academico/Mateus-17-14-21-Partes-1-a-5B.docx e .md. Registro: registros-editoriais/Registro-Parte-5B.md. Próximo passo: integração das seções teológicas antes da conclusão. Aplicações separadas.

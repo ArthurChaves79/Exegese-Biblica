@@ -1,15 +1,15 @@
 {
   "passagem": "Mt 17.14–21 (texto principal 14–20; v21 em nota)",
   "data": "2026-11-05",
-  "etapa_atual": "Entrega editorial parcial Partes 1 a 5B: Teologia Sistemática",
-  "proxima": "Conferir integração das seções 6 e 7 antes da conclusão geral",
+  "etapa_atual": "Fechamento acadêmico do escopo estudado",
+  "proxima": "Nenhuma etapa automática; revisão independente ou ampliação mediante nova solicitação",
   "reservado": "Mt 17.1–13",
   "pendencias": [
     "Precisão dos índices perdidos NA28: afeta atribuições particulares, não o núcleo da interpretação",
     "LXX Dt32: texto digital consultado seletivamente; aparato e comparáveis não colacionados",
     "História da interpretação seletiva; sem levantamento exaustivo",
     "Questões interpretativas abertas em perguntas.md, especialmente P03/P34/P37/P44/P50",
-    "Redação editorial restante; notas não transferidas ao Logos"
+    "Notas não transferidas ao Logos; revisão independente não realizada"
   ],
   "fontes_arquivadas": [
     "NA28",
@@ -66,7 +66,8 @@
     "validacao_integral_metodo": false,
     "revisao_independente": false,
     "produto_15B": "Histórico preservado; entrega Word parcial cumulativa até a síntese do sentido",
-    "relatorio": "estudos/mateus/17-14-20/consolidacao-pesquisa.md"
+    "relatorio": "estudos/mateus/17-14-20/consolidacao-pesquisa.md",
+    "academico": "Word final do escopo, seção 8 e introdução revista; limites preservados"
   },
   "produto_final": {
     "path": "estudos/mateus/17-14-20/EXE-15B-exposicao-final.md",
@@ -89,12 +90,12 @@
   "aplicacao_atual": "aplicacao-hermeneutica.md",
   "consolidacao": "consolidacao-pesquisa.md",
   "editorial_atual": {
-    "word": "academico/Mateus-17-14-21-Partes-1-a-5B.docx",
-    "manuscrito": "academico/Mateus-17-14-21-Partes-1-a-5B.md",
-    "registro": "registros-editoriais/Registro-Parte-5B.md",
-    "paginas": 53,
+    "word": "academico/Mateus-17-14-21-Trabalho-Academico-Final.docx",
+    "manuscrito": "academico/Mateus-17-14-21-Trabalho-Academico-Final.md",
+    "registro": "registros-editoriais/Registro-Fechamento-Academico.md",
+    "paginas": 55,
     "notas_reais": 89,
-    "entrega_integral": false,
-    "revisao_visual": "Páginas alteradas examinadas; anteriores comparadas por identidade de imagem"
+    "entrega_integral": true,
+    "revisao_visual": "1–8 e 46–55 examinadas; 9–45 idênticas à renderização anteriormente conferida"
   }
 }
