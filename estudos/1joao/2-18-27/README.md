@@ -31,3 +31,5 @@ Adendo lexical: [BDAG χρῖσμα — fonte recebida e avaliação](fonte-bdag
 Fechamento lexical: [BDAG μένω — construções de permanência](fonte-bdag-meno-rodada-06.md). Os três verbetes prioritários BDAG estão documentados por excertos; referentes pronominais permanecem em investigação.
 
 Rodada 07: [contexto histórico e natureza da controvérsia](contexto-historico-rodada-07.md). Manuscrito consolidado; hipóteses docetista/cerintiana controladas; Beale/Daniel continuam pendentes.
+
+Complemento patrístico da Rodada 07: [Irineu sobre Cerinto — análise e limites](irineu-cerinto-complemento-rodada-07.md).
