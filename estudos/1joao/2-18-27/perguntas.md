@@ -75,3 +75,5 @@ P01: texto impresso e aparato NA28 de 2.28 recebidos. A relação entre repetiç
 - **P05:** 'última hora' permanece avaliação escatológica da crise; Beale e Daniel reservados para EXE-09, não consultados.
 - **P02/P03:** a advertência e a reafirmação do ensino recebido reforçam leitura contextual de 2.27; tese de inexistência de ofício docente não demonstrada.
 - **Nova P14:** docetismo, distinção Jesus/Cristo ou outra controvérsia? Testar hipóteses contra 1Jo 4.1–6, 5.1–12 e 2Jo 7–11; solicitar patrística direta apenas se necessário.
+
+**P14 — evidência patrística acrescentada:** Irineu, *Adversus haereses* 1.26.1, por tradução fornecida, atribui a Cerinto separação entre Jesus e Cristo (batismo/paixão), aumentando a capacidade explicativa de H3 para 1Jo 2.22 e 5.6. Não prova que os dissidentes fossem cerintianos. Irineu 3.3.4 registra tradição posterior do encontro com João, sem vínculo textual direto com a epístola. Pendência: edição/tradução e original; estatuto histórico do relato.
