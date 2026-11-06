@@ -77,3 +77,11 @@ P01: texto impresso e aparato NA28 de 2.28 recebidos. A relação entre repetiç
 - **Nova P14:** docetismo, distinção Jesus/Cristo ou outra controvérsia? Testar hipóteses contra 1Jo 4.1–6, 5.1–12 e 2Jo 7–11; solicitar patrística direta apenas se necessário.
 
 **P14 — evidência patrística acrescentada:** Irineu, *Adversus haereses* 1.26.1, por tradução fornecida, atribui a Cerinto separação entre Jesus e Cristo (batismo/paixão), aumentando a capacidade explicativa de H3 para 1Jo 2.22 e 5.6. Não prova que os dissidentes fossem cerintianos. Irineu 3.3.4 registra tradição posterior do encontro com João, sem vínculo textual direto com a epístola. Pendência: edição/tradução e original; estatuto histórico do relato.
+
+## Rodada 08 — atualização de perguntas
+
+**P05 — última hora:** 1Jo 2.18 fundamenta a conclusão na presença atual de muitos anticristos, em contraste com a expectativa ouvida; alto grau de confiança. OG de Dn 8.17,19; 11.35,40,45; 12.1 tem ὥρα em contexto de crise, Θ frequentemente καιρός/πέρας; pano de fundo daniélico plausível, alusão específica não demonstrada. Beale consultado em páginas selecionadas, não integralmente.
+
+**P15 — aberto:** qual edição crítica e história textual de OG/Θ melhor explica a recepção da terminologia ὥρα? Conferir também Dn 11.45 ao avaliar a lista de passagens escatológicas e a alegação de exclusividade no corpus.
+
+**P16 — respondida provisoriamente:** 2.24–25 e 2.28 integram permanência presente, promessa de vida eterna e manifestação futura independentemente de alusão a Daniel; a hipótese daniélica acrescenta moldura de oposição e vindicação.
