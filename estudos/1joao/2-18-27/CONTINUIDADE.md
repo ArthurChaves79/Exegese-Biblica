@@ -52,3 +52,7 @@ Complemento EXE-06: excerto TDNT de χρῖσμα fornecido e avaliado em [fonte
 ## Fechamento BDAG μένω
 
 Verbete recebido por excerto e arquivado em fonte-bdag-meno-rodada-06.md. Os três verbetes prioritários da Rodada 06 foram consultados por excertos. Permanecem abertas as identidades pronominais e as questões intertextuais.
+
+## Rodada 07 — contexto histórico
+
+Relatório arquivado: [contexto-historico-rodada-07.md](contexto-historico-rodada-07.md). O manuscrito teve a seção lexical consolidada com os três verbetes BDAG efetivamente recebidos por excerto; estado vigente de decisões atualizado sem apagar entradas históricas. Reconstrução mínima: ruptura intracomunitária e controvérsia cristológica segundo o autor de 1Jo; 4.1–6 e 5.1–12 fornecem controles internos, 2Jo 7–11 paralelo forte sem identidade de adversários demonstrada. Docetismo e cerintianismo são hipóteses comparativas, não conclusões; fontes patrísticas integrais não consultadas. Beale/Daniel permanecem questão canônica. Próximo passo metodológico: examinar a localização da controvérsia no horizonte canônico e história da redenção (EXE-09), ou complementar EXE-08 com fontes antigas efetivamente lidas se o teste das hipóteses exigir.
