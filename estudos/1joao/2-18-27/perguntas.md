@@ -26,3 +26,16 @@ Regra de acompanhamento: registrar a cada rodada resposta, evidência verificáv
 - P02: resposta inicial: o ato de escrever (2.21,26) torna improvável proibição absoluta de instrução; extensão da negação exige sintaxe. Confiança Moderado.
 - P03: ligação de χρῖσμα (2.20,27) com verdade, ensino e permanência está explicitamente no discurso; identificação referencial permanece aberta.
 - P09: referente de ἐν αὐτῷ (2.27–28) não decidido.
+
+
+## Atualização — Rodada 04 (integração NA28 e sintaxe)
+
+- **P12 — Respondida quanto à identificação de variantes relevantes; avaliação histórica permanece parcial.** O aparato NA28 de 2.18–27 foi fornecido pelo pesquisador. Leitura impressa adotada: πάντες (2.20), oração positiva (2.23), ἡμῖν (2.25), μένει e μένετε (2.27). Alternativas e testemunhos estão no relatório da Rodada 03. Sem colação de códices ou legenda integral; confiança Moderado a Moderado–Alto por unidade.
+- **P07 — Respondida sintaticamente, aberta quanto ao alcance histórico/dogmático.** ἐξ ἡμῶν designa procedência/pertencimento em contextos diferentes; μεθ’ ἡμῶν é companhia; condição contrafactual e manifestação da saída são claras. Escopo de οὐκ ... πάντες e força de ἵνα exigem teste discursivo. Confiança Alto para distinções formais, Moderado para escopo.
+- **P04 — Parcialmente respondida.** A negação incide sobre a identificação de Jesus como Cristo e sobre o vínculo com Pai e Filho; reconstrução da posição histórica dos adversários ainda aberta. Confiança Alto para oposição em 2.23, Moderado para análise de ὅτι em 2.22.
+- **P08 — Parcialmente respondida.** A vida eterna é o conteúdo da promessa; seu papel na progressão de 2.24–25 e o referente de αὐτός permanecem abertos.
+- **P02 — Parcialmente respondida.** τις é indefinido e a frase nega necessidade, não a licitude de ensinar. O alcance retórico depende da relação com 2.26 e da análise discursiva de 2.27. Confiança Alto para sintaxe básica, Moderado para pragmática.
+- **P03 — Parcialmente respondida.** A unção é sujeito de μένει no texto impresso; leitores são sujeitos de μένετε ao final. Identidade teológica da unção não decidida.
+- **P09 — Aberta.** αὐτοῦ e αὐτῷ podem ser vinculados ao Pai ou Filho do contexto; a proximidade da unção não decide o referente. Analisar 2.27–28 discursivamente.
+- **P01 — Aberta.** 2.28 retoma μένετε, mas introduz καὶ νῦν, vocativo e horizonte de manifestação. Não decidir delimitação por mera repetição.
+- **P05/P06/P10/P11 — Abertas ou provisórias**, sem avanço suficiente para fechamento nesta rodada.
