@@ -18,3 +18,5 @@ Rodada 03: [aparato NA28 fornecido e analisado](critica-textual-na28-rodada-03.m
 Rodada 04: [análise sintática](analise-sintatica-rodada-04.md) e [tradução revista](traducao-trabalho-rodada-04.md). A versão da Rodada 02 foi preservada; o manuscrito cumulativo e os registros foram integrados. Próxima rodada: análise discursiva e lexical aprofundada.
 
 Complemento: [texto impresso e aparato NA28 de 2.28](complemento-na28-2-28.md).
+
+Rodada 05: [análise discursiva](analise-discursiva-rodada-05.md) e [tradução com notas alinhadas](traducao-trabalho-rodada-05.md). O texto e aparato NA28 de 2.28 estão arquivados; menções anteriores à ausência pertencem ao histórico.
