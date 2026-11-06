@@ -53,3 +53,5 @@ Histórico: primeira versão; nenhuma decisão anterior deste estudo foi substit
 | D28 | Ler 'não necessitais de ensino' como declaração contextual contra o engano, não proibição universal | 2.21,24,26–27 e ato de escrever | Moderado–Alto | περὶ πάντων e sintaxe comparativa ainda pendentes |
 | D29 | Não atribuir a Beale argumento não consultado; reservar Daniel à EXE-09 | registro bibliográfico pendente e ausência de leitura direta | Alto metodológico | comparar texto e versões de Daniel futuramente |
 | D30 | Corrigir cabeçalho e nota de 2.19 na tradução da Rodada 05, preservando tradução formal e paráfrase | conferência do arquivo e diferença semântica portuguesa | Alto | não equiparar ambas |
+
+**D25 — atualização documental:** o verbete BDAG χρῖσμα foi consultado por excerto após a redação original da Rodada 06. O sentido 'unção' tem apoio lexicográfico especializado; a interpretação usual como unção com o Espírito Santo aumenta a plausibilidade do referente, mas não resolve a identificação por semântica isolada. O limite 'BDAG não consultado' na decisão inicial fica superado **apenas para χρῖσμα**.
