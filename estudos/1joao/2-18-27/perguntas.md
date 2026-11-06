@@ -53,3 +53,13 @@ P01: texto impresso e aparato NA28 de 2.28 recebidos. A relação entre repetiç
 - **P08:** vida eterna em 2.25 é horizonte da exortação e consequência de 2.24, não nova condição; referente de αὐτός ainda aberto.
 - **P03/P09:** preferência pelo imperativo μένετε em 2.27, sem decidir identidade da unção ou referente final de αὐτῷ. Encaminhar a EXE-06.
 - **P12:** aparato NA28 de 2.28 já recebido e arquivado; transposição numérica em א ainda não decodificada. Não solicitar novamente o texto ou aparato.
+
+
+## Atualização — Rodada 06 (análise lexical contextual)
+
+- **P03:** χρῖσμα designa unção e em 2.20/27 é recebido, permanece e ensina; sua identificação com Espírito Santo é hipótese teológica plausível, não significado lexical demonstrado. Conferir BDAG χρῖσμα. Confiança Alto para predicações; Moderado para referente.
+- **P09:** o Filho é antecedente forte de ἐν αὐτῷ em 2.27 e particularmente em 2.28 (manifestação/παρουσία); Pai não eliminado em 2.27. αὐτοῦ de origem/posse não precisa ter automaticamente o mesmo referente. Confiança Moderado.
+- **P02:** negação contextual de necessidade de ensino em 2.27 lida com 2.21,24,26; não proibição geral. Ainda aberta a extensão de περὶ πάντων e estrutura ἀλλ’ ὡς/καθὼς. Confiança Moderado–Alto.
+- **P05:** 'última hora' inferida da ocorrência de muitos anticristos; alusão a Daniel e artigo de Beale permanecem **não examinados** e reservados à EXE-09.
+- **P01:** léxico de μένω confirma sujeitos e complementos distintos, sem mudar delimitação 2.18–27 e ponte 2.28.
+- **Nova questão P13:** ὁ ἅγιος em 2.20 refere-se ao Pai ou ao Filho? Testar Jo 6.69, Jo 17.11 e cadeia 2.23–28; não concluir por semântica do adjetivo. Confiança baixa quanto à identificação.
