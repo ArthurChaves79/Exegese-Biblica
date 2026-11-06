@@ -4,7 +4,7 @@
 
 **18** Filhinhos, é a última hora; e, assim como ouvistes que vem um anticristo, também agora surgiram muitos anticristos. Por isso sabemos que é a última hora.
 
-**19** Saíram de nosso meio, mas não eram dos nossos; pois, se fossem dos nossos, teriam permanecido conosco. Mas [isso ocorreu] para que se tornasse manifesto que não eram todos dos nossos.
+**19** Saíram de nosso meio, mas não eram dos nossos; pois, se fossem dos nossos, teriam permanecido conosco. Mas [isso ocorreu] para que se tornasse manifesto que nem todos são dos nossos.
 
 **20** Vós, porém, tendes uma unção da parte do Santo, e todos vós sabeis.
 
@@ -30,7 +30,7 @@
 |---|---|---|---|
 | 18 | γεγόνασιν: 'surgiram' com resultado presente | 'têm surgido' | perfeito grego; ambas possíveis, sem inferir duração contínua; alteração estilística da Rodada 02 |
 | 19 | ἐξ ἡμῶν / μεθ’ ἡμῶν: 'dos nossos' / 'conosco' | tratar ambas como mero pertencimento | preposições e condição contrafactual distinguem vínculo afirmado e convivência |
-| 19 | οὐκ εἰσὶν πάντες: 'não eram todos dos nossos' contextualizado pelos que saíram | 'nem todos são dos nossos' mais literal; 'nenhum deles era dos nossos' como explicitação | a primeira opção conserva πάντες e evita negar o escopo discutível; o pretérito é contextual e não morfologia do presente εἰσίν. A leitura alternativa de escopo permanece anotada |
+| 19 | οὐκ εἰσὶν πάντες: 'nem todos são dos nossos' contextualizado pelos que saíram | 'nem todos são dos nossos' mais literal; 'nenhum deles era dos nossos' como explicitação | a primeira opção conserva πάντες e evita negar o escopo discutível; o presente reproduz εἰσίν; a interpretação é delimitada pelo antecedente narrado. A leitura alternativa de escopo permanece anotada |
 | 20 | πάντες: 'todos vós sabeis' | πάντα: 'sabeis todas as coisas' | NA28 impresso versus variante A/C e outros; diferença de sujeito e objeto |
 | 22 | ὁ ἀρνούμενος ὅτι Ἰησοῦς οὐκ ἔστιν ὁ Χριστός: 'nega que Jesus é o Cristo' | traduzir mecanicamente 'nega que Jesus não é o Cristo' | a segunda inverte o sentido do argumento; a negação representa a tese rejeitada, não afirmação do autor |
 | 23 | incluir 'quem confessa o Filho tem também o Pai' | omitir | texto impresso NA28; omissão em parte da transmissão; mantém antítese |
