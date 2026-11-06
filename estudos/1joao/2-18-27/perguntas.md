@@ -39,3 +39,7 @@ Regra de acompanhamento: registrar a cada rodada resposta, evidência verificáv
 - **P09 — Aberta.** αὐτοῦ e αὐτῷ podem ser vinculados ao Pai ou Filho do contexto; a proximidade da unção não decide o referente. Analisar 2.27–28 discursivamente.
 - **P01 — Aberta.** 2.28 retoma μένετε, mas introduz καὶ νῦν, vocativo e horizonte de manifestação. Não decidir delimitação por mera repetição.
 - **P05/P06/P10/P11 — Abertas ou provisórias**, sem avanço suficiente para fechamento nesta rodada.
+
+## Complemento ao controle de 2.28
+
+P01: texto impresso e aparato NA28 de 2.28 recebidos. A relação entre repetição de μένετε e transição com καὶ νῦν permanece aberta para EXE-05. P12: texto e variantes de 2.28 agora documentados; transposição numérica não reconstruída.
