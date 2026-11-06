@@ -1,3 +1,9 @@
+# Revisão crítica reaberta — 6/11/2026
+
+O fechamento anterior foi reaberto após leitura do autor. Correções e manuscrito de trabalho em registros-editoriais/revisao-20261106/. O Word anterior permanece preservado, não representa as novas correções. NA28 17.15 confirmado como πάσχει. Pendentes aparato integral legível e confronto especializado Metzger/ICC/gramática NT. Não restaurar automaticamente a confiança anterior da alusão a Dt32.
+
+## Histórico
+
 # Continuidade — fechamento acadêmico
 
 Entrega vigente: academico/Mateus-17-14-21-Trabalho-Academico-Final.docx e .md. Registro: registros-editoriais/Registro-Fechamento-Academico.md. 55 páginas e 89 notas reais. Introdução revista, conclusão incorporada, tradução preservada. Questões interpretativas e limites documentais continuam explícitos. Nenhuma etapa ou aplicação automática. Notas Logos inalteradas.

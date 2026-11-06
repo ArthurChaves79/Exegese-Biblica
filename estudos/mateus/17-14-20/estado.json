@@ -1,8 +1,8 @@
 {
   "passagem": "Mt 17.14–21 (texto principal 14–20; v21 em nota)",
   "data": "2026-11-05",
-  "etapa_atual": "Fechamento acadêmico do escopo estudado",
-  "proxima": "Nenhuma etapa automática; revisão independente ou ampliação mediante nova solicitação",
+  "etapa_atual": "Revisão crítica reaberta após leitura do autor",
+  "proxima": "Conferência documental do aparato e fontes especializadas antes de novo fechamento Word",
   "reservado": "Mt 17.1–13",
   "pendencias": [
     "Precisão dos índices perdidos NA28: afeta atribuições particulares, não o núcleo da interpretação",
@@ -97,5 +97,11 @@
     "notas_reais": 89,
     "entrega_integral": true,
     "revisao_visual": "1–8 e 46–55 examinadas; 9–45 idênticas à renderização anteriormente conferida"
+  },
+  "revisao_20261106": {
+    "registro": "registros-editoriais/revisao-20261106/Registro-de-Revisao-Critica.md",
+    "manuscrito": "registros-editoriais/revisao-20261106/Mateus-17-14-20-Manuscrito-em-Revisao.md",
+    "word_anterior": "preservado; não substituído",
+    "NA28_17_15": "πάσχει confirmado na edição digital da Deutsche Bibelgesellschaft"
   }
 }
