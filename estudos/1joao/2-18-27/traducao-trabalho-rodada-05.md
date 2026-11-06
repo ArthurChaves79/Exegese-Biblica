@@ -1,4 +1,4 @@
-# Tradução exegética revista — Rodada 04 (1João 2.18–27; 2.28 como contexto)
+# Tradução exegética revista — Rodada 05 (1João 2.18–27; 2.28 como contexto)
 
 **Texto de análise:** NA28, texto impresso de 2.18–27 transcrito pelo pesquisador; Nestle–Aland, *NTG Apparatus Criticus*, 28ª ed. rev. (2012), pp. 718–719. Adoção operacional das leituras impressas **não** significa reconstrução autóptica da história textual. O v. 28 é tradução contextual; seu aparato foi recebido posteriormente e está registrado em complemento-na28-2-28.md. A tradução da Rodada 02 permanece preservada.
 
@@ -44,7 +44,7 @@
 
 ## Nota editorial importante sobre 2.19
 
-A formulação 'não eram todos dos nossos' é deliberadamente cautelosa, mas pode soar como 'alguns eram'. Para leitura corrente, 'para que ficasse manifesto que aqueles que saíram não pertenciam realmente a nós' explicita o contexto; não é equivalência palavra por palavra de οὐκ εἰσὶν πάντες. A tensão de escopo permanece registrada, a ser testada na análise discursiva.
+A redação efetiva da tradução formal é **“nem todos são dos nossos”** (οὐκ εἰσὶν πάντες ἐξ ἡμῶν). Em português, essa formulação pode sugerir que alguns dos dissidentes eram dos nossos. A paráfrase contextual **“os que saíram não eram realmente dos nossos”** retoma a avaliação explícita de 2.19, mas **não diz exatamente a mesma coisa** que a tradução formal e não constitui equivalência palavra por palavra. Preservam-se ambas, identificadas por sua função distinta, sem dissimular a questão do alcance da negação.
 
 ## Limites
 
