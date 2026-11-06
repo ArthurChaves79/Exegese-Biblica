@@ -28,3 +28,7 @@ Arquivos acrescentados: critica-textual-rodada-02.md e traducao-trabalho-rodada-
 **Próxima rodada:** EXE-05 análise discursiva, seguida de EXE-06 lexical aprofundada. Testar ἵνα de 2.19, escopo de οὐκ ... πάντες, a progressão 2.20–27, a estrutura ἀλλ’ ὡς ... καὶ καθὼς ... μένετε e a relação 2.27–28. Não revisar esquema preliminar como conclusão antes desse teste. Caso o Logos seja solicitado, pedir apenas legenda do aparato NA28 para os sinais não decodificados e/ou aparato de 2.28 para avaliar a transição; não necessário para avançar na análise discursiva.
 
 **Verificação:** confirmar leitura remota de arquivos após escrita. Publicação no GitHub não constitui auditoria independente, selagem ou execução de testes locais.
+
+## Complemento NA28 de 2.28
+
+Texto impresso e aparato de 2.28 agora recebidos e registrados em complemento-na28-2-28.md (NA28, p. 719). A lacuna documental do texto impresso foi suprida. Permanece cautela quanto à transposição numérica de א. Próximo passo EXE-05; não alterar delimitação antes da análise discursiva.
