@@ -65,3 +65,5 @@ P01: texto impresso e aparato NA28 de 2.28 recebidos. A relação entre repetiç
 - **Nova questão P13:** ὁ ἅγιος em 2.20 refere-se ao Pai ou ao Filho? Testar Jo 6.69, Jo 17.11 e cadeia 2.23–28; não concluir por semântica do adjetivo. Confiança baixa quanto à identificação.
 
 **P03 — atualização de fonte:** excerto BDAG χρῖσμα (Arndt et al., 2000) agora consultado; confirma 'unção' e informa interpretação usual como unção com o Espírito. Referente teológico permanece inferência, não definição lexical. BDAG ἅγιος e μένω ainda pendentes; alternativa de Reitzenstein apenas registrada, não estudada.
+
+**P09/P01 — complemento BDAG μένω:** o léxico confirma diferença de construções de permanência em 2.19 e 2.24–28 e a diversidade de sujeitos; não resolve sozinho αὐτῷ de 2.27–28 nem delimitação. Os três verbetes prioritários BDAG foram agora consultados por excertos.
