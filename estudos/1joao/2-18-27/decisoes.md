@@ -71,3 +71,15 @@ Histórico: primeira versão; nenhuma decisão anterior deste estudo foi substit
 | D35 | Manter Beale/Daniel como questão canônica não consultada | arquivo de referências pendentes | Alto metodológico |
 
 **D34 — atualização patrística:** recebidos por tradução portuguesa dois trechos atribuídos a Irineu, *Adversus haereses* 1.26.1 e 3.3.4. O primeiro atribui a Cerinto separação Jesus/Cristo com descida no batismo e retirada antes da paixão, modelo que explica comparativamente 1Jo 2.22 e 5.6; o segundo relata tradição posterior sobre encontro de João e Cerinto. Manter **não comprovada** a identificação dos dissidentes de 1João como cerintianos. O estado anterior 'fontes patrísticas não consultadas' é histórico; texto original e edição crítica continuam não conferidos.
+
+## Rodada 08 — decisões EXE-09
+
+| ID | Decisão | Confiança / limite |
+|---|---|---|
+| D36 | Interpretar 'última hora' primeiro pela inferência interna de 2.18: expectativa ouvida e anticristos presentes | Alto; origem da expectativa não identificada |
+| D37 | Distinguir OG e Teodocião em Dn 8.17,19; 11.35,40,45; 12.1 | Alto nas transcrições; edição crítica pendente |
+| D38 | Pano de fundo daniélico plausível; alusão literária específica possível, não demonstrada | Moderado / Baixo–Moderado |
+| D39 | Beale agora consultado em páginas selecionadas, sem leitura integral ou auditoria do corpus | Alto quanto ao estado documental |
+| D40 | Permanência, vida eterna e 2.28 têm apoio intratextual independente de Daniel | Alto; manter delimitação |
+
+**D29/D35:** a indicação histórica de Beale não consultado foi superada por leitura de páginas selecionadas na Rodada 08, não por exame integral do artigo.
