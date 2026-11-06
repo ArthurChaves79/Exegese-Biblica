@@ -25,3 +25,5 @@ Rodada 05: [análise discursiva](analise-discursiva-rodada-05.md) e [tradução 
 Rodada 06: [análise lexical contextual e mapa de μένω](analise-lexical-rodada-06.md). Tradução da Rodada 05 corrigida no cabeçalho e nota de 2.19; artigo de Beale permanece referência reservada para EXE-09.
 
 Fonte complementar: [TDNT sobre χρῖσμα — avaliação crítica](fonte-tdnt-chrisma-rodada-06.md), excerto recebido, sem alteração da tradução.
+
+Adendo lexical: [BDAG χρῖσμα — fonte recebida e avaliação](fonte-bdag-chrisma-rodada-06.md). Os verbetes ἅγιος e μένω ainda aguardam consulta especializada.
