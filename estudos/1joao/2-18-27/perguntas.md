@@ -67,3 +67,11 @@ P01: texto impresso e aparato NA28 de 2.28 recebidos. A relação entre repetiç
 **P03 — atualização de fonte:** excerto BDAG χρῖσμα (Arndt et al., 2000) agora consultado; confirma 'unção' e informa interpretação usual como unção com o Espírito. Referente teológico permanece inferência, não definição lexical. BDAG ἅγιος e μένω ainda pendentes; alternativa de Reitzenstein apenas registrada, não estudada.
 
 **P09/P01 — complemento BDAG μένω:** o léxico confirma diferença de construções de permanência em 2.19 e 2.24–28 e a diversidade de sujeitos; não resolve sozinho αὐτῷ de 2.27–28 nem delimitação. Os três verbetes prioritários BDAG foram agora consultados por excertos.
+
+## Atualização — Rodada 07
+
+- **P11:** reconstrução mínima sustentada: saída do grupo, negação cristológica atribuída pelo autor e advertência sobre enganadores. Nome, motivações, organização e geografia não recuperáveis com segurança. Confiança Moderado–Alto para conflito intracomunitário; Baixo para identificação sectária.
+- **P04:** 1Jo 4.1–3 e 5.1–12 ampliam o horizonte cristológico (carne, água/sangue, Filho e testemunho); não são transcrição de credo dissidente. 2Jo 7–11 é paralelo forte, sem identidade comprovada de adversários.
+- **P05:** 'última hora' permanece avaliação escatológica da crise; Beale e Daniel reservados para EXE-09, não consultados.
+- **P02/P03:** a advertência e a reafirmação do ensino recebido reforçam leitura contextual de 2.27; tese de inexistência de ofício docente não demonstrada.
+- **Nova P14:** docetismo, distinção Jesus/Cristo ou outra controvérsia? Testar hipóteses contra 1Jo 4.1–6, 5.1–12 e 2Jo 7–11; solicitar patrística direta apenas se necessário.
