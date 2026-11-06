@@ -27,3 +27,5 @@ Rodada 06: [análise lexical contextual e mapa de μένω](analise-lexical-roda
 Fonte complementar: [TDNT sobre χρῖσμα — avaliação crítica](fonte-tdnt-chrisma-rodada-06.md), excerto recebido, sem alteração da tradução.
 
 Adendo lexical: [BDAG χρῖσμα — fonte recebida e avaliação](fonte-bdag-chrisma-rodada-06.md). Os verbetes ἅγιος e μένω ainda aguardam consulta especializada.
+
+Fechamento lexical: [BDAG μένω — construções de permanência](fonte-bdag-meno-rodada-06.md). Os três verbetes prioritários BDAG estão documentados por excertos; referentes pronominais permanecem em investigação.
