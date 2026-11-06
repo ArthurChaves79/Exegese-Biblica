@@ -56,3 +56,7 @@ Em 2.22–23, negar e confessar são antíteses cristológicas relativas à iden
 ## Adendo de fonte consultada: BDAG χρῖσμα
 
 Após a redação inicial, o pesquisador forneceu excerto do BDAG (Arndt et al., 2000), verbete χρῖσμα: a acepção lexical 'anointing' confirma 'unção'; o dicionário informa que em 1Jo 2.20,27 a referência é *usualmente* entendida como unção com o Espírito Santo, registrando alternativa de Reitzenstein não examinada diretamente. A distinção entre significado lexical e identificação teológica permanece obrigatória. Fonte e controle: [fonte-bdag-chrisma-rodada-06.md](fonte-bdag-chrisma-rodada-06.md). A declaração anterior de que BDAG não fora consultado descreve a etapa inicial da rodada e foi superada **somente para χρῖσμα**.
+
+## Complemento BDAG μένω — fechamento dos três verbetes prioritários
+
+O excerto do BDAG μένω foi efetivamente recebido e registrado em [fonte-bdag-meno-rodada-06.md](fonte-bdag-meno-rodada-06.md). Distingue 1Jo 2.19 (μένω μετά τινος: permanecer em comunhão/companhia) de 2.24–28 (μένω ἐν τινι: permanência de mensagem/unção nos leitores e de leitores no Filho/Pai). A polissemia controlada pelo complemento confirma a matriz de sujeitos e funções sem determinar por si a identidade de αὐτῷ ou a análise modal de μένετε. Assim, as menções anteriores de BDAG ainda pendente são **históricas**: os excertos dos três verbetes χρῖσμα, ἅγιος e μένω foram agora consultados. Obras citadas pelos verbetes não foram examinadas diretamente.
