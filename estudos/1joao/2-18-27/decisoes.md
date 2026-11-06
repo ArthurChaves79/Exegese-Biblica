@@ -30,3 +30,14 @@ Histórico: primeira versão; nenhuma decisão anterior deste estudo foi substit
 | D16 | Em 2.24, diferenciar o conteúdo que permanece nos leitores e os leitores que permanecem no Filho e Pai | μενέτω / μείνῃ com sujeito relativo; μενεῖτε com ὑμεῖς | Alto | relação discursiva com promessa de 2.25 ainda em exame |
 | D17 | Em 2.27, τις é indefinido; a frase nega necessidade de ensino, não sua possibilidade | οὐ χρείαν ἔχετε ἵνα τις διδάσκῃ e 2.26 | Alto na sintaxe, Moderado no alcance | não concluir doutrina eclesial nesta etapa |
 | D18 | Manter 2.18–27 como delimitação provisória e 2.28 como controle | coesão de μένετε, καὶ νῦν, vocativo e manifestação | Moderado | testar em análise discursiva EXE-05 |
+
+
+## Rodada 05 — decisões discursivas
+
+| ID | Decisão / estado | Base | Confiança | Limite e revisão |
+|---|---|---|---|---|
+| D20 | Manter 2.18–27 como recorte principal; 2.28 como ponte com peso prospectivo | 2.26–27 fecha escrita/unção/ensino; καὶ νῦν, vocativo, manifestação e παρουσία abrem novo horizonte | Moderado–Alto | verificar após léxico e contexto 2.29–3.3 |
+| D21 | Preferir μένετε final de 2.27 como imperativo | progressão confirmação–advertência–exortação; 2.24, 2.26–28 | Moderado–Alto | indicativo formal e variante futura preservados |
+| D22 | Ler ἵνα de 2.19 como apresentação reveladora da ruptura, sem atribuir intenção aos dissidentes | elipse e encadeamento contrafactual | Moderado | finalidade/resultado e escopo de οὐκ ... πάντες ainda exigem cuidado |
+| D23 | Corrigir nota de tradução de 2.19 sem substituir o texto formal | texto efetivo 'nem todos são dos nossos'; paráfrase contextual não literal | Alto quanto à consistência editorial | escopo semântico ainda discutível |
+| D24 | Considerar o aparato de 2.28 disponível, sem reconstruir transposição numérica | complemento-na28-2-28.md | Alto documental | legenda da numeração não fornecida |
