@@ -43,3 +43,13 @@ Regra de acompanhamento: registrar a cada rodada resposta, evidência verificáv
 ## Complemento ao controle de 2.28
 
 P01: texto impresso e aparato NA28 de 2.28 recebidos. A relação entre repetição de μένετε e transição com καὶ νῦν permanece aberta para EXE-05. P12: texto e variantes de 2.28 agora documentados; transposição numérica não reconstruída.
+
+
+## Atualização — Rodada 05 (análise discursiva)
+
+- **P01:** resposta provisória: 2.28 é ponte de dupla função com maior peso de abertura, por καὶ νῦν, vocativo e manifestação/παρουσία; 2.26–27 fecha a advertência pela retomada de escrita, unção e ensino. Delimitação 2.18–27 mantida, confiança Moderado–Alto.
+- **P02:** a finalidade de 2.26 e a confirmação do saber em 2.21 favorecem ler 2.27 como proteção frente ao engano, não proibição universal de ensino. Extensão lexical/pragmática ainda aberta.
+- **P07:** ἵνα apresenta função reveladora da saída, sem provar intenção dos dissidentes; οὐκ ... πάντες retoma contextualmente os dissidentes, mantendo ambiguidade formal. Confiança Moderado.
+- **P08:** vida eterna em 2.25 é horizonte da exortação e consequência de 2.24, não nova condição; referente de αὐτός ainda aberto.
+- **P03/P09:** preferência pelo imperativo μένετε em 2.27, sem decidir identidade da unção ou referente final de αὐτῷ. Encaminhar a EXE-06.
+- **P12:** aparato NA28 de 2.28 já recebido e arquivado; transposição numérica em א ainda não decodificada. Não solicitar novamente o texto ou aparato.
