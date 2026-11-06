@@ -48,3 +48,7 @@ Arquivado: analise-lexical-rodada-06.md. A tradução da Rodada 05 recebeu corre
 Complemento EXE-06: excerto TDNT de χρῖσμα fornecido e avaliado em [fonte-tdnt-chrisma-rodada-06.md](fonte-tdnt-chrisma-rodada-06.md). Não equivale a consulta do verbete integral ou BDAG. Atenção à leitura πάντα citada pelo TDNT versus πάντες da NA28 em 2.20; tese sobre independência de ofício docente não adotada como conclusão lexical.
 
 **Atualização de fontes EXE-06:** recebido e examinado excerto do **BDAG χρῖσμα** (Arndt et al., 2000), arquivado em [fonte-bdag-chrisma-rodada-06.md](fonte-bdag-chrisma-rodada-06.md). Assim, a indicação anterior 'BDAG não consultado' permanece apenas como histórico da redação inicial; **χρῖσμα foi consultado por excerto**, enquanto BDAG ἅγιος e μένω continuam pendentes. O BDAG registra 'unção' e interpretação pneumatológica usual, sem equivalência lexical. Não houve mudança de tradução.
+
+## Fechamento BDAG μένω
+
+Verbete recebido por excerto e arquivado em fonte-bdag-meno-rodada-06.md. Os três verbetes prioritários da Rodada 06 foram consultados por excertos. Permanecem abertas as identidades pronominais e as questões intertextuais.
