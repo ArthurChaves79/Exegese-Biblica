@@ -1,3 +1,8 @@
+# Continuidade Parte 5B
+
+Atual: academico/Mateus-17-14-21-Partes-1-a-5B.docx e .md. Registro: registros-editoriais/Registro-Parte-5B.md. Próximo passo: integração das seções teológicas antes da conclusão. Aplicações separadas.
+
+## Histórico
 # Continuidade — Parte 5A
 
 Entrega vigente: academico/Mateus-17-14-21-Partes-1-a-5A.docx e .md. Registro: registros-editoriais/Registro-Parte-5A.md. Partes anteriores preservadas. Próxima etapa: Teologia Sistemática, quando solicitada. Nenhuma aplicação acrescentada.
