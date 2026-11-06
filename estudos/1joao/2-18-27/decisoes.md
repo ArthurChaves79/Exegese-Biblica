@@ -69,3 +69,5 @@ Histórico: primeira versão; nenhuma decisão anterior deste estudo foi substit
 | D33 | Usar 2Jo 7–11 como paralelo forte, sem pressupor mesmos opositores | anticristo, engano, carne, ensino | Moderado; identidade histórica aberta |
 | D34 | Não adotar docetismo/cerintianismo como identificação comprovada | modelos explicam alguns dados, mas dependem de detalhes ausentes de 1Jo | Alto quanto ao limite; Baixo–Moderado quanto às hipóteses |
 | D35 | Manter Beale/Daniel como questão canônica não consultada | arquivo de referências pendentes | Alto metodológico |
+
+**D34 — atualização patrística:** recebidos por tradução portuguesa dois trechos atribuídos a Irineu, *Adversus haereses* 1.26.1 e 3.3.4. O primeiro atribui a Cerinto separação Jesus/Cristo com descida no batismo e retirada antes da paixão, modelo que explica comparativamente 1Jo 2.22 e 5.6; o segundo relata tradição posterior sobre encontro de João e Cerinto. Manter **não comprovada** a identificação dos dissidentes de 1João como cerintianos. O estado anterior 'fontes patrísticas não consultadas' é histórico; texto original e edição crítica continuam não conferidos.
