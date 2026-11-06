@@ -41,3 +41,15 @@ Histórico: primeira versão; nenhuma decisão anterior deste estudo foi substit
 | D22 | Ler ἵνα de 2.19 como apresentação reveladora da ruptura, sem atribuir intenção aos dissidentes | elipse e encadeamento contrafactual | Moderado | finalidade/resultado e escopo de οὐκ ... πάντες ainda exigem cuidado |
 | D23 | Corrigir nota de tradução de 2.19 sem substituir o texto formal | texto efetivo 'nem todos são dos nossos'; paráfrase contextual não literal | Alto quanto à consistência editorial | escopo semântico ainda discutível |
 | D24 | Considerar o aparato de 2.28 disponível, sem reconstruir transposição numérica | complemento-na28-2-28.md | Alto documental | legenda da numeração não fornecida |
+
+
+## Rodada 06 — decisões lexicais contextuais
+
+| ID | Decisão / estado | Base | Confiança | Limite e revisão |
+|---|---|---|---|---|
+| D25 | χρῖσμα significa 'unção'; distinguir suas funções narradas da identidade pneumatológica | 2.20,27 e 2.21,24,26 | Alto quanto às funções; Moderado quanto ao referente | BDAG χρῖσμα não consultado |
+| D26 | Não identificar ὁ ἅγιος automaticamente com Pai ou Filho | título substantivado em 2.20; Jo 6.69 e 17.11 | Alto para limite; Baixo–Moderado para referentes | exame especializado e contexto canônico pendentes |
+| D27 | Registrar todos os sujeitos/complementos de μένω em 2.24–28 | 2.24,27–28; 2.25–26 sem ocorrência | Alto | referentes pronominais ainda parcialmente abertos |
+| D28 | Ler 'não necessitais de ensino' como declaração contextual contra o engano, não proibição universal | 2.21,24,26–27 e ato de escrever | Moderado–Alto | περὶ πάντων e sintaxe comparativa ainda pendentes |
+| D29 | Não atribuir a Beale argumento não consultado; reservar Daniel à EXE-09 | registro bibliográfico pendente e ausência de leitura direta | Alto metodológico | comparar texto e versões de Daniel futuramente |
+| D30 | Corrigir cabeçalho e nota de 2.19 na tradução da Rodada 05, preservando tradução formal e paráfrase | conferência do arquivo e diferença semântica portuguesa | Alto | não equiparar ambas |
