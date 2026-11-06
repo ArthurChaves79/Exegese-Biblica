@@ -57,3 +57,15 @@ Histórico: primeira versão; nenhuma decisão anterior deste estudo foi substit
 **D25 — atualização documental:** o verbete BDAG χρῖσμα foi consultado por excerto após a redação original da Rodada 06. O sentido 'unção' tem apoio lexicográfico especializado; a interpretação usual como unção com o Espírito Santo aumenta a plausibilidade do referente, mas não resolve a identificação por semântica isolada. O limite 'BDAG não consultado' na decisão inicial fica superado **apenas para χρῖσμα**.
 
 **D27 — verificação BDAG μένω:** o verbete recebido confirma a distinção entre permanência com alguém (2.19) e permanência em alguém (2.24–28). Não determina por si os referentes pronominais. Três verbetes prioritários BDAG documentados por excerto.
+
+## Estado vigente — integração lexical e Rodada 07
+
+**Atualização de D25–D27 (sem apagar histórico):** excertos dos verbetes BDAG χρῖσμα, ἅγιος e μένω foram efetivamente consultados. D25: 'unção' lexical; identificação com Espírito Santo interpretação usual e contextualmente plausível, não definição lexical. D26: BDAG classifica 1Jo 2.20 sob 'o Santo' referido a Deus, admitindo Cristo como também provável; referente não decidido. D27: BDAG confirma μετά em 2.19 (comunhão/companhia) e ἐν em 2.24–28 (permanência de conteúdo ou relação pessoal), sem determinar αὐτῷ ou o modo de μένετε. Os limites 'BDAG não consultado' nas entradas históricas estão superados para os três verbetes; não foram lidas as fontes antigas que o BDAG cita.
+
+| ID | Decisão vigente | Evidência | Confiança e limite |
+|---|---|---|---|
+| D31 | Reconstrução histórica mínima: ruptura intracomunitária com controvérsia cristológica | 1Jo 2.19,22–23,26 | Moderado–Alto; voz dos dissidentes não disponível |
+| D32 | Interpretar 1Jo 4.1–6 e 5.1–12 como controles internos da confissão, sem imputar automaticamente cada negação aos dissidentes | paralelos de carne, Cristo, Filho, água/sangue e testemunho | Moderado; identificação de agentes não demonstrada |
+| D33 | Usar 2Jo 7–11 como paralelo forte, sem pressupor mesmos opositores | anticristo, engano, carne, ensino | Moderado; identidade histórica aberta |
+| D34 | Não adotar docetismo/cerintianismo como identificação comprovada | modelos explicam alguns dados, mas dependem de detalhes ausentes de 1Jo | Alto quanto ao limite; Baixo–Moderado quanto às hipóteses |
+| D35 | Manter Beale/Daniel como questão canônica não consultada | arquivo de referências pendentes | Alto metodológico |
