@@ -33,3 +33,5 @@ Fechamento lexical: [BDAG μένω — construções de permanência](fonte-bdag
 Rodada 07: [contexto histórico e natureza da controvérsia](contexto-historico-rodada-07.md). Manuscrito consolidado; hipóteses docetista/cerintiana controladas; Beale/Daniel continuam pendentes.
 
 Complemento patrístico da Rodada 07: [Irineu sobre Cerinto — análise e limites](irineu-cerinto-complemento-rodada-07.md).
+
+Rodada 08: [EXE-09 — contexto canônico, Daniel OG/Θ e Beale](contexto-canonico-rodada-08.md). Manuscrito acadêmico seção 11; seção 10 integra Irineu ao fluxo histórico. Beale acessado parcialmente; não afirmar leitura integral.
