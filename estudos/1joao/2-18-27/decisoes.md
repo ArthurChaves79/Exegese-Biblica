@@ -55,3 +55,5 @@ Histórico: primeira versão; nenhuma decisão anterior deste estudo foi substit
 | D30 | Corrigir cabeçalho e nota de 2.19 na tradução da Rodada 05, preservando tradução formal e paráfrase | conferência do arquivo e diferença semântica portuguesa | Alto | não equiparar ambas |
 
 **D25 — atualização documental:** o verbete BDAG χρῖσμα foi consultado por excerto após a redação original da Rodada 06. O sentido 'unção' tem apoio lexicográfico especializado; a interpretação usual como unção com o Espírito Santo aumenta a plausibilidade do referente, mas não resolve a identificação por semântica isolada. O limite 'BDAG não consultado' na decisão inicial fica superado **apenas para χρῖσμα**.
+
+**D27 — verificação BDAG μένω:** o verbete recebido confirma a distinção entre permanência com alguém (2.19) e permanência em alguém (2.24–28). Não determina por si os referentes pronominais. Três verbetes prioritários BDAG documentados por excerto.
