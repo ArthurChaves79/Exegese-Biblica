@@ -83,3 +83,5 @@ Histórico: primeira versão; nenhuma decisão anterior deste estudo foi substit
 | D40 | Permanência, vida eterna e 2.28 têm apoio intratextual independente de Daniel | Alto; manter delimitação |
 
 **D29/D35:** a indicação histórica de Beale não consultado foi superada por leitura de páginas selecionadas na Rodada 08, não por exame integral do artigo.
+
+**D38 — controle por Collins (EXE-09):** excertos efetivamente recebidos de Collins, *Daniel* (1993), pp. 337–341 e 385–390. קֵץ pode designar período terminal de crise; Dn 8 e 11 são interpretados por Collins em relação a Antíoco IV, com engano, oposição e provação. A recepção de um padrão daniélico de adversário é alternativa plausível à alusão direta proposta por Beale. Mantida a decisão: pano de fundo plausível (Moderado), alusão específica não demonstrada (Baixo–Moderado). Não confundir exegese hebraica de Daniel com prova de dependência verbal grega em 1Jo.
