@@ -37,3 +37,5 @@ Complemento patrístico da Rodada 07: [Irineu sobre Cerinto — análise e limit
 Rodada 08: [EXE-09 — contexto canônico, Daniel OG/Θ e Beale](contexto-canonico-rodada-08.md). Manuscrito acadêmico seção 11; seção 10 integra Irineu ao fluxo histórico. Beale acessado parcialmente; não afirmar leitura integral.
 
 Fonte complementar EXE-09: [Collins sobre Daniel 8 e 11](fonte-collins-daniel-rodada-08.md), integrada à seção 11 do manuscrito.
+
+Rodada 09: comentário acadêmico por unidades (EXE-08B) integrado à [seção 12 do manuscrito](manuscrito-academico.md), abrangendo 2.18–19, 2.20–23, 2.24–25, 2.26–27 e 2.28 como transição. Correção do estado de Collins em seção 11; continuidade atualizada.
