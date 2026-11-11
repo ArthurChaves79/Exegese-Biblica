@@ -87,3 +87,15 @@ Histórico: primeira versão; nenhuma decisão anterior deste estudo foi substit
 **D38 — controle por Collins (EXE-09):** excertos efetivamente recebidos de Collins, *Daniel* (1993), pp. 337–341 e 385–390. קֵץ pode designar período terminal de crise; Dn 8 e 11 são interpretados por Collins em relação a Antíoco IV, com engano, oposição e provação. A recepção de um padrão daniélico de adversário é alternativa plausível à alusão direta proposta por Beale. Mantida a decisão: pano de fundo plausível (Moderado), alusão específica não demonstrada (Baixo–Moderado). Não confundir exegese hebraica de Daniel com prova de dependência verbal grega em 1Jo.
 
 **D40 — complemento Collins Dn 12.1–3:** recebido excerto de Collins, *Daniel* (1993), pp. 390–398. Sua interpretação de ressurreição individual, vida eterna e instrução dos sábios amplia a comparação canônica com 1Jo 2.24–25. Confiança alta para a distinção textual: Daniel menciona ressurreição, 1Jo 2.25 não; moderada para pano de fundo daniélico; baixa–moderada para alusão específica. Não altera a delimitação nem transforma a leitura partitiva de רַבִּים em consenso.
+
+## Rodada 09 — EXE-08B, consolidação sem alteração das decisões vigentes
+
+| ID | Controle do comentário | Estado |
+|---|---|---|
+| D41 | 2.19: manter a distinção entre tradução formal de οὐκ εἰσὶν πάντες e paráfrase contextual da saída | Confirmado; alta confiança na função contextual, ambiguidade formal explicitada |
+| D42 | 2.22–23: negar/confessar o Filho determina a reivindicação de ter o Pai; não inferir identificação histórica dos opositores | Confirmado; alto para argumento interno |
+| D43 | 2.24–27: diferenciar mensagem e unção que permanecem nos leitores, e leitores chamados a permanecer | Confirmado; alto para distinções sintáticas; referentes pessoais em aberto |
+| D44 | 2.27: μένετε preferencialmente imperativo pelo contexto exortativo; indicativo possível e variante futura não adotada | Moderado–alto para preferência contextual, sem exclusividade morfológica |
+| D45 | 2.28: transição escatológica, sem alterar delimitação 2.18–27; Daniel permanece na seção canônica | Confirmado; alto |
+
+Seção 12 do manuscrito arquivada e verificada; a seção 11 foi corrigida quanto à consulta de Collins, pp. 390–398. Nenhuma nova fonte Logos exigida.
