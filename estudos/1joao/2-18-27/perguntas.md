@@ -85,3 +85,5 @@ P01: texto impresso e aparato NA28 de 2.28 recebidos. A relação entre repetiç
 **P15 — aberto:** qual edição crítica e história textual de OG/Θ melhor explica a recepção da terminologia ὥρα? Conferir também Dn 11.45 ao avaliar a lista de passagens escatológicas e a alegação de exclusividade no corpus.
 
 **P16 — respondida provisoriamente:** 2.24–25 e 2.28 integram permanência presente, promessa de vida eterna e manifestação futura independentemente de alusão a Daniel; a hipótese daniélica acrescenta moldura de oposição e vindicação.
+
+**P15 — complemento Collins:** a variedade semântica de קֵץ e a interpretação histórica de Dn 8 e 11 em relação a Antíoco IV fortalecem a alternativa de tradição escatológica mediada. Permanecem abertas a forma grega de Daniel conhecida por 1Jo e a identificação de alusão específica; excertos de Collins recebidos: pp. 337–341, 385–390, sem Daniel 12.
