@@ -87,3 +87,5 @@ P01: texto impresso e aparato NA28 de 2.28 recebidos. A relação entre repetiç
 **P16 — respondida provisoriamente:** 2.24–25 e 2.28 integram permanência presente, promessa de vida eterna e manifestação futura independentemente de alusão a Daniel; a hipótese daniélica acrescenta moldura de oposição e vindicação.
 
 **P15 — complemento Collins:** a variedade semântica de קֵץ e a interpretação histórica de Dn 8 e 11 em relação a Antíoco IV fortalecem a alternativa de tradição escatológica mediada. Permanecem abertas a forma grega de Daniel conhecida por 1Jo e a identificação de alusão específica; excertos de Collins recebidos: pp. 337–341, 385–390, sem Daniel 12.
+
+**P16 — Collins Dn 12 (atualização):** pp. 390–398 efetivamente recebidas. Daniel 12.1–3 articula tribulação, libertação, ressurreição, vida eterna e atuação dos sábios; aproximação com 1Jo 2.24–25 é temática/canônica, não citação demonstrada. Aberto: como a tradição joanina desenvolve a relação entre vida presente e ressurreição futura sem supor dependência direta de Dn 12.2?
