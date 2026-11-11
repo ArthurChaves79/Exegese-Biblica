@@ -62,3 +62,5 @@ Relatório arquivado: [contexto-historico-rodada-07.md](contexto-historico-rodad
 ## Rodada 08 — EXE-09
 
 Manuscrito: seção 10 com Irineu integrado; seção 11 sobre última hora, Daniel OG e Teodocião, Beale e 2.24–28. Relatório: contexto-canonico-rodada-08.md. Beale acessado em páginas selecionadas, sem leitura integral. Pano de fundo daniélico plausível, alusão específica aberta. Delimitação preservada; 2.28 transição. Próxima etapa: EXE-10.
+
+**EXE-09 — complemento Collins:** recebido e registrado em fonte-collins-daniel-rodada-08.md o comentário de John J. Collins sobre Dn 8 e 11 (pp. 337–341, 385–390). Seção 11 do manuscrito atualizada com alternativa de tradição escatológica mediada; não altera grau de confiança da alusão específica nem delimitação. Daniel 12 em Collins não consultado.
