@@ -99,3 +99,15 @@ Histórico: primeira versão; nenhuma decisão anterior deste estudo foi substit
 | D45 | 2.28: transição escatológica, sem alterar delimitação 2.18–27; Daniel permanece na seção canônica | Confirmado; alto |
 
 Seção 12 do manuscrito arquivada e verificada; a seção 11 foi corrigida quanto à consulta de Collins, pp. 390–398. Nenhuma nova fonte Logos exigida.
+
+## Rodada 10 — EXE-08C: conferência verso a verso
+
+| ID | Resultado | Confiança / limite |
+|---|---|---|
+| D46 | Corrigir no comentário o vocativo de 2.18 para παιδία, distinguindo τεκνία em 2.28; tradução “filhinhos” preservada | Alto; correção de citação grega, não da tradução |
+| D47 | Em 2.19, distinguir οὐκ εἰσὶν πάντες, paráfrase contextual e ἵνα φανερωθῶσιν com ação subentendida; não imputar intenção da saída ou expulsão | Alto para construção e antecedente plural; moderado para nuances de finalidade |
+| D48 | Em 2.24, ὑμεῖς é tópico inicial, ὃ ἠκούσατε sujeito da permanência da mensagem e ὑμεῖς sujeito da consequência futura | Alto; comentário corrigido, tradução preservada |
+| D49 | Em 2.25, vida eterna é conteúdo da promessa e horizonte da comunhão de 2.24, não sua apódose gramatical nem recompensa adicionada como condição | Alto; αὐτός sem referente definitivamente fixado |
+| D50 | Em 2.27, distinguir περὶ πάντων de πάντες (2.20), διδάσκει presente e ἐδίδαξεν aoristo; preferir μένετε imperativo sem eliminar indicativo e variante futura; avaliar ἐν αὐτῷ separadamente | Alto para formas; moderado–alto para imperativo, moderado para Filho como referente; Pai possível, χρῖσμα gramaticalmente possível mas menos natural |
+
+**Tradução vigente:** `traducao-trabalho-rodada-05.md`, sem revisão. **Evidência:** `conferencia-verso-a-verso-rodada-10.md` e seção 12 do manuscrito. Próxima etapa EXE-10, história da interpretação, com especial atenção a 2.19 e 2.20,27 e às formas textuais usadas pelos intérpretes.
