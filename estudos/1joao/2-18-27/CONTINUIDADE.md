@@ -74,3 +74,9 @@ Manuscrito: seção 10 com Irineu integrado; seção 11 sobre última hora, Dani
 **Decisões interpretativas preservadas:** 2.19 distingue formulação formal e paráfrase contextual; 2.20 adota πάντες sem confundir a unção com seu referente; 2.22–23 vincula confissão do Filho e relação com o Pai; 2.24 distingue mensagem que permanece nos leitores e leitores que permanecem no Filho/Pai; 2.27 distingue unção que permanece e leitores chamados a permanecer, com μένετε imperativo preferido contextualmente, indicativo possível e variante futura registrada; antecedentes pronominais permanecem examinados individualmente. Sem nova hipótese histórica ou alteração da delimitação; 2.28 é transição. A exposição do pano de fundo daniélico permanece na seção 11, não na seção 12. Não foi solicitada nova fonte Logos nesta rodada.
 
 **Próximo passo:** revisar a história da interpretação (EXE-10), confrontando testemunhos patrísticos efetivamente consultados e recepção posterior, sem presumir identificação dos dissidentes; ou seguir a ordem metodológica registrada no projeto conforme orientação do pesquisador. Manuscrito permanece em Markdown.
+
+## Rodada 10 — EXE-08C: conferência verso a verso concluída
+
+Conferidos os dez versículos da perícope e 2.28 somente como transição. Quadro em [conferencia-verso-a-verso-rodada-10.md](conferencia-verso-a-verso-rodada-10.md); correções integradas à seção 12 do manuscrito. A tradução da Rodada 05 permanece vigente. Ajustados o vocativo de 2.18, a abertura e o sujeito em 2.24, e a explicação de 2.19, 2.25–27. Mantidos a preferência contextual pelo imperativo de 2.27 e o antecedente em aberto. Nenhuma fonte nova foi necessária.
+
+**Próximo passo vigente: EXE-10**, história da interpretação de 2.19 e 2.20,27, com controle das formas textuais utilizadas por cada intérprete. Irineu sobre Cerinto permanece comparação histórica, sem servir como leitura direta dos versículos nos excertos recebidos.
