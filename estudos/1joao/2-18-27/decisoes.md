@@ -111,3 +111,15 @@ Seção 12 do manuscrito arquivada e verificada; a seção 11 foi corrigida quan
 | D50 | Em 2.27, distinguir περὶ πάντων de πάντες (2.20), διδάσκει presente e ἐδίδαξεν aoristo; preferir μένετε imperativo sem eliminar indicativo e variante futura; avaliar ἐν αὐτῷ separadamente | Alto para formas; moderado–alto para imperativo, moderado para Filho como referente; Pai possível, χρῖσμα gramaticalmente possível mas menos natural |
 
 **Tradução vigente:** `traducao-trabalho-rodada-05.md`, sem revisão. **Evidência:** `conferencia-verso-a-verso-rodada-10.md` e seção 12 do manuscrito. Próxima etapa EXE-10, história da interpretação, com especial atenção a 2.19 e 2.20,27 e às formas textuais usadas pelos intérpretes.
+
+## Rodada 11 — EXE-10: controle da recepção
+
+| ID | Decisão | Limite |
+|---|---|---|
+| D51 | Agostinho e Calvino leem 2.19 como manifestação de não pertença anterior à saída; distinguir exegese da aplicação a cisma e eleição | Alto para leitura das traduções consultadas; texto não nomeia agente da saída |
+| D52 | Ambos entendem ensino interior da unção como compatível com pregação externa; unção identificada com Espírito, sem converter a identificação em equivalência lexical necessária | Alto para testemunhos; desenvolvimento sacramental agostiniano não imposto ao texto |
+| D53 | Calvino apresenta *novistis omnia* em 2.20, correspondente a πάντα, mas a tradução de trabalho conserva πάντες do NA28; texto inglês agostiniano não identifica seguramente a Vorlage grega | Alto para forma impressa em Calvino; origem textual de Agostinho em aberto |
+| D54 | Calvino tem *manete in eo (vel, in ea)* no latim de 2.27 e futuro na coluna inglesa; comentário reconhece alternativa e prefere exortação em Cristo; manter μένετε imperativo como preferência, não certeza morfológica | Alto para edição consultada; moderado para opção exegética |
+| D55 | Calvino omite a cláusula positiva de 2.23 como possível glosa; manter texto crítico adotado com a cláusula, registrando diferença histórica | Alto para posição de Calvino; sem nova crítica textual nesta rodada |
+
+Relatório: [historia-interpretacao-rodada-11.md](historia-interpretacao-rodada-11.md). Manuscrito §13. Sem alteração da tradução.
