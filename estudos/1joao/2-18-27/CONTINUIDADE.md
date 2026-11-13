@@ -102,3 +102,7 @@ Criado [avaliacao-canonica-controversias-rodada-12.md](avaliacao-canonica-contro
 Retomados o comentário por unidades (§12), a conferência verso a verso (Rodada 10), a recepção (§13), a avaliação canônica (§14), a tradução da Rodada 05 e as decisões D1–D62. Integrada a seção 15 ao manuscrito acadêmico, com tese em uma frase e demonstração contínua do encadeamento 2.18–19 → 2.20–23 → 2.24–25 → 2.26–27; 2.28 permanece transição. Relatório de controle: [sintese-exegetica-rodada-13.md](sintese-exegetica-rodada-13.md). Decisões D63–D67.
 
 **Teste de robustez:** 2.24 é dobradiça entre diagnóstico e resposta, não centro exclusivo; o sentido geral subsiste se μένετε em 2.27 for indicativo e se o referente de ἐν αὐτῷ não for definitivamente identificado. Mantidas como questões abertas identidade histórica dos dissidentes, Santo de 2.20, αὐτός em 2.25, modo e referente em 2.27 e alusão específica a Daniel. Tradução da Rodada 05 e delimitação preservadas. Sem nova nota para Logos. **Próxima etapa:** EXE-12, teologia bíblica da perícope.
+
+## Rodada 14 — EXE-12: teologia bíblica concluída
+
+Síntese da Rodada 13 conferida. Integrada ao §16 a contribuição da perícope: comunhão com o Pai na confissão do Filho, ensino da unção em relação à mensagem recebida e vida prometida entre a última hora e a manifestação. [Quadro e limites](teologia-biblica-rodada-14.md). Tradução e delimitação preservadas, sem nova nota para o Logos. Próximo passo recomendado: EXE-12B seletivo (mensagem, ensino do Espírito e permanência), antes de EXE-13.

@@ -150,3 +150,8 @@ Manuscrito §14; relatório [avaliacao-canonica-controversias-rodada-12.md](aval
 | D67 | Separar expresso, inferido e aberto; não depender de identificação cerintiana/docetista, escola joanina ou alusão a Daniel | História e intertextualidade não resolvidas não bloqueiam determinação do sentido |
 
 Manuscrito §15 e [sintese-exegetica-rodada-13.md](sintese-exegetica-rodada-13.md). Tradução da Rodada 05 mantida. Sem nova nota para o Logos.
+
+## Rodada 14 — EXE-12
+
+- **D68:** A teologia bíblica parte de D63–D67: a comunhão com o Pai é inseparável da confissão do Filho (2.22–24); o ensino da unção sustenta o discernimento sem substituir a mensagem recebida (2.20–27). A leitura pneumatológica é provável, sem decidir a identidade do Santo.
+- **D69:** 2.25 apresenta vida eterna como conteúdo da promessa. 1Jo 5.11–13 esclarece sua posse no Filho; 2.28–3.3 esclarece o horizonte da manifestação. Jr 31/Hb 8 e Dn 12 permanecem comparações canônicas, sem alusão demonstrada. Tradução preservada.
