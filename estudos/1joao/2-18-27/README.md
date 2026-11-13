@@ -43,3 +43,5 @@ Rodada 09: comentário acadêmico por unidades (EXE-08B) integrado à [seção 1
 Rodada 10: [conferência verso a verso (EXE-08C)](conferencia-verso-a-verso-rodada-10.md) e revisão da seção 12 do [manuscrito](manuscrito-academico.md). Tradução de trabalho preservada; 2.28 conferido apenas como transição.
 
 Rodada 11: [história da interpretação (EXE-10)](historia-interpretacao-rodada-11.md), com Agostinho, Calvino e contraponto moderno; seção 13 do [manuscrito](manuscrito-academico.md). Formas textuais e usos doutrinários diferenciados; tradução mantida.
+
+Rodada 12: [avaliação canônica das controvérsias (EXE-10B)](avaliacao-canonica-controversias-rodada-12.md), incorporada à seção 14 do [manuscrito acadêmico](manuscrito-academico.md). Tradução vigente mantida. Strecker 1996 pp. 74–77 e lacunas de integração da *Themelios* documentados.
