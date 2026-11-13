@@ -47,3 +47,5 @@ Rodada 11: [história da interpretação (EXE-10)](historia-interpretacao-rodada
 Rodada 12: [avaliação canônica das controvérsias (EXE-10B)](avaliacao-canonica-controversias-rodada-12.md), incorporada à seção 14 do [manuscrito acadêmico](manuscrito-academico.md). Tradução vigente mantida. Strecker 1996 pp. 74–77 e lacunas de integração da *Themelios* documentados.
 
 Complemento da Rodada 12: [Morris, Kistemaker e Eerdmans — análise de excertos](fontes-complementares-morris-kistemaker-eerdmans.md); comparação de Jr 31/Hb 8 integrada ao manuscrito.
+
+Rodada 13 — [síntese exegética e determinação do sentido (EXE-11)](sintese-exegetica-rodada-13.md), integrada ao §15 do manuscrito acadêmico; decisões D63–D67 e continuidade atualizadas.
