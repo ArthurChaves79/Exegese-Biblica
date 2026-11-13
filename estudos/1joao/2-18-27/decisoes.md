@@ -138,3 +138,15 @@ Relatório: [historia-interpretacao-rodada-11.md](historia-interpretacao-rodada-
 Manuscrito §14; relatório [avaliacao-canonica-controversias-rodada-12.md](avaliacao-canonica-controversias-rodada-12.md). Tradução da Rodada 05 inalterada. Strecker pp. 74–77 fornecido diretamente pelo pesquisador e agora registrado; análises *Themelios* reconhecidas como complemento, resenha Burdick ainda pendente.
 
 **D62 — fontes complementares recebidas:** Morris, Kistemaker e *Eerdmans Companion* examinados nos excertos fornecidos. Jr 31.31–34/Hb 8.10–11 é paralelo canônico especialmente esclarecedor da universalidade do conhecimento da nova aliança, sem abolir ensino eclesial (1Jo 2.21,26; Mt 28.20). Permanecem abertas a identidade do Santo e a referência de ἐν αὐτῷ. Não adotar como demonstração ausência do artigo em “última hora”, dicotomia lexical rígida οἶδα/γινώσκω, presente necessariamente conativo, ou identificação histórica segura dos opositores como cerintianos. Tradução mantida. Registro: [fontes-complementares-morris-kistemaker-eerdmans.md](fontes-complementares-morris-kistemaker-eerdmans.md).
+
+## Rodada 13 — EXE-11: síntese e determinação do sentido
+
+| ID | Decisão | Limite / condição de revisão |
+|---|---|---|
+| D63 | Ideia central: diante da dissidência que nega Jesus como Cristo, os leitores, já conhecedores da verdade mediante a unção, devem conservar a mensagem recebida para permanecer na comunhão com o Filho e Pai, sob a promessa de vida eterna | Tese sustentada pelo encadeamento 2.18–27, sem identificação histórica específica |
+| D64 | 2.24 é virada entre diagnóstico e resposta, não centro estrutural exclusivo; 2.20 antecipa a resposta e 2.27 a confirma | Alto para função discursiva; não impor quiasmo ou centro único |
+| D65 | Síntese resiste à leitura indicativa de μένετε em 2.27: a exortação explícita de 2.24 permanece; imperativo continua preferido | Ambiguidade morfológica preservada |
+| D66 | Síntese resiste à incerteza de ἐν αὐτῷ em 2.27: comunhão com Filho e Pai é explícita em 2.24; referente e modo não se determinam mutuamente | Filho provável, Pai possível, unção menos natural |
+| D67 | Separar expresso, inferido e aberto; não depender de identificação cerintiana/docetista, escola joanina ou alusão a Daniel | História e intertextualidade não resolvidas não bloqueiam determinação do sentido |
+
+Manuscrito §15 e [sintese-exegetica-rodada-13.md](sintese-exegetica-rodada-13.md). Tradução da Rodada 05 mantida. Sem nova nota para o Logos.
