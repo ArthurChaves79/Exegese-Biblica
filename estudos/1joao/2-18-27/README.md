@@ -45,3 +45,5 @@ Rodada 10: [conferência verso a verso (EXE-08C)](conferencia-verso-a-verso-roda
 Rodada 11: [história da interpretação (EXE-10)](historia-interpretacao-rodada-11.md), com Agostinho, Calvino e contraponto moderno; seção 13 do [manuscrito](manuscrito-academico.md). Formas textuais e usos doutrinários diferenciados; tradução mantida.
 
 Rodada 12: [avaliação canônica das controvérsias (EXE-10B)](avaliacao-canonica-controversias-rodada-12.md), incorporada à seção 14 do [manuscrito acadêmico](manuscrito-academico.md). Tradução vigente mantida. Strecker 1996 pp. 74–77 e lacunas de integração da *Themelios* documentados.
+
+Complemento da Rodada 12: [Morris, Kistemaker e Eerdmans — análise de excertos](fontes-complementares-morris-kistemaker-eerdmans.md); comparação de Jr 31/Hb 8 integrada ao manuscrito.
