@@ -123,3 +123,16 @@ Seção 12 do manuscrito arquivada e verificada; a seção 11 foi corrigida quan
 | D55 | Calvino omite a cláusula positiva de 2.23 como possível glosa; manter texto crítico adotado com a cláusula, registrando diferença histórica | Alto para posição de Calvino; sem nova crítica textual nesta rodada |
 
 Relatório: [historia-interpretacao-rodada-11.md](historia-interpretacao-rodada-11.md). Manuscrito §13. Sem alteração da tradução.
+
+## Rodada 12 — EXE-10B: avaliação canônica
+
+| ID | Decisão | Alternativa e condição de revisão |
+|---|---|---|
+| D56 | 2.19 manifesta não pertença dos dissidentes concretos, qualificada pela negação cristológica de 2.22–23; compatível com perseverança, não regra para toda saída eclesial | Leitura institucional isolada fraca ante contrafactual e 2.22–24; rever com evidência contextual inequívoca de pertencimento exclusivamente administrativo |
+| D57 | 2.20: Santo pode ser Cristo ou Deus/Pai; manter tradução aberta | Jo 6.69 favorece Cristo, Is 40.25;43.15 e 1Jo 3.24;4.13 favorecem Deus; rever diante de alusão demonstrável |
+| D58 | 2.20,27: unção provavelmente dom/ação do Espírito, distinta do doador e da mensagem recebida | Alternativa de instrução apostólica como referente exclusivo não explica bem a distinção dos sujeitos; 2Co 1.21–22 e discursos do Paráclito são paralelos, não provas de identidade lexical |
+| D59 | 2.27: ensino suficiente para discernimento na controvérsia, não abolição do ensino eclesial; 2.21 e 2.26 são evidência interna decisiva | Leitura absoluta contradiz a própria atividade docente do autor; πάντες de 2.20 difere de πάντα variante e περὶ πάντων de 2.27 |
+| D60 | 2.27: μένετε preferido imperativo, indicativo possível, futuro μενεῖτε variante distinta | Rever por evidência textual ou discursiva nova; Strecker 1996 pp. 76–77 reforça argumento contextual, não elimina ambiguidade |
+| D61 | 2.27: ἐν αὐτῷ provavelmente Filho, Pai possível e χρῖσμα neutro gramaticalmente possível porém menos natural | Decisão de referente independente da decisão modal; não inferir automaticamente de 2.28 |
+
+Manuscrito §14; relatório [avaliacao-canonica-controversias-rodada-12.md](avaliacao-canonica-controversias-rodada-12.md). Tradução da Rodada 05 inalterada. Strecker pp. 74–77 fornecido diretamente pelo pesquisador e agora registrado; análises *Themelios* reconhecidas como complemento, resenha Burdick ainda pendente.
