@@ -155,3 +155,11 @@ Manuscrito §15 e [sintese-exegetica-rodada-13.md](sintese-exegetica-rodada-13.m
 
 - **D68:** A teologia bíblica parte de D63–D67: a comunhão com o Pai é inseparável da confissão do Filho (2.22–24); o ensino da unção sustenta o discernimento sem substituir a mensagem recebida (2.20–27). A leitura pneumatológica é provável, sem decidir a identidade do Santo.
 - **D69:** 2.25 apresenta vida eterna como conteúdo da promessa. 1Jo 5.11–13 esclarece sua posse no Filho; 2.28–3.3 esclarece o horizonte da manifestação. Jr 31/Hb 8 e Dn 12 permanecem comparações canônicas, sem alusão demonstrada. Tradução preservada.
+
+## Rodada 15 — EXE-12B: integração canônica temática
+
+- **D70 — Três sujeitos da permanência:** 1Jo 2.24 distingue mensagem que deve permanecer nos leitores e leitores que permanecem no Filho e Pai; 2.27 acrescenta unção que permanece e ensina. Não reduzir os sujeitos a uma única realidade.
+- **D71 — Critério intrajoanino:** 1Jo 4.1–6,13–16 confirma que dom do Espírito, prova das reivindicações espirituais, testemunho recebido e confissão de Jesus como Filho não competem entre si. Identificação da unção com Espírito permanece provável, não lexicalmente necessária.
+- **D72 — Paráclito e comunidade:** Jo 14.26; 15.26–27; 16.13–15 relaciona ensino/testemunho do Espírito às palavras e pessoa de Jesus, dirigido aos discípulos no discurso de despedida. 1Jo 2.20–27 se dirige a comunidade que já recebeu a mensagem e enfrenta engano. Afinidade teológica forte; identidade de ocasião e dependência literária não demonstradas.
+- **D73 — 2Jo 7–9:** correspondência forte entre confissão cristológica, permanência no ensino e relação com Pai/Filho. Diferença sintática relevante: em 2Jo 9 a pessoa permanece no ensino; em 1Jo 2.24 a mensagem permanece na pessoa. Não presumir mesmo grupo histórico.
+- **D74 — Limites:** Jr 31/Hb 8 permanece horizonte, sem necessidade de repetição no manuscrito; nenhuma mudança de “Santo”, μένετε ou ἐν αὐτῷ; sem antecipação sistemática ou confessional. Texto principal §17 e [relatório da Rodada 15](integracao-canonica-tematica-rodada-15.md).
