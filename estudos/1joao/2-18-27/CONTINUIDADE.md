@@ -126,3 +126,8 @@ Conferidos diretamente método vigente §§1–3, comentário por unidades (§12
 ## Revisão seletiva bíblico-teológica após Rodada 15
 
 Conferido o método atualizado (seções 1–3), registro de sustentação e manuscrito §§12,15–17. [Relatório da revisão seletiva](revisao-seletiva-biblico-teologica-pos-rodada-15.md). No manuscrito: explicitado em §12 o elo entre confissão do Filho (2.23), mensagem que permanece e comunhão com Filho/Pai (2.24); em §16, a função de 1Jo 5.11–13 para compreender a vida prometida em 2.25 sem confundi-la com a apódose de 2.24; em §17, discriminada a contribuição dos paralelos e eliminada duplicação editorial. §§15 e demais conclusões preservados. Tradução e delimitação inalteradas, nenhuma nova nota Logos. EXE-13 liberado como próximo desenvolvimento, não como fechamento editorial.
+
+
+## Complemento temático — χρῖσμα e seu pano de fundo bíblico
+
+Investigados os excertos lexicais já arquivados e os paralelos 1Sm 16.13, Is 61.1, Lc 4.18, At 10.38 e 2Co 1.21–22, em diálogo com 1Jo 2.20–27 e 3.24;4.13–16. [Relatório](investigacao-chrisma-pano-de-fundo-biblico.md). Dois parágrafos acrescentados ao final do manuscrito §17: matriz bíblica da unção e possibilidade, não prova, de ressonância χριστός/ἀντίχριστος/χρῖσμα. A unção provavelmente designa dom/ação do Espírito, não sinônimo lexical; a carta não chama leitores de “cristos” nem adversários de falsamente ungidos. Sem alteração de tradução, delimitação ou decisões anteriores. Nota Logos opcional no relatório; EXE-13 continua apto.
