@@ -4,7 +4,7 @@
 
 ## 1. Finalidade e princípio de interpretação
 
-Investigar a passagem em profundidade linguística,literária,histórica,canônica e teológica e desenvolver uma interpretação argumentada,proporcional às evidências e aberta à revisão. A intenção comunicativa deve ser examinada no gênero e nos contextos da passagem,sem impor que toda unidade corrija erro ou possua um único versículo governante. Narrativa,promessa,lamento,adoração,advertência e outras funções podem coexistir.
+Investigar a passagem em profundidade linguística,literária,histórica,canônica e teológica e desenvolver uma interpretação argumentada,proporcional às evidências e aberta à revisão. A intenção comunicativa é investigada no que o autor torna público por meio do texto: o que comunica, como o comunica e que resposta procura suscitar, quando identificável. Atribuições de motivações privadas exigem evidência própria e não se confundem com a função que a passagem desempenha. O gênero e os contextos orientam essa investigação, sem impor que toda unidade corrija erro ou possua um único versículo governante. Narrativa,promessa,lamento,adoração,advertência e outras funções podem coexistir.
 
 A leitura reconhece pressupostos e compromissos teológicos,mas os submete à evidência textual. Síntese dogmática,afinidade confessional,experiência pastoral e utilidade de uma aplicação não decidem variantes,referentes ou sentidos lexicais. Considerar alternativas defensáveis e contraevidências. Uma pergunta pode permanecer aberta;isso não transforma toda interpretação em indecidível.
 
@@ -20,13 +20,15 @@ Um arquivo pode ter sido chamado mestre em pesquisa anterior;classificá-lo pela
 
 **Regra principal de redação:** o manuscrito acadêmico não menciona módulos,códigos de controles,versões,commits,histórico de execução,operações de ferramentas ou procedimentos internos. Essas informações ficam em ficha de acompanhamento no acervo. Pode e deve explicar métodos acadêmicos pertinentes,edições consultadas,opções de tradução,evidências e limitações substantivas sem narrar a execução interna.
 
-A redação acompanha a investigação desde suas primeiras conclusões pertinentes. A cada avanço,integrar uma explicação desenvolvida: dado textual→alternativas→avaliação→conclusão→alcance. Tabelas e esquemas auxiliam a prosa,não a substituem. Redação progressiva não autoriza antecipar conclusões ainda não investigadas. Se faltar base,delimitar a afirmação e manter a questão no acervo.
+A redação acompanha a investigação desde suas primeiras conclusões pertinentes. A cada avanço, integrar ao manuscrito as conclusões pertinentes e sua justificação conforme a seção 3. Tabelas e esquemas auxiliam a prosa,não a substituem. Redação progressiva não autoriza antecipar conclusões ainda não investigadas. Se faltar base,delimitar a afirmação e manter a questão no acervo.
 
 O contexto acompanha todo o percurso em cinco níveis: imediato, seção, livro, outros escritos do autor quando pertinentes e cânon. O contexto imediato tem prioridade para determinar o sentido local, sem vetar a crítica textual ou a leitura canônica. Registrar retornos quando uma descoberta alterar a tradução, a estrutura ou outra conclusão. Considerar todas as dimensões pertinentes não exige aprofundá-las igualmente; o tempo limita o escopo, nunca aumenta a confiança.
 
 ## 3. Evidência,alcance e confiança — regra principal comum
 
 Separar fonte,observação,inferência,hipótese,conclusão e aplicação. Afirmação explícita,pressuposto contextual,inferência e compatibilidade são categorias de relação com o texto;não são automaticamente graus de certeza. Algo pode ser doutrinariamente verdadeiro em outro texto sem estar presente nesta passagem.
+
+Para cada conclusão decisiva ou controvertida, identificar o dado textual ou contextual, explicar por que ele favorece a leitura e delimitar o alcance da afirmação. Quando houver alternativa defensável, comparar o que cada leitura explica, o que deixa sem resposta e como lida com a contraevidência. Voltar à unidade inteira e mostrar o que a análise esclareceu, confirmou ou corrigiu na leitura do conjunto. A evidência pertinente depende do gênero e da questão; no manuscrito, a justificação integra a prosa acadêmica.
 
 Adotar Alto,Moderado e Baixo,sempre com motivo e limite,para confiança interpretativa. Registros antigos em Médio ou Muito Alto são conservados como históricos;qualquer equivalência depende de reavaliação,não conversão automática. O manuscrito expressa a qualificação em linguagem acadêmica,sem precisar reproduzir tabelas administrativas de graus.
 
