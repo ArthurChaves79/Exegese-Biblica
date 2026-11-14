@@ -53,3 +53,5 @@ Rodada 13 — [síntese exegética e determinação do sentido (EXE-11)](sintese
 Rodada 14 — [teologia bíblica da perícope (EXE-12)](teologia-biblica-rodada-14.md), integrada ao §16 do manuscrito acadêmico.
 
 Rodada 15 — [integração canônica temática (EXE-12B)](integracao-canonica-tematica-rodada-15.md), incorporada à seção 17 do [manuscrito acadêmico](manuscrito-academico.md). Decisões D70–D74 e continuidade atualizadas.
+
+Revisão pós-Rodada 15 — [controle de sustentação interpretativa e dependências](revisao-sustentacao-ate-rodada-15.md), com ajustes pontuais nos §§12 e 17 do manuscrito, preservados §§15–16, tradução e delimitação. Próxima etapa EXE-13.
