@@ -112,3 +112,12 @@ Síntese da Rodada 13 conferida. Integrada ao §16 a contribuição da perícope
 Retomadas as seções 15–16 do manuscrito e decisões D63–D69. Acrescentada seção 17 em prosa acadêmica, concentrada na diferença entre testemunho recebido, unção que permanece e ensina, e leitores que permanecem no Filho e Pai. Confrontados 1Jo 1.1–3; 3.24; 4.1–6,13–16; Jo 14.26; 15.26–27; 16.13–15; 2Jo 7–9, com controle de destinatários, sujeitos do testemunho e força de cada relação. Jr 31/Hb 8 não foi repetido como prova nova. Registro e gradação: [integracao-canonica-tematica-rodada-15.md](integracao-canonica-tematica-rodada-15.md); decisões D70–D74.
 
 **Contribuição nova:** o contraste entre promessa do Paráclito aos discípulos na despedida e ensino da unção aos leitores que já ouviram a mensagem; 2Jo 9 diferencia a pessoa que permanece no ensino de 1Jo 2.24, em que a mensagem permanece na pessoa. Nenhuma alusão ou dependência literária demonstrada. Mantidas unção pneumatológica provável, identidade do Santo aberta, modo de μένετε e referente de ἐν αὐτῷ em aberto, tradução da Rodada 05 e delimitação 2.18–27. Nota Logos apenas sugerida para 2Jo 9/1Jo 2.24, não lançada. **Próximo passo:** EXE-13 teologia sistemática da perícope, sem confundir sentido textual com elaboração confessional.
+
+
+## Revisão de sustentação após Rodada 15 — método §§1–3
+
+Conferidos diretamente método vigente §§1–3, comentário por unidades (§12), síntese (§15), teologia bíblica (§16), integração temática (§17) e relatórios das Rodadas 10, 12, 13 e 15. Revisão interpretativa interna, não auditoria independente. [Registro de evidências, alternativas, graus e dependências](revisao-sustentacao-ate-rodada-15.md).
+
+**Correções pontuais no manuscrito:** §12, 2.19: alternativa institucional e ausência de dados sobre motivos, expulsão ou retirada voluntária; 2.24–25: contraste entre apódose gramatical e conteúdo da promessa; 2.26–27: objeção à leitura absoluta do ensino, comparação de modo e referente independentes. §17: relações joaninas fortes não demonstram dependência literária. §15 e §16 preservados porque suficientes; tradução da Rodada 05 e delimitação inalteradas. Sem nova nota Logos.
+
+**Questões abertas:** identidade histórica dos adversários, motivos da saída, Santo de 2.20, αὐτός de 2.25, modo de μένετε e referente de ἐν αὐτῷ em 2.27, identificação pneumatológica da unção (provável, não lexicalmente necessária), intenção de alusões e dependência literária. **Próximo passo: EXE-13**, pronto para início com essas limitações; não declarar fechamento editorial.
