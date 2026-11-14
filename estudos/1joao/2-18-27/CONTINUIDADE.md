@@ -121,3 +121,8 @@ Conferidos diretamente método vigente §§1–3, comentário por unidades (§12
 **Correções pontuais no manuscrito:** §12, 2.19: alternativa institucional e ausência de dados sobre motivos, expulsão ou retirada voluntária; 2.24–25: contraste entre apódose gramatical e conteúdo da promessa; 2.26–27: objeção à leitura absoluta do ensino, comparação de modo e referente independentes. §17: relações joaninas fortes não demonstram dependência literária. §15 e §16 preservados porque suficientes; tradução da Rodada 05 e delimitação inalteradas. Sem nova nota Logos.
 
 **Questões abertas:** identidade histórica dos adversários, motivos da saída, Santo de 2.20, αὐτός de 2.25, modo de μένετε e referente de ἐν αὐτῷ em 2.27, identificação pneumatológica da unção (provável, não lexicalmente necessária), intenção de alusões e dependência literária. **Próximo passo: EXE-13**, pronto para início com essas limitações; não declarar fechamento editorial.
+
+
+## Revisão seletiva bíblico-teológica após Rodada 15
+
+Conferido o método atualizado (seções 1–3), registro de sustentação e manuscrito §§12,15–17. [Relatório da revisão seletiva](revisao-seletiva-biblico-teologica-pos-rodada-15.md). No manuscrito: explicitado em §12 o elo entre confissão do Filho (2.23), mensagem que permanece e comunhão com Filho/Pai (2.24); em §16, a função de 1Jo 5.11–13 para compreender a vida prometida em 2.25 sem confundi-la com a apódose de 2.24; em §17, discriminada a contribuição dos paralelos e eliminada duplicação editorial. §§15 e demais conclusões preservados. Tradução e delimitação inalteradas, nenhuma nova nota Logos. EXE-13 liberado como próximo desenvolvimento, não como fechamento editorial.
