@@ -1,0 +1,3 @@
+# Integração da teologia bíblica ao método
+
+Revisão autorizada pelo pesquisador em 2026-11-14. O §1 explicita a dupla finalidade: compreender a comunicação da passagem em seu contexto e sua contribuição à revelação nas Escrituras. A análise linguística serve a essa compreensão. EXE-09 e EXE-11 ligam a investigação canônica à síntese; EXE-12 e EXE-12B distinguem contribuição própria e aprofundamento comparativo; EXE-15B torna essa integração verificável na exposição acadêmica. Preservados o controle comum de evidência e a prioridade do contexto imediato para determinar o sentido local. Nenhum módulo novo. A alteração documental ainda requer aplicação a estudos concretos.

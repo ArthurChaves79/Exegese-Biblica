@@ -4,6 +4,10 @@
 
 ## 1. Finalidade e princípio de interpretação
 
+O método tem por finalidade compreender o que a passagem comunica em seu contexto e o que ela contribui para a revelação de Deus no conjunto das Escrituras. A teologia bíblica integra a investigação desde as perguntas iniciais até a exposição final. O contexto imediato tem prioridade para determinar o sentido local; o horizonte canônico esclarece a contribuição da passagem na história da redenção. Novas evidências podem reabrir a leitura, distinguindo o que o texto comunica em seu contexto do que outros textos confirmam, desenvolvem ou cumprem.
+
+A análise gramatical, sintática e lexical serve à compreensão do que a Escritura comunica. Examinar os termos nas afirmações em que aparecem e as afirmações na unidade literária que lhes dá função. Explicar o que cada dado linguístico decisivo muda na compreensão do texto; vocabulário comum não garante identidade conceitual, e um conceito pode ser expresso sem seu termo habitual.
+
 Investigar a passagem em profundidade linguística,literária,histórica,canônica e teológica e desenvolver uma interpretação argumentada,proporcional às evidências e aberta à revisão. A intenção comunicativa é investigada no que o autor torna público por meio do texto: o que comunica, como o comunica e que resposta procura suscitar, quando identificável. Atribuições de motivações privadas exigem evidência própria e não se confundem com a função que a passagem desempenha. O gênero e os contextos orientam essa investigação, sem impor que toda unidade corrija erro ou possua um único versículo governante. Narrativa,promessa,lamento,adoração,advertência e outras funções podem coexistir.
 
 A leitura reconhece pressupostos e compromissos teológicos,mas os submete à evidência textual. Síntese dogmática,afinidade confessional,experiência pastoral e utilidade de uma aplicação não decidem variantes,referentes ou sentidos lexicais. Considerar alternativas defensáveis e contraevidências. Uma pergunta pode permanecer aberta;isso não transforma toda interpretação em indecidível.
@@ -96,6 +100,8 @@ Conferir cobertura de frases e relações do comentário,ligando cada versículo
 
 ### EXE-09 — Contexto canônico e história da redenção
 
+Retomar as perguntas canônicas suscitadas desde a leitura inicial e testar quais relações esclarecem o texto ou sua contribuição à revelação. Distinguir o horizonte comunicativo da passagem dos desenvolvimentos posteriores e levar à síntese os nexos decisivos já sustentados.
+
 Situar o estágio redentivo;avaliar citações,referências explícitas,alusões,ecos,temas,alianças e tipologia por correspondência histórica e desenvolvimento demonstrável. Examinar contexto das fontes,função local,continuidade/descontinuidade e relação com Cristo e consumação quando sustentadas. Aplicar a regra de evidência da seção3;sem preencher todos os temas por obrigação. Auditorias anteriores são entradas somente se disponíveis;não presumir execução de controles ausentes.
 
 ### EXE-09B — Análise cosmovisional,quando pertinente
@@ -112,7 +118,7 @@ Representar alternativas defensáveis;avaliar evidência favorável/contrária n
 
 ### EXE-11 — Síntese do sentido
 
-Integrar apenas resultados pertinentes para responder o que a passagem comunica,como e com qual finalidade. Identificar assunto,funções,necessidades,afirmações e conflitos quando presentes. Uma frase sintética pode ajudar,mas não se exige erro corretivo único ou que o tema aparente seja mero pretexto. Distinguir momentos de ação,ênfase,explicação e estrutura;somente propor centro governante se demonstrável. A síntese registra explícito,pressuposto,inferência e compatibilidade,alternativas e ambiguidades. É a base identificada para desenvolvimento teológico,revisável por evidência.
+Integrar apenas resultados pertinentes para responder o que a passagem comunica,como e com qual finalidade. Identificar assunto,funções,necessidades,afirmações e conflitos quando presentes. Uma frase sintética pode ajudar,mas não se exige erro corretivo único ou que o tema aparente seja mero pretexto. Distinguir momentos de ação,ênfase,explicação e estrutura;somente propor centro governante se demonstrável. A síntese registra explícito,pressuposto,inferência e compatibilidade,alternativas e ambiguidades. A síntese incorpora as relações canônicas necessárias à compreensão da passagem, distinguindo sentido local e contribuição à revelação; permanece revisável por evidência e orienta o aprofundamento bíblico-teológico.
 
 ### EXE-11B e EXE-11C — Trajetórias de termos e motivos
 
@@ -120,9 +126,13 @@ Aprofundar seletivamente termos teologicamente relevantes e motivos recorrentes 
 
 ### EXE-12 — Teologia bíblica
 
+Desenvolver a contribuição própria da passagem à luz da síntese: o que se compreenderia menos bem no argumento do livro e no percurso da revelação sem o testemunho desta unidade? Demonstrar essa contribuição pelas relações que a evidência sustenta.
+
 Partir da síntese identificada,sem redescobri-la segundo tema preferido nem congelá-la contra evidência nova. Explicar contribuição ao livro e à progressão redentiva:antecedentes,novidade,continuidade,desenvolvimento,cumprimento e consumação quando pertinentes. Distinguir relação direta com Cristo de tipologia,profecia ou articulação temática. Preservar a particularidade da passagem e a regra da seção3. Alteração do sentido retorna à investigação e revisa a síntese antes de uso.
 
 ### EXE-12B — Integração temática
+
+Voltar à passagem depois da comparação e explicitar o que os textos cotejados confirmam, aprofundam ou exigem reconsiderar, sem atribuir ao texto local tudo o que se afirma na rede canônica.
 
 Aprofundar os temas efetivamente sustentados:raízes significativas,textos-chave,progressão e relações conceituais. Não alegar primeira ocorrência absoluta sem investigação suficiente nem exigir cobertura artificial de cada corpus. Diferenciar rede temática,intenção intertextual e relações causais. Referir análises já feitas sem repeti-las;explicitar o ganho desta integração e seus graus.
 
@@ -143,6 +153,8 @@ Relacionar situação/função original,sentido,teologia,ponte justificada e res
 Reunir cobertura real,decisões,ideia/funções,conclusões,alternativas,fontes,questões,aplicações investigadas e dependências. Vincular relatórios completos. Distinguir questão aberta após investigação de falta de dado essencial;esta bloqueia só o dependente. Não preencher lacunas por fluência. Consolidar não elimina fontes nem interrompe revisabilidade. Metadados e histórico ficam aqui,no acervo,fora do manuscrito.
 
 ### EXE-15B — Revisão e entrega acadêmica
+
+Conferir se a exposição mostra como as observações linguísticas decisivas esclarecem o sentido e como esse sentido sustenta a contribuição bíblico-teológica. Integrar as relações canônicas decisivas onde elas esclarecem o argumento; uma seção própria pode desenvolvê-las quando for útil ao leitor.
 
 Revisar o manuscrito que já cresceu durante a pesquisa,em vez de inaugurar a redação acadêmica ao fim. Adequar gênero,público,extensão,técnica e referências. Modalidades:exposição,artigo,relatório de pesquisa ou estudo delimitado de questão. Artigo pode incluir resumo/tese quando apropriado;exposição segue movimento textual sem exigir novidade. Relatório operacional pertence ao acervo e não deve ser confundido com manuscrito acadêmico sem procedimentos internos. Parâfrase é opcional,rotulada e rastreável,sem novo argumento. Conferir alternativas,fontes,coerência,confiança e limites;questão nova retorna à pesquisa antes de integrar a entrega. A ficha operacional acompanha em arquivo separado. Aula,sermão e notas são derivados com base identificada e aplicação pertinente,sem etapa adicional obrigatória.
 
