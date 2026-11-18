@@ -173,3 +173,13 @@ Manuscrito §15 e [sintese-exegetica-rodada-13.md](sintese-exegetica-rodada-13.m
 - **D79 — Limites da matriz da unção:** 1Sm 16.13; Is 61.1; Lc 4.18; At 10.38; 2Co 1.21–22 constituem pano de fundo temático moderado, não alusão demonstrada; Lucas cita Isaías, não apoio independente. Paronomásia χριστός/ἀντίχριστος/χρῖσμα possível, não fundamento necessário; nenhuma identidade de ofício messiânico entre Jesus e leitores.
 
 **Conferência canônica:** [revisão interna seletiva segundo VAL-06](conferencia-canonica-interna-pre-exe13.md), aproveitando Rodadas 14–15 e revisões subsequentes sem duplicar apoios dependentes. **Exposição:** manuscrito §18. **Registro:** [contribuição sistemática](contribuicao-sistematica-rodada-16.md). Preservadas D1–D74, síntese §15, tradução, delimitação e método. Nenhuma nova nota Logos indispensável.
+
+## Rodada 17 — EXE-13B: antropologia, ética e sabedoria
+
+- **D80 — Conhecimento receptivo e responsivo:** 2.20–21,24,26–27 apresenta destinatários que receberam unção e mensagem, conhecem a verdade e respondem à advertência. Alto para dados expressos; Moderado para síntese antropológica; não deduzir teoria integral de faculdades humanas.
+- **D81 — Manifestação e motivos:** em 2.19 a saída manifesta, no juízo do autor, não pertença anterior dos dissidentes concretos; 2.22–23 qualifica o conflito cristologicamente; 2.26 identifica tentativa de engano. Alto para juízo e conteúdo público; nenhuma inferência segura sobre orgulho, ressentimento, desejo ou circunstâncias privadas.
+- **D82 — Pertencimento e responsabilidade relacional:** 2.19,23–24 distingue mera convivência anterior da comunhão com Filho/Pai; 2.21,26–27 combina conhecimento, ensino e discernimento. Alto para relações textuais, Moderado para síntese antropológica; não negar vínculos visíveis nem abolir ensino.
+- **D83 — Ética e sabedoria:** 2.24 ordena conservar a mensagem recebida; 2.22–23 e 2.26–27 fornecem critério cristológico e contexto de discernimento. Alto para norma e critério; Moderado para linguagem de virtudes e prudência; não transformar antiguidade, suspeita contra mestres ou afetos não descritos em mandamentos.
+- **D84 — Vida e horizonte:** 2.25 apresenta vida eterna como promessa, e 1Jo 5.11–13 esclarece a vida dada no Filho. Alto para conteúdo e conexão; Moderado para implicação antropológica e horizonte temporal. Sem reconstrução de sofrimento subjetivo ou cronologia da última hora.
+
+**Texto:** manuscrito §19. **Registro de evidências e limites:** [antropologia-etica-sabedoria-rodada-17.md](antropologia-etica-sabedoria-rodada-17.md). D1–D79, tradução, delimitação e método preservados. Próxima etapa EXE-14.
