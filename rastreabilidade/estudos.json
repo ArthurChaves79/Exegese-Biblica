@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "repositorio": "ArthurChaves79/Exegese-Biblica",
+  "branch": "estudo/1joao-2-18-27-rodada-01",
+  "commit_base": "71b5b88e501ff54b6bed2af3fc2bbfb042f4609e",
+  "estudos": [
+    {
+      "id": "1JO-02-18-27",
+      "referencia": "1João 2.18–27",
+      "estado": "em_investigacao",
+      "caminho": "estudos/1joao/2-18-27",
+      "decisoes": "estudos/1joao/2-18-27/decisoes.md",
+      "manuscrito": "estudos/1joao/2-18-27/manuscrito-academico.md",
+      "relacoes": [
+        "REL-000001"
+      ]
+    },
+    {
+      "id": "JO-03-03-08",
+      "referencia": "João 3.3–8",
+      "estado": "referencia_nao_estudada",
+      "caminho": null,
+      "decisoes": null,
+      "manuscrito": null,
+      "relacoes": [
+        "REL-000001"
+      ]
+    }
+  ]
+}

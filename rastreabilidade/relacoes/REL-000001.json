@@ -1,0 +1,126 @@
+{
+  "schema_version": 1,
+  "id": "REL-000001",
+  "estudo_origem": "1JO-02-18-27",
+  "estudo_relacionado": "JO-03-03-08",
+  "tipos": [
+    "tematica",
+    "canonica"
+  ],
+  "proposicao_em_teste": "Investigar a relação entre a atuação do Espírito no novo nascimento e a unção que ensina diante do engano; não pressupor identidade de atos espirituais.",
+  "base_examinada": {
+    "branch": "estudo/1joao-2-18-27-rodada-01",
+    "commit": "71b5b88e501ff54b6bed2af3fc2bbfb042f4609e",
+    "documentos": [
+      "estudos/1joao/2-18-27/decisoes.md",
+      "estudos/1joao/2-18-27/conferencia-canonica-interna-pre-exe13.md"
+    ]
+  },
+  "estado_investigacao": "pendente",
+  "estado_aprovacao": "aguardando_avaliacao",
+  "estado_aplicacao": "nenhuma_alteracao",
+  "forca": null,
+  "justificativa_forca": "Relação positiva não avaliada: João 3.3–8 não possui estudo autônomo neste recorte do acervo.",
+  "evidencias": [
+    {
+      "id": "EV-1",
+      "referencia": "1João 2.20–27",
+      "procedencia": [
+        "estudos/1joao/2-18-27/decisoes.md"
+      ],
+      "decisoes": [
+        "1JO-02-18-27:D58",
+        "1JO-02-18-27:D71",
+        "1JO-02-18-27:D76"
+      ],
+      "cobertura": "Conclusões secundárias já arquivadas; não nova consulta ao texto primário.",
+      "grupo_dependencia": "1jo-texto-e-interpretacao-local"
+    },
+    {
+      "id": "EV-2",
+      "referencia": "João 3.3–8",
+      "procedencia": [],
+      "cobertura": "Passagem indicada pelo pesquisador; análise primária pendente.",
+      "grupo_dependencia": null
+    }
+  ],
+  "independencia_apoios": "Os relatórios que retomam decisões de 1João não são confirmações independentes. Independência dos apoios da comparação ainda não examinada.",
+  "alternativas": [
+    "Convergência pneumatológica com funções distintas",
+    "Comparação sem contribuição suficiente para justificar integração documental"
+  ],
+  "limites": [
+    "Não identificar automaticamente unção e regeneração",
+    "Não usar D76 como prova independente de seu próprio fundamento",
+    "Não atribuir a João 3 função de ensinar/discernir sem análise própria"
+  ],
+  "teste_remocao": {
+    "resultado_provisorio": "A interpretação local de 1João permanece sustentada pelos dados já registrados sem João 3. A contribuição positiva da comparação segue pendente.",
+    "dependencia_local_necessaria": false
+  },
+  "conclusoes_candidatas": [
+    "1JO-02-18-27:D58",
+    "1JO-02-18-27:D71",
+    "1JO-02-18-27:D76",
+    "1JO-02-18-27:D79",
+    "1JO-02-18-27:D80"
+  ],
+  "impactos": [
+    {
+      "id": "IMP-1",
+      "nivel": "exegetico",
+      "tipo": "ausencia_de_alteracao",
+      "estado": "provisorio",
+      "alvos": [
+        "1JO-02-18-27:D58",
+        "1JO-02-18-27:D71"
+      ],
+      "justificativa": "Hipótese nova não modifica a evidência local existente.",
+      "consequencia_documental": "nenhuma",
+      "aprovacao_alteracao": null
+    },
+    {
+      "id": "IMP-2",
+      "nivel": "canonico",
+      "tipo": "ampliacao",
+      "estado": "hipotese",
+      "alvos": [],
+      "justificativa": "Comparação poderá ampliar a síntese sobre iniciativa divina e Espírito se houver evidência suficiente.",
+      "consequencia_documental": "nenhuma_enquanto_pendente",
+      "aprovacao_alteracao": null
+    },
+    {
+      "id": "IMP-3",
+      "nivel": "sistematico",
+      "tipo": "restricao",
+      "estado": "limite_preventivo",
+      "alvos": [
+        "1JO-02-18-27:D76",
+        "1JO-02-18-27:D80"
+      ],
+      "justificativa": "Não foi localizada equivalência vigente entre unção e regeneração: não é correção de erro encontrado. Uma futura ampliação deve preservar a diferença entre funções.",
+      "consequencia_documental": "nenhuma",
+      "aprovacao_alteracao": null
+    },
+    {
+      "id": "IMP-4",
+      "nivel": "pastoral",
+      "tipo": "ausencia_de_alteracao",
+      "estado": "sem_proposta",
+      "alvos": [],
+      "justificativa": "Nenhuma nova aplicação avaliada.",
+      "consequencia_documental": "nenhuma",
+      "aprovacao_alteracao": null
+    }
+  ],
+  "historico": [
+    {
+      "data": "2026-11-18",
+      "evento": "cadastro_manual_piloto",
+      "responsavel": "assistente",
+      "autorizacao": "Pesquisador aprovou fases 1 e 2 da proposta SRIEC nesta conversa.",
+      "alcance": "Cadastro técnico autorizado; hipótese não aprovada exegética ou documentalmente.",
+      "alteracoes_estudos": []
+    }
+  ]
+}

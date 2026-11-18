@@ -1,0 +1,928 @@
+{
+  "schema_version": 1,
+  "regra": "Localizadores de decisões existentes, não cópia nem nova aprovação de suas conclusões. Ler o registro completo e suas atualizações. Linhas referem-se ao commit-base; conferir hash antes de reutilizá-las.",
+  "ausencias": [
+    "D19 não possui definição identificada por este levantamento; não criada nem renumerada."
+  ],
+  "decisoes": [
+    {
+      "id": "1JO-02-18-27:D01",
+      "estudo": "1JO-02-18-27",
+      "id_local": "D01",
+      "documento": "estudos/1joao/2-18-27/decisoes.md",
+      "commit_base": "71b5b88e501ff54b6bed2af3fc2bbfb042f4609e",
+      "sha256_documento": "b1e1327c2ba52ed2b590d691b7bb72589e4a4c69937285dca969b7244947abec",
+      "linhas_definicao": [
+        5
+      ]
+    },
+    {
+      "id": "1JO-02-18-27:D02",
+      "estudo": "1JO-02-18-27",
+      "id_local": "D02",
+      "documento": "estudos/1joao/2-18-27/decisoes.md",
+      "commit_base": "71b5b88e501ff54b6bed2af3fc2bbfb042f4609e",
+      "sha256_documento": "b1e1327c2ba52ed2b590d691b7bb72589e4a4c69937285dca969b7244947abec",
+      "linhas_definicao": [
+        6
+      ]
+    },
+    {
+      "id": "1JO-02-18-27:D03",
+      "estudo": "1JO-02-18-27",
+      "id_local": "D03",
+      "documento": "estudos/1joao/2-18-27/decisoes.md",
+      "commit_base": "71b5b88e501ff54b6bed2af3fc2bbfb042f4609e",
+      "sha256_documento": "b1e1327c2ba52ed2b590d691b7bb72589e4a4c69937285dca969b7244947abec",
+      "linhas_definicao": [
+        7
+      ]
+    },
+    {
+      "id": "1JO-02-18-27:D04",
+      "estudo": "1JO-02-18-27",
+      "id_local": "D04",
+      "documento": "estudos/1joao/2-18-27/decisoes.md",
+      "commit_base": "71b5b88e501ff54b6bed2af3fc2bbfb042f4609e",
+      "sha256_documento": "b1e1327c2ba52ed2b590d691b7bb72589e4a4c69937285dca969b7244947abec",
+      "linhas_definicao": [
+        8
+      ]
+    },
+    {
+      "id": "1JO-02-18-27:D05",
+      "estudo": "1JO-02-18-27",
+      "id_local": "D05",
+      "documento": "estudos/1joao/2-18-27/decisoes.md",
+      "commit_base": "71b5b88e501ff54b6bed2af3fc2bbfb042f4609e",
+      "sha256_documento": "b1e1327c2ba52ed2b590d691b7bb72589e4a4c69937285dca969b7244947abec",
+      "linhas_definicao": [
+        9
+      ]
+    },
+    {
+      "id": "1JO-02-18-27:D06",
+      "estudo": "1JO-02-18-27",
+      "id_local": "D06",
+      "documento": "estudos/1joao/2-18-27/decisoes.md",
+      "commit_base": "71b5b88e501ff54b6bed2af3fc2bbfb042f4609e",
+      "sha256_documento": "b1e1327c2ba52ed2b590d691b7bb72589e4a4c69937285dca969b7244947abec",
+      "linhas_definicao": [
+        10
+      ]
+    },
+    {
+      "id": "1JO-02-18-27:D07",
+      "estudo": "1JO-02-18-27",
+      "id_local": "D07",
+      "documento": "estudos/1joao/2-18-27/decisoes.md",
+      "commit_base": "71b5b88e501ff54b6bed2af3fc2bbfb042f4609e",
+      "sha256_documento": "b1e1327c2ba52ed2b590d691b7bb72589e4a4c69937285dca969b7244947abec",
+      "linhas_definicao": [
+        13
+      ]
+    },
+    {
+      "id": "1JO-02-18-27:D08",
+      "estudo": "1JO-02-18-27",
+      "id_local": "D08",
+      "documento": "estudos/1joao/2-18-27/decisoes.md",
+      "commit_base": "71b5b88e501ff54b6bed2af3fc2bbfb042f4609e",
+      "sha256_documento": "b1e1327c2ba52ed2b590d691b7bb72589e4a4c69937285dca969b7244947abec",
+      "linhas_definicao": [
+        14
+      ]
+    },
+    {
+      "id": "1JO-02-18-27:D09",
+      "estudo": "1JO-02-18-27",
+      "id_local": "D09",
+      "documento": "estudos/1joao/2-18-27/decisoes.md",
+      "commit_base": "71b5b88e501ff54b6bed2af3fc2bbfb042f4609e",
+      "sha256_documento": "b1e1327c2ba52ed2b590d691b7bb72589e4a4c69937285dca969b7244947abec",
+      "linhas_definicao": [
+        15
+      ]
+    },
+    {
+      "id": "1JO-02-18-27:D10",
+      "estudo": "1JO-02-18-27",
+      "id_local": "D10",
+      "documento": "estudos/1joao/2-18-27/decisoes.md",
+      "commit_base": "71b5b88e501ff54b6bed2af3fc2bbfb042f4609e",
+      "sha256_documento": "b1e1327c2ba52ed2b590d691b7bb72589e4a4c69937285dca969b7244947abec",
+      "linhas_definicao": [
+        16
+      ]
+    },
+    {
+      "id": "1JO-02-18-27:D11",
+      "estudo": "1JO-02-18-27",
+      "id_local": "D11",
+      "documento": "estudos/1joao/2-18-27/decisoes.md",
+      "commit_base": "71b5b88e501ff54b6bed2af3fc2bbfb042f4609e",
+      "sha256_documento": "b1e1327c2ba52ed2b590d691b7bb72589e4a4c69937285dca969b7244947abec",
+      "linhas_definicao": [
+        25
+      ]
+    },
+    {
+      "id": "1JO-02-18-27:D12",
+      "estudo": "1JO-02-18-27",
+      "id_local": "D12",
+      "documento": "estudos/1joao/2-18-27/decisoes.md",
+      "commit_base": "71b5b88e501ff54b6bed2af3fc2bbfb042f4609e",
+      "sha256_documento": "b1e1327c2ba52ed2b590d691b7bb72589e4a4c69937285dca969b7244947abec",
+      "linhas_definicao": [
+        26
+      ]
+    },
+    {
+      "id": "1JO-02-18-27:D13",
+      "estudo": "1JO-02-18-27",
+      "id_local": "D13",
+      "documento": "estudos/1joao/2-18-27/decisoes.md",
+      "commit_base": "71b5b88e501ff54b6bed2af3fc2bbfb042f4609e",
+      "sha256_documento": "b1e1327c2ba52ed2b590d691b7bb72589e4a4c69937285dca969b7244947abec",
+      "linhas_definicao": [
+        27
+      ]
+    },
+    {
+      "id": "1JO-02-18-27:D14",
+      "estudo": "1JO-02-18-27",
+      "id_local": "D14",
+      "documento": "estudos/1joao/2-18-27/decisoes.md",
+      "commit_base": "71b5b88e501ff54b6bed2af3fc2bbfb042f4609e",
+      "sha256_documento": "b1e1327c2ba52ed2b590d691b7bb72589e4a4c69937285dca969b7244947abec",
+      "linhas_definicao": [
+        28
+      ]
+    },
+    {
+      "id": "1JO-02-18-27:D15",
+      "estudo": "1JO-02-18-27",
+      "id_local": "D15",
+      "documento": "estudos/1joao/2-18-27/decisoes.md",
+      "commit_base": "71b5b88e501ff54b6bed2af3fc2bbfb042f4609e",
+      "sha256_documento": "b1e1327c2ba52ed2b590d691b7bb72589e4a4c69937285dca969b7244947abec",
+      "linhas_definicao": [
+        29
+      ]
+    },
+    {
+      "id": "1JO-02-18-27:D16",
+      "estudo": "1JO-02-18-27",
+      "id_local": "D16",
+      "documento": "estudos/1joao/2-18-27/decisoes.md",
+      "commit_base": "71b5b88e501ff54b6bed2af3fc2bbfb042f4609e",
+      "sha256_documento": "b1e1327c2ba52ed2b590d691b7bb72589e4a4c69937285dca969b7244947abec",
+      "linhas_definicao": [
+        30
+      ]
+    },
+    {
+      "id": "1JO-02-18-27:D17",
+      "estudo": "1JO-02-18-27",
+      "id_local": "D17",
+      "documento": "estudos/1joao/2-18-27/decisoes.md",
+      "commit_base": "71b5b88e501ff54b6bed2af3fc2bbfb042f4609e",
+      "sha256_documento": "b1e1327c2ba52ed2b590d691b7bb72589e4a4c69937285dca969b7244947abec",
+      "linhas_definicao": [
+        31
+      ]
+    },
+    {
+      "id": "1JO-02-18-27:D18",
+      "estudo": "1JO-02-18-27",
+      "id_local": "D18",
+      "documento": "estudos/1joao/2-18-27/decisoes.md",
+      "commit_base": "71b5b88e501ff54b6bed2af3fc2bbfb042f4609e",
+      "sha256_documento": "b1e1327c2ba52ed2b590d691b7bb72589e4a4c69937285dca969b7244947abec",
+      "linhas_definicao": [
+        32
+      ]
+    },
+    {
+      "id": "1JO-02-18-27:D20",
+      "estudo": "1JO-02-18-27",
+      "id_local": "D20",
+      "documento": "estudos/1joao/2-18-27/decisoes.md",
+      "commit_base": "71b5b88e501ff54b6bed2af3fc2bbfb042f4609e",
+      "sha256_documento": "b1e1327c2ba52ed2b590d691b7bb72589e4a4c69937285dca969b7244947abec",
+      "linhas_definicao": [
+        39
+      ]
+    },
+    {
+      "id": "1JO-02-18-27:D21",
+      "estudo": "1JO-02-18-27",
+      "id_local": "D21",
+      "documento": "estudos/1joao/2-18-27/decisoes.md",
+      "commit_base": "71b5b88e501ff54b6bed2af3fc2bbfb042f4609e",
+      "sha256_documento": "b1e1327c2ba52ed2b590d691b7bb72589e4a4c69937285dca969b7244947abec",
+      "linhas_definicao": [
+        40
+      ]
+    },
+    {
+      "id": "1JO-02-18-27:D22",
+      "estudo": "1JO-02-18-27",
+      "id_local": "D22",
+      "documento": "estudos/1joao/2-18-27/decisoes.md",
+      "commit_base": "71b5b88e501ff54b6bed2af3fc2bbfb042f4609e",
+      "sha256_documento": "b1e1327c2ba52ed2b590d691b7bb72589e4a4c69937285dca969b7244947abec",
+      "linhas_definicao": [
+        41
+      ]
+    },
+    {
+      "id": "1JO-02-18-27:D23",
+      "estudo": "1JO-02-18-27",
+      "id_local": "D23",
+      "documento": "estudos/1joao/2-18-27/decisoes.md",
+      "commit_base": "71b5b88e501ff54b6bed2af3fc2bbfb042f4609e",
+      "sha256_documento": "b1e1327c2ba52ed2b590d691b7bb72589e4a4c69937285dca969b7244947abec",
+      "linhas_definicao": [
+        42
+      ]
+    },
+    {
+      "id": "1JO-02-18-27:D24",
+      "estudo": "1JO-02-18-27",
+      "id_local": "D24",
+      "documento": "estudos/1joao/2-18-27/decisoes.md",
+      "commit_base": "71b5b88e501ff54b6bed2af3fc2bbfb042f4609e",
+      "sha256_documento": "b1e1327c2ba52ed2b590d691b7bb72589e4a4c69937285dca969b7244947abec",
+      "linhas_definicao": [
+        43
+      ]
+    },
+    {
+      "id": "1JO-02-18-27:D25",
+      "estudo": "1JO-02-18-27",
+      "id_local": "D25",
+      "documento": "estudos/1joao/2-18-27/decisoes.md",
+      "commit_base": "71b5b88e501ff54b6bed2af3fc2bbfb042f4609e",
+      "sha256_documento": "b1e1327c2ba52ed2b590d691b7bb72589e4a4c69937285dca969b7244947abec",
+      "linhas_definicao": [
+        50,
+        57
+      ]
+    },
+    {
+      "id": "1JO-02-18-27:D26",
+      "estudo": "1JO-02-18-27",
+      "id_local": "D26",
+      "documento": "estudos/1joao/2-18-27/decisoes.md",
+      "commit_base": "71b5b88e501ff54b6bed2af3fc2bbfb042f4609e",
+      "sha256_documento": "b1e1327c2ba52ed2b590d691b7bb72589e4a4c69937285dca969b7244947abec",
+      "linhas_definicao": [
+        51
+      ]
+    },
+    {
+      "id": "1JO-02-18-27:D27",
+      "estudo": "1JO-02-18-27",
+      "id_local": "D27",
+      "documento": "estudos/1joao/2-18-27/decisoes.md",
+      "commit_base": "71b5b88e501ff54b6bed2af3fc2bbfb042f4609e",
+      "sha256_documento": "b1e1327c2ba52ed2b590d691b7bb72589e4a4c69937285dca969b7244947abec",
+      "linhas_definicao": [
+        52,
+        59
+      ]
+    },
+    {
+      "id": "1JO-02-18-27:D28",
+      "estudo": "1JO-02-18-27",
+      "id_local": "D28",
+      "documento": "estudos/1joao/2-18-27/decisoes.md",
+      "commit_base": "71b5b88e501ff54b6bed2af3fc2bbfb042f4609e",
+      "sha256_documento": "b1e1327c2ba52ed2b590d691b7bb72589e4a4c69937285dca969b7244947abec",
+      "linhas_definicao": [
+        53
+      ]
+    },
+    {
+      "id": "1JO-02-18-27:D29",
+      "estudo": "1JO-02-18-27",
+      "id_local": "D29",
+      "documento": "estudos/1joao/2-18-27/decisoes.md",
+      "commit_base": "71b5b88e501ff54b6bed2af3fc2bbfb042f4609e",
+      "sha256_documento": "b1e1327c2ba52ed2b590d691b7bb72589e4a4c69937285dca969b7244947abec",
+      "linhas_definicao": [
+        54,
+        85
+      ]
+    },
+    {
+      "id": "1JO-02-18-27:D30",
+      "estudo": "1JO-02-18-27",
+      "id_local": "D30",
+      "documento": "estudos/1joao/2-18-27/decisoes.md",
+      "commit_base": "71b5b88e501ff54b6bed2af3fc2bbfb042f4609e",
+      "sha256_documento": "b1e1327c2ba52ed2b590d691b7bb72589e4a4c69937285dca969b7244947abec",
+      "linhas_definicao": [
+        55
+      ]
+    },
+    {
+      "id": "1JO-02-18-27:D31",
+      "estudo": "1JO-02-18-27",
+      "id_local": "D31",
+      "documento": "estudos/1joao/2-18-27/decisoes.md",
+      "commit_base": "71b5b88e501ff54b6bed2af3fc2bbfb042f4609e",
+      "sha256_documento": "b1e1327c2ba52ed2b590d691b7bb72589e4a4c69937285dca969b7244947abec",
+      "linhas_definicao": [
+        67
+      ]
+    },
+    {
+      "id": "1JO-02-18-27:D32",
+      "estudo": "1JO-02-18-27",
+      "id_local": "D32",
+      "documento": "estudos/1joao/2-18-27/decisoes.md",
+      "commit_base": "71b5b88e501ff54b6bed2af3fc2bbfb042f4609e",
+      "sha256_documento": "b1e1327c2ba52ed2b590d691b7bb72589e4a4c69937285dca969b7244947abec",
+      "linhas_definicao": [
+        68
+      ]
+    },
+    {
+      "id": "1JO-02-18-27:D33",
+      "estudo": "1JO-02-18-27",
+      "id_local": "D33",
+      "documento": "estudos/1joao/2-18-27/decisoes.md",
+      "commit_base": "71b5b88e501ff54b6bed2af3fc2bbfb042f4609e",
+      "sha256_documento": "b1e1327c2ba52ed2b590d691b7bb72589e4a4c69937285dca969b7244947abec",
+      "linhas_definicao": [
+        69
+      ]
+    },
+    {
+      "id": "1JO-02-18-27:D34",
+      "estudo": "1JO-02-18-27",
+      "id_local": "D34",
+      "documento": "estudos/1joao/2-18-27/decisoes.md",
+      "commit_base": "71b5b88e501ff54b6bed2af3fc2bbfb042f4609e",
+      "sha256_documento": "b1e1327c2ba52ed2b590d691b7bb72589e4a4c69937285dca969b7244947abec",
+      "linhas_definicao": [
+        70,
+        73
+      ]
+    },
+    {
+      "id": "1JO-02-18-27:D35",
+      "estudo": "1JO-02-18-27",
+      "id_local": "D35",
+      "documento": "estudos/1joao/2-18-27/decisoes.md",
+      "commit_base": "71b5b88e501ff54b6bed2af3fc2bbfb042f4609e",
+      "sha256_documento": "b1e1327c2ba52ed2b590d691b7bb72589e4a4c69937285dca969b7244947abec",
+      "linhas_definicao": [
+        71
+      ]
+    },
+    {
+      "id": "1JO-02-18-27:D36",
+      "estudo": "1JO-02-18-27",
+      "id_local": "D36",
+      "documento": "estudos/1joao/2-18-27/decisoes.md",
+      "commit_base": "71b5b88e501ff54b6bed2af3fc2bbfb042f4609e",
+      "sha256_documento": "b1e1327c2ba52ed2b590d691b7bb72589e4a4c69937285dca969b7244947abec",
+      "linhas_definicao": [
+        79
+      ]
+    },
+    {
+      "id": "1JO-02-18-27:D37",
+      "estudo": "1JO-02-18-27",
+      "id_local": "D37",
+      "documento": "estudos/1joao/2-18-27/decisoes.md",
+      "commit_base": "71b5b88e501ff54b6bed2af3fc2bbfb042f4609e",
+      "sha256_documento": "b1e1327c2ba52ed2b590d691b7bb72589e4a4c69937285dca969b7244947abec",
+      "linhas_definicao": [
+        80
+      ]
+    },
+    {
+      "id": "1JO-02-18-27:D38",
+      "estudo": "1JO-02-18-27",
+      "id_local": "D38",
+      "documento": "estudos/1joao/2-18-27/decisoes.md",
+      "commit_base": "71b5b88e501ff54b6bed2af3fc2bbfb042f4609e",
+      "sha256_documento": "b1e1327c2ba52ed2b590d691b7bb72589e4a4c69937285dca969b7244947abec",
+      "linhas_definicao": [
+        81,
+        87
+      ]
+    },
+    {
+      "id": "1JO-02-18-27:D39",
+      "estudo": "1JO-02-18-27",
+      "id_local": "D39",
+      "documento": "estudos/1joao/2-18-27/decisoes.md",
+      "commit_base": "71b5b88e501ff54b6bed2af3fc2bbfb042f4609e",
+      "sha256_documento": "b1e1327c2ba52ed2b590d691b7bb72589e4a4c69937285dca969b7244947abec",
+      "linhas_definicao": [
+        82
+      ]
+    },
+    {
+      "id": "1JO-02-18-27:D40",
+      "estudo": "1JO-02-18-27",
+      "id_local": "D40",
+      "documento": "estudos/1joao/2-18-27/decisoes.md",
+      "commit_base": "71b5b88e501ff54b6bed2af3fc2bbfb042f4609e",
+      "sha256_documento": "b1e1327c2ba52ed2b590d691b7bb72589e4a4c69937285dca969b7244947abec",
+      "linhas_definicao": [
+        83,
+        89
+      ]
+    },
+    {
+      "id": "1JO-02-18-27:D41",
+      "estudo": "1JO-02-18-27",
+      "id_local": "D41",
+      "documento": "estudos/1joao/2-18-27/decisoes.md",
+      "commit_base": "71b5b88e501ff54b6bed2af3fc2bbfb042f4609e",
+      "sha256_documento": "b1e1327c2ba52ed2b590d691b7bb72589e4a4c69937285dca969b7244947abec",
+      "linhas_definicao": [
+        95
+      ]
+    },
+    {
+      "id": "1JO-02-18-27:D42",
+      "estudo": "1JO-02-18-27",
+      "id_local": "D42",
+      "documento": "estudos/1joao/2-18-27/decisoes.md",
+      "commit_base": "71b5b88e501ff54b6bed2af3fc2bbfb042f4609e",
+      "sha256_documento": "b1e1327c2ba52ed2b590d691b7bb72589e4a4c69937285dca969b7244947abec",
+      "linhas_definicao": [
+        96
+      ]
+    },
+    {
+      "id": "1JO-02-18-27:D43",
+      "estudo": "1JO-02-18-27",
+      "id_local": "D43",
+      "documento": "estudos/1joao/2-18-27/decisoes.md",
+      "commit_base": "71b5b88e501ff54b6bed2af3fc2bbfb042f4609e",
+      "sha256_documento": "b1e1327c2ba52ed2b590d691b7bb72589e4a4c69937285dca969b7244947abec",
+      "linhas_definicao": [
+        97
+      ]
+    },
+    {
+      "id": "1JO-02-18-27:D44",
+      "estudo": "1JO-02-18-27",
+      "id_local": "D44",
+      "documento": "estudos/1joao/2-18-27/decisoes.md",
+      "commit_base": "71b5b88e501ff54b6bed2af3fc2bbfb042f4609e",
+      "sha256_documento": "b1e1327c2ba52ed2b590d691b7bb72589e4a4c69937285dca969b7244947abec",
+      "linhas_definicao": [
+        98
+      ]
+    },
+    {
+      "id": "1JO-02-18-27:D45",
+      "estudo": "1JO-02-18-27",
+      "id_local": "D45",
+      "documento": "estudos/1joao/2-18-27/decisoes.md",
+      "commit_base": "71b5b88e501ff54b6bed2af3fc2bbfb042f4609e",
+      "sha256_documento": "b1e1327c2ba52ed2b590d691b7bb72589e4a4c69937285dca969b7244947abec",
+      "linhas_definicao": [
+        99
+      ]
+    },
+    {
+      "id": "1JO-02-18-27:D46",
+      "estudo": "1JO-02-18-27",
+      "id_local": "D46",
+      "documento": "estudos/1joao/2-18-27/decisoes.md",
+      "commit_base": "71b5b88e501ff54b6bed2af3fc2bbfb042f4609e",
+      "sha256_documento": "b1e1327c2ba52ed2b590d691b7bb72589e4a4c69937285dca969b7244947abec",
+      "linhas_definicao": [
+        107
+      ]
+    },
+    {
+      "id": "1JO-02-18-27:D47",
+      "estudo": "1JO-02-18-27",
+      "id_local": "D47",
+      "documento": "estudos/1joao/2-18-27/decisoes.md",
+      "commit_base": "71b5b88e501ff54b6bed2af3fc2bbfb042f4609e",
+      "sha256_documento": "b1e1327c2ba52ed2b590d691b7bb72589e4a4c69937285dca969b7244947abec",
+      "linhas_definicao": [
+        108
+      ]
+    },
+    {
+      "id": "1JO-02-18-27:D48",
+      "estudo": "1JO-02-18-27",
+      "id_local": "D48",
+      "documento": "estudos/1joao/2-18-27/decisoes.md",
+      "commit_base": "71b5b88e501ff54b6bed2af3fc2bbfb042f4609e",
+      "sha256_documento": "b1e1327c2ba52ed2b590d691b7bb72589e4a4c69937285dca969b7244947abec",
+      "linhas_definicao": [
+        109
+      ]
+    },
+    {
+      "id": "1JO-02-18-27:D49",
+      "estudo": "1JO-02-18-27",
+      "id_local": "D49",
+      "documento": "estudos/1joao/2-18-27/decisoes.md",
+      "commit_base": "71b5b88e501ff54b6bed2af3fc2bbfb042f4609e",
+      "sha256_documento": "b1e1327c2ba52ed2b590d691b7bb72589e4a4c69937285dca969b7244947abec",
+      "linhas_definicao": [
+        110
+      ]
+    },
+    {
+      "id": "1JO-02-18-27:D50",
+      "estudo": "1JO-02-18-27",
+      "id_local": "D50",
+      "documento": "estudos/1joao/2-18-27/decisoes.md",
+      "commit_base": "71b5b88e501ff54b6bed2af3fc2bbfb042f4609e",
+      "sha256_documento": "b1e1327c2ba52ed2b590d691b7bb72589e4a4c69937285dca969b7244947abec",
+      "linhas_definicao": [
+        111
+      ]
+    },
+    {
+      "id": "1JO-02-18-27:D51",
+      "estudo": "1JO-02-18-27",
+      "id_local": "D51",
+      "documento": "estudos/1joao/2-18-27/decisoes.md",
+      "commit_base": "71b5b88e501ff54b6bed2af3fc2bbfb042f4609e",
+      "sha256_documento": "b1e1327c2ba52ed2b590d691b7bb72589e4a4c69937285dca969b7244947abec",
+      "linhas_definicao": [
+        119
+      ]
+    },
+    {
+      "id": "1JO-02-18-27:D52",
+      "estudo": "1JO-02-18-27",
+      "id_local": "D52",
+      "documento": "estudos/1joao/2-18-27/decisoes.md",
+      "commit_base": "71b5b88e501ff54b6bed2af3fc2bbfb042f4609e",
+      "sha256_documento": "b1e1327c2ba52ed2b590d691b7bb72589e4a4c69937285dca969b7244947abec",
+      "linhas_definicao": [
+        120
+      ]
+    },
+    {
+      "id": "1JO-02-18-27:D53",
+      "estudo": "1JO-02-18-27",
+      "id_local": "D53",
+      "documento": "estudos/1joao/2-18-27/decisoes.md",
+      "commit_base": "71b5b88e501ff54b6bed2af3fc2bbfb042f4609e",
+      "sha256_documento": "b1e1327c2ba52ed2b590d691b7bb72589e4a4c69937285dca969b7244947abec",
+      "linhas_definicao": [
+        121
+      ]
+    },
+    {
+      "id": "1JO-02-18-27:D54",
+      "estudo": "1JO-02-18-27",
+      "id_local": "D54",
+      "documento": "estudos/1joao/2-18-27/decisoes.md",
+      "commit_base": "71b5b88e501ff54b6bed2af3fc2bbfb042f4609e",
+      "sha256_documento": "b1e1327c2ba52ed2b590d691b7bb72589e4a4c69937285dca969b7244947abec",
+      "linhas_definicao": [
+        122
+      ]
+    },
+    {
+      "id": "1JO-02-18-27:D55",
+      "estudo": "1JO-02-18-27",
+      "id_local": "D55",
+      "documento": "estudos/1joao/2-18-27/decisoes.md",
+      "commit_base": "71b5b88e501ff54b6bed2af3fc2bbfb042f4609e",
+      "sha256_documento": "b1e1327c2ba52ed2b590d691b7bb72589e4a4c69937285dca969b7244947abec",
+      "linhas_definicao": [
+        123
+      ]
+    },
+    {
+      "id": "1JO-02-18-27:D56",
+      "estudo": "1JO-02-18-27",
+      "id_local": "D56",
+      "documento": "estudos/1joao/2-18-27/decisoes.md",
+      "commit_base": "71b5b88e501ff54b6bed2af3fc2bbfb042f4609e",
+      "sha256_documento": "b1e1327c2ba52ed2b590d691b7bb72589e4a4c69937285dca969b7244947abec",
+      "linhas_definicao": [
+        131
+      ]
+    },
+    {
+      "id": "1JO-02-18-27:D57",
+      "estudo": "1JO-02-18-27",
+      "id_local": "D57",
+      "documento": "estudos/1joao/2-18-27/decisoes.md",
+      "commit_base": "71b5b88e501ff54b6bed2af3fc2bbfb042f4609e",
+      "sha256_documento": "b1e1327c2ba52ed2b590d691b7bb72589e4a4c69937285dca969b7244947abec",
+      "linhas_definicao": [
+        132
+      ]
+    },
+    {
+      "id": "1JO-02-18-27:D58",
+      "estudo": "1JO-02-18-27",
+      "id_local": "D58",
+      "documento": "estudos/1joao/2-18-27/decisoes.md",
+      "commit_base": "71b5b88e501ff54b6bed2af3fc2bbfb042f4609e",
+      "sha256_documento": "b1e1327c2ba52ed2b590d691b7bb72589e4a4c69937285dca969b7244947abec",
+      "linhas_definicao": [
+        133
+      ]
+    },
+    {
+      "id": "1JO-02-18-27:D59",
+      "estudo": "1JO-02-18-27",
+      "id_local": "D59",
+      "documento": "estudos/1joao/2-18-27/decisoes.md",
+      "commit_base": "71b5b88e501ff54b6bed2af3fc2bbfb042f4609e",
+      "sha256_documento": "b1e1327c2ba52ed2b590d691b7bb72589e4a4c69937285dca969b7244947abec",
+      "linhas_definicao": [
+        134
+      ]
+    },
+    {
+      "id": "1JO-02-18-27:D60",
+      "estudo": "1JO-02-18-27",
+      "id_local": "D60",
+      "documento": "estudos/1joao/2-18-27/decisoes.md",
+      "commit_base": "71b5b88e501ff54b6bed2af3fc2bbfb042f4609e",
+      "sha256_documento": "b1e1327c2ba52ed2b590d691b7bb72589e4a4c69937285dca969b7244947abec",
+      "linhas_definicao": [
+        135
+      ]
+    },
+    {
+      "id": "1JO-02-18-27:D61",
+      "estudo": "1JO-02-18-27",
+      "id_local": "D61",
+      "documento": "estudos/1joao/2-18-27/decisoes.md",
+      "commit_base": "71b5b88e501ff54b6bed2af3fc2bbfb042f4609e",
+      "sha256_documento": "b1e1327c2ba52ed2b590d691b7bb72589e4a4c69937285dca969b7244947abec",
+      "linhas_definicao": [
+        136
+      ]
+    },
+    {
+      "id": "1JO-02-18-27:D62",
+      "estudo": "1JO-02-18-27",
+      "id_local": "D62",
+      "documento": "estudos/1joao/2-18-27/decisoes.md",
+      "commit_base": "71b5b88e501ff54b6bed2af3fc2bbfb042f4609e",
+      "sha256_documento": "b1e1327c2ba52ed2b590d691b7bb72589e4a4c69937285dca969b7244947abec",
+      "linhas_definicao": [
+        140
+      ]
+    },
+    {
+      "id": "1JO-02-18-27:D63",
+      "estudo": "1JO-02-18-27",
+      "id_local": "D63",
+      "documento": "estudos/1joao/2-18-27/decisoes.md",
+      "commit_base": "71b5b88e501ff54b6bed2af3fc2bbfb042f4609e",
+      "sha256_documento": "b1e1327c2ba52ed2b590d691b7bb72589e4a4c69937285dca969b7244947abec",
+      "linhas_definicao": [
+        146
+      ]
+    },
+    {
+      "id": "1JO-02-18-27:D64",
+      "estudo": "1JO-02-18-27",
+      "id_local": "D64",
+      "documento": "estudos/1joao/2-18-27/decisoes.md",
+      "commit_base": "71b5b88e501ff54b6bed2af3fc2bbfb042f4609e",
+      "sha256_documento": "b1e1327c2ba52ed2b590d691b7bb72589e4a4c69937285dca969b7244947abec",
+      "linhas_definicao": [
+        147
+      ]
+    },
+    {
+      "id": "1JO-02-18-27:D65",
+      "estudo": "1JO-02-18-27",
+      "id_local": "D65",
+      "documento": "estudos/1joao/2-18-27/decisoes.md",
+      "commit_base": "71b5b88e501ff54b6bed2af3fc2bbfb042f4609e",
+      "sha256_documento": "b1e1327c2ba52ed2b590d691b7bb72589e4a4c69937285dca969b7244947abec",
+      "linhas_definicao": [
+        148
+      ]
+    },
+    {
+      "id": "1JO-02-18-27:D66",
+      "estudo": "1JO-02-18-27",
+      "id_local": "D66",
+      "documento": "estudos/1joao/2-18-27/decisoes.md",
+      "commit_base": "71b5b88e501ff54b6bed2af3fc2bbfb042f4609e",
+      "sha256_documento": "b1e1327c2ba52ed2b590d691b7bb72589e4a4c69937285dca969b7244947abec",
+      "linhas_definicao": [
+        149
+      ]
+    },
+    {
+      "id": "1JO-02-18-27:D67",
+      "estudo": "1JO-02-18-27",
+      "id_local": "D67",
+      "documento": "estudos/1joao/2-18-27/decisoes.md",
+      "commit_base": "71b5b88e501ff54b6bed2af3fc2bbfb042f4609e",
+      "sha256_documento": "b1e1327c2ba52ed2b590d691b7bb72589e4a4c69937285dca969b7244947abec",
+      "linhas_definicao": [
+        150
+      ]
+    },
+    {
+      "id": "1JO-02-18-27:D68",
+      "estudo": "1JO-02-18-27",
+      "id_local": "D68",
+      "documento": "estudos/1joao/2-18-27/decisoes.md",
+      "commit_base": "71b5b88e501ff54b6bed2af3fc2bbfb042f4609e",
+      "sha256_documento": "b1e1327c2ba52ed2b590d691b7bb72589e4a4c69937285dca969b7244947abec",
+      "linhas_definicao": [
+        156
+      ]
+    },
+    {
+      "id": "1JO-02-18-27:D69",
+      "estudo": "1JO-02-18-27",
+      "id_local": "D69",
+      "documento": "estudos/1joao/2-18-27/decisoes.md",
+      "commit_base": "71b5b88e501ff54b6bed2af3fc2bbfb042f4609e",
+      "sha256_documento": "b1e1327c2ba52ed2b590d691b7bb72589e4a4c69937285dca969b7244947abec",
+      "linhas_definicao": [
+        157
+      ]
+    },
+    {
+      "id": "1JO-02-18-27:D70",
+      "estudo": "1JO-02-18-27",
+      "id_local": "D70",
+      "documento": "estudos/1joao/2-18-27/decisoes.md",
+      "commit_base": "71b5b88e501ff54b6bed2af3fc2bbfb042f4609e",
+      "sha256_documento": "b1e1327c2ba52ed2b590d691b7bb72589e4a4c69937285dca969b7244947abec",
+      "linhas_definicao": [
+        161
+      ]
+    },
+    {
+      "id": "1JO-02-18-27:D71",
+      "estudo": "1JO-02-18-27",
+      "id_local": "D71",
+      "documento": "estudos/1joao/2-18-27/decisoes.md",
+      "commit_base": "71b5b88e501ff54b6bed2af3fc2bbfb042f4609e",
+      "sha256_documento": "b1e1327c2ba52ed2b590d691b7bb72589e4a4c69937285dca969b7244947abec",
+      "linhas_definicao": [
+        162
+      ]
+    },
+    {
+      "id": "1JO-02-18-27:D72",
+      "estudo": "1JO-02-18-27",
+      "id_local": "D72",
+      "documento": "estudos/1joao/2-18-27/decisoes.md",
+      "commit_base": "71b5b88e501ff54b6bed2af3fc2bbfb042f4609e",
+      "sha256_documento": "b1e1327c2ba52ed2b590d691b7bb72589e4a4c69937285dca969b7244947abec",
+      "linhas_definicao": [
+        163
+      ]
+    },
+    {
+      "id": "1JO-02-18-27:D73",
+      "estudo": "1JO-02-18-27",
+      "id_local": "D73",
+      "documento": "estudos/1joao/2-18-27/decisoes.md",
+      "commit_base": "71b5b88e501ff54b6bed2af3fc2bbfb042f4609e",
+      "sha256_documento": "b1e1327c2ba52ed2b590d691b7bb72589e4a4c69937285dca969b7244947abec",
+      "linhas_definicao": [
+        164
+      ]
+    },
+    {
+      "id": "1JO-02-18-27:D74",
+      "estudo": "1JO-02-18-27",
+      "id_local": "D74",
+      "documento": "estudos/1joao/2-18-27/decisoes.md",
+      "commit_base": "71b5b88e501ff54b6bed2af3fc2bbfb042f4609e",
+      "sha256_documento": "b1e1327c2ba52ed2b590d691b7bb72589e4a4c69937285dca969b7244947abec",
+      "linhas_definicao": [
+        165
+      ]
+    },
+    {
+      "id": "1JO-02-18-27:D75",
+      "estudo": "1JO-02-18-27",
+      "id_local": "D75",
+      "documento": "estudos/1joao/2-18-27/decisoes.md",
+      "commit_base": "71b5b88e501ff54b6bed2af3fc2bbfb042f4609e",
+      "sha256_documento": "b1e1327c2ba52ed2b590d691b7bb72589e4a4c69937285dca969b7244947abec",
+      "linhas_definicao": [
+        169
+      ]
+    },
+    {
+      "id": "1JO-02-18-27:D76",
+      "estudo": "1JO-02-18-27",
+      "id_local": "D76",
+      "documento": "estudos/1joao/2-18-27/decisoes.md",
+      "commit_base": "71b5b88e501ff54b6bed2af3fc2bbfb042f4609e",
+      "sha256_documento": "b1e1327c2ba52ed2b590d691b7bb72589e4a4c69937285dca969b7244947abec",
+      "linhas_definicao": [
+        170
+      ]
+    },
+    {
+      "id": "1JO-02-18-27:D77",
+      "estudo": "1JO-02-18-27",
+      "id_local": "D77",
+      "documento": "estudos/1joao/2-18-27/decisoes.md",
+      "commit_base": "71b5b88e501ff54b6bed2af3fc2bbfb042f4609e",
+      "sha256_documento": "b1e1327c2ba52ed2b590d691b7bb72589e4a4c69937285dca969b7244947abec",
+      "linhas_definicao": [
+        171
+      ]
+    },
+    {
+      "id": "1JO-02-18-27:D78",
+      "estudo": "1JO-02-18-27",
+      "id_local": "D78",
+      "documento": "estudos/1joao/2-18-27/decisoes.md",
+      "commit_base": "71b5b88e501ff54b6bed2af3fc2bbfb042f4609e",
+      "sha256_documento": "b1e1327c2ba52ed2b590d691b7bb72589e4a4c69937285dca969b7244947abec",
+      "linhas_definicao": [
+        172
+      ]
+    },
+    {
+      "id": "1JO-02-18-27:D79",
+      "estudo": "1JO-02-18-27",
+      "id_local": "D79",
+      "documento": "estudos/1joao/2-18-27/decisoes.md",
+      "commit_base": "71b5b88e501ff54b6bed2af3fc2bbfb042f4609e",
+      "sha256_documento": "b1e1327c2ba52ed2b590d691b7bb72589e4a4c69937285dca969b7244947abec",
+      "linhas_definicao": [
+        173
+      ]
+    },
+    {
+      "id": "1JO-02-18-27:D80",
+      "estudo": "1JO-02-18-27",
+      "id_local": "D80",
+      "documento": "estudos/1joao/2-18-27/decisoes.md",
+      "commit_base": "71b5b88e501ff54b6bed2af3fc2bbfb042f4609e",
+      "sha256_documento": "b1e1327c2ba52ed2b590d691b7bb72589e4a4c69937285dca969b7244947abec",
+      "linhas_definicao": [
+        179
+      ]
+    },
+    {
+      "id": "1JO-02-18-27:D81",
+      "estudo": "1JO-02-18-27",
+      "id_local": "D81",
+      "documento": "estudos/1joao/2-18-27/decisoes.md",
+      "commit_base": "71b5b88e501ff54b6bed2af3fc2bbfb042f4609e",
+      "sha256_documento": "b1e1327c2ba52ed2b590d691b7bb72589e4a4c69937285dca969b7244947abec",
+      "linhas_definicao": [
+        180
+      ]
+    },
+    {
+      "id": "1JO-02-18-27:D82",
+      "estudo": "1JO-02-18-27",
+      "id_local": "D82",
+      "documento": "estudos/1joao/2-18-27/decisoes.md",
+      "commit_base": "71b5b88e501ff54b6bed2af3fc2bbfb042f4609e",
+      "sha256_documento": "b1e1327c2ba52ed2b590d691b7bb72589e4a4c69937285dca969b7244947abec",
+      "linhas_definicao": [
+        181
+      ]
+    },
+    {
+      "id": "1JO-02-18-27:D83",
+      "estudo": "1JO-02-18-27",
+      "id_local": "D83",
+      "documento": "estudos/1joao/2-18-27/decisoes.md",
+      "commit_base": "71b5b88e501ff54b6bed2af3fc2bbfb042f4609e",
+      "sha256_documento": "b1e1327c2ba52ed2b590d691b7bb72589e4a4c69937285dca969b7244947abec",
+      "linhas_definicao": [
+        182
+      ]
+    },
+    {
+      "id": "1JO-02-18-27:D84",
+      "estudo": "1JO-02-18-27",
+      "id_local": "D84",
+      "documento": "estudos/1joao/2-18-27/decisoes.md",
+      "commit_base": "71b5b88e501ff54b6bed2af3fc2bbfb042f4609e",
+      "sha256_documento": "b1e1327c2ba52ed2b590d691b7bb72589e4a4c69937285dca969b7244947abec",
+      "linhas_definicao": [
+        183
+      ]
+    }
+  ]
+}

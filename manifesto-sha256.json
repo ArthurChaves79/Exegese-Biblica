@@ -4,7 +4,7 @@
   "AGENTS.md": "db262abc51e570e395b9e1b2e396b61d7062cf08e1bf89a92baed0ec026a4aa1",
   "README.md": "3bf13e3cd1294c7d71337730d91f6f96a1dee4c214a16102aaff4f249adf1d8d",
   "docs/OPERACAO.md": "c6e8a8a1b6c8a0596d61c735355cb377f8a9fec27a8089efc6053d337297550a",
-  "documentos.json": "7d60c7a8f1827055ea6632bdc8e845300d5c8d7fddcfe11953af06688068e7c3",
+  "documentos.json": "2065236caa545d4247cd12546ceef5865bb047e840919c6ed65f2aacca646eae",
   "estudos/mateus/17-14-20/CONTINUIDADE.md": "8b49d488810f36abf9bdef4da41853de9238b25c681a3e48ea1445f3e4716724",
   "estudos/mateus/17-14-20/EXE-01-01B-07-contexto-estrutura.md": "10ac55151d3dc36518729e0ef46a7a9b3b6cb3eac388656344012292acd483c5",
   "estudos/mateus/17-14-20/EXE-02-03-texto-traducao.md": "6a5d2f86eea97ff7aa99c18cf0d671067d840b991ad0b617cd6707f52f4de8e3",
@@ -149,6 +149,11 @@
   "metodo/propostas/prioridade-1/fontes-backup/VAL-06.md": "f6e531b591d4fa07b972d08319f9844c19a269d15da4661f8fd116d0302db132",
   "metodo/propostas/prioridade-1/inventario-backup.json": "bd0c8afb82e09bab8489127f56230b6afc0e32c178de367efd79e1c69efc5eef",
   "metodo/propostas/prioridade-1/inventario.json": "0053e0dd724b833a1a6021833a29bf7bcd4bd2ad041e521ab8136815bc8281c2",
+  "rastreabilidade/README.md": "e26ecd7e0ba3ce63e9c27049918f3a4df0d16c1526903410d900f5be7def7a28",
+  "rastreabilidade/VERIFICACAO.md": "4e170f8ad1952ea22eeb0d9cf8d3e71a1905f54bee7872e56b4468b38ebd0bde",
+  "rastreabilidade/decisoes.json": "d2fc3f13b4b42e08cd6ad9c7d603cba0ec14e81cd5c20611d632382094ac655f",
+  "rastreabilidade/estudos.json": "a5b3e38bfd27b3447b8020033664aecfb6d879af4f6aa9a2a509bfd949ef72de",
+  "rastreabilidade/relacoes/REL-000001.json": "442ddf1e431734d8a10040eb0ad957e20fe9071ce3bf8719651e01ecd6b1e16c",
   "tests/test_acervo.py": "f90309d461d235ccb9f9aab669cef59cc84e7828889a23ef7d46d9357de68d87",
   "tests/test_metodo.py": "ffb8744b114ed4982483d0e9f15228ec7b955205127a57182a967a92bbd321d5"
 }

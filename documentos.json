@@ -759,6 +759,306 @@
       "depende_de": [
         "MT-EDITORIAL-P4"
       ]
+    },
+    {
+      "id": "1JO-02-18-27-CONTINUIDADE",
+      "path": "estudos/1joao/2-18-27/CONTINUIDADE.md",
+      "tipo": "acervo",
+      "estado": "atual",
+      "depende_de": []
+    },
+    {
+      "id": "1JO-02-18-27-README",
+      "path": "estudos/1joao/2-18-27/README.md",
+      "tipo": "acervo",
+      "estado": "atual",
+      "depende_de": []
+    },
+    {
+      "id": "1JO-02-18-27-ANALISE-DISCURSIVA-RODADA-05",
+      "path": "estudos/1joao/2-18-27/analise-discursiva-rodada-05.md",
+      "tipo": "acervo",
+      "estado": "atual",
+      "depende_de": []
+    },
+    {
+      "id": "1JO-02-18-27-ANALISE-LEXICAL-RODADA-06",
+      "path": "estudos/1joao/2-18-27/analise-lexical-rodada-06.md",
+      "tipo": "acervo",
+      "estado": "atual",
+      "depende_de": []
+    },
+    {
+      "id": "1JO-02-18-27-ANALISE-SINTATICA-RODADA-04",
+      "path": "estudos/1joao/2-18-27/analise-sintatica-rodada-04.md",
+      "tipo": "acervo",
+      "estado": "atual",
+      "depende_de": []
+    },
+    {
+      "id": "1JO-02-18-27-ANTROPOLOGIA-ETICA-SABEDORIA-RODADA-17",
+      "path": "estudos/1joao/2-18-27/antropologia-etica-sabedoria-rodada-17.md",
+      "tipo": "acervo",
+      "estado": "atual",
+      "depende_de": []
+    },
+    {
+      "id": "1JO-02-18-27-AVALIACAO-CANONICA-CONTROVERSIAS-RODADA-12",
+      "path": "estudos/1joao/2-18-27/avaliacao-canonica-controversias-rodada-12.md",
+      "tipo": "acervo",
+      "estado": "atual",
+      "depende_de": []
+    },
+    {
+      "id": "1JO-02-18-27-COMPLEMENTO-NA28-2-28",
+      "path": "estudos/1joao/2-18-27/complemento-na28-2-28.md",
+      "tipo": "acervo",
+      "estado": "atual",
+      "depende_de": []
+    },
+    {
+      "id": "1JO-02-18-27-CONFERENCIA-CANONICA-INTERNA-PRE-EXE13",
+      "path": "estudos/1joao/2-18-27/conferencia-canonica-interna-pre-exe13.md",
+      "tipo": "acervo",
+      "estado": "atual",
+      "depende_de": []
+    },
+    {
+      "id": "1JO-02-18-27-CONFERENCIA-VERSO-A-VERSO-RODADA-10",
+      "path": "estudos/1joao/2-18-27/conferencia-verso-a-verso-rodada-10.md",
+      "tipo": "acervo",
+      "estado": "atual",
+      "depende_de": []
+    },
+    {
+      "id": "1JO-02-18-27-CONTEXTO-CANONICO-RODADA-08",
+      "path": "estudos/1joao/2-18-27/contexto-canonico-rodada-08.md",
+      "tipo": "acervo",
+      "estado": "atual",
+      "depende_de": []
+    },
+    {
+      "id": "1JO-02-18-27-CONTEXTO-HISTORICO-RODADA-07",
+      "path": "estudos/1joao/2-18-27/contexto-historico-rodada-07.md",
+      "tipo": "acervo",
+      "estado": "atual",
+      "depende_de": []
+    },
+    {
+      "id": "1JO-02-18-27-CONTRIBUICAO-SISTEMATICA-RODADA-16",
+      "path": "estudos/1joao/2-18-27/contribuicao-sistematica-rodada-16.md",
+      "tipo": "acervo",
+      "estado": "atual",
+      "depende_de": []
+    },
+    {
+      "id": "1JO-02-18-27-CRITICA-TEXTUAL-NA28-RODADA-03",
+      "path": "estudos/1joao/2-18-27/critica-textual-na28-rodada-03.md",
+      "tipo": "acervo",
+      "estado": "atual",
+      "depende_de": []
+    },
+    {
+      "id": "1JO-02-18-27-CRITICA-TEXTUAL-RODADA-02",
+      "path": "estudos/1joao/2-18-27/critica-textual-rodada-02.md",
+      "tipo": "acervo",
+      "estado": "atual",
+      "depende_de": []
+    },
+    {
+      "id": "1JO-02-18-27-DECISOES",
+      "path": "estudos/1joao/2-18-27/decisoes.md",
+      "tipo": "acervo",
+      "estado": "atual",
+      "depende_de": []
+    },
+    {
+      "id": "1JO-02-18-27-FONTE-BDAG-CHRISMA-RODADA-06",
+      "path": "estudos/1joao/2-18-27/fonte-bdag-chrisma-rodada-06.md",
+      "tipo": "acervo",
+      "estado": "atual",
+      "depende_de": []
+    },
+    {
+      "id": "1JO-02-18-27-FONTE-BDAG-HAGIOS-RODADA-06",
+      "path": "estudos/1joao/2-18-27/fonte-bdag-hagios-rodada-06.md",
+      "tipo": "acervo",
+      "estado": "atual",
+      "depende_de": []
+    },
+    {
+      "id": "1JO-02-18-27-FONTE-BDAG-MENO-RODADA-06",
+      "path": "estudos/1joao/2-18-27/fonte-bdag-meno-rodada-06.md",
+      "tipo": "acervo",
+      "estado": "atual",
+      "depende_de": []
+    },
+    {
+      "id": "1JO-02-18-27-FONTE-COLLINS-DANIEL-RODADA-08",
+      "path": "estudos/1joao/2-18-27/fonte-collins-daniel-rodada-08.md",
+      "tipo": "acervo",
+      "estado": "atual",
+      "depende_de": []
+    },
+    {
+      "id": "1JO-02-18-27-FONTE-TDNT-CHRISMA-RODADA-06",
+      "path": "estudos/1joao/2-18-27/fonte-tdnt-chrisma-rodada-06.md",
+      "tipo": "acervo",
+      "estado": "atual",
+      "depende_de": []
+    },
+    {
+      "id": "1JO-02-18-27-FONTES-COMPLEMENTARES-MORRIS-KISTEMAKER-EERDMANS",
+      "path": "estudos/1joao/2-18-27/fontes-complementares-morris-kistemaker-eerdmans.md",
+      "tipo": "acervo",
+      "estado": "atual",
+      "depende_de": []
+    },
+    {
+      "id": "1JO-02-18-27-HISTORIA-INTERPRETACAO-RODADA-11",
+      "path": "estudos/1joao/2-18-27/historia-interpretacao-rodada-11.md",
+      "tipo": "acervo",
+      "estado": "atual",
+      "depende_de": []
+    },
+    {
+      "id": "1JO-02-18-27-INTEGRACAO-CANONICA-TEMATICA-RODADA-15",
+      "path": "estudos/1joao/2-18-27/integracao-canonica-tematica-rodada-15.md",
+      "tipo": "acervo",
+      "estado": "atual",
+      "depende_de": []
+    },
+    {
+      "id": "1JO-02-18-27-INVESTIGACAO-CHRISMA-PANO-DE-FUNDO-BIBLICO",
+      "path": "estudos/1joao/2-18-27/investigacao-chrisma-pano-de-fundo-biblico.md",
+      "tipo": "acervo",
+      "estado": "atual",
+      "depende_de": []
+    },
+    {
+      "id": "1JO-02-18-27-IRINEU-CERINTO-COMPLEMENTO-RODADA-07",
+      "path": "estudos/1joao/2-18-27/irineu-cerinto-complemento-rodada-07.md",
+      "tipo": "acervo",
+      "estado": "atual",
+      "depende_de": []
+    },
+    {
+      "id": "1JO-02-18-27-MANUSCRITO-ACADEMICO",
+      "path": "estudos/1joao/2-18-27/manuscrito-academico.md",
+      "tipo": "manuscrito",
+      "estado": "atual",
+      "depende_de": [
+        "1JO-02-18-27-SINTESE-EXEGETICA-RODADA-13",
+        "1JO-02-18-27-TEOLOGIA-BIBLICA-RODADA-14",
+        "1JO-02-18-27-INTEGRACAO-CANONICA-TEMATICA-RODADA-15",
+        "1JO-02-18-27-CONTRIBUICAO-SISTEMATICA-RODADA-16",
+        "1JO-02-18-27-ANTROPOLOGIA-ETICA-SABEDORIA-RODADA-17"
+      ]
+    },
+    {
+      "id": "1JO-02-18-27-PERGUNTAS",
+      "path": "estudos/1joao/2-18-27/perguntas.md",
+      "tipo": "acervo",
+      "estado": "atual",
+      "depende_de": []
+    },
+    {
+      "id": "1JO-02-18-27-REFERENCIAS-PENDENTES-BEALE-ULTIMA-HORA",
+      "path": "estudos/1joao/2-18-27/referencias-pendentes-beale-ultima-hora.md",
+      "tipo": "acervo",
+      "estado": "atual",
+      "depende_de": []
+    },
+    {
+      "id": "1JO-02-18-27-REVISAO-INTERNA-PRESSUPOSTOS-EFEITOS-INTERPRETATIVOS",
+      "path": "estudos/1joao/2-18-27/revisao-interna-pressupostos-efeitos-interpretativos.md",
+      "tipo": "acervo",
+      "estado": "atual",
+      "depende_de": []
+    },
+    {
+      "id": "1JO-02-18-27-REVISAO-SELETIVA-BIBLICO-TEOLOGICA-POS-RODADA-15",
+      "path": "estudos/1joao/2-18-27/revisao-seletiva-biblico-teologica-pos-rodada-15.md",
+      "tipo": "acervo",
+      "estado": "atual",
+      "depende_de": []
+    },
+    {
+      "id": "1JO-02-18-27-REVISAO-SUSTENTACAO-ATE-RODADA-15",
+      "path": "estudos/1joao/2-18-27/revisao-sustentacao-ate-rodada-15.md",
+      "tipo": "acervo",
+      "estado": "atual",
+      "depende_de": []
+    },
+    {
+      "id": "1JO-02-18-27-SINTESE-EXEGETICA-RODADA-13",
+      "path": "estudos/1joao/2-18-27/sintese-exegetica-rodada-13.md",
+      "tipo": "acervo",
+      "estado": "atual",
+      "depende_de": []
+    },
+    {
+      "id": "1JO-02-18-27-TEOLOGIA-BIBLICA-RODADA-14",
+      "path": "estudos/1joao/2-18-27/teologia-biblica-rodada-14.md",
+      "tipo": "acervo",
+      "estado": "atual",
+      "depende_de": []
+    },
+    {
+      "id": "1JO-02-18-27-TRADUCAO-TRABALHO-RODADA-02",
+      "path": "estudos/1joao/2-18-27/traducao-trabalho-rodada-02.md",
+      "tipo": "acervo",
+      "estado": "atual",
+      "depende_de": []
+    },
+    {
+      "id": "1JO-02-18-27-TRADUCAO-TRABALHO-RODADA-04",
+      "path": "estudos/1joao/2-18-27/traducao-trabalho-rodada-04.md",
+      "tipo": "acervo",
+      "estado": "atual",
+      "depende_de": []
+    },
+    {
+      "id": "1JO-02-18-27-TRADUCAO-TRABALHO-RODADA-05",
+      "path": "estudos/1joao/2-18-27/traducao-trabalho-rodada-05.md",
+      "tipo": "acervo",
+      "estado": "atual",
+      "depende_de": []
+    },
+    {
+      "id": "SRIEC-ENTRADA",
+      "path": "rastreabilidade/README.md",
+      "tipo": "acervo",
+      "estado": "atual",
+      "depende_de": []
+    },
+    {
+      "id": "SRIEC-VERIFICACAO",
+      "path": "rastreabilidade/VERIFICACAO.md",
+      "tipo": "acervo",
+      "estado": "atual",
+      "depende_de": []
+    },
+    {
+      "id": "SRIEC-ESTUDOS",
+      "path": "rastreabilidade/estudos.json",
+      "tipo": "acervo",
+      "estado": "atual",
+      "depende_de": []
+    },
+    {
+      "id": "SRIEC-DECISOES",
+      "path": "rastreabilidade/decisoes.json",
+      "tipo": "acervo",
+      "estado": "atual",
+      "depende_de": []
+    },
+    {
+      "id": "SRIEC-REL-000001",
+      "path": "rastreabilidade/relacoes/REL-000001.json",
+      "tipo": "acervo",
+      "estado": "atual",
+      "depende_de": []
     }
   ]
 }
