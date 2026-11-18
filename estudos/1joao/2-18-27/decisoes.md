@@ -183,3 +183,13 @@ Manuscrito §15 e [sintese-exegetica-rodada-13.md](sintese-exegetica-rodada-13.m
 - **D84 — Vida e horizonte:** 2.25 apresenta vida eterna como promessa, e 1Jo 5.11–13 esclarece a vida dada no Filho. Alto para conteúdo e conexão; Moderado para implicação antropológica e horizonte temporal. Sem reconstrução de sofrimento subjetivo ou cronologia da última hora.
 
 **Texto:** manuscrito §19. **Registro de evidências e limites:** [antropologia-etica-sabedoria-rodada-17.md](antropologia-etica-sabedoria-rodada-17.md). D1–D79, tradução, delimitação e método preservados. Próxima etapa EXE-14.
+
+## Rodada 18 — EXE-14: horizonte hermenêutico e aplicação
+
+- **D85 — Fidelidade cristológica:** 2.24 ordena conservar mensagem ouvida, determinada por 2.22–23; aplicação à fidelidade ao testemunho apostólico sem tornar tradição institucional ou formulação humana infalível. Alto para mandamento; Moderado para medidas contemporâneas.
+- **D86 — Discernimento:** 2.21,26 e 1Jo 4.1–6 fundamentam avaliação de ensino pelo conteúdo cristológico; não imputar engano intencional a todo equivocado. Alto para advertência, Moderado para conselhos prudenciais.
+- **D87 — Unção e ensino:** 2.21,24,26–27 sustenta compatibilidade entre ensino da unção, mensagem e instrução escrita; nenhuma dispensa de exame nem infalibilidade privada. Alto para compatibilidade; Moderado para identificação pneumatológica.
+- **D88 — Permanência e ruptura:** 2.19 julga dissidentes concretos; 2.24–27 mantém advertência e segurança. Não transformar transferência ou saída institucional em apostasia automática. Alto para caso textual; Moderado para ponte pastoral.
+- **D89 — Promessa de vida:** 2.25 apresenta vida eterna como promessa, não apódose de 2.24 nem salário; 1Jo 5.11–13 explicita vida dada no Filho. Alto para conteúdo; Moderado para conselhos de esperança pastoral.
+
+**Texto:** manuscrito §20. **Pontes, graus, continuidade/descontinuidade, mandamento/implicação/prudência e limites:** [horizonte-hermeneutico-aplicacao-rodada-18.md](horizonte-hermeneutico-aplicacao-rodada-18.md). Questões D1–D84 e alternativas preservadas; Jo 3.3–8 como possível relação permanece pendente, sem integração interpretativa. Tradução, delimitação e método geral inalterados. Próximo passo EXE-15A.
