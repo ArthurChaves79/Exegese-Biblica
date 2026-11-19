@@ -84,7 +84,7 @@ As referências abaixo identificam obras ou testemunhos efetivamente mobilizados
 
 - *Novum Testamentum Graece*, 28ª ed. (NA28), 2012, pp. 718–719: texto e aparato de 1João 2.18–27 recebidos em transcrição; sem colação autóptica de testemunhos. Ver `critica-textual-rodada-02.md` e complementos.
 - BDAG, verbetes χρῖσμα, ἅγιος e μένω: excertos recebidos; edição e paginação devem ser conferidas antes de normalização definitiva. O valor pneumatológico de χρῖσμα é interpretação contextual, não definição lexical exclusiva.
-- TDNT, verbete χρῖσμα: excerto recebido; dados editoriais e paginação a conferir.
+- TDNT, verbete “χρίω, χριστός, ἀντίχριστος, χρῖσμα, χριστιανός”, atribuído no registro recebido a W. Grundmann et al., em G. Kittel, G. W. Bromiley e G. Friedrich (eds.), *Theological Dictionary of the New Testament*, v. 9, p. 572 (Grand Rapids: Eerdmans, 1964–): identificação transcrita de `fonte-tdnt-chrisma-rodada-06.md`; autoria, edição e paginação **não cotejadas independentemente**.
 - WALLACE, Daniel B. *Gramática Grega: Uma Sintaxe Exegética do Novo Testamento*. Trad. Roque Nascimento Albuquerque. São Paulo: Editora Batista Regular, 2009, pp. 473–474: categoria propósito-resultado de ἵνα; o excerto **não** comenta diretamente 1João 2.19. As pp. 312–314 foram examinadas somente como controle metodológico, sem função probatória direta nesta perícope.
 
 **Comentários, pano de fundo e história da interpretação**
