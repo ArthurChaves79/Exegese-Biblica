@@ -58,6 +58,27 @@ A aplicação mais diretamente vinculada ao texto é conservar a mensagem recebi
 
 João interpreta a ruptura na última hora para reafirmar a verdade já conhecida por seus leitores. A saída dos dissidentes manifesta, segundo seu juízo, uma não pertença anterior; a natureza da controvérsia é esclarecida pela negação de Jesus como o Cristo. A resposta não consiste em substituir a mensagem recebida por um ensino novo, mas em permitir que aquilo que ouviram desde o princípio permaneça neles, em comunhão com o Filho e o Pai. A unção recebida é apresentada como dom que permanece e ensina, não como alternativa ao testemunho cristológico e à advertência apostólica. A vida eterna constitui o conteúdo da promessa que sustenta essa perseverança. As alternativas textuais e históricas ainda abertas delimitam afirmações secundárias, sem alterar a direção do argumento: confessar o Filho, conservar a verdade recebida e permanecer sob a promessa de Deus.
 
-## Referências e estado de conferência
+## Referências utilizadas e estado de conferência
 
-A fundamentação documental integral, com excertos, decisões e graus de confiança, permanece em `manuscrito-academico.md`, `decisoes.md` e `consolidacao-pesquisa-exegetica-rodada-19.md`. Nesta versão de leitura, as referências são **provisórias**: o texto crítico NA28 (aparato transcrito pelo pesquisador); BDAG e TDNT (verbetes por excertos fornecidos); Wallace, Daniel B., *Gramática Grega: Uma Sintaxe Exegética do Novo Testamento*, trad. Roque Nascimento Albuquerque (São Paulo: Editora Batista Regular, 2009), pp. 473–474 (excerto fornecido); paralelos canônicos citados no corpo. A normalização bibliográfica das demais obras e o cotejo direto das edições ainda não foram concluídos. Não interpretar esta seção como bibliografia acadêmica completa.
+As referências abaixo identificam obras ou testemunhos efetivamente mobilizados na investigação, com **consulta parcial por excertos**, salvo indicação diferente. A identificação bibliográfica foi recuperada dos registros de pesquisa; **não equivale a cotejo externo de edições**, e campos incompletos permanecem assinalados. As decisões e o controle documental integral encontram-se em `manuscrito-academico.md`, `decisoes.md` e `consolidacao-pesquisa-exegetica-rodada-19.md`.
+
+**Texto e instrumentos linguísticos**
+
+- *Novum Testamentum Graece*, 28ª ed. (NA28), 2012, pp. 718–719: texto e aparato de 1João 2.18–27 recebidos em transcrição; sem colação autóptica de testemunhos. Ver `critica-textual-rodada-02.md` e complementos.
+- BDAG, verbetes χρῖσμα, ἅγιος e μένω: excertos recebidos; edição e paginação devem ser conferidas antes de normalização definitiva. O valor pneumatológico de χρῖσμα é interpretação contextual, não definição lexical exclusiva.
+- TDNT, verbete χρῖσμα: excerto recebido; dados editoriais e paginação a conferir.
+- WALLACE, Daniel B. *Gramática Grega: Uma Sintaxe Exegética do Novo Testamento*. Trad. Roque Nascimento Albuquerque. São Paulo: Editora Batista Regular, 2009, pp. 473–474: categoria propósito-resultado de ἵνα; o excerto **não** comenta diretamente 1João 2.19. As pp. 312–314 foram examinadas somente como controle metodológico, sem função probatória direta nesta perícope.
+
+**Comentários, pano de fundo e história da interpretação**
+
+- BEALE, G. K. “The Old Testament Background of the ‘Last Hour’ in 1 John 2,18”. *Biblica* 92 (2011): 231–254. Resumo e páginas selecionadas; alusão específica a Daniel permanece proposta, não conclusão demonstrada.
+- COLLINS, John J.; COLLINS, Adela Yarbro. *Daniel: A Commentary on the Book of Daniel*. Hermeneia. Minneapolis: Fortress, 1993. Excertos das pp. 337–341, 385–390, 390–398; usados como comparação histórica e canônica.
+- STRECKER, Georg. *The Johannine Letters*. 1996, pp. 74–77. Excerto recebido; demais dados editoriais pendentes. A preferência por μένετε imperativo em 2.27 não elimina a alternativa indicativa.
+- KISTEMAKER, Simon J. *Tiago e Epístolas de João*. Cultura Cristã, 2006, pp. 370–382. Excertos; completar dados editoriais.
+- MORRIS, Leon. “1 John”. In: *New Bible Commentary: 21st Century Edition*, 4ª ed., 1994, pp. 1402–1403. Referência arquivada parcialmente truncada; confirmar dados.
+- FEE, G. D.; HUBBARD JR., R. L. (eds.). *The Eerdmans Companion to the Bible*. 2011, p. 713. Excerto; completar local e editora.
+- IRINEU. *Adversus haereses* 1.26.1 e 3.3.4. Traduções portuguesas recebidas; edição e tradutor não identificados. Testemunho posterior, não identificação direta dos adversários de 1João.
+- AGOSTINHO. *Tractatus in epistulam Ioannis ad Parthos* III, §§4–7, 12–13. Tradução inglesa e apresentação digital parcial do latim; edição crítica não cotejada.
+- CALVINO. *Commentaries on the Catholic Epistles*, comentário a 1João 2.18–29. Edição digital inglesa e formas latinas pontuais; edição latina original não cotejada.
+
+**Referências mencionadas, mas não admitidas como fontes diretamente conferidas nesta versão:** os artigos de *Themelios* sobre unção e liderança e sobre a história do Evangelho de João, a resenha de Donald W. Burdick sobre Raymond Brown e propostas atribuídas a Charles E. Hill. Sua inclusão bibliográfica requer identificação e exame específicos. A bibliografia acima é **controlada, porém ainda não definitivamente normalizada**; não preencher campos ausentes por suposição.
