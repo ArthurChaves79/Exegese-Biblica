@@ -76,27 +76,34 @@ João interpreta a ruptura na última hora para reafirmar a verdade já conhecid
 
 [^5]: BDAG, verbete χρῖσμα, excerto em `fonte-bdag-chrisma-rodada-06.md`; TDNT, verbete χρῖσμα, excerto em `fonte-tdnt-chrisma-rodada-06.md`; conferir ainda os paralelos canônicos citados no parágrafo. Os excertos lexicográficos não tornam “Espírito” uma equivalência lexical automática. A inferência é contextual e canônica. **Controle textual:** o excerto TDNT cita οἴδατε πάντα em 2.20, ao passo que esta pesquisa adota οἴδατε πάντες; por isso, não se pode transferir sem ressalva a inferência de conhecimento universal do verbete para o texto adotado.
 
-## Referências utilizadas e estado de conferência
+## Referências citadas no artigo — bibliografia editorial provisória
 
-As referências abaixo identificam obras ou testemunhos efetivamente mobilizados na investigação, com **consulta parcial por excertos**, salvo indicação diferente. A identificação bibliográfica foi recuperada dos registros de pesquisa; **não equivale a cotejo externo de edições**, e campos incompletos permanecem assinalados. As decisões e o controle documental integral encontram-se em `manuscrito-academico.md`, `decisoes.md` e `consolidacao-pesquisa-exegetica-rodada-19.md`.
+As entradas seguintes correspondem a obras **efetivamente mencionadas nas notas de fundamentação ou mobilizadas diretamente na argumentação**. Os metadados foram recuperados dos registros arquivados; a consulta a excertos ou traduções não equivale ao cotejo das edições completas. As informações incompletas são mantidas como tal.
 
-**Texto e instrumentos linguísticos**
+**Texto-base e instrumentos linguísticos**
 
-- *Novum Testamentum Graece*, 28ª ed. (NA28), 2012, pp. 718–719: texto e aparato de 1João 2.18–27 recebidos em transcrição; sem colação autóptica de testemunhos. Ver `critica-textual-rodada-02.md` e complementos.
-- ARNDT, W. et al. *A Greek-English Lexicon of the New Testament and Other Early Christian Literature* (BDAG). Chicago: University of Chicago Press, 2000. Excertos recebidos dos verbetes χρῖσμα, ἅγιος e μένω; autoria bibliográfica transcrita de `fonte-bdag-chrisma-rodada-06.md`, sem cotejo da edição completa nem conferência de páginas. O valor pneumatológico de χρῖσμα é interpretação contextual, não definição lexical exclusiva.
-- TDNT, verbete “χρίω, χριστός, ἀντίχριστος, χρῖσμα, χριστιανός”, atribuído no registro recebido a W. Grundmann et al., em G. Kittel, G. W. Bromiley e G. Friedrich (eds.), *Theological Dictionary of the New Testament*, v. 9, p. 572 (Grand Rapids: Eerdmans, 1964–): identificação transcrita de `fonte-tdnt-chrisma-rodada-06.md`; autoria, edição e paginação **não cotejadas independentemente**.
-- WALLACE, Daniel B. *Gramática Grega: Uma Sintaxe Exegética do Novo Testamento*. Trad. Roque Nascimento Albuquerque. São Paulo: Editora Batista Regular, 2009, pp. 473–474: categoria propósito-resultado de ἵνα; o excerto **não** comenta diretamente 1João 2.19. As pp. 312–314 foram examinadas somente como controle metodológico, sem função probatória direta nesta perícope.
+- *Novum Testamentum Graece* (NA28), 28ª ed., 2012, pp. 718–719. Texto e aparato de 1Jo 2.18–27 recebidos em transcrição; sem colação autóptica dos testemunhos.
+- ARNDT, W. et al. *A Greek-English Lexicon of the New Testament and Other Early Christian Literature* (BDAG). Chicago: University of Chicago Press, 2000. Excertos dos verbetes χρῖσμα, ἅγιος e μένω; paginação e autoria editorial completa a conferir.
+- *Theological Dictionary of the New Testament* (TDNT), v. 9, p. 572, verbete “χρίω, χριστός, ἀντίχριστος, χρῖσμα, χριστιανός”, atribuído no excerto recebido a W. Grundmann et al.; G. Kittel, G. W. Bromiley e G. Friedrich (eds.), Grand Rapids: Eerdmans, 1964–. Metadados transcritos de registro de pesquisa, sem cotejo independente. O excerto utiliza οἴδατε πάντα em 2.20, diferente de πάντες no texto adotado.
+- WALLACE, Daniel B. *Gramática Grega: Uma Sintaxe Exegética do Novo Testamento*. Trad. Roque Nascimento Albuquerque. São Paulo: Editora Batista Regular, 2009, pp. 473–474. Excerto sobre propósito-resultado de ἵνα, sem análise direta de 1Jo 2.19.
 
-**Comentários, pano de fundo e história da interpretação**
+**Discussão histórico-exegética diretamente citada**
 
-- BEALE, G. K. “The Old Testament Background of the ‘Last Hour’ in 1 John 2,18”. *Biblica* 92 (2011): 231–254. Resumo e páginas selecionadas; alusão específica a Daniel permanece proposta, não conclusão demonstrada.
-- COLLINS, John J.; COLLINS, Adela Yarbro. *Daniel: A Commentary on the Book of Daniel*. Hermeneia. Minneapolis: Fortress, 1993. Excertos das pp. 337–341, 385–390, 390–398; usados como comparação histórica e canônica.
-- STRECKER, Georg. *The Johannine Letters*. 1996, pp. 74–77. Excerto recebido; demais dados editoriais pendentes. A preferência por μένετε imperativo em 2.27 não elimina a alternativa indicativa.
-- KISTEMAKER, Simon J. *Tiago e Epístolas de João*. Cultura Cristã, 2006, pp. 370–382. Excertos; completar dados editoriais.
-- MORRIS, Leon. “1 John”. In: *New Bible Commentary: 21st Century Edition*, 4ª ed., 1994, pp. 1402–1403. Referência arquivada parcialmente truncada; confirmar dados.
-- FEE, G. D.; HUBBARD JR., R. L. (eds.). *The Eerdmans Companion to the Bible*. 2011, p. 713. Excerto; completar local e editora.
-- IRINEU. *Adversus haereses* 1.26.1 e 3.3.4. Traduções portuguesas recebidas; edição e tradutor não identificados. Testemunho posterior, não identificação direta dos adversários de 1João.
-- AGOSTINHO. *Tractatus in epistulam Ioannis ad Parthos* III, §§4–7, 12–13. Tradução inglesa e apresentação digital parcial do latim; edição crítica não cotejada.
-- CALVINO. *Commentaries on the Catholic Epistles*, comentário a 1João 2.18–29. Edição digital inglesa e formas latinas pontuais; edição latina original não cotejada.
+- BEALE, G. K. “The Old Testament Background of the ‘Last Hour’ in 1 John 2,18”. *Biblica* 92 (2011): 231–254. Resumo e páginas selecionadas, não leitura integral.
+- COLLINS, John J.; COLLINS, Adela Yarbro. *Daniel: A Commentary on the Book of Daniel*. Hermeneia. Minneapolis: Fortress, 1993. Excertos pp. 337–341 e 385–398, em registros sucessivos.
+- STRECKER, Georg. *The Johannine Letters*. 1996, pp. 74–77. Excerto; dados de publicação a conferir.
+- IRINEU. *Adversus haereses* 1.26.1; 3.3.4. Traduções portuguesas fornecidas, sem edição ou tradutor confirmados.
 
-**Referências mencionadas, mas não admitidas como fontes diretamente conferidas nesta versão:** os artigos de *Themelios* sobre unção e liderança e sobre a história do Evangelho de João, a resenha de Donald W. Burdick sobre Raymond Brown e propostas atribuídas a Charles E. Hill. Sua inclusão bibliográfica requer identificação e exame específicos. A bibliografia acima é **controlada, porém ainda não definitivamente normalizada**; não preencher campos ausentes por suposição.
+## Fontes consultadas na pesquisa, mas não citadas diretamente na argumentação desta versão
+
+As obras abaixo permanecem no **acervo documental** e não integram, por ora, a bibliografia de obras citadas no artigo. A distinção não significa que sejam irrelevantes à pesquisa:
+
+- KISTEMAKER, Simon J. *Tiago e Epístolas de João*. Cultura Cristã, 2006, pp. 370–382. Excertos.
+- MORRIS, Leon. “1 John”. In: *New Bible Commentary: 21st Century Edition*, 4ª ed., 1994, pp. 1402–1403. Referência arquivada parcialmente truncada.
+- FEE, G. D.; HUBBARD JR., R. L. (eds.). *The Eerdmans Companion to the Bible*. 2011, p. 713. Excerto.
+- AGOSTINHO. *Tractatus in epistulam Ioannis ad Parthos* III, §§4–7, 12–13. Tradução inglesa e apresentação digital parcial do latim.
+- CALVINO. *Commentaries on the Catholic Epistles*, comentário a 1Jo 2.18–29. Tradução inglesa digital e formas latinas pontuais.
+
+**Referências somente mencionadas ou não verificadas:** dois artigos de *Themelios* (sobre unção e liderança e sobre a história do Evangelho de João), resenha de Donald W. Burdick sobre Raymond Brown e propostas atribuídas a Charles E. Hill. Não devem ser apresentados como obras diretamente examinadas.
+
+**Critério de conclusão:** esta é uma bibliografia editorial **provisória e rastreável**, não uma lista normalizada definitivamente segundo ABNT ou periódico. Antes de publicação, verificar as edições, a autoria dos verbetes, os dados editoriais e as páginas citadas. Os relatórios `cotejo-referencias-exe15b-rodada-30.md` e `controle-strecker-themelios-bibliografia-rodada-25.md` preservam a trilha de proveniência.
