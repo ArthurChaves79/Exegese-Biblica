@@ -106,4 +106,6 @@ As obras abaixo permanecem no **acervo documental** e não integram, por ora, a 
 
 **Referências somente mencionadas ou não verificadas:** dois artigos de *Themelios* (sobre unção e liderança e sobre a história do Evangelho de João), resenha de Donald W. Burdick sobre Raymond Brown e propostas atribuídas a Charles E. Hill. Não devem ser apresentados como obras diretamente examinadas.
 
+**Auditoria das notas [^1]–[^5] (Rodada 32):** as cinco chamadas no corpo têm definições e remetem às oito entradas classificadas como citadas. A nota [^1] articula Beale e Collins; [^2], Wallace; [^3], Irineu e Strecker; [^4], Strecker; [^5], BDAG e TDNT. A entrada NA28 é a base textual explicitamente identificada no corpo e na bibliografia, sem nota própria. A verificação é **interna ao documento**, não confirmação das edições originais. Ver `auditoria-notas-exe15b-rodada-32.md`.
+
 **Critério de conclusão:** esta é uma bibliografia editorial **provisória e rastreável**, não uma lista normalizada definitivamente segundo ABNT ou periódico. Antes de publicação, verificar as edições, a autoria dos verbetes, os dados editoriais e as páginas citadas. Os relatórios `cotejo-referencias-exe15b-rodada-30.md` e `controle-strecker-themelios-bibliografia-rodada-25.md` preservam a trilha de proveniência.
