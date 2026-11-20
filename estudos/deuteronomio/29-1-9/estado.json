@@ -1,0 +1,22 @@
+{
+  "passagem": "Dt 29.1–9",
+  "numeracao_hebraica": "Dt 28.69–29.8",
+  "metodo": "metodo/METODO.md",
+  "migrado_em": "2026-11-20",
+  "origem": "conversa ChatGPT; síntese retrospectiva, não transcrição integral",
+  "etapa_atual": "EXE-05 discutida; revisão documental pendente",
+  "proxima_etapa": "EXE-06",
+  "etapas": {
+    "leitura_inicial": "sintetizada",
+    "EXE-01": "parcial",
+    "EXE-01B": "pendente",
+    "EXE-02": "parcial",
+    "EXE-03": "provisoria",
+    "EXE-04": "parcial",
+    "EXE-05": "provisoria",
+    "EXE-06": "pendente"
+  },
+  "auditoria_independente": false,
+  "aparato_critico_integral": false,
+  "manuscrito_cumulativo": true
+}
