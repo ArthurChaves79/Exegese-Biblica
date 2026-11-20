@@ -1,0 +1,27 @@
+# Continuidade — Dt 29.1–9
+
+## Estado
+Migrado da conversa em 20/11/2026 para branch de estudo. O método vigente é `metodo/METODO.md` (aprovado em 27/10/2026). Não substituir o método pela sequência de respostas da conversa.
+
+## Executado na conversa, sujeito a conferência
+- Leitura interrogativa: perguntas iniciais sobre aliança, testemunho, coração, conhecimento, preservação, conquista e obediência.
+- EXE-01: comparação preliminar de 29.1–9, 29.2–9, 29.1–29 e 29.2–30.20; preferência provisória por 29.2–9.
+- EXE-02: leitura massorética de 29.4 e comparação preliminar com grego; **sem aparato crítico completo e sem confirmação documental de todos os testemunhos**.
+- EXE-03: tradução portuguesa provisória, alternância singular/plural, voz divina em 29.5–6, conhecimento e finalidade.
+- EXE-04: relações sintáticas e formas verbais centrais; **morfologia integral ainda não conferida**.
+- EXE-05: movimentos discursivos, contraste entre ver e conhecer, finalidade em 29.6 e exortação em 29.9.
+
+## Riscos de qualidade a revisar antes de consolidar
+1. Conferir texto hebraico completo, vocalização e formas verbais em edição identificada; a descrição anterior de `וָאוֹלֵךְ` requer verificação morfológica específica.
+2. Conferir a formulação hebraica de Dt 29.5–6, o alcance da primeira pessoa e a distribuição de singular/plural.
+3. Não tratar a Septuaginta como aparato exaustivo; verificar efetivamente testemunhos, variantes e cobertura.
+4. Não atribuir a fontes externas identificadores de citação da conversa sem recuperar referência, edição e localizador.
+5. Reavaliar a fronteira 29.1/29.2 e a função da numeração hebraica; buscar alternativas acadêmicas realmente consultadas.
+6. Examinar a força de `לְמַעַן` em 29.6 e 29.9, e de `תַּשְׂכִּילוּ`, sem antecipar resultados.
+7. Não transformar 29.4 em doutrina sistemática da regeneração ou do endurecimento sem demonstrar conexão textual/canônica.
+
+## Próxima rodada
+Executar EXE-06 conforme `metodo/METODO.md`: estudar `לֵב`, `ידע`, `ראה`, `שמע`, `נתן`, `שכל` em Dt 29 e no uso pertinente do livro. Registrar dados, alternativas, inferências e efeitos interpretativos; integrar ao manuscrito somente conclusões sustentadas. Se a pesquisa lexical revelar erro na tradução, atualizar EXE-03, decisões, relatório e manuscrito, sem apagar histórico.
+
+## Antes de integrar na main
+Atualizar cadastro `documentos.json` conforme seu esquema real; executar testes, auditoria, selo e verificação em clone adequado; revisar diferenças e dependências. A criação remota dos arquivos não equivale à execução dessas verificações.
