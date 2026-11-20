@@ -83,15 +83,15 @@ As entradas seguintes correspondem a obras **efetivamente mencionadas nas notas 
 **Texto-base e instrumentos linguísticos**
 
 - *Novum Testamentum Graece* (NA28), 28ª ed., 2012, pp. 718–719. Texto e aparato de 1Jo 2.18–27 recebidos em transcrição; sem colação autóptica dos testemunhos.
-- ARNDT, W. et al. *A Greek-English Lexicon of the New Testament and Other Early Christian Literature* (BDAG). Chicago: University of Chicago Press, 2000. Excertos dos verbetes χρῖσμα, ἅγιος e μένω; paginação e autoria editorial completa a conferir.
+- BAUER, Walter. *A Greek-English Lexicon of the New Testament and Other Early Christian Literature* (BDAG). 3ª ed. Rev. e ed. Frederick William Danker. Chicago: University of Chicago Press, 2000. Identificação da edição confirmada no catálogo da editora; excertos dos verbetes χρῖσμα, ἅγιος e μένω recebidos na pesquisa, sem conferência externa de suas páginas.
 - *Theological Dictionary of the New Testament* (TDNT), v. 9, p. 572, verbete “χρίω, χριστός, ἀντίχριστος, χρῖσμα, χριστιανός”, atribuído no excerto recebido a W. Grundmann et al.; G. Kittel, G. W. Bromiley e G. Friedrich (eds.), Grand Rapids: Eerdmans, 1964–. Metadados transcritos de registro de pesquisa, sem cotejo independente. O excerto utiliza οἴδατε πάντα em 2.20, diferente de πάντες no texto adotado.
 - WALLACE, Daniel B. *Gramática Grega: Uma Sintaxe Exegética do Novo Testamento*. Trad. Roque Nascimento Albuquerque. São Paulo: Editora Batista Regular, 2009, pp. 473–474. Excerto sobre propósito-resultado de ἵνα, sem análise direta de 1Jo 2.19.
 
 **Discussão histórico-exegética diretamente citada**
 
 - BEALE, G. K. “The Old Testament Background of the ‘Last Hour’ in 1 John 2,18”. *Biblica* 92 (2011): 231–254. Resumo e páginas selecionadas, não leitura integral.
-- COLLINS, John J.; COLLINS, Adela Yarbro. *Daniel: A Commentary on the Book of Daniel*. Hermeneia. Minneapolis: Fortress, 1993. Excertos pp. 337–341 e 385–398, em registros sucessivos.
-- STRECKER, Georg. *The Johannine Letters*. 1996, pp. 74–77. Excerto; dados de publicação a conferir.
+- COLLINS, John J. *Daniel: A Commentary on the Book of Daniel*. Com ensaio “The Influence of Daniel on the New Testament”, de Adela Yarbro Collins. Ed. Frank Moore Cross. Hermeneia. Minneapolis: Fortress Press, 1993. Dados confirmados em catálogo bibliográfico e folha de rosto digital; excertos pp. 337–341 e 385–398 recebidos na pesquisa, sem cotejo independente das páginas.
+- STRECKER, Georg. *The Johannine Letters: A Commentary on 1, 2, and 3 John*. Trad. Linda M. Maloney. Ed. Harold W. Attridge. Hermeneia. Minneapolis: Fortress Press, 1996. Metadados confirmados em catálogos bibliográficos e registro editorial; excerto pp. 74–77 recebido na pesquisa, sem cotejo independente das páginas.
 - IRINEU. *Adversus haereses* 1.26.1; 3.3.4. Traduções portuguesas fornecidas, sem edição ou tradutor confirmados.
 
 ## Fontes consultadas na pesquisa, mas não citadas diretamente na argumentação desta versão
