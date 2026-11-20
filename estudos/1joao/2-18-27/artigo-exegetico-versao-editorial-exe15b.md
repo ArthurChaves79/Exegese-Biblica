@@ -74,7 +74,7 @@ João interpreta a ruptura na última hora para reafirmar a verdade já conhecid
 
 [^4]: Strecker, *The Johannine Letters* (1996), pp. 76–77, conforme excerto fornecido e registrado na Rodada 12. A preferência pelo imperativo acompanha a progressão do discurso, sem eliminar a ambiguidade formal entre indicativo e imperativo; a variante futura μενεῖτε é questão textual distinta.
 
-[^5]: BDAG, verbete χρῖσμα, excerto em `fonte-bdag-chrisma-rodada-06.md`; TDNT, verbete χρῖσμα, excerto em `fonte-tdnt-chrisma-rodada-06.md`; conferir ainda os paralelos canônicos citados no parágrafo. Os excertos lexicográficos não tornam “Espírito” uma equivalência lexical automática. A inferência é contextual e canônica.
+[^5]: BDAG, verbete χρῖσμα, excerto em `fonte-bdag-chrisma-rodada-06.md`; TDNT, verbete χρῖσμα, excerto em `fonte-tdnt-chrisma-rodada-06.md`; conferir ainda os paralelos canônicos citados no parágrafo. Os excertos lexicográficos não tornam “Espírito” uma equivalência lexical automática. A inferência é contextual e canônica. **Controle textual:** o excerto TDNT cita οἴδατε πάντα em 2.20, ao passo que esta pesquisa adota οἴδατε πάντες; por isso, não se pode transferir sem ressalva a inferência de conhecimento universal do verbete para o texto adotado.
 
 ## Referências utilizadas e estado de conferência
 
@@ -83,7 +83,7 @@ As referências abaixo identificam obras ou testemunhos efetivamente mobilizados
 **Texto e instrumentos linguísticos**
 
 - *Novum Testamentum Graece*, 28ª ed. (NA28), 2012, pp. 718–719: texto e aparato de 1João 2.18–27 recebidos em transcrição; sem colação autóptica de testemunhos. Ver `critica-textual-rodada-02.md` e complementos.
-- BDAG, verbetes χρῖσμα, ἅγιος e μένω: excertos recebidos; edição e paginação devem ser conferidas antes de normalização definitiva. O valor pneumatológico de χρῖσμα é interpretação contextual, não definição lexical exclusiva.
+- ARNDT, W. et al. *A Greek-English Lexicon of the New Testament and Other Early Christian Literature* (BDAG). Chicago: University of Chicago Press, 2000. Excertos recebidos dos verbetes χρῖσμα, ἅγιος e μένω; autoria bibliográfica transcrita de `fonte-bdag-chrisma-rodada-06.md`, sem cotejo da edição completa nem conferência de páginas. O valor pneumatológico de χρῖσμα é interpretação contextual, não definição lexical exclusiva.
 - TDNT, verbete “χρίω, χριστός, ἀντίχριστος, χρῖσμα, χριστιανός”, atribuído no registro recebido a W. Grundmann et al., em G. Kittel, G. W. Bromiley e G. Friedrich (eds.), *Theological Dictionary of the New Testament*, v. 9, p. 572 (Grand Rapids: Eerdmans, 1964–): identificação transcrita de `fonte-tdnt-chrisma-rodada-06.md`; autoria, edição e paginação **não cotejadas independentemente**.
 - WALLACE, Daniel B. *Gramática Grega: Uma Sintaxe Exegética do Novo Testamento*. Trad. Roque Nascimento Albuquerque. São Paulo: Editora Batista Regular, 2009, pp. 473–474: categoria propósito-resultado de ἵνα; o excerto **não** comenta diretamente 1João 2.19. As pp. 312–314 foram examinadas somente como controle metodológico, sem função probatória direta nesta perícope.
 
