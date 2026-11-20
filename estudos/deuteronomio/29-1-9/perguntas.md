@@ -1,0 +1,27 @@
+# Registro de perguntas — Dt 29.1–9
+
+**Categorias:** D = decisiva; R = relevante; C = complementar. **Estados:** aberta, parcial, respondida provisoriamente. Prioridade não equivale à confiança da resposta.
+
+| ID | Prioridade | Pergunta | Estado / evidência atual |
+|---|---|---|---|
+| DT29-P01 | D | Onde começa a unidade: 29.1 ou 29.2? | Parcial: fórmula pactual em 29.1; convocação explícita em 29.2; falta confronto acadêmico. |
+| DT29-P02 | R | Onde termina a unidade: 29.9 ou adiante? | Parcial: exortação em 29.9; assembleia em 29.10, mas discurso continua. |
+| DT29-P03 | D | Qual a relação entre as alianças de Moabe e Horebe? | Aberta: `מִלְּבַד` distingue, mas não define identidade teológica. |
+| DT29-P04 | D | Como Israel viu os atos de Deus e não recebeu olhos para ver? | Parcial: contraste lexical entre 29.2–3 e 29.4; natureza da percepção aberta. |
+| DT29-P05 | D | O que é `לֵב לָדַעַת`, coração para conhecer? | Aberta: sentido lexical/contextual ainda não estabelecido. |
+| DT29-P06 | D | O que implica Deus ser sujeito de `לֹא־נָתַן`? | Parcial: sujeito explícito; razão, alcance e relação com endurecimento não expressos. |
+| DT29-P07 | D | O que significa `עַד הַיּוֹם הַזֶּה`? | Parcial: limite temporal; não prova mudança imediata. |
+| DT29-P08 | D | Como conciliar 29.4 com `para que soubésseis` de 29.6? | Parcial: finalidade não equivale a resultado alcançado. |
+| DT29-P09 | D | Como conciliar não concessão divina e exortação de 29.9? | Aberta: ordem real não prova capacidade autônoma. |
+| DT29-P10 | R | Quem fala em primeira pessoa em 29.5–6? | Parcial: 29.6 identifica SENHOR; representação discursiva a verificar. |
+| DT29-P11 | R | Por que roupas, sandálias, pão e bebidas são lembrados? | Parcial: preservação/provisão; detalhes históricos pendentes. |
+| DT29-P12 | R | Qual a função de Seom, Ogue e da distribuição da terra? | Parcial: conclusão histórica da retrospectiva; verificar contexto. |
+| DT29-P13 | D | O que significa `תַּשְׂכִּילוּ` em 29.9? | Aberta: agir sabiamente/ter êxito; estudo lexical necessário. |
+| DT29-P14 | R | Alternância de singular e plural tem função pactual? | Aberta: verificar distribuição em Deuteronômio. |
+| DT29-P15 | D | Qual a intenção comunicativa dominante da unidade? | Parcial: memória histórica e exortação pactual; 29.4 cria tensão. |
+| DT29-P16 | R | Que relação há entre conhecimento, percepção e obediência? | Aberta: análise lexical e canônica. |
+| DT29-P17 | R | A condição descrita em 29.4 é daquela geração ou de Israel coletivamente? | Aberta: horizonte histórico e destinatários. |
+| DT29-P18 | C | Por que o povo é convocado a recordar acontecimentos conhecidos? | Parcial: função retórica de memória pactual. |
+| DT29-P19 | D | Há variantes textuais que alterem 29.4 ou outras decisões? | Aberta: aparato BHS/BHQ e testemunhos não confrontados. |
+
+**Nota de preservação:** este é um registro consolidado, não a transcrição das 35 perguntas iniciais e das questões subsequentes. A lista detalhada continua na conversa de origem e pode ser migrada integralmente em revisão posterior.
