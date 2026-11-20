@@ -1,6 +1,6 @@
 # A última hora, a confissão do Filho e a permanência: 1João 2.18–27
 
-*Versão acadêmica de leitura — EXE-15B, segunda passagem editorial. Revisão provisória: não substitui o manuscrito cumulativo nem constitui entrega bibliográfica definitivamente conferida.*
+*Versão acadêmica consolidada para estudo e circulação interna — EXE-15B, encerramento técnico na Rodada 35. Não substitui o manuscrito cumulativo. A bibliografia preserva limites de consulta e poderá ser complementada se houver futura submissão para publicação.*
 
 ## Resumo
 
@@ -108,4 +108,4 @@ As obras abaixo permanecem no **acervo documental** e não integram, por ora, a 
 
 **Auditoria das notas [^1]–[^5] (Rodada 32):** as cinco chamadas no corpo têm definições e remetem às oito entradas classificadas como citadas. A nota [^1] articula Beale e Collins; [^2], Wallace; [^3], Irineu e Strecker; [^4], Strecker; [^5], BDAG e TDNT. A entrada NA28 é a base textual explicitamente identificada no corpo e na bibliografia, sem nota própria. A verificação é **interna ao documento**, não confirmação das edições originais. Ver `auditoria-notas-exe15b-rodada-32.md`.
 
-**Critério de conclusão:** esta é uma bibliografia editorial **provisória e rastreável**, não uma lista normalizada definitivamente segundo ABNT ou periódico. Antes de publicação, verificar as edições, a autoria dos verbetes, os dados editoriais e as páginas citadas. Os relatórios `cotejo-referencias-exe15b-rodada-30.md` e `controle-strecker-themelios-bibliografia-rodada-25.md` preservam a trilha de proveniência.
+**Estado de encerramento (Rodada 35):** a EXE-15B está **tecnicamente concluída para estudo e circulação acadêmica interna**. Esta bibliografia é rastreável e suficiente para a finalidade presente, mas não foi normalizada definitivamente para um periódico ou segundo a ABNT. A eventual conferência adicional de edições, autoria de verbetes, traduções e páginas fica **arquivada como anotação para necessidade futura**, não como tarefa pendente do trabalho atual. Não se atribui a fontes consultadas parcialmente o estatuto de leitura integral. Ver `anotacoes-bibliograficas-para-uso-futuro-exe15b-rodada-35.md`, `cotejo-referencias-exe15b-rodada-30.md` e `controle-strecker-themelios-bibliografia-rodada-25.md`.
