@@ -31,4 +31,6 @@
 
 | DT29-P23 | R | O «até este dia» de Dt 29.4 pertence ao presente da fala mosaica ou ao horizonte de redação posterior? | Aberta: recorrência de fórmula retrospectiva não demonstra interpolação; conferir composição e testemunhos. |
 
+| DT29-P24 | R | Como Dt 29.14–15 estende a aliança aos ausentes e o que isso indica sobre o «hoje» do discurso? | Parcial: alcance além dos presentes é explícito; identificação exclusiva com gerações futuras e relação com redação posterior permanecem abertas. |
+
 **Nota de preservação:** este é um registro consolidado, não a transcrição das 35 perguntas iniciais e das questões subsequentes. A lista detalhada continua na conversa de origem e pode ser migrada integralmente em revisão posterior.
