@@ -60,3 +60,8 @@ Atualizar cadastro `documentos.json` conforme seu esquema real; executar testes,
 - Nota `EXE-01B-05-alianca-Moabe-Horebe.md` criada e argumento integrado ao manuscrito.
 - `מִלְּבַד` distingue duas referências pactuais, sem demonstrar revogação nem equivaler lexicalmente a renovação. Dt 5.2–3 e 29.10–15 sustentam continuidade coletiva/transgeracional.
 - Delimitação de 29.1, crítica composicional e confronto bibliográfico seguem abertos. EXE-06 ainda parcial.
+
+## Transmissão intergeracional da lei — Dt 31.9–13
+- Nota `EXE-05-06-transmissao-alianca-Dt31-9-13.md` criada; manuscrito e pergunta DT29-P25 atualizados.
+- Leitura pública septenal, assembleia inclusiva, finalidade de ouvir/aprender/temer/guardar, filhos que ainda não conheceram. Distinguir ensino da Torá de concessão de coração para conhecer em 29.4 e da promessa de 30.6.
+- Pendente delimitação de 'esta lei' e EXE-06 integral; não declarar EXE-07 ou EXE-09 concluídas.
