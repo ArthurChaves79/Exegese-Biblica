@@ -35,4 +35,6 @@
 
 | DT29-P25 | R | Como a leitura pública de Dt 31.9–13 se relaciona com o coração e os ouvidos de Dt 29.4? | Parcial: leitura intergeracional e aprendizagem são prescritas; não equivalem automaticamente à concessão divina da receptividade interior. |
 
+| DT29-P26 | R | A análise contextual de נתן, ראה e שמע exige alterar a tradução formal de 29.4? | Respondida provisoriamente: não; manter dar/ver/ouvir e explicar a receptividade pactual no comentário. Verbetes especializados ainda pendentes. |
+
 **Nota de preservação:** este é um registro consolidado, não a transcrição das 35 perguntas iniciais e das questões subsequentes. A lista detalhada continua na conversa de origem e pode ser migrada integralmente em revisão posterior.
