@@ -50,3 +50,8 @@ Atualizar cadastro `documentos.json` conforme seu esquema real; executar testes,
 - Hipótese do pesquisador arquivada em `EXE-05-07-ad-hayyom-hazzeh-formula-retrospectiva.md`: possível nota retrospectiva de instância composicional/redacional.
 - Comparações preliminares Dt 2.22; 3.14; 10.8; 34.6. Distinguir dêixis no discurso de Moisés de possível atualização posterior; recorrência não prova interpolação.
 - Manuscrito e pergunta DT29-P07 atualizados; DT29-P23 acrescentada. Tradução permanece inalterada. Falta crítica composicional e confronto de testemunhos.
+
+## Moldura narrativa e alcance transgeracional
+- Arquivada análise preliminar `EXE-05-07-moldura-discursiva-Dt29-30.md`: evento de Moabe, fala mosaica e organização narrativa distinguidos.
+- Dt 29.14–15 amplia o alcance da aliança para além dos presentes; não prova, por si só, interpolação editorial de 29.4.
+- Manuscrito integrado e pergunta DT29-P24 adicionada. EXE-07 segue exploratória; EXE-06 e crítica composicional não concluídas.
