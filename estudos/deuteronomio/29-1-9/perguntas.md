@@ -6,7 +6,7 @@
 |---|---|---|---|
 | DT29-P01 | D | Onde começa a unidade: 29.1 ou 29.2? | Parcial: fórmula pactual em 29.1; convocação explícita em 29.2; falta confronto acadêmico. |
 | DT29-P02 | R | Onde termina a unidade: 29.9 ou adiante? | Parcial: exortação em 29.9; assembleia em 29.10, mas discurso continua. |
-| DT29-P03 | D | Qual a relação entre as alianças de Moabe e Horebe? | Aberta: `מִלְּבַד` distingue, mas não define identidade teológica. |
+| DT29-P03 | D | Qual a relação entre as alianças de Moabe e Horebe? | Parcial: `מִלְּבַד` distingue as ocasiões; Dt 5.2–3 e 29.10–15 mostram continuidade coletiva; renovação é hipótese contextual, não tradução literal. |
 | DT29-P04 | D | Como Israel viu os atos de Deus e não recebeu olhos para ver? | Parcial: contraste lexical entre 29.2–3 e 29.4; natureza da percepção aberta. |
 | DT29-P05 | D | O que é `לֵב לָדַעַת`, coração para conhecer? | Parcial: Luc e Strong confirmam amplitude de interioridade e Fretheim esclarece ידע; função exata na tríade continua em exame. |
 | DT29-P06 | D | O que implica Deus ser sujeito de `לֹא־נָתַן`? | Parcial: sujeito explícito; razão, alcance e relação com endurecimento não expressos. |
