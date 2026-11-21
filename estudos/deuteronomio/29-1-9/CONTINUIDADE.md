@@ -65,3 +65,8 @@ Atualizar cadastro `documentos.json` conforme seu esquema real; executar testes,
 - Nota `EXE-05-06-transmissao-alianca-Dt31-9-13.md` criada; manuscrito e pergunta DT29-P25 atualizados.
 - Leitura pública septenal, assembleia inclusiva, finalidade de ouvir/aprender/temer/guardar, filhos que ainda não conheceram. Distinguir ensino da Torá de concessão de coração para conhecer em 29.4 e da promessa de 30.6.
 - Pendente delimitação de 'esta lei' e EXE-06 integral; não declarar EXE-07 ou EXE-09 concluídas.
+
+## Aprofundamento lexical contextual de Dt 29.4
+- Nota `EXE-06-aprofundamento-natan-raah-shama.md` criada; manuscrito ampliado sem alterar a tradução formal.
+- נתן: não concessão, sem equiparação lexical a endurecimento; ראה: contraste visão ocular/apreensão; שמע: ouvir no contexto pactual, não automaticamente obedecer.
+- EXE-06 permanece parcial por falta de confronto integral dos verbetes especializados de נתן/ראה/שמע e de algumas questões sintáticas; nenhuma auditoria independente foi realizada.
