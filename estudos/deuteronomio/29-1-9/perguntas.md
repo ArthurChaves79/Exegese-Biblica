@@ -11,8 +11,8 @@
 | DT29-P05 | D | O que é `לֵב לָדַעַת`, coração para conhecer? | Parcial: Luc e Strong confirmam amplitude de interioridade e Fretheim esclarece ידע; função exata na tríade continua em exame. |
 | DT29-P06 | D | O que implica Deus ser sujeito de `לֹא־נָתַן`? | Parcial: sujeito explícito; razão, alcance e relação com endurecimento não expressos. |
 | DT29-P07 | D | O que significa `עַד הַיּוֹם הַזֶּה`? | Parcial: limite temporal; não prova mudança imediata. |
-| DT29-P08 | D | Como conciliar 29.4 com `para que soubésseis` de 29.6? | Parcial: finalidade não equivale a resultado alcançado. |
-| DT29-P09 | D | Como conciliar não concessão divina e exortação de 29.9? | Aberta: ordem real não prova capacidade autônoma. |
+| DT29-P08 | D | Como conciliar 29.4 com `para que soubésseis` de 29.6? | Parcial: finalidade não equivale a resultado alcançado; Dt 4.35 e 8.3 corroboram finalidade reveladora sem comprovar assimilação universal. |
+| DT29-P09 | D | Como conciliar não concessão divina e exortação de 29.9? | Parcial: ordem real não prova capacidade autônoma; Dt 30.6 oferece contraponto futuro sobre o coração, sem resolver diretamente 29.4. |
 | DT29-P10 | R | Quem fala em primeira pessoa em 29.5–6? | Parcial: 29.6 identifica SENHOR; representação discursiva a verificar. |
 | DT29-P11 | R | Por que roupas, sandálias, pão e bebidas são lembrados? | Parcial: preservação/provisão; detalhes históricos pendentes. |
 | DT29-P12 | R | Qual a função de Seom, Ogue e da distribuição da terra? | Parcial: conclusão histórica da retrospectiva; verificar contexto. |
