@@ -45,3 +45,8 @@ Atualizar cadastro `documentos.json` conforme seu esquema real; executar testes,
 - Dt 30.2 descreve retorno/ouvir antes de 30.6; 30.8 retoma obediência após 30.6. Não converter a sequência em ordo salutis individual nem presumir autonomia humana.
 - Hipótese canônica de Pedro preservada em `EXE-09-hipotese-canonica-Pedro-coracao.md`, sem conclusão de EXE-09.
 - Permanecem pendentes verbetes específicos נתן/ראה/שמע, sintaxe de אֵת em 29.9, auditoria e fechamento das etapas.
+
+## Hipótese histórico-redacional — «até este dia»
+- Hipótese do pesquisador arquivada em `EXE-05-07-ad-hayyom-hazzeh-formula-retrospectiva.md`: possível nota retrospectiva de instância composicional/redacional.
+- Comparações preliminares Dt 2.22; 3.14; 10.8; 34.6. Distinguir dêixis no discurso de Moisés de possível atualização posterior; recorrência não prova interpolação.
+- Manuscrito e pergunta DT29-P07 atualizados; DT29-P23 acrescentada. Tradução permanece inalterada. Falta crítica composicional e confronto de testemunhos.
