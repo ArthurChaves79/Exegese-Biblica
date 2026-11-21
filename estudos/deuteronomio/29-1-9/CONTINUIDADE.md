@@ -34,3 +34,8 @@ Atualizar cadastro `documentos.json` conforme seu esquema real; executar testes,
 - Hipótese canônica registrada: relação entre provação, conhecimento, murmuração, perseverança e sabedoria (Dt 8; Ex 16; Nm 14; Rm 5; Tg 1), sem alegar alusão literária ou resultado necessário.
 - Próximo passo: concluir exame lexical de נתן, ראה, שמע e comparar Dt 4.29–35; 8.2–5; 30.6; prosseguir para EXE-07 após fechamento explícito das pendências relevantes.
 - Permanecem pendentes atualização do cadastro documental, auditoria independente, selo e verificação; branch de pesquisa não integrada à main.
+
+## Confronto intratextual subsequente
+- Dt 4.29–35; 8.2–5; 30.6 confrontados com Dt 29.2–9; nota `EXE-06-05-confronto-intratextual-Dt4-8-30.md` arquivada.
+- Manuscrito cumulativo ampliado com os argumentos e limites dessa comparação. A promessa de 30.6 não foi tratada como realização já ocorrida em 29.4.
+- EXE-06 permanece parcial, com exame de verbetes específicos de נתן, ראה e שמע e valor sintático de אֵת em 29.9 pendentes. EXE-07 ainda não iniciada formalmente.
