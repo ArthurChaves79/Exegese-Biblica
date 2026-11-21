@@ -39,3 +39,9 @@ Atualizar cadastro `documentos.json` conforme seu esquema real; executar testes,
 - Dt 4.29–35; 8.2–5; 30.6 confrontados com Dt 29.2–9; nota `EXE-06-05-confronto-intratextual-Dt4-8-30.md` arquivada.
 - Manuscrito cumulativo ampliado com os argumentos e limites dessa comparação. A promessa de 30.6 não foi tratada como realização já ocorrida em 29.4.
 - EXE-06 permanece parcial, com exame de verbetes específicos de נתן, ראה e שמע e valor sintático de אֵת em 29.9 pendentes. EXE-07 ainda não iniciada formalmente.
+
+## Retorno e circuncisão do coração — Dt 30.1–10
+- Arquivada análise intratextual em `EXE-05-06-Dt30-retorno-restauracao-coracao.md` e integrado argumento sustentado ao manuscrito.
+- Dt 30.2 descreve retorno/ouvir antes de 30.6; 30.8 retoma obediência após 30.6. Não converter a sequência em ordo salutis individual nem presumir autonomia humana.
+- Hipótese canônica de Pedro preservada em `EXE-09-hipotese-canonica-Pedro-coracao.md`, sem conclusão de EXE-09.
+- Permanecem pendentes verbetes específicos נתן/ראה/שמע, sintaxe de אֵת em 29.9, auditoria e fechamento das etapas.
