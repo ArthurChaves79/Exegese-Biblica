@@ -13,4 +13,6 @@
 | DT29-D09 | Considerar 29.4 uma tensão interpretativa, não centro exclusivo demonstrado | Contraste e repetição ver/conhecer | Discurso inteiro tem orientação pactual | Moderado |
 | DT29-D10 | Não certificar estabilidade textual global | Sem aparato integral efetivamente consultado | Verificar BHS/BHQ, LXX, Samaritano, Qumran | Alta confiança na necessidade de revisão |
 
+| DT29-D11 | Tratar Moabe como ocasião pactual distinta de Horebe, sem afirmar revogação ou nova aliança escatológica | `מִלְּבַד` em 29.1; Dt 5.2–3; 29.10–15 | Renovação/reafirmação plausível, mas não significado lexical; função de 29.1 aberta | Alto para distinção; moderado para continuidade |
+
 Decisões acima são reconstrução crítica da conversa; **não representam auditoria independente nem consenso acadêmico**. Revisões futuras devem registrar decisão anterior, nova decisão, motivo e dependentes.
