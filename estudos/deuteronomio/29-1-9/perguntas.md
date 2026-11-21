@@ -33,4 +33,6 @@
 
 | DT29-P24 | R | Como Dt 29.14–15 estende a aliança aos ausentes e o que isso indica sobre o «hoje» do discurso? | Parcial: alcance além dos presentes é explícito; identificação exclusiva com gerações futuras e relação com redação posterior permanecem abertas. |
 
+| DT29-P25 | R | Como a leitura pública de Dt 31.9–13 se relaciona com o coração e os ouvidos de Dt 29.4? | Parcial: leitura intergeracional e aprendizagem são prescritas; não equivalem automaticamente à concessão divina da receptividade interior. |
+
 **Nota de preservação:** este é um registro consolidado, não a transcrição das 35 perguntas iniciais e das questões subsequentes. A lista detalhada continua na conversa de origem e pode ser migrada integralmente em revisão posterior.
