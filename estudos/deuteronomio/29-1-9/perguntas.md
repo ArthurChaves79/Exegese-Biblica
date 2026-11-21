@@ -27,4 +27,6 @@
 | DT29-P20 | R | A tríade coração/olhos/ouvidos descreve capacidades independentes ou receptividade abrangente? | Parcial: coordenação sob «não deu» e contraste com visão física favorecem caracterização abrangente; estudo idiomático pendente. |
 | DT29-P21 | R | Como provação, murmuração, conhecimento e sabedoria se relacionam no cânon? | Aberta: hipótese temática para Dt 8; Ex 16; Nm 14; Rm 5; Tg 1; não atribuir dependência literária sem evidência. |
 
+| DT29-P22 | D | A sequência de retorno (Dt 30.2), circuncisão divina (30.6) e obediência (30.8) estabelece ordem causal de conversão e regeneração? | Parcial: a ordem discursiva é explícita; não prova ordem técnica individual. Verificar contexto de restauração e alternativas. |
+
 **Nota de preservação:** este é um registro consolidado, não a transcrição das 35 perguntas iniciais e das questões subsequentes. A lista detalhada continua na conversa de origem e pode ser migrada integralmente em revisão posterior.
