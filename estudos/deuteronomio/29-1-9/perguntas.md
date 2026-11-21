@@ -24,7 +24,7 @@
 | DT29-P18 | C | Por que o povo é convocado a recordar acontecimentos conhecidos? | Parcial: função retórica de memória pactual. |
 | DT29-P19 | D | Há variantes textuais que alterem 29.4 ou outras decisões? | Aberta: aparato BHS/BHQ e testemunhos não confrontados. |
 
-**Nota de preservação:** este é um registro consolidado, não a transcrição das 35 perguntas iniciais e das questões subsequentes. A lista detalhada continua na conversa de origem e pode ser migrada integralmente em revisão posterior.
-
 | DT29-P20 | R | A tríade coração/olhos/ouvidos descreve capacidades independentes ou receptividade abrangente? | Parcial: coordenação sob «não deu» e contraste com visão física favorecem caracterização abrangente; estudo idiomático pendente. |
 | DT29-P21 | R | Como provação, murmuração, conhecimento e sabedoria se relacionam no cânon? | Aberta: hipótese temática para Dt 8; Ex 16; Nm 14; Rm 5; Tg 1; não atribuir dependência literária sem evidência. |
+
+**Nota de preservação:** este é um registro consolidado, não a transcrição das 35 perguntas iniciais e das questões subsequentes. A lista detalhada continua na conversa de origem e pode ser migrada integralmente em revisão posterior.
