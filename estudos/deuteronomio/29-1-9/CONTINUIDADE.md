@@ -55,3 +55,8 @@ Atualizar cadastro `documentos.json` conforme seu esquema real; executar testes,
 - Arquivada análise preliminar `EXE-05-07-moldura-discursiva-Dt29-30.md`: evento de Moabe, fala mosaica e organização narrativa distinguidos.
 - Dt 29.14–15 amplia o alcance da aliança para além dos presentes; não prova, por si só, interpolação editorial de 29.4.
 - Manuscrito integrado e pergunta DT29-P24 adicionada. EXE-07 segue exploratória; EXE-06 e crítica composicional não concluídas.
+
+## Relação entre as alianças de Horebe e Moabe
+- Nota `EXE-01B-05-alianca-Moabe-Horebe.md` criada e argumento integrado ao manuscrito.
+- `מִלְּבַד` distingue duas referências pactuais, sem demonstrar revogação nem equivaler lexicalmente a renovação. Dt 5.2–3 e 29.10–15 sustentam continuidade coletiva/transgeracional.
+- Delimitação de 29.1, crítica composicional e confronto bibliográfico seguem abertos. EXE-06 ainda parcial.
