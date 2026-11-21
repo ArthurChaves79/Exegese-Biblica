@@ -25,3 +25,12 @@ Executar EXE-06 conforme `metodo/METODO.md`: estudar `לֵב`, `ידע`, `ראה
 
 ## Antes de integrar na main
 Atualizar cadastro `documentos.json` conforme seu esquema real; executar testes, auditoria, selo e verificação em clone adequado; revisar diferenças e dependências. A criação remota dos arquivos não equivale à execução dessas verificações.
+
+## Atualização de continuidade — 20/11/2026
+- EXE-02: notas de BHS, Swete, Göttingen e Hexaplar arquivadas; não declarar aparato integral auditado.
+- EXE-04: notas sobre wəqatal e morfologia grega arquivadas.
+- EXE-06: notas lexicais de לֵב (Luc, Strong), ידע (Fretheim), עשה (Carpenter), שכל (Fretheim), confronto com Js 1.7–8 e tríade נתן/ראה/שמע (análise contextual, verbetes específicos ainda pendentes).
+- Manuscrito cumulativo atualizado com as conclusões sustentadas sobre a tríade e a opção provisória de tradução de שכל.
+- Hipótese canônica registrada: relação entre provação, conhecimento, murmuração, perseverança e sabedoria (Dt 8; Ex 16; Nm 14; Rm 5; Tg 1), sem alegar alusão literária ou resultado necessário.
+- Próximo passo: concluir exame lexical de נתן, ראה, שמע e comparar Dt 4.29–35; 8.2–5; 30.6; prosseguir para EXE-07 após fechamento explícito das pendências relevantes.
+- Permanecem pendentes atualização do cadastro documental, auditoria independente, selo e verificação; branch de pesquisa não integrada à main.
