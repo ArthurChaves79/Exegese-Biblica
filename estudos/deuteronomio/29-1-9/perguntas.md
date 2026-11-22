@@ -49,4 +49,6 @@
 
 | DT29-P33 | R | A entrada na aliança de 29.10–15 determina a direção da fórmula «palavras da aliança» de 29.1? | Parcial: favorece leitura prospectiva pela correspondência com a assembleia e o «hoje», mas também admite ratificação de estipulações anteriores; exame de paralelos de עבר בברית e אלה pendente. |
 
+| DT29-P34 | D | Como «entrar na aliança e em seu juramento» (29.12) prepara a advertência de 29.16–29? | Parcial: אָלָה em 29.12 é retomada pelas «palavras desta imprecação» em 29.19 e pelas sanções de 29.20–21; não prova rito sacrificial em Moabe nem decide direção de 29.1. |
+
 **Nota de preservação:** este é um registro consolidado, não a transcrição das 35 perguntas iniciais e das questões subsequentes. A lista detalhada continua na conversa de origem e pode ser migrada integralmente em revisão posterior.
