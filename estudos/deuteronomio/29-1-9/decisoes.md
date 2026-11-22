@@ -9,7 +9,7 @@
 | DT29-D05 | Não inferir mudança de condição a partir de até este dia | `עַד הַיּוֹם הַזֶּה` | Mudança posterior pode ser examinada no contexto | Moderado |
 | DT29-D06 | Tratar 29.6 como finalidade expressa, não prova de realização | `לְמַעַן תֵּדְעוּ` | Alcance da finalidade no discurso permanece aberto | Alto |
 | DT29-D07 | Tratar 29.9 como exortação conclusiva local | Formas diretivas e posição discursiva | Não provar centro exclusivo | Alto |
-| DT29-D08 | Não fixar `תַּשְׂכִּילוּ` como prosperidade material | Campo de agir sabiamente/êxito | Exige estudo lexical em contexto | Moderado |
+| DT29-D08 | Manter provisoriamente «ter êxito» em 29.9, sem reduzi-lo à prosperidade material | Forma hiphil, marcador de objeto direto אֵת; Ibn Ezra explica como תצליחו; paralelo Js 1.7–8 | LXX privilegia compreensão; regência e verbetes especializados ainda a confrontar | Moderado |
 | DT29-D09 | Considerar 29.4 uma tensão interpretativa, não centro exclusivo demonstrado | Contraste e repetição ver/conhecer | Discurso inteiro tem orientação pactual | Moderado |
 | DT29-D10 | Não certificar estabilidade textual global | Sem aparato integral efetivamente consultado | Verificar BHS/BHQ, LXX, Samaritano, Qumran | Alta confiança na necessidade de revisão |
 
