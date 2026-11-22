@@ -126,3 +126,8 @@ Atualizar cadastro `documentos.json` conforme seu esquema real; executar testes,
 - Criada `EXE-01B-paralelos-Levitico-Numeros-formulas.md`, com dados, bibliografia e distinção de fonte direta/indireta.
 - Fórmulas semelhantes funcionam como subscrições em Lv/Nm, mas estudo de Lohfink sobre fórmulas demonstrativas mostra emprego tanto introdutório quanto conclusivo.
 - Subscrição em Dt 29.1 fortalecida como possibilidade, não decidida; examinar referente de «palavras da aliança» e Dt 29.10–15.
+
+## Entrada na aliança em Dt 29.10–15 — 22/11/2026
+- Criada `EXE-01B-05-entrada-na-alianca-Dt29-10-15.md` e integrada a progressão ao manuscrito.
+- A assembleia de 29.10–11, entrada na aliança/juramento em 29.12, finalidade de 29.13 e extensão aos ausentes em 29.14–15 fortalecem superscrição de 29.1, mas não eliminam subscrição.
+- Registrada DT29-P33; 29.9 continua fecho local, não encerramento do discurso. Próximo: paralelos de עבר בברית, אלה e contexto 29.16ss.
