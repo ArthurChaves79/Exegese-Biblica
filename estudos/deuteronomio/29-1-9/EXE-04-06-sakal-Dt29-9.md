@@ -22,3 +22,12 @@ O sentido preciso de `שׂכל` qualifica a finalidade da exortação, mas não 
 
 ## Pendências e próximo passo
 Conferir verbetes de `שׂכל` em HALOT/DCH/NIDOTTE ou equivalentes identificados, gramáticas sobre hiphil e `אֵת`, ocorrências com regência semelhante, edições hebraica e grega específicas, e confrontar as alternativas. EXE-06 continua parcial; EXE-11 não concluído.
+
+## Confronto adicional com testemunhos acessíveis — 22/11/2026
+A comparação pública do Westminster Leningrad Codex e do Códice de Alepo exibe `תשכילו את כל אשר תעשון`; as análises interlineares identificam `אֵת` como marcador de objeto direto. Fontes consultadas: https://www.biblehub.com/texts/deuteronomy/29-9.htm ; https://biblehub.com/text/deuteronomy/29-9.htm . A concordância pontual não certifica crítica textual integral.
+
+O comentário de Ibn Ezra, reproduzido em https://he.israel.fm/texts/deuteronomy/29/8/ , explica `למען תשכילו` com `כמו תצליחו` ('como tereis êxito') e descreve a construção como transitiva. Trata-se de testemunho interpretativo medieval, não prova lexical independente e definitiva. A leitura 'ter êxito' ganha sustentação histórica e sintática adicional; o valor exato da transitividade e a nuance de discernimento permanecem sujeitos a gramáticas e léxicos especializados.
+
+A Septuaginta, conforme registro anterior, emprega `ἵνα συνῆτε πάντα ὅσα ποιήσετε`, enfatizando compreensão. O contraste entre versões não permite decidir se o tradutor grego compreendeu um valor cognitivo do hebraico ou o parafraseou. A alternativa 'proceder sabiamente' permanece defensável como explicação, mas não substitui a tradução de trabalho.
+
+**Decisão atualizada:** manter 'para que tenhais êxito em tudo o que fizerdes' (confiança moderada, agora melhor apoiada); registrar a possibilidade de 'para que conduzis a bom êxito tudo o que fizerdes' como aproximação da transitividade, sem adotá-la como versão final. Não inferir promessa irrestrita de prosperidade material. EXE-06 e crítica textual global continuam incompletas.
