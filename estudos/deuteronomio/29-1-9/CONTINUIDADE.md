@@ -110,3 +110,8 @@ Atualizar cadastro `documentos.json` conforme seu esquema real; executar testes,
 - Criada `EXE-01-01B-05-delimitacao-Dt29-1-10.md` e integrada ao manuscrito.
 - 29.2–9 favorecida como subunidade (retrospectiva→exortação); 29.10 apresenta a assembleia, sem novo locutor e sem ruptura pactual. 29.1 permanece rubrica de posição aberta.
 - Millar usado como interlocutor secundário; delimitação provisória, EXE-01/01B não certificadas como concluídas. Próximo: testar 28.69/29.1 e fórmulas macroestruturais.
+
+## Macroestrutura Dt 28–30 e fórmula de Moabe — 22/11/2026
+- Criada `EXE-01B-formula-Moabe-Dt28-69-29-1.md` e integrada ao manuscrito.
+- 29.1 cristão corresponde a 28.69 MT; testadas funções retrospectiva, prospectiva e articuladora. Articulação favorecida como hipótese, sem concluir origem editorial ou delimitação definitiva.
+- Pergunta DT29-P32 adicionada; verificar parashot, edições, fórmulas comparáveis e literatura crítica. EXE-01/01B permanecem parciais.
