@@ -80,3 +80,9 @@ Atualizar cadastro `documentos.json` conforme seu esquema real; executar testes,
 - Método reformado sincronizado nesta branch a partir do ramo principal; AGENTS.md atualizado para novos estudos e retomadas.
 - Criada nota `EXE-04-05-voz-e-finalidade-Dt29-5-6.md`: voz em primeira pessoa de 29.5 e autodeclaração de 29.6 atribuídas a YHWH; duas representações discursivas plausíveis; não alegar interpolação sem prova.
 - Manuscrito ampliado; DT29-P08 e P10 atualizadas. Próximo: examinar escopo de `לְמַעַן` e função de 29.9, além de pendências morfológicas e lexicais.
+
+## Orações de finalidade em 29.6 e 29.9 — 22/11/2026
+- Nota `EXE-04-05-finalidade-Dt29-6-9.md` criada; progressão das duas finalidades integrada ao manuscrito, DT29-P13/P27 atualizadas.
+- Em 29.6, finalidade do conhecimento vincula-se imediatamente à experiência no deserto; extensão temática à retrospectiva não é escopo sintático obrigatório.
+- Em 29.9, finalidade da observância está ligada à conduta e ao resultado; `תַּשְׂכִּילוּ אֵת` continua pendente, sem inferir prosperidade material irrestrita.
+- Próximo passo: sintaxe e léxico de שכל em 29.9, com controle de evidência; EXE-06 não concluído.
