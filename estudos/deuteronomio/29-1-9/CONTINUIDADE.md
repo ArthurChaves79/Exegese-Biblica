@@ -99,3 +99,9 @@ Atualizar cadastro `documentos.json` conforme seu esquema real; executar testes,
 ## Confronto externo de שׂכל — 22/11/2026
 - Nota `EXE-04-06-sakal-Dt29-9.md` ampliada com texto WLC/Alepo, identificação de אֵת como marcador de objeto e comentário de Ibn Ezra (כמו תצליחו), com URLs de procedência.
 - Manuscrito e decisão DT29-D08 atualizados: «ter êxito» mais sustentado, ainda provisório; não certificar aparato completo ou léxicos não consultados.
+
+## Dossiê bibliográfico Themelios e debate de Dt 29.4 — 22/11/2026
+- Criado `EXE-10-dossie-Themelios-Block-DeRouchie-2026-11-22.md` com links, procedência, argumentos, fontes primárias efetivamente lidas e referências indiretas.
+- DeRouchie (*Themelios* 44.2) e Millar (TGCBC) consultados; Block p. 676 e Grisanti 2006 apenas identificados/citados indiretamente, sem acesso ao texto integral.
+- Perguntas DT29-P30/P31 acrescentadas. Persistência da condição em 29.4 provisoriamente favorecida, sem equivaler a identificação técnica de regeneração.
+- Conservar artigos adicionais Themelios para EXE-09/10/12; próximo passo confronto direto de Block/Grisanti, fórmula temporal, Dt 31.21,27 e delimitação 29.9–10.
