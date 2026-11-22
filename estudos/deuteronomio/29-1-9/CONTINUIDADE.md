@@ -105,3 +105,8 @@ Atualizar cadastro `documentos.json` conforme seu esquema real; executar testes,
 - DeRouchie (*Themelios* 44.2) e Millar (TGCBC) consultados; Block p. 676 e Grisanti 2006 apenas identificados/citados indiretamente, sem acesso ao texto integral.
 - Perguntas DT29-P30/P31 acrescentadas. Persistência da condição em 29.4 provisoriamente favorecida, sem equivaler a identificação técnica de regeneração.
 - Conservar artigos adicionais Themelios para EXE-09/10/12; próximo passo confronto direto de Block/Grisanti, fórmula temporal, Dt 31.21,27 e delimitação 29.9–10.
+
+## Delimitação e transição 29.9–10 — 22/11/2026
+- Criada `EXE-01-01B-05-delimitacao-Dt29-1-10.md` e integrada ao manuscrito.
+- 29.2–9 favorecida como subunidade (retrospectiva→exortação); 29.10 apresenta a assembleia, sem novo locutor e sem ruptura pactual. 29.1 permanece rubrica de posição aberta.
+- Millar usado como interlocutor secundário; delimitação provisória, EXE-01/01B não certificadas como concluídas. Próximo: testar 28.69/29.1 e fórmulas macroestruturais.
