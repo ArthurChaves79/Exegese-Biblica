@@ -51,4 +51,6 @@
 
 | DT29-P34 | D | Como «entrar na aliança e em seu juramento» (29.12) prepara a advertência de 29.16–29? | Parcial: אָלָה em 29.12 é retomada pelas «palavras desta imprecação» em 29.19 e pelas sanções de 29.20–21; não prova rito sacrificial em Moabe nem decide direção de 29.1. |
 
+| DT29-P35 | D | Qual é a pergunta comunicativa que emerge de 29.2–9, e como cada movimento prepara 29.9? | Checkpoint: memória dos atos, tensão de 29.4, finalidade de conhecer em 29.6, conquistas e exortação de 29.9; hipótese comunicativa provisória integrada ao manuscrito. |
+
 **Nota de preservação:** este é um registro consolidado, não a transcrição das 35 perguntas iniciais e das questões subsequentes. A lista detalhada continua na conversa de origem e pode ser migrada integralmente em revisão posterior.
