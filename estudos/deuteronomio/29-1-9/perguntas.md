@@ -40,4 +40,6 @@
 | DT29-P27 | D | Qual pergunta a progressão de 29.2–9 efetivamente responde e como a retrospectiva conduz à ordem de 29.9? | Parcial: duas orações finais (29.6 e 29.9) reforçam progressão da preservação destinada ao conhecimento à guarda/prática da aliança; delimitação e sintaxe de 29.9 pendentes. |
 | DT29-P28 | D | A posição de 29.4 constitui centro estrutural ou tensão interpretativa no argumento que culmina em 29.9? | Parcial: 29.9 é desfecho diretivo; 29.4 é tensão decisiva, sem centralidade estrutural exclusiva demonstrada. |
 
+| DT29-P29 | R | Há continuidade antropológica e temática entre Gn 6.5; 8.21 e Dt 29.4, à luz de Dt 10.16 e 30.6? | Aberta para EXE-09/12: afinidade temática plausível; alusão literária específica não demonstrada; preservar distinção entre corrupção moral e receptividade à revelação. |
+
 **Nota de preservação:** este é um registro consolidado, não a transcrição das 35 perguntas iniciais e das questões subsequentes. A lista detalhada continua na conversa de origem e pode ser migrada integralmente em revisão posterior.
