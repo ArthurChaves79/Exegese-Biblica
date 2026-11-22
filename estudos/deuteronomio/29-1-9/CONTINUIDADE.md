@@ -136,3 +136,9 @@ Atualizar cadastro `documentos.json` conforme seu esquema real; executar testes,
 - Criada `EXE-04-05-avar-berit-alah-Dt29-12-29.md` e incorporada leitura discursiva ao manuscrito.
 - 29.12 (aliança/juramento) é retomado por 29.19 (palavras da imprecação), 29.20–21 (sanções) e 29.22–28 (explicação da devastação); a exortação de 29.9 prepara esse movimento.
 - Gn 15 e Jr 34 não demonstram rito de animais divididos em Moabe. DT29-P34 aberta parcialmente; conferir léxicos e paralelos, sem decidir 29.1.
+
+## Checkpoint de retorno ao texto — 22/11/2026
+- Criado `CHECKPOINT-comunicativo-retorno-Dt29-2-9-2026-11-22.md` e integrada a síntese ao manuscrito.
+- Pesquisa lateral sobre 29.1 e 29.10–29 suspensa após delimitação suficiente para prosseguir; dossiês preservados, controvérsias não artificialmente resolvidas.
+- Pergunta textual central: como Israel deve compreender os atos testemunhados e responder à aliança? Movimento 29.2–9 reavaliado; 29.4 como tensão, 29.9 como exortação conclusiva.
+- Próximo: retomar tradução de trabalho e comentário por unidades, verificando apenas pontos que alterem compreensão; EXE-11 ainda não concluído.
