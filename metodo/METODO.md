@@ -12,6 +12,18 @@ Investigar a passagem em profundidade linguística,literária,histórica,canôni
 
 A leitura reconhece pressupostos e compromissos teológicos,mas os submete à evidência textual. Síntese dogmática,afinidade confessional,experiência pastoral e utilidade de uma aplicação não decidem variantes,referentes ou sentidos lexicais. Considerar alternativas defensáveis e contraevidências. Uma pergunta pode permanecer aberta;isso não transforma toda interpretação em indecidível.
 
+### Regra transversal de orientação comunicativa — checkpoints de retorno ao texto
+
+Desde a leitura inicial, registrar separadamente (a) perguntas do pesquisador, inclusive teológicas e pastorais, e (b) a pergunta ou necessidade comunicativa que a própria passagem parece abordar. Esta segunda é hipótese revisável, demonstrada por palavras, ações, relações, progressão e desfecho, não pressuposta por interesse externo. Não forçar toda passagem a responder pergunta única: quando o gênero exigir, identificar funções comunicativas coordenadas.
+
+Manter uma **hipótese de compreensão provisória**, formulada em linguagem comum e acompanhada de: situação comunicativa, movimento do texto, conteúdo que torna conhecido, resposta que procura suscitar quando identificável, evidências decisivas, alternativa mais forte e lacunas capazes de alterar a leitura. Não confundir hipótese de leitura com EXE-11 concluído.
+
+Realizar checkpoints de retorno ao conjunto: após a leitura/delimitação inicial; após EXE-05–07; após comentário por unidades; antes de EXE-11; e antes de EXE-12–14 e entrega. Quando uma nova descoberta decisiva alterar a hipótese, repetir o checkpoint imediatamente. Em cada retorno, responder: (1) O que a passagem comunica? (2) Como cada movimento contribui para isso? (3) Que finalidade ou resposta o texto indica? (4) O que a investigação mudou na leitura inicial? (5) Qual elemento significativo ainda não foi explicado? (6) Que interpretação alternativa explica melhor algum dado?
+
+Cada aprofundamento lexical, histórico, redacional, canônico ou doutrinário deve indicar a **questão textual que o motivou**, o dado que examinou e o efeito efetivo sobre a compreensão. Se não alterar a leitura central, classificá-lo como esclarecimento, hipótese auxiliar ou excursus no acervo, sem promovê-lo automaticamente ao eixo do manuscrito. A falta de efeito não invalida a pesquisa, mas orienta sua proporção editorial. Não descartar dados contrários por serem secundários.
+
+Os checkpoints não substituem etapas técnicas, não certificam auditoria e não obrigam reescrever todo o estudo a cada avanço. Uma pergunta aberta bloqueia apenas a conclusão que depende dela. Registrar checkpoints no acervo; incorporar ao manuscrito somente resultados interpretativos demonstrados, sem linguagem de controle operacional.
+
 ## 2. Funções documentais distintas
 
 | Objeto | Conteúdo próprio | Relação |
@@ -78,6 +90,8 @@ Analisar orações principais e subordinadas,coordenação,sujeitos,complementos
 
 Identificar unidades,coesão lexical/referencial/conectiva,tema/reema,ênfases e relações de explicação,fundamentação,contraste,condição,propósito e resultado. Explicar progressão e função comunicativa segundo o gênero;em narrativa,examinar situação,conflitos,desenvolvimento,resolução e desfecho sem impor premissas de tratado. Quiasmo,ordem marcada e ênfase exigem evidência contextual. Não confundir aplicação interna ao discurso com aplicação contemporânea. Distinguir voz do narrador,fala de personagem e confiabilidade enunciativa antes de atribuir motivo ou juízo ao autor. Comparar distribuição real de ênfase entre sujeitos sem presumir simetria retórica por paralelismo formal.
 
+Ao concluir a análise discursiva provisória, reconstruir o percurso integral da unidade em ordem textual, indicando a função de cada movimento e o que a passagem procura tornar conhecido. Comparar pelo menos uma alternativa plausível de organização quando houver. Distinguir tensão interpretativa, relevância temática, clímax, desfecho e centro estrutural; não inferir que o versículo mais difícil governa o todo. Aplicar o checkpoint transversal antes de expandir questões laterais.
+
 ### EXE-06 — Léxico
 
 Selecionar palavras,expressões,colocações e fórmulas por relevância. Identificar forma,lema,morfologia,domínio e alternativas de sentido;examinar contexto imediato,livro,autor e corpora históricos pertinentes. Comparações precisam considerar gênero,sintaxe e situação. Não usar etimologia como sentido contextual nem transferir totalidade semântica. Avaliar se um sentido técnico é exigido e justificar descarte de alternativas. Redigir o efeito exegético,sem acumular definições irrelevantes.
@@ -120,6 +134,8 @@ Representar alternativas defensáveis;avaliar evidência favorável/contrária n
 
 Integrar apenas resultados pertinentes para responder o que a passagem comunica,como e com qual finalidade. Identificar assunto,funções,necessidades,afirmações e conflitos quando presentes. Uma frase sintética pode ajudar,mas não se exige erro corretivo único ou que o tema aparente seja mero pretexto. Distinguir momentos de ação,ênfase,explicação e estrutura;somente propor centro governante se demonstrável. A síntese registra explícito,pressuposto,inferência e compatibilidade,alternativas e ambiguidades. A síntese incorpora as relações canônicas necessárias à compreensão da passagem, distinguindo sentido local e contribuição à revelação; permanece revisável por evidência e orienta o aprofundamento bíblico-teológico.
 
+A síntese deve testar explicitamente a pergunta inicialmente trazida pelo pesquisador contra a pergunta ou finalidade efetivamente sustentada pela passagem. Expor a progressão completa, inclusive os elementos que a hipótese anterior negligenciou; identificar onde a conclusão é sustentada, o que a contraria e que alternativas permanecem. Não tomar a própria formulação sintética como prova. O EXE-11 formaliza e testa criticamente os retornos provisórios anteriores; não os substitui.
+
 ### EXE-11B e EXE-11C — Trajetórias de termos e motivos
 
 Aprofundar seletivamente termos teologicamente relevantes e motivos recorrentes identificados na análise local. Distinguir história lexical de trajetória de imagem;recorrência formal não garante continuidade conceitual. Identificar estágios anteriores,uso local e desenvolvimento posterior com fontes e limites,sem retrojetar sentidos tardios. A análise não congela o sentido prévio:contraevidência retorna ao módulo pertinente e à síntese. A seleção não exige inventar termos ou motivos para preencher o roteiro. Em12,conferir conceito sem palavra e palavra sem todo o peso conceitual;trajetória não é prova automática de presença local.
@@ -148,6 +164,8 @@ Reconstruir a visão de Deus,mundo,pessoa,conhecimento e vida sustentada pelo te
 
 Relacionar situação/função original,sentido,teologia,ponte justificada e resposta atual. Registrar continuidade/descontinuidade de destinatários,funções,estágio redentivo e práticas. Distinguir mandamento,implicação e conselho prudencial;não elevar alternativa aberta a obrigação. Desenvolver somente áreas pertinentes. No aconselhamento,ouvir e não inferir motivo secreto ou culpa do sofrimento por analogia. Fundamentar a resposta na ação de Deus e obra de Cristo sem alegoria ou mérito humano. Estudo,oração e dependência do Espírito não são operações verificáveis de ferramenta ou garantias de acerto. Aplicação entra em seção própria do manuscrito se pertinente à finalidade,ou no derivado solicitado;sem remissão a módulo retirado.
 
+Antes de propor resposta contemporânea, reconstruir em prosa breve o movimento original e demonstrar qual verdade, mandamento, promessa, advertência ou outra função textual fundamenta a ponte. Para cada aplicação substantiva, explicitar: dado textual, sentido demonstrado, continuidade/descontinuidade entre destinatários, desenvolvimento canônico necessário e natureza da resposta (mandamento, implicação ou prudência). Aplicação que apenas concorda com doutrina bíblica geral, mas não decorre demonstravelmente da passagem, deve ser retirada, deslocada para outro texto ou marcada como reflexão temática independente. Testar se a aplicação preserva o elemento desconcertante da passagem em vez de neutralizá-lo.
+
 ### EXE-15A — Consolidação do acervo
 
 Reunir cobertura real,decisões,ideia/funções,conclusões,alternativas,fontes,questões,aplicações investigadas e dependências. Vincular relatórios completos. Distinguir questão aberta após investigação de falta de dado essencial;esta bloqueia só o dependente. Não preencher lacunas por fluência. Consolidar não elimina fontes nem interrompe revisabilidade. Metadados e histórico ficam aqui,no acervo,fora do manuscrito.
@@ -169,6 +187,10 @@ VAL06 inventaria conexões,identifica origem em rodada ou sessão incremental,de
 São funções distintas:CTL02 trata eventual incorporação de conclusões auditadas ao acervo cumulativo;CTL03 seleciona achados úteis para consulta externa,com referência,tipo,explicação,grau e limites. As notas podem preservar dúvida informativa sem promovê-la a doutrina estabelecida. Metadados e blocos de sinalização ficam no acervo ou derivado,nunca ao final do manuscrito acadêmico como instruções internas.
 
 Preservar estudo completo independentemente de colheita,sem exigir substituição destrutiva de versões ou um arquivo monolítico. Usar o repositório apenas como fonte revisável de hipóteses e alertas,não autoridade contra nova evidência. Preservar IDs existentes,proveniência e conflitos;não elevar confiança automaticamente por contagem de perícopes ou converter escalas históricas. Elegibilidade de curadoria exige revisão específica da regra e evidências;cada importação de tese exige revisão identificada de evidências, proveniência e conflitos; aprovação do método não valida automaticamente teses históricas. Preparação de nota é diferente de gravação efetiva noLogos. Essas funções não pressupõem integração automática com aplicativos.
+
+### Controle de deriva interpretativa
+
+Ao perceber expansão desproporcional de um tema, repetição de excursus, aplicações distantes ou conclusão incapaz de explicar o desfecho, suspender novas ramificações e executar retorno ao conjunto. Comparar a hipótese atual com a anterior e registrar: pergunta que governa o estudo, evidências que a sustentam, pontos que a desafiam, o que permanece útil das análises anteriores e próximos testes discriminantes. Não apagar pesquisas válidas; reposicioná-las como fundamento, contexto, alternativa ou questão aberta. A retomada do rumo não autoriza declarar concluída etapa técnica pendente.
 
 ## 6. Revisão e propagação — regra principal comum
 
