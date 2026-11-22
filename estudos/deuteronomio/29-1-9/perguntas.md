@@ -16,7 +16,7 @@
 | DT29-P10 | R | Quem fala em primeira pessoa em 29.5–6? | Parcial: a autodeclaração de 29.6 identifica YHWH; incorporação direta da voz divina ou representação em primeira pessoa são alternativas; fronteira da citação e paralelos pendentes. |
 | DT29-P11 | R | Por que roupas, sandálias, pão e bebidas são lembrados? | Parcial: preservação/provisão; detalhes históricos pendentes. |
 | DT29-P12 | R | Qual a função de Seom, Ogue e da distribuição da terra? | Parcial: conclusão histórica da retrospectiva; verificar contexto. |
-| DT29-P13 | D | O que significa `תַּשְׂכִּילוּ` em 29.9? | Parcial: Fretheim, Js 1.7–8 e LXX examinados; «ter êxito» mantido provisoriamente, regência com אֵת aberta. |
+| DT29-P13 | D | O que significa `תַּשְׂכִּילוּ` em 29.9? | Parcial: a oração `לְמַעַן` associa observância a conduta/resultado; Fretheim, Js 1.7–8 e LXX examinados; «ter êxito» mantido provisoriamente, regência com אֵת aberta. |
 | DT29-P14 | R | Alternância de singular e plural tem função pactual? | Aberta: verificar distribuição em Deuteronômio. |
 | DT29-P15 | D | Qual a intenção comunicativa dominante da unidade? | Parcial: memória histórica e exortação pactual; 29.4 cria tensão. |
 | DT29-P16 | R | Que relação há entre conhecimento, percepção e obediência? | Aberta: análise lexical e canônica. |
@@ -37,7 +37,7 @@
 
 | DT29-P26 | R | A análise contextual de נתן, ראה e שמע exige alterar a tradução formal de 29.4? | Respondida provisoriamente: não; manter dar/ver/ouvir e explicar a receptividade pactual no comentário. Verbetes especializados ainda pendentes. |
 
-| DT29-P27 | D | Qual pergunta a progressão de 29.2–9 efetivamente responde e como a retrospectiva conduz à ordem de 29.9? | Parcial: hipótese de memória dos atos reveladores, tensão perceptiva e fidelidade pactual; testar voz de 29.5–6, finalidade de 29.6 e fronteiras literárias. |
+| DT29-P27 | D | Qual pergunta a progressão de 29.2–9 efetivamente responde e como a retrospectiva conduz à ordem de 29.9? | Parcial: duas orações finais (29.6 e 29.9) reforçam progressão da preservação destinada ao conhecimento à guarda/prática da aliança; delimitação e sintaxe de 29.9 pendentes. |
 | DT29-P28 | D | A posição de 29.4 constitui centro estrutural ou tensão interpretativa no argumento que culmina em 29.9? | Parcial: 29.9 é desfecho diretivo; 29.4 é tensão decisiva, sem centralidade estrutural exclusiva demonstrada. |
 
 **Nota de preservação:** este é um registro consolidado, não a transcrição das 35 perguntas iniciais e das questões subsequentes. A lista detalhada continua na conversa de origem e pode ser migrada integralmente em revisão posterior.
