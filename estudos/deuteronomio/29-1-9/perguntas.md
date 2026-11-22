@@ -45,6 +45,6 @@
 | DT29-P30 | D | A expressão «até este dia» em 29.4 pressupõe persistência da condição ou concessão de receptividade à geração de Moabe? | Parcial: DeRouchie contesta Block com usos da fórmula e Dt 31.21,27; Block conhecido por citação secundária; conferir original e contraevidências. |
 | DT29-P31 | R | Como a leitura de 29.2–9 se relaciona à moldura de 29.1–30.20 sem perder o desfecho de 29.9? | Parcial: Millar distingue 29.2–9 e 29.10ss no discurso maior; dados intratextuais favorecem fecho local em 29.9, sem ruptura de discurso; verificar macroestrutura. |
 
-| DT29-P32 | R | A fórmula «Estas são as palavras da aliança» em 28.69 MT/29.1 é retrospectiva, prospectiva ou articuladora? | Parcial: conteúdo de Dt 28 e 29–30 permite três leituras; articulação favorecida provisoriamente; conferir parashot, fórmulas comparáveis e estudos críticos. |
+| DT29-P32 | R | A fórmula «Estas são as palavras da aliança» em 28.69 MT/29.1 é retrospectiva, prospectiva ou articuladora? | Parcial: parashot hebraicas e Tigay/Van Rooy favorecem subscrição; Lohfink/Abarbanel defendem superscrição; articulação temática certa, dupla função estrutural não demonstrada; consultar originais. |
 
 **Nota de preservação:** este é um registro consolidado, não a transcrição das 35 perguntas iniciais e das questões subsequentes. A lista detalhada continua na conversa de origem e pode ser migrada integralmente em revisão posterior.
