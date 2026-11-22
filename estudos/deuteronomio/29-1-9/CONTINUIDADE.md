@@ -131,3 +131,8 @@ Atualizar cadastro `documentos.json` conforme seu esquema real; executar testes,
 - Criada `EXE-01B-05-entrada-na-alianca-Dt29-10-15.md` e integrada a progressão ao manuscrito.
 - A assembleia de 29.10–11, entrada na aliança/juramento em 29.12, finalidade de 29.13 e extensão aos ausentes em 29.14–15 fortalecem superscrição de 29.1, mas não eliminam subscrição.
 - Registrada DT29-P33; 29.9 continua fecho local, não encerramento do discurso. Próximo: paralelos de עבר בברית, אלה e contexto 29.16ss.
+
+## עבר בברית e אָלָה em Dt 29.12–29 — 22/11/2026
+- Criada `EXE-04-05-avar-berit-alah-Dt29-12-29.md` e incorporada leitura discursiva ao manuscrito.
+- 29.12 (aliança/juramento) é retomado por 29.19 (palavras da imprecação), 29.20–21 (sanções) e 29.22–28 (explicação da devastação); a exortação de 29.9 prepara esse movimento.
+- Gn 15 e Jr 34 não demonstram rito de animais divididos em Moabe. DT29-P34 aberta parcialmente; conferir léxicos e paralelos, sem decidir 29.1.
