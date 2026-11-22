@@ -5,7 +5,7 @@
 | ID | Prioridade | Pergunta | Estado / evidência atual |
 |---|---|---|---|
 | DT29-P01 | D | Onde começa a unidade: 29.1 ou 29.2? | Parcial: fórmula pactual em 29.1; convocação explícita em 29.2; falta confronto acadêmico. |
-| DT29-P02 | R | Onde termina a unidade: 29.9 ou adiante? | Parcial: exortação em 29.9; assembleia em 29.10, mas discurso continua. |
+| DT29-P02 | R | Onde termina a unidade: 29.9 ou adiante? | Parcial: 29.9 encerra retrospectiva com exortação; 29.10 abre apresentação da assembleia sem trocar locutor; subunidade 29.2–9 favorecida, discurso maior continua. |
 | DT29-P03 | D | Qual a relação entre as alianças de Moabe e Horebe? | Parcial: `מִלְּבַד` distingue as ocasiões; Dt 5.2–3 e 29.10–15 mostram continuidade coletiva; renovação é hipótese contextual, não tradução literal. |
 | DT29-P04 | D | Como Israel viu os atos de Deus e não recebeu olhos para ver? | Parcial: contraste lexical entre 29.2–3 e 29.4; natureza da percepção aberta. |
 | DT29-P05 | D | O que é `לֵב לָדַעַת`, coração para conhecer? | Parcial: Luc e Strong confirmam amplitude de interioridade e Fretheim esclarece ידע; função exata na tríade continua em exame. |
@@ -43,6 +43,6 @@
 | DT29-P29 | R | Há continuidade antropológica e temática entre Gn 6.5; 8.21 e Dt 29.4, à luz de Dt 10.16 e 30.6? | Aberta para EXE-09/12: afinidade temática plausível; alusão literária específica não demonstrada; preservar distinção entre corrupção moral e receptividade à revelação. |
 
 | DT29-P30 | D | A expressão «até este dia» em 29.4 pressupõe persistência da condição ou concessão de receptividade à geração de Moabe? | Parcial: DeRouchie contesta Block com usos da fórmula e Dt 31.21,27; Block conhecido por citação secundária; conferir original e contraevidências. |
-| DT29-P31 | R | Como a leitura de 29.2–9 se relaciona à moldura de 29.1–30.20 sem perder o desfecho de 29.9? | Aberta: Millar lê 29.2–9 no discurso maior; avaliar limites da unidade e função de 29.10. |
+| DT29-P31 | R | Como a leitura de 29.2–9 se relaciona à moldura de 29.1–30.20 sem perder o desfecho de 29.9? | Parcial: Millar distingue 29.2–9 e 29.10ss no discurso maior; dados intratextuais favorecem fecho local em 29.9, sem ruptura de discurso; verificar macroestrutura. |
 
 **Nota de preservação:** este é um registro consolidado, não a transcrição das 35 perguntas iniciais e das questões subsequentes. A lista detalhada continua na conversa de origem e pode ser migrada integralmente em revisão posterior.
