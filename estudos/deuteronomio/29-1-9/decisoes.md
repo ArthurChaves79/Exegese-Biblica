@@ -15,4 +15,6 @@
 
 | DT29-D11 | Tratar Moabe como ocasião pactual distinta de Horebe, sem afirmar revogação ou nova aliança escatológica | `מִלְּבַד` em 29.1; Dt 5.2–3; 29.10–15 | Renovação/reafirmação plausível, mas não significado lexical; função de 29.1 aberta | Alto para distinção; moderado para continuidade |
 
+| DT29-D12 | Manter 29.1 como rubrica de direção estrutural aberta, embora 29.10–15 fortaleça a leitura prospectiva | Entrada na aliança e juramento em 29.12, continuidade patriarcal em 29.13; parashot e paralelos conclusivos | A cena posterior também pode ratificar estipulações anteriores; obras críticas diretas pendentes | Moderado |
+
 Decisões acima são reconstrução crítica da conversa; **não representam auditoria independente nem consenso acadêmico**. Revisões futuras devem registrar decisão anterior, nova decisão, motivo e dependentes.
