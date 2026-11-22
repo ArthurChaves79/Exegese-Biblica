@@ -90,3 +90,8 @@ Atualizar cadastro `documentos.json` conforme seu esquema real; executar testes,
 ## Hipótese pentateucal a testar futuramente — Gn 6/8 e Dt 29 — 22/11/2026
 - Pergunta DT29-P29 registrada: Gn 6.5; 8.21 e Dt 29.4 apresentam afinidade sobre o coração, mas corrupção moral e receptividade revelacional não são formulações equivalentes.
 - Considerar Dt 10.16 e 30.6 na etapa canônica EXE-09/12. Não declarar alusão direta, nem deslocar a prioridade atual de sintaxe e léxico de Dt 29.9.
+
+## EXE-04/06 — שׂכל e אֵת em 29.9 — 22/11/2026
+- Criada `EXE-04-06-sakal-Dt29-9.md` e integrada análise ao manuscrito.
+- Comparadas leituras de êxito, prudência e compreensão (LXX); preservada tradução de trabalho «ter êxito» sem excluir alternativas.
+- Próxima necessidade: confronto documentado com léxicos, gramáticas, paralelos de regência e edições textuais. EXE-06 permanece parcial.
