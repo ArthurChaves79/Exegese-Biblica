@@ -86,3 +86,7 @@ Atualizar cadastro `documentos.json` conforme seu esquema real; executar testes,
 - Em 29.6, finalidade do conhecimento vincula-se imediatamente à experiência no deserto; extensão temática à retrospectiva não é escopo sintático obrigatório.
 - Em 29.9, finalidade da observância está ligada à conduta e ao resultado; `תַּשְׂכִּילוּ אֵת` continua pendente, sem inferir prosperidade material irrestrita.
 - Próximo passo: sintaxe e léxico de שכל em 29.9, com controle de evidência; EXE-06 não concluído.
+
+## Hipótese pentateucal a testar futuramente — Gn 6/8 e Dt 29 — 22/11/2026
+- Pergunta DT29-P29 registrada: Gn 6.5; 8.21 e Dt 29.4 apresentam afinidade sobre o coração, mas corrupção moral e receptividade revelacional não são formulações equivalentes.
+- Considerar Dt 10.16 e 30.6 na etapa canônica EXE-09/12. Não declarar alusão direta, nem deslocar a prioridade atual de sintaxe e léxico de Dt 29.9.
