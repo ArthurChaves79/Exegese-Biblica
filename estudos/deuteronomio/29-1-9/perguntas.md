@@ -37,4 +37,7 @@
 
 | DT29-P26 | R | A análise contextual de נתן, ראה e שמע exige alterar a tradução formal de 29.4? | Respondida provisoriamente: não; manter dar/ver/ouvir e explicar a receptividade pactual no comentário. Verbetes especializados ainda pendentes. |
 
+| DT29-P27 | D | Qual pergunta a progressão de 29.2–9 efetivamente responde e como a retrospectiva conduz à ordem de 29.9? | Parcial: hipótese de memória dos atos reveladores, tensão perceptiva e fidelidade pactual; testar voz de 29.5–6, finalidade de 29.6 e fronteiras literárias. |
+| DT29-P28 | D | A posição de 29.4 constitui centro estrutural ou tensão interpretativa no argumento que culmina em 29.9? | Parcial: 29.9 é desfecho diretivo; 29.4 é tensão decisiva, sem centralidade estrutural exclusiva demonstrada. |
+
 **Nota de preservação:** este é um registro consolidado, não a transcrição das 35 perguntas iniciais e das questões subsequentes. A lista detalhada continua na conversa de origem e pode ser migrada integralmente em revisão posterior.
