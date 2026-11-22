@@ -42,4 +42,7 @@
 
 | DT29-P29 | R | Há continuidade antropológica e temática entre Gn 6.5; 8.21 e Dt 29.4, à luz de Dt 10.16 e 30.6? | Aberta para EXE-09/12: afinidade temática plausível; alusão literária específica não demonstrada; preservar distinção entre corrupção moral e receptividade à revelação. |
 
+| DT29-P30 | D | A expressão «até este dia» em 29.4 pressupõe persistência da condição ou concessão de receptividade à geração de Moabe? | Parcial: DeRouchie contesta Block com usos da fórmula e Dt 31.21,27; Block conhecido por citação secundária; conferir original e contraevidências. |
+| DT29-P31 | R | Como a leitura de 29.2–9 se relaciona à moldura de 29.1–30.20 sem perder o desfecho de 29.9? | Aberta: Millar lê 29.2–9 no discurso maior; avaliar limites da unidade e função de 29.10. |
+
 **Nota de preservação:** este é um registro consolidado, não a transcrição das 35 perguntas iniciais e das questões subsequentes. A lista detalhada continua na conversa de origem e pode ser migrada integralmente em revisão posterior.
