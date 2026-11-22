@@ -115,3 +115,9 @@ Atualizar cadastro `documentos.json` conforme seu esquema real; executar testes,
 - Criada `EXE-01B-formula-Moabe-Dt28-69-29-1.md` e integrada ao manuscrito.
 - 29.1 cristão corresponde a 28.69 MT; testadas funções retrospectiva, prospectiva e articuladora. Articulação favorecida como hipótese, sem concluir origem editorial ou delimitação definitiva.
 - Pergunta DT29-P32 adicionada; verificar parashot, edições, fórmulas comparáveis e literatura crítica. EXE-01/01B permanecem parciais.
+
+## Debate de parashot e crítica da fórmula de Moabe — 22/11/2026
+- Criada `EXE-01B-debate-Tigay-Lohfink-parashot.md`, com fontes e distinção entre consulta direta e indireta.
+- Parashot massoréticas/samaritanas e Tigay/Van Rooy favorecem subscrição; Lohfink e Abarbanel defendem superscrição por títulos e ritual pactual de 29.10–15.
+- Revisada preferência anterior por articulação: conexão temática demonstrável, dupla função estrutural não certificada. Manuscrito e DT29-P32 atualizados.
+- Próximo: leitura direta de Tigay/Lohfink/Van Rooy, avaliar paralelos Lv 27.34/Nm 36.13 e evidência das parashot.
