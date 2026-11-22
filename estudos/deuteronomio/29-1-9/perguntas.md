@@ -47,4 +47,6 @@
 
 | DT29-P32 | R | A fórmula «Estas são as palavras da aliança» em 28.69 MT/29.1 é retrospectiva, prospectiva ou articuladora? | Parcial: Lv 26.46; 27.34; Nm 36.13 confirmam possibilidade de subscrição, não sua necessidade; parashot favorecem retrospectiva, títulos de Dt e 29.10–15 favorecem prospectiva; originais críticos pendentes. |
 
+| DT29-P33 | R | A entrada na aliança de 29.10–15 determina a direção da fórmula «palavras da aliança» de 29.1? | Parcial: favorece leitura prospectiva pela correspondência com a assembleia e o «hoje», mas também admite ratificação de estipulações anteriores; exame de paralelos de עבר בברית e אלה pendente. |
+
 **Nota de preservação:** este é um registro consolidado, não a transcrição das 35 perguntas iniciais e das questões subsequentes. A lista detalhada continua na conversa de origem e pode ser migrada integralmente em revisão posterior.
