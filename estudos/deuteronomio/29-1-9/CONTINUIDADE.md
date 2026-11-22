@@ -95,3 +95,7 @@ Atualizar cadastro `documentos.json` conforme seu esquema real; executar testes,
 - Criada `EXE-04-06-sakal-Dt29-9.md` e integrada análise ao manuscrito.
 - Comparadas leituras de êxito, prudência e compreensão (LXX); preservada tradução de trabalho «ter êxito» sem excluir alternativas.
 - Próxima necessidade: confronto documentado com léxicos, gramáticas, paralelos de regência e edições textuais. EXE-06 permanece parcial.
+
+## Confronto externo de שׂכל — 22/11/2026
+- Nota `EXE-04-06-sakal-Dt29-9.md` ampliada com texto WLC/Alepo, identificação de אֵת como marcador de objeto e comentário de Ibn Ezra (כמו תצליחו), com URLs de procedência.
+- Manuscrito e decisão DT29-D08 atualizados: «ter êxito» mais sustentado, ainda provisório; não certificar aparato completo ou léxicos não consultados.
