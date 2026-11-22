@@ -70,3 +70,8 @@ Atualizar cadastro `documentos.json` conforme seu esquema real; executar testes,
 - Nota `EXE-06-aprofundamento-natan-raah-shama.md` criada; manuscrito ampliado sem alterar a tradução formal.
 - נתן: não concessão, sem equiparação lexical a endurecimento; ראה: contraste visão ocular/apreensão; שמע: ouvir no contexto pactual, não automaticamente obedecer.
 - EXE-06 permanece parcial por falta de confronto integral dos verbetes especializados de נתן/ראה/שמע e de algumas questões sintáticas; nenhuma auditoria independente foi realizada.
+
+## Revisão metodológica e integração discursiva — 22/11/2026
+- Criado `REVISAO-METODO-2026-11-22-integracao-discursiva.md` como revisão interpretativa interna, não auditoria independente ou EXE-11 concluído.
+- Retorno ao movimento de 29.2–9: testemunho (2–3), tensão (4), preservação/conhecimento/conquista (5–8), ordem (9). Manuscrito recebeu síntese argumentativa provisória; perguntas DT29-P27 e P28 registradas.
+- Testes seguintes: voz em 29.5–6, finalidade de 29.6, conclusão de 29.9, limites da unidade. EXE-06 e EXE-01 permanecem parciais.
