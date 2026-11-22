@@ -4,8 +4,8 @@
   "metodo": "metodo/METODO.md",
   "migrado_em": "2026-11-20",
   "origem": "conversa ChatGPT; síntese retrospectiva, não transcrição integral",
-  "etapa_atual": "EXE-06 parcial; revisão interpretativa interna de integração discursiva EXE-05 realizada em 2026-11-22",
-  "proxima_etapa": "Testar voz e finalidade em 29.5–6, nexo com 29.9; completar pendências de EXE-04/06 e delimitação antes de EXE-07",
+  "etapa_atual": "EXE-06 parcial; EXE-04/05 retorno à voz divina e finalidade de Dt 29.5–6; método reformado sincronizado",
+  "proxima_etapa": "Testar escopo de לְמַעַן em 29.6 e função de 29.9, verificar morfologia e léxico pendentes",
   "etapas": {
     "leitura_inicial": "sintetizada",
     "EXE-01": "parcial",
@@ -24,5 +24,6 @@
     "documento": "REVISAO-METODO-2026-11-22-integracao-discursiva.md",
     "auditoria_independente": false,
     "exe_11_concluido": false
-  }
+  },
+  "metodo_reformado_sincronizado_em": "2026-11-22"
 }
