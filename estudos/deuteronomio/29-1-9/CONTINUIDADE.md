@@ -75,3 +75,8 @@ Atualizar cadastro `documentos.json` conforme seu esquema real; executar testes,
 - Criado `REVISAO-METODO-2026-11-22-integracao-discursiva.md` como revisão interpretativa interna, não auditoria independente ou EXE-11 concluído.
 - Retorno ao movimento de 29.2–9: testemunho (2–3), tensão (4), preservação/conhecimento/conquista (5–8), ordem (9). Manuscrito recebeu síntese argumentativa provisória; perguntas DT29-P27 e P28 registradas.
 - Testes seguintes: voz em 29.5–6, finalidade de 29.6, conclusão de 29.9, limites da unidade. EXE-06 e EXE-01 permanecem parciais.
+
+## Sincronização do método e voz de Dt 29.5–6 — 22/11/2026
+- Método reformado sincronizado nesta branch a partir do ramo principal; AGENTS.md atualizado para novos estudos e retomadas.
+- Criada nota `EXE-04-05-voz-e-finalidade-Dt29-5-6.md`: voz em primeira pessoa de 29.5 e autodeclaração de 29.6 atribuídas a YHWH; duas representações discursivas plausíveis; não alegar interpolação sem prova.
+- Manuscrito ampliado; DT29-P08 e P10 atualizadas. Próximo: examinar escopo de `לְמַעַן` e função de 29.9, além de pendências morfológicas e lexicais.
