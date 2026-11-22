@@ -121,3 +121,8 @@ Atualizar cadastro `documentos.json` conforme seu esquema real; executar testes,
 - Parashot massoréticas/samaritanas e Tigay/Van Rooy favorecem subscrição; Lohfink e Abarbanel defendem superscrição por títulos e ritual pactual de 29.10–15.
 - Revisada preferência anterior por articulação: conexão temática demonstrável, dupla função estrutural não certificada. Manuscrito e DT29-P32 atualizados.
 - Próximo: leitura direta de Tigay/Lohfink/Van Rooy, avaliar paralelos Lv 27.34/Nm 36.13 e evidência das parashot.
+
+## Paralelos formais Lv 26.46; 27.34; Nm 36.13 — 22/11/2026
+- Criada `EXE-01B-paralelos-Levitico-Numeros-formulas.md`, com dados, bibliografia e distinção de fonte direta/indireta.
+- Fórmulas semelhantes funcionam como subscrições em Lv/Nm, mas estudo de Lohfink sobre fórmulas demonstrativas mostra emprego tanto introdutório quanto conclusivo.
+- Subscrição em Dt 29.1 fortalecida como possibilidade, não decidida; examinar referente de «palavras da aliança» e Dt 29.10–15.
