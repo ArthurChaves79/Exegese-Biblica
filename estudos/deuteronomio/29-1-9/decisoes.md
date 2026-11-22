@@ -17,4 +17,6 @@
 
 | DT29-D12 | Manter 29.1 como rubrica de direção estrutural aberta, embora 29.10–15 fortaleça a leitura prospectiva | Entrada na aliança e juramento em 29.12, continuidade patriarcal em 29.13; parashot e paralelos conclusivos | A cena posterior também pode ratificar estipulações anteriores; obras críticas diretas pendentes | Moderado |
 
+| DT29-D13 | Ler o juramento de 29.12 com implicações sancionatórias na advertência de 29.19–21, sem reconstruir rito físico em Moabe | Recorrência de אָלָה; advertência de 29.16–29 | Gn 15 e Jr 34 são paralelos distintos; léxicos e regência pendentes | Moderado-alto para vínculo discursivo |
+
 Decisões acima são reconstrução crítica da conversa; **não representam auditoria independente nem consenso acadêmico**. Revisões futuras devem registrar decisão anterior, nova decisão, motivo e dependentes.
