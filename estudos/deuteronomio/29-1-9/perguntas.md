@@ -4,7 +4,7 @@
 
 | ID | Prioridade | Pergunta | Estado / evidência atual |
 |---|---|---|---|
-| DT29-P01 | D | Onde começa a unidade: 29.1 ou 29.2? | Parcial: fórmula pactual em 29.1; convocação explícita em 29.2; falta confronto acadêmico. |
+| DT29-P01 | D | Onde começa a unidade: 29.1 ou 29.2? | Parcial: 29.1 = 28.69 MT, após sanções de 28 e antes da convocação de 29.2; hipótese de articulação entre seções, ainda sem confronto crítico completo. |
 | DT29-P02 | R | Onde termina a unidade: 29.9 ou adiante? | Parcial: 29.9 encerra retrospectiva com exortação; 29.10 abre apresentação da assembleia sem trocar locutor; subunidade 29.2–9 favorecida, discurso maior continua. |
 | DT29-P03 | D | Qual a relação entre as alianças de Moabe e Horebe? | Parcial: `מִלְּבַד` distingue as ocasiões; Dt 5.2–3 e 29.10–15 mostram continuidade coletiva; renovação é hipótese contextual, não tradução literal. |
 | DT29-P04 | D | Como Israel viu os atos de Deus e não recebeu olhos para ver? | Parcial: contraste lexical entre 29.2–3 e 29.4; natureza da percepção aberta. |
@@ -44,5 +44,7 @@
 
 | DT29-P30 | D | A expressão «até este dia» em 29.4 pressupõe persistência da condição ou concessão de receptividade à geração de Moabe? | Parcial: DeRouchie contesta Block com usos da fórmula e Dt 31.21,27; Block conhecido por citação secundária; conferir original e contraevidências. |
 | DT29-P31 | R | Como a leitura de 29.2–9 se relaciona à moldura de 29.1–30.20 sem perder o desfecho de 29.9? | Parcial: Millar distingue 29.2–9 e 29.10ss no discurso maior; dados intratextuais favorecem fecho local em 29.9, sem ruptura de discurso; verificar macroestrutura. |
+
+| DT29-P32 | R | A fórmula «Estas são as palavras da aliança» em 28.69 MT/29.1 é retrospectiva, prospectiva ou articuladora? | Parcial: conteúdo de Dt 28 e 29–30 permite três leituras; articulação favorecida provisoriamente; conferir parashot, fórmulas comparáveis e estudos críticos. |
 
 **Nota de preservação:** este é um registro consolidado, não a transcrição das 35 perguntas iniciais e das questões subsequentes. A lista detalhada continua na conversa de origem e pode ser migrada integralmente em revisão posterior.
