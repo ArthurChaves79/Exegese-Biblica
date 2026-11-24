@@ -53,4 +53,6 @@
 
 | DT29-P35 | D | Qual é a pergunta comunicativa que emerge de 29.2–9, e como cada movimento prepara 29.9? | Checkpoint: memória dos atos, tensão de 29.4, finalidade de conhecer em 29.6, conquistas e exortação de 29.9; hipótese comunicativa provisória integrada ao manuscrito. |
 
+| DT29-P36 | D | A diferença entre os sinais do Egito e a sustentação no deserto qualifica a progressão? | Sustentada como distinção lexical e temporal de ênfases; Dt 8.2–6 confirma dimensão instrutiva da sustentação; não oposição ontológica entre milagre e providência. |
+
 **Nota de preservação:** este é um registro consolidado, não a transcrição das 35 perguntas iniciais e das questões subsequentes. A lista detalhada continua na conversa de origem e pode ser migrada integralmente em revisão posterior.
