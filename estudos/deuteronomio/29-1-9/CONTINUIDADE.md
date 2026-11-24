@@ -149,3 +149,7 @@ Atualizar cadastro `documentos.json` conforme seu esquema real; executar testes,
 
 ## Revisão tradutória
 - Criada `EXE-03-08B-revisao-traducao-discursiva.md`; proposta integral, com conhecer em 29.4/6, contudo e pois contextuais; êxito provisório. Arquivo autônomo anterior não localizado; cotejo integral pendente. Próximo: comentário por unidades 29.2–4.
+
+## EXE-08B — primeira unidade, 29.2–4
+- Criado `EXE-08B-comentario-Dt29-2-4.md` e integrado ao manuscrito. Ênfase testemunhal, continuidade coletiva, sinais reveladores (Dt 4.34–35), tríade e não concessão; persistência provisoriamente preferida.
+- Próximo: 29.5–8, finalidade reveladora e continuidade histórica; depois 29.9 e síntese EXE-08B. Aparato integral e fonte direta Block pendentes.
