@@ -1,0 +1,12 @@
+# EXE-08B — Segunda unidade: Dt 29.5–8
+
+## Condução e preservação (29.5–6)
+O hiphil de הלך em ואולך apresenta Israel como conduzido. A autodeclaração de 29.6 identifica a voz divina representada no discurso mosaico; fronteiras exatas da citação não marcadas. Quarenta anos remetem a juízo, disciplina e preservação (Dt 1.34–40; 2.7; 8.2–5). Vestes e sandálias preservadas mostram atuação extraordinária nas necessidades ordinárias, não oposição entre milagre e providência. A ausência de pão e bebidas habituais não significa ausência de alimento; Dt 8.3 menciona maná. Não reconstruir mecanismo físico da preservação.
+
+A finalidade למען תדעו כי אני יהוה אלהיכם especifica conhecimento da identidade pactual do SENHOR. Êx 6.7 e 16.12 oferecem paralelos temáticos e formulares de libertação/provisão e reconhecimento; não demonstram citação direta. Dt 8.2–6 confirma dimensão instrutiva da experiência. O escopo sintático imediato é 29.5–6, com relevância temática para a retrospectiva. A recorrência de ידע em 29.4/6 mantém a tensão: o mesmo SENHOR não concedeu coração para conhecer e conduziu Israel com finalidade de conhecimento. Finalidade não comprova realização; não explicar causalmente o que o texto não explica.
+
+## Conquistas e herança (29.7–8)
+A chegada a este lugar aproxima a retrospectiva do presente da assembleia. Seom e Ogue são adversários já narrados em Dt 2.26–3.17. A primeira pessoa plural (nós derrotamos, tomamos, demos) descreve participação humana efetiva; Dt 2.31–33 e 3.2–3 atribuem a entrega dos inimigos ao SENHOR sem negar a ação de Israel. A terra distribuída às tribos transjordânicas é herança concreta, não posse integral da terra prometida. Não identificar ação humana e divina como concorrentes nem deduzir teoria causal completa. O movimento libertação–preservação–herança prepara a ordem de guardar/praticar a aliança em 29.9. A memória chega à situação presente do povo, não é relato de benefícios desvinculado da exigência pactual.
+
+## Síntese e limites
+A segunda unidade prolonga a retrospectiva apesar da tensão de 29.4, identifica a finalidade reveladora da sustentação e recorda participação histórica de Israel nas conquistas. O SENHOR é o Deus de Israel; a história manifesta essa relação e prepara a resposta pactual. Não afirmar concessão presente de novo coração nem obediência efetiva universal. Aparato integral e cotejo lexical especializado pendentes. Próximo: 29.9 e síntese EXE-08B.
