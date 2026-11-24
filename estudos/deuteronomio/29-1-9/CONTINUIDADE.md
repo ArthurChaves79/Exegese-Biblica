@@ -153,3 +153,7 @@ Atualizar cadastro `documentos.json` conforme seu esquema real; executar testes,
 ## EXE-08B — primeira unidade, 29.2–4
 - Criado `EXE-08B-comentario-Dt29-2-4.md` e integrado ao manuscrito. Ênfase testemunhal, continuidade coletiva, sinais reveladores (Dt 4.34–35), tríade e não concessão; persistência provisoriamente preferida.
 - Próximo: 29.5–8, finalidade reveladora e continuidade histórica; depois 29.9 e síntese EXE-08B. Aparato integral e fonte direta Block pendentes.
+
+## EXE-08B — segunda unidade, 29.5–8
+- Criado `EXE-08B-comentario-Dt29-5-8.md`, integrado ao manuscrito. Condução, preservação, finalidade de conhecimento, participação humana nas conquistas e herança; paralelos Êx 6.7; 16.12 e Dt 2–3; sem inferência de citação direta.
+- Próximo: 29.9 e síntese EXE-08B.
