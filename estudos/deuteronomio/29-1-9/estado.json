@@ -4,8 +4,8 @@
   "metodo": "metodo/METODO.md",
   "migrado_em": "2026-11-20",
   "origem": "conversa ChatGPT; síntese retrospectiva, não transcrição integral",
-  "etapa_atual": "EXE-08B: comentario da primeira unidade Dt 29.2–4",
-  "proxima_etapa": "EXE-08B: comentario de Dt 29.5–8, depois 29.9 e sintese",
+  "etapa_atual": "EXE-08B: segunda unidade Dt 29.5–8",
+  "proxima_etapa": "EXE-08B: comentario Dt 29.9 e sintese",
   "etapas": {
     "leitura_inicial": "sintetizada",
     "EXE-01": "parcial",
@@ -15,7 +15,7 @@
     "EXE-04": "parcial",
     "EXE-05": "provisoria",
     "EXE-06": "parcial: לב, ידע, עשה, שכל e triade contextual; נתן/ראה/שמע sem verbetes integrais",
-    "EXE-08B": "parcial: 29.2–4"
+    "EXE-08B": "parcial: 29.2–8"
   },
   "auditoria_independente": false,
   "aparato_critico_integral": false,
