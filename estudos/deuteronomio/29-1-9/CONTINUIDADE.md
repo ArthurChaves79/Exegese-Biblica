@@ -142,3 +142,7 @@ Atualizar cadastro `documentos.json` conforme seu esquema real; executar testes,
 - Pesquisa lateral sobre 29.1 e 29.10–29 suspensa após delimitação suficiente para prosseguir; dossiês preservados, controvérsias não artificialmente resolvidas.
 - Pergunta textual central: como Israel deve compreender os atos testemunhados e responder à aliança? Movimento 29.2–9 reavaliado; 29.4 como tensão, 29.9 como exortação conclusiva.
 - Próximo: retomar tradução de trabalho e comentário por unidades, verificando apenas pontos que alterem compreensão; EXE-11 ainda não concluído.
+
+## Duas retrospectivas — 24/11/2026
+- Criado `EXE-05-duas-retrospectivas-Dt29-2-8.md`; controle intratextual Dt 8.2–6 integrado ao manuscrito.
+- Distinção de ênfases confirmada, não oposição milagre/providência. Conteúdo pactual de 29.6 reforçado. Retomar tradução e comentário por unidades; não abrir excursus sistemático.
