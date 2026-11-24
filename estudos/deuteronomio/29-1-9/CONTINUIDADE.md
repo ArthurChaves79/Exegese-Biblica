@@ -146,3 +146,6 @@ Atualizar cadastro `documentos.json` conforme seu esquema real; executar testes,
 ## Duas retrospectivas — 24/11/2026
 - Criado `EXE-05-duas-retrospectivas-Dt29-2-8.md`; controle intratextual Dt 8.2–6 integrado ao manuscrito.
 - Distinção de ênfases confirmada, não oposição milagre/providência. Conteúdo pactual de 29.6 reforçado. Retomar tradução e comentário por unidades; não abrir excursus sistemático.
+
+## Revisão tradutória
+- Criada `EXE-03-08B-revisao-traducao-discursiva.md`; proposta integral, com conhecer em 29.4/6, contudo e pois contextuais; êxito provisório. Arquivo autônomo anterior não localizado; cotejo integral pendente. Próximo: comentário por unidades 29.2–4.
