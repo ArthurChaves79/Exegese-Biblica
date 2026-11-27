@@ -55,3 +55,6 @@ MORI-VAL-003: commit 42cd3fd784bf4650399b2359200aa5b85731769a. SBLGNT Jo11.45–
 
 ## Ciclo 017 — MORI-VAL-004
 Commit f7064d2b0b1557303071fc140a9b8f5e804fb945. TM Os11.1–11, LXX Swete Os11 e SBLGNT Mt2 diretamente abertos; Beale 2012 introdução e excerto indexado, não integral. Sentido histórico de Israel preservado; Mt atribui cumprimento a Jesus, referente distinto em novo ato comunicativo; tipologia histórico-redentiva hipótese preferencial, não demonstrada intenção consciente de Oseias. H01 compatível mas insuficiente isoladamente para explicar nexo canônico. Sem aparato, A/B, auditoria independente, alteração normativa ou merge. Próxima ação: síntese cumulativa dos quatro casos e protocolo comparativo; revalidar proveniência das consultas anteriores.
+
+## Adendo ao ciclo 017
+MORI-VAL-004 atualizado no commit 22fd206d8ff311b62dd1c5305a6344e05c8565c8. Contribuição do diretor: distinguir interpretação histórica inspirada dos autores canônicos e interpretação contemporânea não inspirada. Separar autoridade da afirmação canônica de cumprimento e confiança na reconstrução exegética do nexo; não transferir autoridade apostólica ao intérprete. Integrar à revisão MORI-REV-001; sem nova exegese, alteração normativa ou merge.
