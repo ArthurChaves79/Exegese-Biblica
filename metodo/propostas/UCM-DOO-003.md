@@ -1,0 +1,16 @@
+# UCM-DOO-003 — Núcleo, retrocipações e antecipações
+28/11/2026 | ciclo 021 | LAB-ONT/HERM | não normativo.
+
+Fonte primária efetivamente acessada via web nesta sessão: Herman Dooyeweerd, A New Critique of Theoretical Thought, II, edição digital DBNL 1969, cap. II, https://www.dbnl.org/tekst/dooy002newc06_01/dooy002newc06_01_0003.php . Consulta seletiva pp.55–65,74–76,117–120,163–166,179–180; cap. I pp.3–8,11 reaberto em https://www.dbnl.org/tekst/dooy002newc06_01/dooy002newc06_01_0002.php . E1 localizado, E2 teoria global. Não cotejado original holandês, nem lido integralmente o capítulo.
+
+Questão: como relações intermodais preservam a especificidade de cada aspecto e quais limites impõem à transferência de conceitos para exegese?
+
+Reconstrução: cap. II §1 distingue analogias científicas e metáforas, examina unidade numérica/lógica/jurídica e extensão espacial/jurídica. § sobre estrutura modal pp.74–76: núcleo qualificante, retrocipações (aspectos anteriores), antecipações (posteriores); ambas qualificadas pelo núcleo do aspecto em que funcionam. Ordem modal não é cronologia de eventos. pp.117–120: sensibilidade fundada no biótico sem redução; appercepção lógica não idêntica à percepção sensorial; antecipações do pensamento teórico, inclusive controle e expressão linguística. pp.163–166: analogias podem ter fundamentos diretos/indiretos e complexidade; validade territorial jurídica não é extensão geométrica pura. pp.179–180: abertura antecipatória envolve estruturas complexas e referência religiosa. Pressupostos de tempo cósmico e raiz religiosa não adotados automaticamente.
+
+Avaliação: analogia modal não é polissemia lexical, metáfora textual, tipologia ou analogia do conhecimento de Deus em Bavinck. Não inferir uma analogia ontológica apenas de uma palavra figurativa. Núcleo modal não equivale a tema central de perícope; não usar ordem modal como sequência de exegese. Disciplina não equivale a aspecto. Distinguir dependência estrutural de explicação causal empírica; rejeição de reducionismo não dispensa investigação fisiológica/psicológica. Crítica de Dooyeweerd à analogia entis precisa de comparação própria com Bavinck; convergência parcial não demonstra equivalência.
+
+Transferência candidata: verificar se conceito muda de qualificação ao passar entre contextos; identificar referente, força e evidência antes de integrar análises. Exemplo ilustrativo Mt17: grão/montanha não oferecem por si métrica física da fé; figura deve ser interpretada pelo discurso. Não é nova exegese nem exemplo de retrocipação modal demonstrado. Comparação documental anterior UCM-DOO-002 mostra forte sobreposição com EXE06,07,08B,11; não demonstrado ganho exclusivo. Não criar checklist obrigatório.
+
+Pendência de integridade: os registros de ciclos anteriores afirmam consultas que nem sempre têm retorno verificável no histórico disponível; revalidar fontes antes de usar como E1. Nesta sessão a fonte DBNL foi efetivamente aberta e examinada. Sem A/B, auditoria independente, mudança normativa ou merge.
+
+Próximo: examinar seção específica da modalidade linguística e depois relacionar criticamente com Vanhoozer; investigar abertura pística e estruturas de individualidade em frente própria. Preservar fila CFW e inspiração.
