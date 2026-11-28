@@ -100,3 +100,6 @@ UCM-LEW-007: e86af39944bc4234a66d9436efd6ec75612d153b. Consulta web efetiva The 
 
 ## Ciclo 031 — 28/11/2026
 UCM-LEW-008: bbef445e0dcfd8b9fc76015911afe418ff994f1a. Consulta efetiva à transcrição de Myth Became Fact (Bocek) e excerto C. S. Lewis Institute pp.66–67; referências editoriais, 1Co15.12–19 SBLGNT e CFW VIII.4/XIV.2 em resultados indexados. Distinguir mito, representação, ocorrência, interpretação inspirada e apropriação; anterioridade cronológica não implica ontológica; eficácia imaginativa não constitui autoridade ou fé salvífica. H04g candidata. Sem fac-símile, nova exegese integral, A/B, norma, auditoria independente ou merge. Próximo LEW-009 The Language of Religion, depois LEW-010 e síntese literária.
+
+## Ciclo 032 — 28/11/2026
+UCM-LEW-009: f654c2860663e635a5f2cd301db8640912cb505d. Consulta direta verificável à transcrição UECF The Language of Religion, linhas39–122; lacuna manuscrita pp.4–5 confirmada na edição e prefácio Hooper. Distinguir uso ordinário/científico/poético, informação e emoção, significatividade e verdade, filiação divina e analogia humana; H04h candidata. Bavinck §166 retomado como antecedente, não nova consulta. Próximo LEW-010 Reflections on the Psalms, síntese literária e DOO-006. Sem A/B, nova exegese, alteração normativa, auditoria independente ou merge.
