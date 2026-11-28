@@ -91,3 +91,6 @@ UCM-LEW-004: a3b86d71de44cc911cda8d224cf08e72389f99cf. Consulta web efetiva a A 
 
 ## Ciclo 028 — 28/11/2026
 UCM-LEW-005: d6a376ce365426f648ec52d95bb3dab4251db903. Consulta web efetiva The Discarded Image (Faded Page), I pp.10–12, II pp.13–19, VIII pp.199–201/211–213, epílogo pp.218–223 e exemplo VII pp.142–143. Modelo cultural seletivo, coerência vs verdade, perguntas orientam evidência sem constituí-la. H04d candidata: demonstrar vínculo entre contexto e função comunicativa, não inferir adesão integral de semelhança. Sl19/Gn1 candidatos, não exegese. Próximo LEW-006 On Stories. Sem A/B, alteração normativa, merge ou auditoria independente.
+
+## Ciclo 029 — 28/11/2026
+UCM-LEW-006: 0ee1c193bbdf4b41243bc52f7002c6267bd2ab52. Consulta web efetiva On Stories, Faded Page 20140908, pp.91–106, linhas 29–131. Distinguir suspense, qualidade imaginativa, enredo e tema; Lewis admite tema sequencial e projeção do leitor. H04e candidata, preservar historicidade e particularidade, sem impor tema oculto. Próximo LEW-007 The Personal Heresy. Sem nova exegese, A/B, alteração normativa, auditoria independente ou merge.
