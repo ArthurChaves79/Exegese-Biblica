@@ -82,3 +82,6 @@ Por orientação do diretor, inserir frente C. S. Lewis antes de DOO-006 (písti
 
 ## Ciclo 025 — 28/11/2026
 UCM-LEW-002: c7879725ccce67ecce483f078e596bdd7497efef. Consulta web efetiva ao capítulo VII de Rehabilitations and Other Essays (Faded Page, linhas 1151–1269). Metáforas do mestre/aluno, inteligibilidade distinta de verdade, limites da etimologia e da compreensão individual. H04b candidata, sem universalizar dependência metafórica. Próxima ação LEW-003 Modern Theology and Biblical Criticism. Sem A/B, alteração normativa ou merge.
+
+## Ciclo 026 — 28/11/2026
+UCM-LEW-003: 12e4984679aedc7ec5368bbaa10c5544dba40419. Consulta efetiva ao ensaio Modern Theology and Biblical Criticism, BYU Studies 1968, pp.33–43 seletivas, imagem p.34 e transcrição alternativa. Quatro objeções: discernimento literário, distância histórica, pressuposto antimiraculoso, reconstrução da gênese. Distinguir gênero, referência, historicidade e premissa metafísica; exemplos autobiográficos não constituem taxa de erro. Bultmann não consultado diretamente, Mc8.27–9.1 candidato a novo teste. Não assumir doutrina da inspiração de Lewis. Próxima ação LEW-004 A Preface to Paradise Lost. Sem A/B, norma, auditoria independente ou merge.
