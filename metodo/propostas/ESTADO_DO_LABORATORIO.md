@@ -94,3 +94,6 @@ UCM-LEW-005: d6a376ce365426f648ec52d95bb3dab4251db903. Consulta web efetiva The 
 
 ## Ciclo 029 — 28/11/2026
 UCM-LEW-006: 0ee1c193bbdf4b41243bc52f7002c6267bd2ab52. Consulta web efetiva On Stories, Faded Page 20140908, pp.91–106, linhas 29–131. Distinguir suspense, qualidade imaginativa, enredo e tema; Lewis admite tema sequencial e projeção do leitor. H04e candidata, preservar historicidade e particularidade, sem impor tema oculto. Próximo LEW-007 The Personal Heresy. Sem nova exegese, A/B, alteração normativa, auditoria independente ou merge.
+
+## Ciclo 030 — 28/11/2026
+UCM-LEW-007: e86af39944bc4234a66d9436efd6ec75612d153b. Consulta web efetiva The Personal Heresy, Faded Page 20211209, trechos dos seis capítulos; distinguir personalidade biográfica e expressa, experiência privada, objeto comunicado, estilo; Lewis admite poesia de experiência peculiar, Tillyard distingue individualidade e curiosidade biográfica. H04f candidata. Próximo LEW-008 Myth Became Fact. Sem A/B, nova exegese, alteração normativa, auditoria independente ou merge.
