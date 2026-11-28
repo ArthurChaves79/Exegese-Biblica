@@ -58,3 +58,6 @@ Commit f7064d2b0b1557303071fc140a9b8f5e804fb945. TM Os11.1–11, LXX Swete Os11 
 
 ## Adendo ao ciclo 017
 MORI-VAL-004 atualizado no commit 22fd206d8ff311b62dd1c5305a6344e05c8565c8. Contribuição do diretor: distinguir interpretação histórica inspirada dos autores canônicos e interpretação contemporânea não inspirada. Separar autoridade da afirmação canônica de cumprimento e confiança na reconstrução exegética do nexo; não transferir autoridade apostólica ao intérprete. Integrar à revisão MORI-REV-001; sem nova exegese, alteração normativa ou merge.
+
+## Ciclo 018 — 28/11/2026
+MORI-REV-001: aea412149e6e5e37308fa66eac569d484f0b6c05. Quatro registros reabertos; H01 delimitada, H02/H03 propostas não normativas; CFW I.6–10 consultada em WTS. UCM-PLA-002: d60ffb9a84531a19c280d5d28a28135e51354d9a. Plantinga 1958 localizado em reprodução OCR Scribd, pp.10–13 leitura seletiva; Dooyeweerd NC I Prolegomena em DBNL consultado diretamente, pp.3–5,9–10,18–20; comentário secundário consultado. Distinguir sentido ontológico e significação linguística, dependência absoluta e relativa; não resolução da controvérsia. Nenhum teste A/B, nova exegese, auditoria independente ou merge. Próxima ação: completar leitura Plantinga pp.14–15 e cotejar NC I 96–97, II 11,31; investigar CFW I.9 e textos de inspiração; depois comparação operacional com caso novo. Método normativo intacto.
