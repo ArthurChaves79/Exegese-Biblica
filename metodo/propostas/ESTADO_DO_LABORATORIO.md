@@ -88,3 +88,6 @@ UCM-LEW-003: 12e4984679aedc7ec5368bbaa10c5544dba40419. Consulta efetiva ao ensai
 
 ## Ciclo 027 — 28/11/2026
 UCM-LEW-004: a3b86d71de44cc911cda8d224cf08e72389f99cf. Consulta web efetiva a A Preface to Paradise Lost, Faded Page, caps. I, II, IX, XII, localizadores por linhas registrados. Natureza/finalidade, convenções de gênero, parte/todo, pensamento privado versus composição, crítica ao denominador comum abstrato do coração humano. H04c candidata, sem inferir relativismo ou negar natureza comum; conexão com projeto do coração. Próxima ação LEW-005 The Discarded Image. Sem A/B, alteração normativa, auditoria independente ou merge.
+
+## Ciclo 028 — 28/11/2026
+UCM-LEW-005: d6a376ce365426f648ec52d95bb3dab4251db903. Consulta web efetiva The Discarded Image (Faded Page), I pp.10–12, II pp.13–19, VIII pp.199–201/211–213, epílogo pp.218–223 e exemplo VII pp.142–143. Modelo cultural seletivo, coerência vs verdade, perguntas orientam evidência sem constituí-la. H04d candidata: demonstrar vínculo entre contexto e função comunicativa, não inferir adesão integral de semelhança. Sl19/Gn1 candidatos, não exegese. Próximo LEW-006 On Stories. Sem A/B, alteração normativa, merge ou auditoria independente.
