@@ -79,3 +79,6 @@ UCM-DOO-005: 4f94a703111a40263283b2c42625cebecfdc3de9. Consulta efetiva DBNL NC 
 
 ## Ciclo 024 — 28/11/2026
 Por orientação do diretor, inserir frente C. S. Lewis antes de DOO-006 (pístico). UCM-LEW-001: d56f011d0a1c1b2c328410691ea07db4fa66b13e. Consulta primária verificável An Experiment in Criticism, Faded Page HTML, VIII p.87, IX pp.88–91, XI pp.104–107; resumo Cambridge sobre teoria literária. Recepção/uso, forma e conteúdo, sermão edificante não certifica exegese. Distinguir estética e autoridade revelacional; fila LEW-002–010 proposta, não lida integralmente. Próxima ação LEW-002 imaginação/metáfora, seguida LEW-003 gênero e crítica bíblica. Sem A/B, alteração normativa ou merge.
+
+## Ciclo 025 — 28/11/2026
+UCM-LEW-002: c7879725ccce67ecce483f078e596bdd7497efef. Consulta web efetiva ao capítulo VII de Rehabilitations and Other Essays (Faded Page, linhas 1151–1269). Metáforas do mestre/aluno, inteligibilidade distinta de verdade, limites da etimologia e da compreensão individual. H04b candidata, sem universalizar dependência metafórica. Próxima ação LEW-003 Modern Theology and Biblical Criticism. Sem A/B, alteração normativa ou merge.
