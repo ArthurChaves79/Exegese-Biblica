@@ -85,3 +85,6 @@ UCM-LEW-002: c7879725ccce67ecce483f078e596bdd7497efef. Consulta web efetiva ao c
 
 ## Ciclo 026 — 28/11/2026
 UCM-LEW-003: 12e4984679aedc7ec5368bbaa10c5544dba40419. Consulta efetiva ao ensaio Modern Theology and Biblical Criticism, BYU Studies 1968, pp.33–43 seletivas, imagem p.34 e transcrição alternativa. Quatro objeções: discernimento literário, distância histórica, pressuposto antimiraculoso, reconstrução da gênese. Distinguir gênero, referência, historicidade e premissa metafísica; exemplos autobiográficos não constituem taxa de erro. Bultmann não consultado diretamente, Mc8.27–9.1 candidato a novo teste. Não assumir doutrina da inspiração de Lewis. Próxima ação LEW-004 A Preface to Paradise Lost. Sem A/B, norma, auditoria independente ou merge.
+
+## Ciclo 027 — 28/11/2026
+UCM-LEW-004: a3b86d71de44cc911cda8d224cf08e72389f99cf. Consulta web efetiva a A Preface to Paradise Lost, Faded Page, caps. I, II, IX, XII, localizadores por linhas registrados. Natureza/finalidade, convenções de gênero, parte/todo, pensamento privado versus composição, crítica ao denominador comum abstrato do coração humano. H04c candidata, sem inferir relativismo ou negar natureza comum; conexão com projeto do coração. Próxima ação LEW-005 The Discarded Image. Sem A/B, alteração normativa, auditoria independente ou merge.
